@@ -1,0 +1,27 @@
+html {
+  background-color: PapayaWhip;
+}
+
+body {
+  width: 1000px;
+  margin: auto;
+  margin-top: 15px;
+  background-color: Moccasin;
+  padding: 20px 20px 20px 20px;
+  border: 7px solid Burlywood;
+}
+
+h1 {
+  margin: 0 auto;
+  padding: 20px 0;  
+  font-size: 38px;
+  text-align: center;
+  color: DarkOliveGreen;
+}
+
+p {
+  font-size: 18px;    
+  line-height: 2;
+  letter-spacing: 1px;
+  color: SaddleBrown;
+}

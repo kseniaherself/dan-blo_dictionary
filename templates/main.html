@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Dan-Blo Dictionary</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/template_1.css') }}">
+</head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 class="logo">Dan-Blo Dictionary</h1>
+        <strong><nav>
+          <ul class="menu">
+            <li><a href="{{ url_for('page_1') }}">Page_1</a></li>
+            <li><a href="{{ url_for('about') }}">About</a></li>
+          </ul>
+        </nav></strong>
+      </div>
+    </header>
+{% block content %}
+{% endblock %}
+ </body>
+</html>
