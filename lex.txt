@@ -1,0 +1,2940 @@
+id	\le	\leor	\ph	\u	\voc	\voir	\key	\src	\ps	\psr	\pf	\pfr	\pff	\dt	\ge	\gf	\gr
+1		14/Jan/2017
+2	-`	JNT	=	22/Jan/2011	mrph	мрф	JNT	JNT
+3	-\	FCT	-\	28/Jan/2008	mrph	мрф	FCT	FCT
+4	-\	NMLZ	-\	28/Jan/2008	mrph	мрф	NMLZ	NMLZ
+5	-\	GEN	-\	28/Jan/2008	mrph	мрф	GEN	GEN
+6	ȁ	V	-a	3SG.NSBJ	14/Dec/2008	DJ, LJ, GJ, BE, MG	pron	л.мест	3SG.NSBJ	3SG.NSBJ
+7	à	V	=a	Q	14/Dec/2008	LJ, SB	prt	част	Q	Q
+8	ā	V	a	1SG.EXI	19/Jul/2008	LJ, DJ, GJ, MG	pron	л.мест	1SG.EXI	1SG.EXI
+9	á	V	'a	1SG.JNT	10/Jul/2008	DJ, LJ, EF, GJ	pron	л.мест	1SG.JNT	1SG.JNT
+10	á	V	'a	1SG.OPT	16/Jul/2008	LJ	pron	л.мест	1SG.OPT	1SG.OPT
+11	á	V	'a	ой	25/Nov/2008	LJ	itj	межд	aïe	ouch
+12	â	<*á ȁ>	'a-	á + ȁ	pron	<*á ȁ>	a	<*á ȁ>	LJ	14/Dec/2008	л.мест
+13	a	<*ā ȁ>	a-	ā + ȁ	pron	<*ā ȁ>	a	<*ā ȁ>	LJ	14/Dec/2008	л.мест
+14	āa	VV	aa	эх	25/Nov/2008	SB	itj	межд	hélas!	ouch
+15	áaàan	VÃVÃ	'aanaan	['aan =aan'-]	n	сущ	héron	Bird	LP	цапля	14/Dec/2008	heron
+16	áan	VÃVÃ	'aan	PP	25/Nov/2008	MG, LJ, GJ	pp	пл	PP	PP
+17	áân	VV	'aan-	1SG.PURP	01/Dec/2008	DJ, LJ	pron	л.мест	1SG.PURP	1SG.PURP
+18	àbí	V CV	=abi	[=a 'bi]	itj	межд	non	SB, LJ	нет	14/Dec/2008	no
+19	ȁ-bhȁn	<*ȁnȕ ɓȁ>	-ama	[-a -ma]	pron	<*ȁnȕ ɓȁ>		<*ȁnȕ ɓȁ>	LJ	02/Dec/2008	л.мест
+20	ȁn	VÃ	-an	3PL.NSBJ	14/Dec/2008	DJ, LJ, GJ	pron	л.мест	3PL.NSBJ	3PL.NSBJ
+21	àn	VÃ	=an	pp	пл	sur	MG, LJ	Location	на	10/Jul/2008	on
+22	àō	VV	=ao'	да	09/Jan/2009	LJ, DJ, MG	itj	межд	oui	yes
+23	bȁ	CV-AF	-ba	увеличивать	22/Jan/2011	v	гл	accroitre	<*big>	grow
+24	bá	CV	'ba	карман	14/Dec/2008	n	сущ	poche	pocket
+25	bá	CV	'ba	другое дело	LJ	itj	межд	02/Dec/2008
+26	bàa	CVV-LNAF	=baa'-	v	гл	réparer	aa	DJ, LJ	чинить	22/Jan/2011	repair
+27	báa	LJ	'baa	CVV	aa	adj	прил		09/Jan/2009
+28	báabȁ	CVV CV	'baaba	['baa -ba]	adv	нар	aa	mouillé	DJ, LJ	мокрый	09/Mar/2009	wet
+29	bàādhèen	DJ, LJ	=baandhee	ee	[=baan' =dhee]	n	сущ	Natural Object Comestible	30/Jan/2011
+30	báȁn		'baan-	loc.n	лок.сущ	groupe.de.travail.LOC?	a̰a̰		LJ	бригада.LOC?	30/Jan/2011	agriculture.team.LOC?
+31	bàāpʌ̏	MG, DJ, LJ, OD, GJ	=baapë	aa	[=baa' -pë]	n	сущ	Artifact Object Garment	28/Sep/2008
+32	bádhɤ̄	DJ, LJ	'badhö	в.сторонке	['ba dhö]	07/Jan/2009	adv	нар	à.côté	aside
+33	bālōn	<Fr>	balon	n	сущ	ballon	LJ	Artifact Object	мяч	09/Mar/2009	ball
+34	bān	CV-M	ban	течь	22/Jan/2011	v	гл	couler	<*rain (to)>	trickle
+35	bán	LJ	'ban	бригада	25/Nov/2008	n	сущ	Human	groupe.de.travail	agriculture.team
+36	báudhɤ̄	['bau dhö]	'baudhö	adv	нар	violemment	au	DJ, LJ	сильно	07/Jan/2009	violently
+37	bæ̏æn	DJ, LJ, SB, OD	-bɛan	ɛ̰a̰	n	сущ	27/Jul/2008	Natural Object Comestible
+38	bʌ́	DJ, LJ, SB	'bë	роды	23/Jan/2011	n	сущ	UnboundedEvent	accouchement	childbirth
+39	bʌ́ʌ̏	MG, LJ	'bëë-	ʌʌ	n	сущ	30/Jan/2011	Human
+40	bʌ́dhɤ̄	DJ, LJ	'bëdhö	плотно	['bë dhö]	09/Jan/2009	adv	нар	hermétiquement	tightly
+41	bʌ̏ŋbʌ̏ŋdhɤ̄	DJ, LJ	-bëngbëngdhö	быстро	[-bëng -bëng dhö]	25/Nov/2008	adv	нар	rapidement	rapidly
+42	bʌ̀ŋ̄bʌ̀ŋ̄dhɤ	=bëngbëngdhö	22/Aug/2007
+43	bȅ	LJ	-be	раньше	23/Dec/2008	adv	нар	avant	before
+44	bȅ	ballot	-be	n	сущ	<*bunch>	LJ, DJ, GJ	Group	связка	23/Jan/2011	<*bunch>	bunch
+45	bèe	n	=bee'-	сущ	manioc	MG, LJ, DJ, GJ	ee	Natural Object Comestible	маниок	23/Jan/2011	cassava
+46	bèe gīŋ	YA, SE	=bee'- ging	ee	n	сущ	09/Mar/2009	Reptile
+47	bèe kpá	LJ	=bee'- 'kpa	ee	n	сущ	28/Nov/2008	Plant
+48	bèedhɛ́yí	LJ	=beedhɛyi	ee	[=bee'- 'dhɛ 'yi]	<feuille de manioc-couleur>	n	сущ	27/Jul/2008
+49	bèedhɛ́yízʌ̏	LJ	=beedhɛyizë	ee	[=bee'- 'dhɛ 'yi -zë]	<feuille de manioc-couleur-suff>	adj	прил	09/Mar/2009
+50	bèegā	KB	=beega	ee	[=bee'- ga]	n	сущ	Natural Object Comestible	28/Sep/2008
+51	bèŋ̄bèŋ̄dhɤ	=bengbengdhö	22/Aug/2007
+52	bȅzʌ̏	[-be -zë]	-bezë	adv	нар	09/Mar/2009
+53	bɛ̄a	<*nephew>	bɛa	n	сущ	neveu	ɛa ~ ia	KinTerm	BE, LJ	племянник	08/Jan/2009	nephew
+54	bɛ̏ankȁa	ɛ̰a̰	-bɛankaa	[-bɛn -bha -kaa]	n	сущ	02/Dec/2008	Living Part
+55	bɛ̏ɛ	DJ, LJ	-bɛɛ	<*loincloth-1>	ɛɛ	n	сущ	Artifact Object Garment	27/Jul/2008
+56	bɛ̀ɛn	LJ	=bɛɛn'-	CVV-LNAF derivat	<*bɛ̰̏ zʌ̄>	ɛ̰ɛ̰	v	Dynamic Existence Physical Purpose	гл	22/Jan/2011
+57	bɛ́i	LJ	'bɛi	ɛi	n	сущ	02/Dec/2008
+58	bɛ̏n	LJ, DJ, BE, GJ	-bɛn	губа	23/Jan/2011	n	сущ	Human Part	lèvre	lip
+59	bɛ̏n gbɔ̄	GA, KD	-bɛn gbɔ	n	сущ	02/Dec/2008	Living Part
+60	bȉ	<*powder-4>	-bi	n	сущ	poudre	LJ	Substance Solid	порошок	27/Jul/2008	powder
+61	bīa	bia	27/Jul/2008	ia ~ ɛa
+62	Bīȁ	LJ	Bia-	ia	n	сущ	30/Jan/2011
+63	bìʌn	LJ, DJ	=biën	ḭʌ̰	n	сущ	21/Mar/2009	Artifact Object
+64	bȉbȉdhɤ̄	LJ	-bibidhö	[-bi -bi dhö]	adv	экс.нар	27/Jul/2008
+65	bídhɤ̄	LJ	'bidhö	['bi dhö]	adv	нар	02/Dec/2008
+66	bȉn	CV-AF	-bin	MG, LJ, DJ, GJ	v	гл	22/Jan/2011	BoundedEvent Agentive Location Purpose
+67	bín	LJ, BE, OD	'bin	тьма	23/Jan/2011	n	сущ	obscurité	<*black-3>	darkness
+68	bín	LJ, DJ	'bin	<*flower>	n	сущ	24/Jul/2008	Natural
+69	bín	LJ, DJ	'bin	<*flower>	v	гл	22/Jan/2011
+70	bíngātīi	LJ, DJ, OD	'bingatii	<nuit-?-noir>	['bin ga tii]	n	сущ	28/Sep/2008
+71	bìŋ̄bìŋ̄dhɤ	LJ	=bingbingdhö	[=bing' =bing' dhö]	adv	нар	25/Nov/2008
+72	bìo	<*bȉ + ɓō>	=bio	MB, DJ, LJ, BE	<*bȉ + ɓō>	io	v	гл	22/Jan/2011	<*bȉ + ɓō>
+73	bíɔ	n	'biɔ	сущ	crinière	GA, MA, LJ	iɔ	Living Part	грива	27/Jul/2008	mane
+74	bíɔnbȉɔn	ḭɔ̰	'biɔnbiɔn	['biɔn -biɔn]	adv	нар	27/Jul/2008
+75	bíɔnbȉɔnzʌ̏	LJ	'biɔnbiɔnzë	ḭɔ̰	['biɔn -biɔn -zë]	adj	прил	21/Mar/2009
+76	bíɔŋbȉɔŋ	DJ, LJ	'biɔngbiɔng	['biɔng -biɔng]	adj	прил	21/Mar/2009
+77	bīɤ	<*elephant-2>	biö	n	сущ	éléphant	iɤ	Animal	LJ, BE, MG, DJ, CE	слон	02/Dec/2008	elephant
+78	bīɤ lɯ̏	LJ	biö -lü	iɤ	n		21/Mar/2009
+79	blȁ	CLV	-bla	<*run-2>	LJ	n	сущ	23/Jan/2011
+80	blàā	LJ, DJ	=blaa'	CLVV	aa	adv	нар	02/Dec/2008
+81	blàāblàā	LJ	=blaablaa	CLVV	[=blaa' =blaa']	aa	adv	нар	21/Mar/2009
+82	blȁan	LJ, DJ	-blaan	CLVÃVÃ	a̰a̰	n	сущ	30/Sep/2008
+83	blábládhɤ̄	LJ, DJ	'blabladhö	CLV	['bla 'bla dhö]	adv	нар	25/Nov/2008
+84	bládhɤ̄	LJ, DJ	'bladhö	CLV	['bla dhö]	adv	нар	30/Sep/2008
+85	blákpɔ́	LJ, DJ	'blakpɔ	CLV	['bla 'kpɔ]	v	гл	BoundedEvent Physical	22/Jan/2011
+86	blʌ́	CLV-H	'blë	LJ	v	гл	22/Jan/2011
+87	blʌ̏ʌ	CLVV	-blëë	<*dry season>	n	сущ	ʌʌ	Stative Time	saison.sèche	LJ, GJ	сухой.сезон	08/Jun/2010	dry.season
+88	blʌ̀ʌ̄	CLVV	=blëë'	<*leaves>	n	сущ	ʌʌ	verdure	LJ, MG, DJ	зелень	27/Jul/2008	greenery
+89	blʌ̀ʌ	LJ, DJ	=blëë'-	CLVV-LNAF	<*cut-3>	ʌʌ	v	гл	22/Jan/2011
+90	blʌ̀ʌ̄dhɛ́	BE, LJ	=blëëdhɛ	CLVV	[=blëë' 'dhɛ]	n	сущ	23/Jan/2011
+91	blʌ́dhɛ̏	LJ, Luc 5:36	'blëdhɛ	CLV	['blë -dhɛ]	n	сущ	30/Sep/2008
+92	blʌ̀ŋ	LJ, GA	=blëng	CLV÷	n	сущ	28/Jul/2008	
+93	blʌ́ŋ	CLV÷	'blëng	LJ	n	сущ	28/Jul/2008	Animal
+94	bléedhɛ̏	LJ	'bleedhɛ	CLVV	['blee -dhɛ]	ee	loc.n	лок.сущ	08/Jun/2010
+95	bléedhɤ̄	LJ	'bleedhö	['blee dhö]	loc.n	лок.сущ	28/Jul/2008
+96	blēŋdhɤ	DJ, LJ	blengdhö	CLV÷	[bleng dhö]	adv	нар	21/Mar/2009
+97	blɛ̀ɛ	LJ, GJ, DJ, OD	=blɛɛ'-	CLVV-LNAF	ɛɛ	v	гл	BoundedEvent Communication Purpose	22/Jan/2011
+98	blɛ̀ɛ̄dhe	LJ	=blɛɛdhe	CLVV	[=blɛɛ' dhe]	ɛɛ	n		сущ	25/Nov/2008
+99	blɛ̀ɛ̄dhɛ́	CLVV	=blɛɛdhɛ	ɛɛ	[=blɛɛ' 'dhɛ]	n	сущ	02/Dec/2008
+100	blɛ̏ɛzʌ̏	CLVV	-blɛɛzë	[-blɛɛ -zë]	adj	прил	ɛɛ	premier.ADJ	LJ, DJ, BE, GJ, OD	первый.ADJ	06/Apr/2009	first.ADJ
+101	blɛ́ŋblɛ̏ŋ	LJ	'blɛngblɛng	CLV÷	['blɛng -blɛng]	adj	прил	06/Apr/2009
+102	blīi	LJ, DJ	blii	CLVV	ii	n	сущ	Natural Group	06/Apr/2009
+103	blíkɤ́	LJ	'blikö	CLV	['bri 'kö]	Fr	n	Artifact Object	сущ	30/May/2010
+104	blìŋ̄blìŋ̄dhɤ	DJ, LJ	=blingblingdhö	CLV÷	[=bëng' =bëng' dhö]	adv	нар	06/Apr/2009
+105	Blòŋ̄dhɛ̏	LJ	=Blongdhɛ	CLV÷	[=Blong' dhɛ]	loc.n	лок.сущ	09/Jun/2010
+106	Blōȍdhɛ	LJ	Bloodhɛ	CLVV	[bloo- dhɛ]	oo	loc.n	лок.сущ	30/Jan/2011
+107	blɔ̄	CLV-M	blɔ	DJ, LJ	v	гл	22/Jan/2011	BoundedEvent Physical Experience Modal
+108	blɔ́ɔ	LJ, SB	'blɔɔ	CLVV	ɔɔ	n	сущ	Reptile	02/Dec/2008
+109	blɔ́ɔ̏bhɛ̏n	LJ	'blɔɔnmɛ	['blɔɔn- -mɛ]	n	сущ	30/Jan/2011
+110	blɔ̄ɔ̏n	LJ, CE	blɔɔn-	CLVÃVÃ	ɔ̰ɔ̰	n	сущ	Artifact Object Place Container Religion	30/Jan/2011
+111	blɔ̄ɔ̏n	LJ	blɔɔn-	CLVÃVÃ	ɔ̰ɔ̰	n	сущ	Substance Solid	30/Jan/2011
+112	blɔ́ɔ̏n	LJ, DJ	'blɔɔn-	CLVÃVÃ	ɔ̰ɔ̰	n	сущ	State Condition Manner Mental	30/Jan/2011
+113	blɔ̄ɔ̏ntàadhɛ̏	LJ	blɔɔntaadhɛ	CLVÃVÃ	[blɔɔn- =taa -dhɛ]	aa	n	сущ	30/Jan/2011
+114	blɔ́ɔ̏nzʌ̏	CLVÃVÃ	'blɔɔnzë	['blɔɔn- -zë]	adj	прил	30/Jan/2011
+115	blɤ̄ɤ	DJ, LJ	blöö	CLVV	ɤɤ	loc.n	лок.сущ	Natural Place	17/Jun/2010
+116	blȕ	CLV	-blu	<*navel>	MG, LJ	n	сущ	Human Part	06/Apr/2009
+117	blȕgbɔ̄ŋ	LJ	-blugbɔng	[-blu gbɔng]	n	сущ	28/Jul/2008	State Condition Manner Physical Medicine
+118	blùu	BE	=bluu'-	uu	<*bread>	CLVV	n	Artifact Object Comestible Cookery	сущ	25/Nov/2008
+119	blúȕbȉ	DJ, LJ	'bluubi	[=bluu'- -bi]	n	сущ	30/Jan/2011	Cookery Comestible
+120	blȕudhɤ̄	LJ	-bluudhö	CLVV	[-bluu dhö]	uu	adv	нар	28/Jul/2008
+121	blɯ̏	CLV-AF	-blü	толкать	22/Jan/2011	v	гл	pousser	push
+122	blɯ́	CLV	'blü	loc.n	сущ	23/Jan/2011
+123	blɯ̏ʌ{yīʌ}	LJ, GJ	-blüë {yië}	CLVV	iʌ	n	сущ	08/Jun/2010
+124	blɯ́blɯ́	LJ	'blüblü	['blü 'blü]	loc.n	лок.сущ	28/Jul/2008
+125	blɯ́blɯ́dhɤ̄	LJ	'blüblüdhö	CLV	['blü 'blü dhö]	adv	нар	01/Oct/2008
+126	blɯ́bhɔ̏	['blü -bhɔ]	'blübhɔ	n	сущ	14/Dec/2008	Animal
+127	blɯ́dȕ	DJ, LJ	'blüdu	['blüü -du]	n	CLVV	сущ	06/Apr/2009	Animal
+128	blɯ́dhɛyí	M?	'blüdhɛyi	CLV	['blü 'dhɛ 'yi]	<brousse-feuille-couleur>	n	сущ	22/Aug/2007
+129	blɯ́dhɛyízʌ̏	LJ	'blüdhɛyizë	<brousse-feuille-couleur-suff>	['blü 'dhɛ 'yi -zë]	adj	прил	25/Nov/2008
+130	blɯ́dhīin	SB	'blünii	n	сущ	
+131	blɯ́gȁn	LP	'blügan	CLV	['blü -gan]	n	сущ	Bird	25/Nov/2008
+132	blɯ́gbɔ̏ɔn	BE, LJ	'blügbɔɔn	['blü -gbɔɔn]	n	сущ	22/Aug/2007	Insect
+133	blɯ́kɒ̄ɒ	LP	'blükaɔ	['blü kaɔ]	n	сущ	28/Nov/2008	Bird
+134	blɯ́kʌ̄bhɛ̏n	<forest-do-person>	'blükëmɛ	blɯ́+ kʌ̄+ mɛ̄+ -\{GEN}	['blü kë -mɛ]	<brousse-faire-homme>	<саванну-делать-человек>	25/Nov/2008	n	сущ
+135	blɯ́ŋ	'blüng	06/Apr/2009
+136	blɯ̏pʌ̏	CLV	-blüpë	[-blü -pë]	n	сущ	25/Nov/2008
+137	blɯ̀ɯ	LJ, DJ	=blüü'-	CLVV-LNAF	ɯɯ	v	гл	22/Jan/2011
+138	blɯ́ɯ	'blüü	loc.n	25/Nov/2008
+139	blɯ́ɯdȕ	'blüüdu	25/Nov/2008
+140	blɯ́ɯn yùā	DJ, LJ	'blüün =yua'	CLVÃVÃ	<maladie d'herisson>	ɯ̰ɯ̰	n	State Condition Manner Physical Medicine	сущ	02/Dec/2008
+141	blɯ́ɯŋ	BE, LJ	'blüüng	CLVV÷ ~ CLV÷ ~ CLVÃVÃ	<*porcupine-3>?	ɯɯŋ ~ɯŋ ~ ɯ̰ɯ̰	n	Animal	сущ	06/Apr/2009
+142	blɯ́yɒ̏ɒn	YA, SE	'blüyaɔn	['blü -yaɔn]	n	сущ	28/Jul/2008	Animal
+143	bȍ	CV-AF	-bo	LJ	v	гл	22/Jan/2011
+144	bō	CV-M	bo	заканчивать	22/Jan/2011	v	гл	finir	<*end-2>	finish
+145	bòʌ̄	RC	=boë'	oʌ	adj	прил	06/Apr/2009
+146	bòī	LP	=buei'-	oi	n	сущ	25/Feb/2010	Bird
+147	bɔ̄	CV-M	bɔ	проходить	22/Jan/2011	v	гл	passer	<*send-2>	pass
+148	bɔ́	LJ	'bɔ	n	сущ	28/Jul/2008	Plant
+149	bɔ́asíɤ	iɤ	'bɔasiö	<boite>	['bɔa 'siö]	n	сущ	07/Apr/2009
+150	bɔ̄bhɛ̏n	LJ	bɔmɛ	[bɔ -mɛ]	n	сущ	22/Aug/2007	Human Occupation
+151	bɔ́n	LJ	'bɔn	n	сущ	23/Jan/2011
+152	bɔ́nkánpʌ̏	DJ, LJ	'bɔnkanpë	['bɔn 'kan -pë]	n	сущ	28/Jul/2008
+153	bɔ́ŋ	'bɔng	22/Aug/2007
+154	bɔ́ŋbɔ̏ŋ	LJ, DJ	'bɔngbɔng	['bɔn -bɔn]	adj	прил	23/Feb/2010
+155	bɔ̀ɔ̄	YA, SE	=bɔɔ'	ɔɔ	n	сущ	Animal
+156	bɔ̄ɔ	LJ, DJ, BE, GJ, RC	bɔɔ	ɔɔ	n	сущ	28/Jul/2008	KinTerm
+157	bɔ̏tóu	DJ, LJ	-bɔtou	ou	[-bɔ 'tou]	<bɔ̄+-\NMLZ tó gɯ́>	n	Artifact Object Garment	сущ	25/Nov/2008
+158	bɤ́	LJ	'bö	adv		02/Dec/2008
+159	bɤ̄ɯ̏	глина	böü-	30/Jan/2011	ɤɯ	n	сущ	boue	<*mud-2>	mud
+160	bɤ́ɯ	DJ, LJ	'böü	ɤɯ	n	сущ	07/Apr/2009	
+161	bɤ́ɯdhɤ̄	LJ	'böüdhö	ɤɯ	['böü dhö]	adv	нар	28/Nov/2008
+162	bɤ̄ɯ̏gɯ́	LJ	böügü	[böü- 'gü]	30/Jan/2011
+163	bɤ̄ɯ̏gɯ́dhɛ̏	LJ	böügüdhɛ	[böü- 'gü -dhɛ]	n	сущ	30/Jan/2011
+164	bɤ̄ɯ̏kpɤ̄	LJ	böükpö	<banco-boule>	[böü- kpö]	n	сущ	Artifact Object	30/Jan/2011
+165	bɤ̄ɯ̏zʌ̏	DJ, LJ	böüzë	<banco-ADJ>	[böü- -zë]	adj	прил	30/Jan/2011
+166	bɤ́ɯzʌ̏	DJ, LJ	'böüzë	<forme-ADJ>	['böü -zë]	adj	прил	07/Apr/2009
+167	bū	<*gun-2>	bu	n	сущ	fusil	LJ, DJ, CE, OD	Artifact Instrument	ружьё	23/Jan/2011	gun
+168	bú	CV-H	'bu	<*rot-2>	v	гл	pourrir	LJ, MG	сгнивать	22/Jan/2011	rot
+169	bȕadhɤ̄	LJ	-buadhö	ua	[-bua dhö]	adv	нар	25/Nov/2008
+170	būʌ̏dhɤ̄n	LJ, DJ	buëndhö	ṵʌ̰	[buën- dhö]	pp		30/Jan/2011
+171	būʌ̏npʌ̏	LJ	buënpë	ṵʌ̰	[bun -bha -pë]	n	сущ	Artifact Object Garment	30/Jan/2011
+172	būdhazʌ̏	budhazë	22/Aug/2007
+173	búdhɤ̄	LJ	'budhö	['bu dhö]	adv	нар	01/Oct/2008
+174	bùei	MB, SB	=buei'-		uei	n		Bird	25/Feb/2010	сущ
+175	būgā	DJ, SB, GJ	buga	<fusil-os>	[bu ga]	n	сущ	28/Jul/2008
+176	búlá	LJ	'bula	ú-á l	['bu 'la]	n	сущ	Static Property Physical	07/Apr/2009
+177	búlázʌ̏	GJ, LJ	'bulazë	[bu dha -zë]	adj	прил	07/Apr/2009	Property Physical
+178	būn	CV-M	bun	<*support>	LJ, DJ	v	гл	22/Jan/2011
+179	būn	LJ	bun	ṵʌ̰ ~ ṵ	n	сущ	28/Jul/2008	Living Object
+180	búsɯ̏	'busü	['bu -sü]	07/Apr/2009
+181	bȕu	<*haramattan>	-buu	n	сущ	harmattan	uu	Natural	LJ	харматтан	25/Nov/2008	harmattan
+182	búu	LJ, DJ, SB	'buu	uu	n	сущ	14/Dec/1999	Natural
+183	búȕ	MG, LJ	'buu-	uu	adj	30/Jan/2011
+184	būudhɤ	LJ	buudhö	uu	[buu dhö]	adv	экс.нар	25/Nov/2008
+185	bɯ́ʌŋbɯ̏ʌŋ	LJ	'büëngbüëng	ɯʌŋ	['bhüëng -bhüëng]		adj		09/Jan/2009	прил
+186	bɯ̄ʌŋbɯ̄ʌŋdhɤ	LJ	büëngbüëngdhö	ɯʌŋ	[büëng büëng dhö]	<béant->	adv	нар	07/Apr/2009
+187	bɯ̏dhɤ̄	DJ, LJ	-büdhö	[-bü dhö]	adv	нар	07/Apr/2009
+188	bɯ́dhɤ̄	LJ	'büdhö	adv	нар	25/Nov/2008
+189	bɯ̏ŋ	LJ	-bünng	n	сущ	23/Jan/2011
+190	bɯ̏ɤ	CVV-AF	-büö	<*wake up-2>	v	гл	ɯɤ	se.réveiller	LJ, CE	проснуться	22/Jan/2011	wake.up
+191	bɯ̏ɤ	LJ	-büö	ɯɤ	n	сущ	23/Jan/2011	BoundedEvent Communication Purpose
+192	bɯ̏ɤ	LJ	-büö	ɯɤ	n	сущ	28/Jul/2008	Natural Substance Solid
+193	bɯ̏ɤbȉ	LJ	-büöbi	<cendre-poussiere>	[-büö -bi]	n	сущ	28/Jul/2008
+194	bhȁ	на	-bha	07/Apr/2009	pp	пл	sur	on
+195	bhȁ	POSS	-bha	mrph	<от ɓȁ 1>	<de ɓȁ 1>	мрф	LJ	POSS	28/Jul/2008	<from ɓȁ 1>	POSS
+196	bhȁ	YA, SE	-bha	06/Dec/2008	n	сущ	<*mouse (sp)>	Animal
+197	bhā	CV-M	bha	<*fructify>	LJ, SB	v	гл	UnboundedEvent Existence Physical	22/Jan/2011
+198	bhá	LJ	'bha	2SG.PRF	29/Nov/2008	pron	л.мест	2SG.PRF	2SG.PRF
+199	bhá	LJ, GJ, SB	'bha	<*friend-2>	n	сущ	06/Dec/2008
+200	bhâ	<*ɓá ȁ>	'bha-	ɓá + ȁ	pron	<*ɓá ȁ>	a	<*ɓá ȁ>	LJ	14/Dec/2008	л.мест
+201	bhàa	<*postposition by>	=bhaa	aa	pp	пл	07/Apr/2009
+202	bhāa	LJ, SB, CE	bhaa	aa	n	сущ	07/Apr/2009	Plant
+203	bháa	MG, LJ, SB, CE	'bhaa	некий	07/Apr/2009	aa	dtm	дтм	certain	certain
+204	bháa	LJ	'bhaa	2SG.NEG.IPFV	01/Oct/2008	aa	pron	л.мест	2SG.NEG.IPFV	2SG.NEG.IPFV
+205	bháa	LJ	'bhaa	aa	adj	прил	07/Apr/2009
+206	bháa	DJ, LJ	'bhaa	<*mush-1>	aa ~ ʌʌ	n	сущ	Cookery Comestible	28/Jul/2008
+207	bháȁ	'bhaa-	30/Jan/2011
+208	bhàabhán	LJ	=maama	a̰a̰	[=maa 'ma]	CVV-CV	v	гл	22/Jan/2011
+209	bhàan	GJ, LJ	=maa'-	CVV-LNAF	a̰a̰	v	гл	22/Jan/2011
+210	bhāan	LJ, SB	maa-	a̰a̰	n	сущ	29/Nov/2008	Artifact Object Instrument
+211	bháan	LJ, EF, GJ	'maa	1SG.NEG.IPFV	29/Nov/2008	a̰a̰	pron	л.мест	1SG.NEG.IPFV	1SG.NEG.IPFV
+212	bhȁan kʌ̄	LJ	-maa kë	a̰a̰	v	гл	22/Jan/2011
+213	bhȁazʌ̏	LJ	-bhaazë	aa	[-bhaa -zë]	adj	прил	07/Apr/2009
+214	bhȁbha	DJ, --LJ	-bhabha	[-bha -bha]	onomat	звп	23/Jan/2011
+215	bhábhɛ̏n	LJ	'bhamɛ	aa	['bha -mɛ]	n	сущ	30/Jan/2011
+216	bhȁdʌ̄	<*pangolin-1>	-bhadë	[-bha dë]	n	сущ	pangolin	Animal	YA, SE, LJ	панголин	07/Apr/2009	pangolin
+217	bhȁdhʌ́n	KB	-manë	[-ma 'në]	n	сущ	22/Aug/2007	Bird
+218	bhádhȅ	LJ, GJ	'bhadhe	<camarade d'age-femme>	['bha -dhe]	n	сущ	28/Jul/2008
+219	bhádhɛ̏	LJ, GJ, OD	'bhadhɛ	['bha -dhɛ]	n	сущ	23/Jan/2011
+220	bhȁn	CV-AF	-ma	<*strike-2>	LJ	v	гл	22/Jan/2011
+221	bhȁn	MG, LJ, BE, GJ	-ma	<*bird-2>	n	сущ	24/Oct/2008	Bird
+222	bhȁn	LJ	-ma	<*ȁ̰ ɓȁ>		<*ȁ̰ ɓȁ>	<*ȁ̰ ɓȁ>	29/Nov/2008	pron	л.мест
+223	bhān	CV-M	ma	<*hear (to)>	MG, LJ, GJ, SB, RC	v	гл	22/Jan/2011
+224	bhān	CV-M	ma	<*ripen (to)>	LJ, DJ, LP	v	гл	BoundedEvent Physical Quantity Time	22/Jan/2011
+225	bhān	LJ, SB	ma	1SG.AUT	03/Dec/2008	pron	л.мест	1SG.AUT	1SG.AUT
+226	bhān	1SG.POSS	ma	pron	<*n̄ ɓȁ>	<*n̄ ɓȁ>	л.мест	EF, LJ	1SG.POSS	29/Nov/2008	<*n̄ ɓȁ>	1SG.POSS
+227	bhán	LJ, EF, GJ	'ma	1SG.PRF	29/Nov/2008	pron	л.мест	1SG.PRF	1SG.PRF
+228	bhán	'ma	24/Oct/2008
+229	bhân	<*má ȁ>	'ma-	má + ȁ	pron	<*má ȁ>	a	<*má ȁ>	LJ	14/Dec/2008	л.мест
+230	bhȁnkún	LJ	-makun	[-ma 'kun]	v	гл	22/Jan/2011
+231	bhȁnwȕn	-mawun	28/Jul/2008
+232	bhānzīgā	KB	maziga	[ma zi ga]	n	сущ	29/Nov/2008	Cookery Comestible
+233	bhàŋ	<*drum-2>	=bhang	n	сущ	tambour	LJ	Artifact Object Instrument Music	барабан	28/Jul/2008	drum
+234	bhàŋ̄	=bhang'	n	сущ	25/Nov/2008
+235	bhàŋbhá	LJ	=bhangbha	CV÷-CV	[=bhang 'bha]		v		гл	22/Jan/2011
+236	bháŋgló	LJ	'mangglo	<*mango>	['mang -gö]	n	сущ	Natural Object Comestible	22/Aug/2007
+237	bhȁŋgɤ̏	<*papaya>	-bhanggö	[-bhang -gö]	n	сущ	papaye	Natural Object Comestible	LJ	папайя	25/Nov/2008	papaya
+238	bhàŋ̄zʌ̏{dhȕ}n	BE, LJ	=bhangzë {-nu}	ɓàŋ̄ + zʌ̏ +nȕ	[=bhang' -zë -nu]	07/Apr/2009
+239	bhȁwȕn	LJ	-bhawun	[-ma -wun]	n	сущ	23/Jan/2011	UnboundedEvent Experience Mental Modal
+240	bházʌ̏	LJ, Luc 23:12	'bhazë	<camarade d'age-ADJ>	['bha -zë]	adj	прил	10/Jan/2009
+241	bházʌ̏	LJ	'bhazë	['bha -zë]	01/Oct/2008
+242	bhɒ̀ɒ̄	n	=bhaɔ'	сущ	tortue	LJ, BE, GA, DJ	ɒɒ	Reptile	черепаха	28/Jul/2008	turtle
+243	bhɒ̄ɒ	ɒɒ	bhaɔ	n	сущ	22/Jan/2011	Living Part
+244	bhɒ́ɒdhɤ̄	LJ	'bhaɔdhö	ɒɒ	['bhaɔ dhö]	adv	нар		22/Jan/2011
+245	bhɒ́ɒ-dhȕn	'bhaɔ -nu	01/Oct/2008	ɒɒ
+246	bhɒ̄ɒgā	ɒɒ	bhaɔga	[bhaɔ ga]	n	сущ	22/Jan/2011	Object Medicine
+247	bhɒ́ɒŋ̏	MB	'bhaɔng-	<*squirrel-5>	ɒɒ ~ ɒ	n	сущ	Animal	06/Dec/2008
+248	bhɒ́ɒŋ̏{zʌ̏}-dhȕn	'bhaɔng- {-zë} -nu	28/Nov/2008	ɒɒ
+249	bhæ̏æ	LJ	-bhɛa	ɛa	adj	прил	22/Jan/2011
+250	bhæ̀æ	LJ	=bhɛa'-	CVV-LNAF	<*beg>	ɛa ~ ea	v	гл	22/Jan/2011
+251	bhæ̏æn	LJ	-mɛa	ɛ̰a̰	n	сущ	25/Oct/2008	Natural
+252	bhæ̏ængā	LJ	-mɛagā	ɛ̰a̰	[-mɛa gā]	n	сущ	Natural	25/Oct/2008
+253	bhʌ̄	MG, LJ, GJ	bhë	там	28/Nov/2008	adv	нар	là	there
+254	bhʌ̄	MG, LJ, GJ	bhë	ART	02/Dec/2008	dtm	дтм	ART	ART
+255	bhʌ́ʌ	'bhëë	22/Aug/2007	ʌʌ
+256	bhʌ̄ʌn yɔ̏n	DJ, --LJ	mëë -yɔn	ʌ̰ʌ̰	n	сущ
+257	bhʌ̏bhɛ̄npíɤdhē	LJ	-mëmɛpiödhe	[-më mɛ 'piö dhe]	n	сущ	25/Oct/2008
+258	bhʌ̏n	MG, SB, --LJ	-më	n		30/Nov/2008
+259	bhʌ́n	LJ, GJ, SB	'më	adv	нар	25/Oct/2008
+260	bhʌ́n	CV-H	'më	v	гл	22/Jan/2011
+261	bhʌ̄ŋ	mëng	22/Aug/2007
+262	bhʌ́ŋ	LJ	'mëng	n	сущ	07/Oct/2000	Plant / Natural Object Comestible
+263	bhē	LJ, LP	bhe	n	сущ	29/Nov/2008	Magics
+264	bhé	'bhe	28/Jul/2008
+265	bhèā	=bhea' -sü	22/Aug/2007	ea ~ ɛa
+266	bhéȉ	LJ	'bhei-	живой	30/Jan/2011	ei ~ ee	adj	прил	vivant	alive
+267	bhéȉzʌ̏	LJ	'bheizë	<vivant->	['bhei- -zë]	adj	прил	30/Jan/2011
+268	bhēŋ	LP	bheng	n	сущ	28/Jul/2008	Bird
+269	bhɛ̄	<*fruit>	bhɛ	n	сущ	fruit	LJ, GJ, BE	Natural Object	фрукт	22/Jan/2011	fruit
+270	bhɛ́bhán	<*ancestor>	'bhɛma	['bhɛ 'maa]	n	сущ	ancêtre	Human	LJ	предок	22/Jan/2011	ancestor
+271	bhɛ́ɛbhɛ̏	LJ	'bhɛɛbhɛ	ɛɛ	['bhɛɛ -bhɛ]	adj	прил	22/Jan/2011
+272	bhɛ̏ɛn	SB, LJ	-mɛɛ	ɛ̰ɛ̰	n	сущ	23/Jan/2011	BoundedEvent Communication Purpose
+273	bhɛ̀ɛn	LJ(wa)	=mɛɛ	<*snake-2>	ɛ̰ḭŋ (wa)	n	сущ	Reptile	25/Oct/2008
+274	bhɛ̀ɛn	CVV-LNAF	=mɛɛ'-	ɛ̰ɛ̰	v	гл	22/Jan/2011
+275	bhɛ̄ɛn	DJ, LJ	mɛɛ	ɛ̰ɛ̰	adv	нар	07/Dec/2008
+276	bhɛ̄ɛn	LJ	mɛɛ-	ɛ̰ɛ̰	n	сущ	25/Oct/2008	Human Group Magic
+277	bhɛ̏ɛnzʌ̏	LJ	-mɛɛzë	<parent->	[-mɛɛ -zë]	adj	прил	30/Nov/2008
+278	bhɛ̄gɯ́dhɛ̏	LJ	bhɛgüdhɛ	[bhɛ 'gü -dhɛ]	n	сущ	28/Nov/2008	Living Part
+279	bhɛ́i	<*gown-2>	'bhɛi	n	сущ	chemise	ɛi	Artifact Object Garment	рубаха	28/Jul/2008	shirt
+280	bhɛ́lɛ́bhɛ̏lɛ̏	'bhɛlɛbhɛlɛ	28/Nov/2008
+281	bhɛ̏n	-mɛ	n	сущ	30/Nov/2008
+282	-bhɛ̏n	LJ, DJ, GJ, BE, MG	-mɛ	M.AG	30/Nov/2008	mrph	мрф	M.AG	M.AG
+283	bhɛ̄n	MG, LJ, DJ, BE, GA, GJ, CE	mɛ	<*human>	n	сущ	30/Nov/2008	Human
+284	bhɛ̄n	LJ, GJ	mɛ	n	сущ	30/Nov/2008
+285	bhɛ̄n tīi sɛ̏	LJ	mɛ tii -sɛ	n	сущ
+286	bhɛ̄nsʌ̏	GJ, DJ	mɛsë	<?-joli>	[mɛ -së]	n	сущ	Human Relation Condition	07/Dec/2008
+287	bhɛ̄ŋ	mɛng	25/Oct/2008
+288	bhī	LJ, SB	bhi	2SG.AUT	01/Oct/2008	pron	л.мест	2SG.AUT	2SG.AUT
+289	bhī	bhi	28/Jul/2008
+290	bhían	LP	'mia	ḭa̰	n	сущ	07/Oct/2000
+291	bhīɒŋ	SB	bhiaɔng	iɔŋ	n	сущ	27/Feb/2010
+292	bhīɒŋ	MB?, --LJ	bhiaɔng		iɒŋ	n		Plant	30/Jan/2011	сущ
+293	bhīɒŋgā	LJ	bhiaɔngga	[bhiaɔng ga]	n	сущ	30/Jan/2011	Plant
+294	bhìʌ̄n	BE, GA, LJ	=mië'	ḭʌ̰	n	сущ	25/Oct/2008	Artifact Object
+295	bhīdhīntɤ̄	LJ	minitö	[mi ni tö]	n	сущ	22/Aug/2007
+296	bhīi	DJ, RC, LJ	bhii	ii	cnj	союз	01/Oct/2008
+297	bhìibhín	OD, LJ	=miimi	ḭḭ	[=mii 'mi]	<*shake>	v	гл	22/Jan/2011
+298	bhīin yɔ̏n	LJ	mii -yɔn		ḭḭ	n	сущ	Plant	04/Jun/2010
+299	bhīingā	miiga	25/Oct/2008
+300	bhīiŋ	miing	25/Oct/2008
+301	bhīn	SB, LJ	mi	n	сущ	30/Nov/2008	Human
+302	bhȉŋ	-bhing	n	сущ	06/Dec/2008	Artifact Object
+303	bhīŋ	LJ	bhing	n	сущ	25/Nov/2008	Group
+304	bhīŋ	LJ	ming	n	сущ	23/Jan/2011	Artifact Object Instrument
+305	bhíŋ	LJ	'ming	n	сущ	30/Nov/2008	
+306	bhīŋbhiŋdhɤ	LJ	bhingbhingdhö	[bhing bhing dhö]	adv	нар	06/Dec/2008
+307	bhīŋgā	DJ, LJ	mingga	[ming ga]	n	сущ	03/Dec/2008	Artifact Object Instrument
+308	bhīɤ̏fǽædʌ̄	LJ	bhiöfɛadë	ɛa	[bhiö- 'fɛa dë]	n	сущ	Animal	30/Jan/2011
+309	bhlȁ	CLV-AF	-bhla	раздуваться	22/Jan/2011	MG, LJ, DJ	v	гл	s'enfler	swell
+310	bhlȁ	CLV-AF	-bhla	LJ	v	гл	22/Jan/2011
+311	bhlà	CLV	=bhla	GJ, LJ	n	сущ	
+312	bhlá	CLVV ~ CLV	'bhla	<*sheep-1>	n	сущ	aa	Animal	mouton	LJ	овца	25/Nov/2008	sheep
+313	bhlāȁ	LJ	bhlaa-	CLVV	aa	n	сущ	Bird	30/Jan/2011
+314	bhláa	'bhlaa	22/Aug/2007
+315	bhláabhlȁ	LJ	'bhlaabhla	CLVV	['bhlaa -bhla]	aa	adj	прил	22/Jan/2011
+316	bhlʌ̀	CLV	=bhlë	уважение	23/Jan/2011	CE, LJ	n	сущ	respect	respect
+317	bhlʌ́	CLV	'bhlë	<*termite (flying, ephemera)-1>	n	сущ	termite	Insect Cookery Comestible	BE, GJ, LJ	термит	28/Jul/2008	termite
+318	bhlʌ̀kʌ̄pʌ̏	LJ	=bhlëkëpë	CLV	[=bhlë kë -pë]	<honneur-faire-chose>	n	Relation Communication Purpose Possession Social	сущ	22/Jan/2011
+319	bhlʌ̀kpɔ́dhē	[=bhlë 'kpɔ dhe]	=bhlëkpɔdhe	n	сущ	22/Jan/2011
+320	bhlʌ̀ŋ	CLV÷	=bhlëng'-	LJ	n	сущ	25/Nov/2008	Natural Place
+321	bhlʌ̀zʌ̏	CLV	=bhlëzë	[=bhlë -zë]	adj	прил	29/Jan/2009
+322	bhlé	LJ	'bhle	немного	28/Jul/2008	CLV	restr	рестр	un.peu	a.little
+323	bhlɛ́ɛbhlɛ̏	DJ, LJ	'bhlɛɛbhlɛ	CLVV CLV	['bhlɛɛ -bhlɛ]	ɛɛ	<jula>	adj	прил	10/Jan/2009
+324	bhlɛ̀ȉ	LJ	=bhlɛi-	CLVV	ɛi	n	сущ	Plant	14/Dec/1999
+325	bhlɛ́ŋbhlɛ̏ŋ	LJ	'bhlɛngbhlɛng	CLV÷	['bhlɛng -bhlɛng]	adj	прил	22/Jan/2011
+326	bhlō	CLV	bhlo	<mushroom (sp.)-2>	LJ	n	сущ	Plant Comestible	22/Jan/2011
+327	bhlòo	BE, MG, LJ	=bhloo'-	CLVV-LNAF	<*press-2 (to)>	oo	v	BoundedEvent Agentive Location Physical	гл	22/Jan/2011
+328	bhlɔ̄	CLV	bhlɔ	LJ	n	сущ	28/Nov/2008
+329	bhlɔ̂bhlɔ	DJ, LJ	'bhlɔbhlɔ	CLV CLV	['bhlɔ- bhlɔ-]	n	сущ	22/Jan/2011
+330	bhlɔ̏lɯ̏	LP	-bhlɔlü	CLV	[-bhlɔ -lü]	n	сущ	Plant	28/Jul/2008
+331	bhlɤ	CLV	bhlö-	поле.LOC	28/Jul/2008	SB, RC	loc.n	лок.сущ	champ.LOC	field.LOC
+332	bhlɤdhɛ̏	CLV	bhlödhɛ	<*field>	[bhlö- -dhɛ]	n	сущ	Object Place	champ	GJ	поле	01/Oct/2008	field
+333	bhlɤ́ŋbhlɤ̏	LJ	'bhlöngbhlö	CLV÷ CLV	['bhlöng -bhlöng]	adj	прил	22/Jan/2011
+334	bhlɤ̀ɤ̏	CLVV	=bhlöö-	loc.n	лок.сущ	champ.LOC	ɤɤ	LJ	поле.LOC	28/Jul/2008	field.LOC
+335	bhlɤ̀ɤ̄gbȁa	LJ	=bhlöö' -gbaa	CLVV	aa	n	сущ	Artifact Object Building	22/Jan/2011
+336	bhlȕ	CLV	-bhlu	GA, GD	n	сущ	22/Jan/2011
+337	bhlú	CLV	'bhlu	<*liver-2>	n	сущ	foie	Human Part	MB, MG, GA, MA, BE	печень	28/Jul/2008	liver
+338	bhlúubhlȕzʌ̏	LJ	'bhluubhluzë	CLVV CLV	['bhluu -bhlu -zë]	uu	adj	прил	10/Jan/2009
+339	bhlɯ̀	CLV	=bhlü	пакет	23/Jan/2011	LJ	n	сущ	paquet	package
+340	bhnlā	CLVÃ	mla	LJ	n	сущ	30/Nov/2008	Insect
+341	bhnlàa	LJ	=mlaa	CLVÃVÃ	a̰a̰	n	сущ	23/Jan/2011
+342	bhnlàa gɔ̄ɔn	LJ	=mlaa gɔɔn-	n	сущ	09/Oct/2000	Human Time
+343	bhnlàȁbɔ̏	OD, LJ	=mlaabɔ	[-mlaa -bɔ]	n	сущ	30/Nov/2008	Human
+344	bhnlàabɔ̏ bhɛ̀ɛbhɛ̏n	LJ	=mlaabɔ =mɛɛmɛ	[=mlaa -bɔ =mɛɛ'- -mɛ]	n	сущ	22/Aug/2007	Human
+345	bhnlʌ̏	CLVÃ	-mlë	GJ, OD	adj?		16/Jun/2010
+346	bhnlʌ̀ʌ	GA, GD, LJ	=mlëë	CLVÃVÃ	ʌ̰ʌ̰	n	сущ	Living Part	30/Nov/2008
+347	bhnlʌ̀ʌ yùā	GA, GD	=mlëë =yua'	n	сущ	State Condition Manner Physical Medicine
+348	bhnlʌ̄ʌzʌ̏	LJ	mlëëzë	CLVÃVÃ	[mlëë -zë]	ʌ̰ʌ̰	adj	прил	30/Nov/2008
+349	bhnlɛ́ŋbhlɛ̏ŋ	LJ	'mlɛngmlɛng	CLVÃ÷ CLVÃ÷	['mling -mli]	adj	прил	30/Nov/2008
+350	bhnlìi	LP	=mlii	CLVÃVÃ	ḭḭ	n	сущ	Plant	09/Jan/2009
+351	bhnlɔ̏ɔ	GJ	-mlɔɔ	CLVÃVÃ	ɔ̰ɔ̰	n	сущ	14/Dec/2008
+352	bhnlɔ́ɔbhnlɔ̏	LJ	'mlɔɔmlɔ	CLVÃVÃ CLVÃ	['mlɔɔ -mlɔ]	ɔ̰ɔ̰	adj	прил	30/Nov/2008
+353	bhnlūʌ	CLVÃVÃ	mluë	ṵʌ̰	n	сущ	03/Dec/2008
+354	bhnlɯ̏	CLVÃ	-mlü	<*rice-1>	LJ, CE	n	сущ	Plant Comestible	25/Oct/2008
+355	bhȍ	<*goat-2>	-bho	n	сущ	cabri	BE, LJ, SB, CE, OD	Animal	коза	28/Jul/2008	goat
+356	bhō	CV-M	bho	убирать	22/Jan/2011	v	гл	enlever	remove
+357	bhóŋ	MB, LJ, DJ	'bhong	n	сущ	22/Jan/2011	Object Part Building
+358	bhōo	LJ, SB	bhoo	oo	itj	межд	01/Oct/2008
+359	bhòodhʌ́n	--LJ	=bhoonë	oo	[=bhoo 'në]	n	сущ	Plant	28/Jul/2008
+360	bhɔ̏	<*pig-1>	-bhɔ	n	сущ	cochon	LJ, SB	Animal	свинья	22/Jan/2011	pig
+361	bhɔ̄	<*neck-3>	bhɔ	n	сущ	cou	MG, GA, MA, GJ	Living Part	шея	22/Jan/2011	neck
+362	bhɔ̄	CV-M	bhɔ	<*go out (to)>	v	гл	apparaître	LJ, GJ	появляться	23/Jan/2011	appear
+363	bhɔ́	LJ	'bhɔ	n	сущ	22/Jan/2011	Artifact Object Instrument
+364	bhɔ̏adhʌ	-bhɔadhë	[-bhɔa -dhë]	22/Jan/2011
+365	bhɔ̏an	-mɔa	26/Oct/2008
+366	bhɔ̄an	CE, --LJ	mɔa-	ɔ̰a̰	n	сущ	17/Jun/2010	Bird
+367	bhɔ́ʌ̏	'bhɔë-	30/Jan/2011	ɔʌ ~ uʌ
+368	bhɔ́bhnlí	LJ, GJ	'mɔbhli	['mɔ 'bhli]	n	сущ	12/Feb/2010	Artifact Object
+369	bhɔ̏dhɛn	RC	-mɔdhɛ	n	сущ	26/Oct/2008	
+370	bhɔ̏kúʌ̏	LJ	-bhɔkuë	uʌ	[-bhɔ 'kuë-]	n	сущ	Social Quantity Purpose	30/Jan/2011
+371	bhɔ̏n	CV-AF	-mɔ	мочь	22/Jan/2011	v	гл	pouvoir	<*able, be>	be.able
+372	bhɔ̏n	zaimCV-AF	-mɔ	<jula>	LJ, LP	v	гл	BoundedEvent Physical Quantity Time	22/Jan/2011
+373	bhɔ̏n	LJ, OD, YA, SE	-mɔ	<*mouse>	n	сущ	09/Jan/2009	Animal
+374	bhɔ́ntrʌ̏	LJ	'mɔtrë	<Fr>	['mɔ -trë]	n	сущ	Artifact Object	22/Aug/2007
+375	bhɔ̏ŋ	DJ, LJ	-bhɔng	n	сущ	01/Oct/2008	Artifact Instrument Music
+376	bhɔ̄ŋ	<*bee (sp.)>	bhɔng	n	сущ	abeille	BE, LJ	Insect	пчела	10/Jul/2008	bee
+377	bhɔ̄ŋ	GJ	bhɔng	n	сущ	28/Jul/2008	Living Part
+378	bhɔ́ŋ zɔ̏	GA, KD	'bhɔng -zɔ	n	сущ	Living Part
+379	bhɔ̄ŋdhɛ̏	DJ, MG, LJ	bhɔngdhɛ	[bhɔng -dhɛ]	n	сущ	28/Jul/2008	Living Part
+380	bhɔ̀ɔ̄	ɔɔ	=bhɔɔ'	n	сущ	<*bag-1>
+381	bhɔ̄ɔ̏	ɔɔ	bhɔɔ-	n	сущ	30/Jan/2011	Animal
+382	bhɔ́ɔ̏	LJ	'bhɔɔ-	ɔɔ	n	сущ	30/Jan/2011	Plant
+383	bhɔ̀ɔ̄bhɛ̏n	LJ, SB	=bhɔɔmɛ	<richesse -suff of agent>	[=bhɔɔ' -mɛ]	n	сущ	22/Aug/2007
+384	bhɔ́ɔ̏kpʌ̀	LJ, MB	'bhɔɔkpë	ɔɔ	['bhɔɔ- =kpë]	n	сущ	Magics	30/Jan/2011
+385	bhɔ́ɔ̂n	GJ	'mɔɔ-	ɔ̰ɔ̰	n	сущ
+386	bhɔ̀ɔ̄pʌ̏	LJ, SB	=bhɔɔpë	<richesse -chose>	[=bhɔɔ' -pë]	n	сущ	State Possession Social Usage	22/Aug/2007
+387	bhɔ̀ɔ̄zʌ̏	LJ, RC	=bhɔɔzë	<richesse -suff>	[=bhɔɔ' -zë]	adj	прил	10/Jan/2009
+388	bhɔ́ɔzɔ̏	GA, LJ, MA	'bhɔɔzɔ	ɔɔ	['bhɔɔ -zɔ]	n	сущ	Living Part	22/Jan/2011
+389	bhɤ̏	CV-AF	-bhö	<*eat (to)-2>	v	гл	manger	LJ	есть	22/Jan/2011	eat
+390	bhɤ̏	EF, LJ	-bhö	2SG.IMP	22/Jan/2011	pron	л.мест	2SG.IMP	2SG.IMP
+391	bhɤ̏pʌ̏	BE, LJ, GJ, SB, CE, OD	-bhöpë	[-bhö -pë]	n	сущ	06/Dec/2008	Group Comestible Cookery
+392	bhɤ̀ɯ̏	YA, SE, CE, LJ, BE	=bhöü-	<*viper>	ɤɯ	n	сущ	Reptile	22/Jan/2011
+393	bhɤ̀ɯ	CVV-LNAF	=bhöü'-	<*dry up>	v	гл	ɤɯ	tarir	LJ	высыхать	22/Jan/2011	dry.up
+394	bhɤ̏yíʌ	DJ, LJ	-bhöyië	[-bhö 'yië]	n	сущ	28/Jul/2008	Cookery Comestible
+395	bhȕaadhʌ	DJ, LJ	-bhuaadhë	ɔa	[-bhɔa -dhë]	n	сущ	Creature	28/Nov/2008
+396	bhúabhȕan	LJ	'muamua	ṵa̰	['mua -mua]	adj	прил	30/Jan/2009
+397	bhùān	=mua'	22/Aug/2007	ṵa̰ ~ ɔ̰a̰
+398	bhúʌ̏	DJ, LJ	'bhuë-	<*beard>	uʌ ~ ɔʌ	n	сущ	Human Part	30/Jan/2011
+399	bhūn	LJ, GA	mu	n	сущ	03/Dec/2008	Relation
+400	bhūŋbhuŋdhɤ	SB	bhungbhungdhö	adv	экс.нар	28/Jul/2008	
+401	bhūȕ	LJ	bhuu-	uu	n	сущ	30/Jan/2011	Object Place
+402	bhúu	uu	'bhuu	n	сущ	22/Jan/2011	Animal Mammal
+403	bhūu gȁn	LP	bhuu -gan	uu	n	сущ	Bird
+404	bhūȕdhɤ̄	LJ, SB	bhuudhö	[bhuu- dhö]	loc.n	лок.сущ	30/Jan/2011
+405	bhūun	LJ	muu	ṵṵ	n	сущ	03/Dec/2008	Natural
+406	bhūȕn	LJ	muu-	ṵṵ	n	сущ	20/Jun/2010	
+407	bhúun	GJ, LP, LJ	'muu	ṵṵ	n	сущ	05/Sep/2000	Natural
+408	bhɯ́	CV-H	'bhü	<*shine>	LJ, DJ, GJ, SB	n	сущ	28/Nov/2008
+409	bhɯ́	CV-H	'bhü	<*shine>	LJ, DJ, GJ, SB	v	гл	22/Jan/2011
+410	bhɯ́ʌŋbhɯ̏ʌŋ	'bhüëngbhüëng	22/Aug/2007	ɯʌŋ
+411	bhɯ̏n	LJ, GJ, SB	-mü	mrph	мрф	26/Oct/2008
+412	bhɯ̄n	LJ, GJ, SB	mü	adv	нар	11/Jul/2008
+413	bhɯ̄n	CV-M	mü	<*drink (to)>	v	гл	22/Jan/2011
+414	bhɯ̄ŋ	GJ, LJ	müng	n	сущ	26/Oct/2008	Human
+415	bhɯ̏ɤ	LJ, GJ, DJ	-bhüö	ɯɤ	n	сущ	01/Oct/2008
+416	bhɯ̏ɤ	LJ, DJ, SB	-bhüö	ɯɤ	n	сущ	22/Jan/2011	Animal
+417	bhɯ̀ɤ̄	<*rope>	=bhüö'	ɯɤ	n	сущ	22/Jan/2011
+418	bhɯ̄ɤ	MG, BE, LJ, DJ	bhüö	<*wound (a)-2>	ɯɤ	n	сущ	Medicine	23/Feb/2010
+419	bhɯ́ɤ	KB, SB	'bhüö	ɯɤ	n	сущ	Plant
+420	bhɯ́ɤ̏	ɯɤ	'bhüö-	n	сущ	30/Jan/2011
+421	bhɯ̀ɤ̄dhʌ́n	KB, LJ	=bhüönë	[=bhüö' 'në]	n	сущ	22/Jan/2011
+422	bhɯ́ɤdhȅ	LJ	'bhüödhe	ɯɤ	['bhüö -dhe]	n	сущ	Human	01/Oct/2008
+423	bhɯ̀ɤ̄gā	LJ, KB, BE, DJ, GJ	=bhüöga	[=bhüö' ga]	n	сущ	22/Jan/2011	Artifact Object Instrument
+424	bhɯ̀ɤ̄gblōogā	KB	=bhüögblooga	[=bhüö' gbloo ga]	n	сущ	28/Jul/2008	Artifact Object Instrument
+425	bhɯ́sɯ̏	LJ, DJ	'bhüsü	<brillance-suff>	['bhü -sü]	adj	прил	29/Jan/2009
+426	bhɯ́zʌ̏	LJ, DJ	'bhüzë	<brillance-suff>	['bhü -zë]	adj	прил	22/Jan/2011
+427	dȁ	CV-AF	-da	v	гл	23/Jan/2011
+428	dà	LJ, SB	=da	тёща	28/Nov/2008	n	сущ	KinTerm	belle.mère	mother.in.law
+429	dȁa	LJ, OD	-daa	aa	n	сущ	23/Jan/2011
+430	dāa	LJ	daa	aa	n	сущ	04/Sep/2000	Natural Object Comestible
+431	Dàādhɛ̏n	LJ	=Daandhɛ	a̰a̰	[=Daan' -dhɛ]	n	сущ	22/Jan/2011
+432	dàādhɛ̏n	LJ	=daandhɛ	[=daan' -dhɛ]	n	сущ	22/Aug/2007
+433	Dàān	LJ	=Daan'	[=Daan' -dhö]	a̰a̰	loc.n	лок.сущ	22/Jan/2011
+434	dàān	LJ	=daan'	a̰a̰	n	сущ	22/Jan/2011
+435	dàān	EF	=daan'	CVV-LNAF	<*teach>	a̰a̰	v	гл	22/Jan/2011
+436	dàān dhɔ́ɔ yī	LJ	=daan' 'dhɔɔ yi	n	сущ	26/Jan/2011
+437	dàānwȍ	LJ	=daanwo	a̰a̰	[=daan' -wo]	n	сущ	22/Jan/2011
+438	dáawō	['daa wo]	'daawo	v			aa	BoundedEvent Agentive Location Physical Purpose	MG, LJ	22/Aug/2007	гл
+439	dȁdhʌ́ɯ	LJ, DJ, GJ, SB	-dadhëü	ʌɯ	[-da 'dhëü]	n	сущ	Human Time	24/Jul/2008
+440	dȁdhʌ́ɯ	GJ, LJ	-dadhëü	ʌɯ	[-da 'dhëü]	adj	прил	10/Jan/2009
+441	dān	CV-M	dan	LJ	v	гл	22/Jan/2011
+442	dànsȅe	DJ, LJ	=dansee	ee ~ ei	[=dan =sei'-, =dan -sei]	n	сущ	Natural Object Comestible	22/Jan/2011
+443	dàŋdá	LJ	=dangda	CV÷-CV	[=dang 'da]		v	гл	22/Jan/2011
+444	dáŋdȁŋdáŋdhɤ̄	LJ	'dangdangdangdhö	['dang -dang 'dang dhö]	adv	нар	22/Jan/2011
+445	dȁplɤ̄ɤdhɛ̏	LJ, DJ, GJ	-daplöödhɛ	[-da plöö -dhɛ]	n	сущ	22/Aug/2007
+446	dȁsɔ̏	DJ, LJ	-dasɔ	n	сущ	14/Dec/2008	Artifact Object Garment
+447	dɒ̀ɒn	LJ	=daɔn	ɒ̰ɒ̰	n	сущ	22/Jan/2011
+448	dɒ̄ɒn	<*spider>	daɔn	n	сущ	araignée	ɒ̰ɒ̰	GA, MA, LJ, EF, OD	паук	22/Jan/2011	spider
+449	dɒ́ɒn	LJ	'daɔn	ɒ̰ɒ̰	n	сущ
+450	dʌ̄	<*father-2>	dë	n	сущ	père	EF, LJ, MG, CE, OD	KinTerm	отец	22/Jan/2011	father
+451	dʌ́ʌ̏	LP, LJ	'dëë-	ʌʌ	n	сущ	30/Jan/2011	Human
+452	dʌ̄bhɛ̄n	LJ	dëmɛ	[dë mɛ]	n	сущ	30/Jan/2011	Human Occupation Social Condition
+453	dʌ̄glúdhɛ̏	LJ	dëgludhɛ	[dë 'glu -dhɛ]	n	сущ	23/Jan/2011
+454	dʌ̄kpɔ́dʌ̏	DJ, LJ	dëkpɔdë	[dë 'kpɔ -dë]	n	сущ	07/Dec/2008	KinTerm
+455	dʌ̏ɯ	LJ	-dëü	<*new-2>	ʌɯ	adj	прил	10/Jan/2009
+456	dʌ̏ɯdʌ̏ɯ	MG, LJ, DJ	-dëüdëü	ʌɯ	[-dëü -dëü]	adv	нар	03/Oct/2008
+457	dʌ̏ɯdʌ̏ɯ	-dëüdëü	[-dëü -dëü]	06/Dec/2008
+458	dʌ̏ɯwō	DJ, OD, LJ	-dëüwo	ʌɯ	[-dëü wo]	adv	нар		22/Aug/2007
+459	dȅ	même	-de	dtm			дтм	LJ	сам	28/Nov/2008		self
+460	dȅ	BE, MG, LJ, GJ, SB	-de	adv	нар	22/Jan/2011
+461	dȅ	LJ, DJ	-de	n	сущ	28/Nov/2008
+462	dȅbɔ̏	-debɔ	[-de -bɔ]	06/Dec/2008
+463	dȅe	DJ, LJ	-dee	ee	n	сущ	22/Jan/2011	Human Time
+464	dȅe	LJ	-dee	ee	adj	прил	22/Jan/2011	Property Physical Quantity Time
+465	dèŋ̄dȅ	[=deng' -de]	=dengde	n	сущ	22/Aug/2007	Insect
+466	dēpītē	RC	depite	n	сущ	<Fr>	Human Occupation Social
+467	dɛ̏	LJ, SB	-dɛ	n	сущ	23/Jan/2011	Human Occupation Magic
+468	dɛ̏bhɛ̏n	LJ	-dɛnmɛ	zaim	[-dɛn -mɛ]	<*help>	v	Social Purpose Agentive	гл	30/Jan/2011
+469	dɛ̏bhnlɔ̄ɔdʌ̄	OD, --LJ	-dɛmlɔɔdë	ɔɔ	[=dɛ mlɔɔ dë]	n	сущ	Animal	23/Jan/2011
+470	dɛ́dɛ̏	LJ	'dɛdɛ	['dɛ -dɛ]	dtm	дтм	23/Jan/2011
+471	dɛ̀ɛ	LJ, DJ, GJ, CE	=dɛɛ	ɛɛ	n	сущ	26/Apr/2000	Time
+472	dɛ̄ɛ̏n	LJ	dɛɛn-	ɛ̰ɛ̰	n	сущ	30/Jan/2011	Human Occupation Social Condition
+473	dɛ̄ɛ̏n	LJ	dɛɛn-	n	сущ	30/Jan/2011	Human
+474	dɛ̀ī	LJ	=dɛi'	ɛi	n	сущ	23/Jan/2011
+475	dɛ̀īdȁbhɛ̏n	LJ	=dɛidamɛ	[=dɛi' -da -mɛ]	n	сущ	22/Aug/2007
+476	dɛ̄n	LJ	dɛn	n	сущ	09/Jan/2009	Plant
+477	dȉan	CVV-AF	-dian	ḭa̰	v	гл	23/Jan/2011
+478	dȉan	LJ	-dian	n	сущ	23/Jan/2011
+479	dìan	LJ	=dian	ḭa̰	n		23/Jan/2011
+480	dȉʌ	-dië	03/Oct/2008	iʌ
+481	dìbhānsɯ̏	LJ	=dimasü	<Fr.>	[=di ma -sü]	n	сущ	Time	22/Aug/2007
+482	dīȉ	n	dii-	сущ	poudre.médicinale	LJ	ii	Substance Solid	лечебный.порошок	30/Jan/2011	medical.powder
+483	dīidhɤn	MB, LJ, CE, OD	diindhö	<silence-suff>	[diin dhö]	adv	нар	23/Jan/2011
+484	dīin	MB, LJ	diin	ḭḭ	n	сущ
+485	dȉiŋ	GJ, SB, --LJ	-diing	CVV÷ ~ CV÷ ~ CLVV÷	<*noise-3>	iiŋ ~ iŋ	n	сущ	28/Nov/2009
+486	dȉn	-din	LJ	28/Nov/2008
+487	dīn	LJ, DJ, SB, CE, OD	din	<*hunger-2>	n	сущ	23/Jan/2011
+488	dīn	LJ	din	<*taste-2>	n	сущ	23/Jan/2011
+489	dín	LJ	'din	n	сущ	10/Jul/2008	Static Condition Modal Religion
+490	dín	GA, GD	'din	n	сущ	10/Jul/2008	Living Part
+491	dȉŋ	LJ	-ding	растение(вид)	23/Jan/2011	n	сущ	Plant	plante(esp.)	plant(sp.)
+492	dȉŋ	-ding	23/Jan/2011
+493	dīɔŋ	iɔŋ	diɔng	n	сущ	23/Jan/2011	Animal
+494	díɤŋ	MB, LJ	'diöng	iɤŋ	adj	прил	23/Jan/2011
+495	dō	MG, LJ, BE, GJ, CE	do	один	28/Jul/2008	num	числ	un	<*one-1>	one
+496	dō	LJ	do	некий	28/Nov/2008	dtm	дтм	certain	certain
+497	dōdō	LJ	dodo	[do do]	adv	нар	23/Jan/2011
+498	dōdō	LJ	dodo	[do do]	adj?	прил	23/Jan/2011
+499	dòŋ	YA, SE, LJ	=dong	n	сущ	Fish
+500	dóŋdó	LJ	'dongdo	['dong 'do]	n	сущ	06/Dec/2008
+501	dȍo	LJ	-doo	oo	n	сущ	28/Nov/2008
+502	dōsɛ̄n	LJ	dosɛn	[do ka sɛn]	restr	рестр	23/Jan/2011
+503	dɔ̄	CV-M	dɔ	ставить	23/Jan/2011	v	гл	mettre	<*stand (to)>	put
+504	dɔ̄	CV-M	dɔ	<*know (to)>	v	гл	savoir	MG, LJ, GJ, SB	знать	23/Jan/2011	know
+505	dɔ̀ā	BE, LJ	=dɔa'	ɔa	n	сущ	17/Jun/2010	Representation
+506	dɔ̀ā	LJ	=dɔa'	ua	n	сущ	17/Jun/2010
+507	dɔ̀ā	LJ	=dɔa'	ua	n	сущ	23/Jan/2011
+508	dɔ̏dhɛ	GJ, LJ	-dɔdhɛ	[-dɔ -dhɛ]	n	сущ	23/Jan/2011
+509	dɔ̏n	LJ	-dɔn	n	сущ	23/Jan/2011
+510	dɔ̏n	CV-AF	-dɔn	LJ	v	гл	23/Jan/2011	BoundedEvent Communication Condition Modal Purpose
+511	dɔ̏n	LJ	-dɔn	n	сущ	23/Jan/2011
+512	dɔ̄n	LJ	dɔn	<*cough>	n	сущ	23/Jan/2011
+513	dɔ́n	GJ	'dɔn	n	сущ	10/Jul/2008	
+514	dɔ́n	LJ	'dɔn	n	сущ	03/Oct/2008	Artifact Object
+515	dɔ́ŋdɔ̏n	LJ	'dɔngdɔn		['dɔng -dɔn]	adj	прил		23/Jan/2011
+516	dɔ̀ɔ̄	LJ	=dɔɔ'	CVV-LNAF	ɔɔ	v	гл	23/Jan/2011
+517	dɔ́ɔ	LJ, SB	'dɔɔ	ɔɔ	n	сущ	23/Jan/2011
+518	dɔ̀ɔn	LJ	=dɔɔn	ɔ̰ɔ̰	n	сущ	03/Oct/2008	BoundedEvent Communication Condition Experience Modal Purpose Social
+519	dɔ̏pɤ́ʌ̏	LJ	-dɔpöë	[-dɔ 'pöë-]	n	прил/сущ?	30/Jan/2011	Human
+520	dɔ̏sɔ̄tȁ	[-dɔ sɔ -ta]	-dɔsɔta	n	сущ	23/Jan/2011	Artifact Object Garment
+521	dɔ̀ū	SB	=dɔu'	ɔu	n	сущ	
+522	dɔ̀ū lɯ̏	M?	=dɔu' -lü	ɔu	n	сущ	23/Jan/2011
+523	dɤ̄	LJ, MG, GJ, SB	dö	кто?	03/Oct/2008	n	сущ	qui?	<*who?>	who?
+524	dɤ̀ŋ	KB	=döng	<*raphia fibre>	n	сущ	23/Jan/2011	Natural
+525	dɤ̏ŋdhɤ	GA, LJ	-döngdhö	[-döng -dhö]	n	сущ	22/Aug/2007	Living Part
+526	dɤ̀ŋ̄gā	GA, GD, LJ	=döngga	[=döng' ga]	n	сущ	23/Jan/2011	Living Part
+527	dɤ́ŋgɤ́dɤ̏ŋgɤ̏	LJ, DJ	'döng -döng	['döng 'gö -döng -gö]	adj	прил	30/Jan/2009	Property Condition Mental Modal Social
+528	dɤ̄zʌ̏	GJ	dözë	[dö -zë]	adj?	23/Jan/2011
+529	drá	CLV	'dra	MB, SB, LJ, CE, OD	n	сущ	<*liana bridge>
+530	dràan	GJ	=draan	CLVÃVÃ	a̰a̰	n	сущ
+531	dràān	LJ, SB	=draan'	CLVV-LNAF	a̰a̰	v	гл	22/Jan/2011
+532	drʌ́ʌdrʌ̏	LP	'drëëdrë	CLVV CLV	['drëë -drë]	ʌʌ	adj	прил	30/Jan/2009
+533	drʌ́ʌndrʌ̏n	LJ, GJ	'drëëndrën	CLVÃVÃ CLVÃ	['drëën -drën]	ʌ̰ʌ̰	adj	прил	29/Jan/2009
+534	drɛ́ɛndrɛ̏n	LJ	'drɛɛndrɛn	CLVÃVÃ CLVÃ	['drɛɛn -drɛn]	ɛ̰ɛ̰	adj	прил	30/Jan/2009
+535	drɛ́ŋdrɛ̏ŋ	LJ	'drɛngdrɛng	CLV÷ CLV÷	['drɛng -drɛng]	adj	прил	30/Jan/2009
+536	drȉiŋ	-driing	CLVV÷	23/Jan/2011
+537	dródhɤ̄	SB	'drodhö	CLV	['dro dhö]	adv	нар		03/Oct/2008
+538	dróŋ	DJ, LJ	'drong	CLV÷	n	сущ	27/Nov/2009
+539	drɔ́ɔ	GA, MA, LJ, SB	'drɔɔ	CLVV	<*frog-2>	ɔɔ	n	сущ	23/Jan/2011
+540	drɔ́ɔ bhūȁn	GA, MA, LJ	'drɔɔ muan-	n	сущ	30/Jan/2011
+541	drɔ́ɔdrɔ̏	LJ, SB	'drɔɔdrɔ	CLVV CLV	['drɔɔ -drɔ]	ɔɔ	adj	прил	23/Jan/2011
+542	drɔ̏ɔn	DJ, LJ	-drɔɔn	CLVV	ɔ̰ɔ̰	n	сущ	29/Mar/2007
+543	drɤ́ŋdrɤ̏ŋ	LJ	'dröngdröng	CLV÷ CLV÷	['dröng -dröng]	adj	прил	23/Jan/2011
+544	drūʌ	CLVV	druë	[druë ga]	n	сущ	uʌ	Insect	<*ant-3>	MB, LJ	23/Jan/2011
+545	drùɛ̏ɛ	LJ	=druɛɛ-	CLVVV	uɛɛ ~ uɛi?	n	сущ	BoundedEvent Communication Condition Experience Modal Purpose Social	23/Jan/2011
+546	drùɛ̏n	MB	=druɛn-	ṵɛ̰	CLVÃVÃ	n	сущ	Human	23/Jan/2011
+547	drùuŋbhɛ̏	LJ	=druungmɛ	CLVV÷	[=druung'- -mɛ]	uuŋ	n	Human	сущ	23/Jan/2011
+548	drɯ́ʌdrɯ̏ʌ	LJ	'drüëdrüë	CLVV CLVV	['drüë -drüë]	ɯʌ	adj	прил	30/Jan/2009
+549	drɯ̏ŋ	CLVÃVÃ ~ CLVÃ÷	-drünng	ɯ̰ɯ̰ ~ ɯ̰ŋ ~ ɯŋ ~ ɯ̰?	<*snail-2>	LJ	n	Animal Invertebrate	сущ	23/Jan/2011
+550	dȕ	23/Jan/2011	-du	n	сущ	<*cow, cattle-2>	Animal
+551	dȕ	LJ, OD	-du	n	сущ	09/Jan/2009
+552	dú	LJ	'du	adv		03/Oct/2008
+553	dùa	MB, BE, LJ, DJ, GJ, SB	=dua	<*axe-1>	ua	n	сущ	Artifact Object Instrument	28/Nov/2008
+554	dùā	GA, LJ	=dua'	ua	n	сущ	17/Jun/2010	Human Part
+555	dúaandȕan	LJ	'duaanduan	ṵa̰	['duaan -duan]	adj	прил	23/Jan/2011
+556	dùākʌ̄pʌ̏	LJ	=duakëpë	[=dua' kë -pë]	n	сущ	28/Nov/2008
+557	dùān	ṵa̰	=duan'	n	сущ	23/Jan/2011
+558	dùʌ	LJ, DJ, GJ	=duë	uʌ	n	сущ	24/Jul/2008
+559	dùʌ	LJ, DJ, GJ	=duë	CVV-LL	uʌ	v	гл	22/Jan/2011
+560	dūʌ	GJ	duë	uʌ	n	сущ	03/Oct/2008	Human
+561	dȕʌlúu	LJ	-duëluu	uu	[-duë 'luu]	n	сущ	Insect	23/Jan/2011
+562	dúdhɤ̄	DJ, MG, K	'dudhö	['du dhö]	adv	нар	23/Jan/2011
+563	dúeŋdhɤ̄	LJ, SB, MB	'duengdhö	ueŋ	['dueng dhö]	adv	нар	23/Jan/2011
+564	dȕɛ	BE, LJ	-duɛ	uɛ	n	сущ	14/Dec/1999
+565	dȕklɔ̄ɔlɯ̏	DJ, LJ	-duklɔɔlü	ɔɔ	, [-du klɔɔ- -lü]	n	сущ	30/Jan/2011
+566	dȕkwī	LJ	-dukwi	[-du kwi]	n	сущ	23/Jan/2011
+567	dūn	CV-M	dun	<*hang-1>	v	гл	23/Jan/2011
+568	dùŋ	CV÷-LL	=dunng	LJ	v	гл	23/Jan/2011	BoundedEvent Physcal Location
+569	dúŋ	RC	'dung	n	сущ	23/Jan/2011
+570	dúŋ	'dunng	03/Oct/2008
+571	dùɤ	MB, LJ, MG, BE, DJ	=duö	uɤ	adv	нар	03/Oct/2008
+572	dūɤ	MB, LJ, LP, BO	duö	uɤ	n	сущ	23/Jan/2011
+573	dȕɤɤ	BE, DJ, CE, LJ	-duöö	<*buffalo>	uɤɤ ~ uɤ	n	сущ	Animal	23/Jan/2011
+574	dùū	MG, LJ	=duu'	uu	loc.n	сущ	09/Jan/2009
+575	dùūdhɤ	MG, LJ	=duudhö	[=duu' dhö]	loc.n	сущ	28/Nov/2008
+576	dȕun	LJ	-duun	ṵṵ	n	сущ	28/Nov/2008
+577	dɯ̄	LJ	dü	n	сущ	28/Nov/2008
+578	dɯ́	MG, LJ, GJ, SB	'dü	<*spear-2>	n	сущ	28/Nov/2008	Artifact Object Tool War
+579	dɯ́ʌ	'düë	n	сущ	23/Jan/2011
+580	dɯ́ʌ-sɯ́	LJ	'düë 'sü	ɯʌ	v	гл	23/Jan/2011
+581	dɯ̄gɔ̏bhɛ̏n	LJ	dügɔmɛ	[dü -gɔ -mɛ]	n	сущ	06/Dec/2008	Creature
+582	dɯ́n	LJ	'dün	n	сущ	09/Jan/2009	Human Part
+583	dhȁ	<*ɗɤ̏ ȁ>	-dha	ɗɤ́ + -\{FCT} + ȁ	[<-- -dhö -a]	v	a	<*ɗɤ̏ ȁ>	<*ɗɤ̏ ȁ>	LJ	гл	14/Dec/2008
+584	dhā	MG, LJ	dha	<*rain-2>	n	сущ	23/Jan/2011	Natural
+585	dhā	CV-M	dha	LJ, GJ, SB	v	гл	23/Jan/2011	BoundedEvent Existence
+586	dhȁa	MG, LJ, GJ, SB, CE	-dhaa	<*knife-1>	aa	n	сущ	Artifact Object	08/Apr/2000
+587	dháȁ	LJ, SB	'dhaa-	aa	n	сущ	30/Jan/2011	Artifact Object
+588	dhȁadhʌ́n	MG, LJ, DJ, GJ	-dhaanë	[-dhaa 'në]	n	сущ	22/Aug/2007	Artifact Object
+589	dhȁadhēn	LJ, DJ, GJ	-naadhe	[-naa dhe]	n	сущ	23/Jan/2011	BoundedEvent
+590	dhȁan	LJ, GJ	-naa	<*limit>	a̰a̰	n	сущ	23/Jan/2011
+591	-dhȁan	OD, LJ	-naa	ORD	07/Jul/2008	a̰a̰	mrph	мрф	ORD	ORD
+592	dhàān	LJ	=naa'	a̰a̰	n	сущ	03/Dec/2008	Human (KinTerm?)
+593	dhȁankʌ̄bhɛ̏n	[-naa kë -mɛ]	-naakëmɛ	n	сущ	30/Nov/2008	Human
+594	dhàanzʌ̏	GJ	=naazë	a̰a̰	[=naa'- -zë]	adj	прил	16/Feb/2010
+595	dháasí	LJ, GJ	'dhaasi	['dha 'si]	n	сущ	30/Jan/2011
+596	dhābhɯ̏ɤ	LJ	dhabhüö	<pluie-corde>	[dha -bhüö]	n		Natural	28/Nov/2008	сущ
+597	dhāgā	LJ	dhaga	[dha ga]	n	сущ	23/Jan/2011	Natural
+598	dhāgbláwȍ	LJ	dhagblawo	[dha 'gbla -wo]	n	сущ	22/Aug/2007	Natural
+599	dhākpɤ̄	MG, LJ	dhakpö	[dha kpö]	n	сущ	22/Aug/2007	Natural
+600	-dhȁn	LJ, MG	-na	DUR	30/Nov/2008	mrph	мрф	DUR	DUR
+601	dhān	CV-M	na	LJ	v	гл	22/Jan/2011
+602	dhán	<*grandmother-2>	'na	n	сущ	grand-mère	LJ, SB, CE, OD	KinTerm	бабка	03/Dec/2008	grandmother
+603	dhán	'na	30/Nov/2008
+604	dhán và	LJ	'na =va		n	сущ	30/Nov/2008	Kinship Relation Term
+605	dhāŋ̏	MG, LJ, CE	dhang-	<*sky-3>	n	сущ	30/Jan/2011	Natural
+606	dhāŋ̏gā	KB	dhangga	[dhang- ga]	n	сущ	30/Jan/2011	Natural
+607	dháŋgá	BE, LJ, KB	'dhangga	<*damn, curse>	['dhang 'ga]	n	сущ	23/Jan/2011
+608	dhāŋ̏gɯ́dhɛ̏	OD	dhanggüdhɛ	[dhang- 'gü -dhɛ]	n	сущ	30/Jan/2011	Natural
+609	dhàŋtàa	DJ, LJ	=dhangtaa	[=dhang =taa]	n	сущ	22/Aug/2007	Natural Object Comestible
+610	dhásígɔ̏bhɛ̏n	['dha 'si -gɔ -mɛ]	'dhasigɔmɛ	n	сущ	30/Jan/2011
+611	dhāyán	LJ	dhayan	<pluie-oeil>	[dha 'yan]	n	сущ	Natural	28/Nov/2008
+612	dhɒ̏ɒn	LJ	-naɔ	<*message>	ɒ̰ɒ̰ ~ ɔ̰ɔ̰	n	сущ	23/Jan/2011
+613	dhɒ̀ɒn	LJ	=naɔ	ɒ̰ɒ̰	n	сущ	23/Jan/2011
+614	dhɒ̀ɒnpʌ̏	CE, LJ	=naɔpë	[=naɔ -pë]	n		29/Nov/2008
+615	dhʌ̏	LJ	-dhë	pp	пл	28/Nov/2008
+616	dhʌ̀	SB	=dhë	<*how much?-2>	adv		01/Dec/2008
+617	dhʌ̀ʌ	LJ	=dhëë'-	<*paste-1>	ʌʌ	n	сущ	Cookery Comestible	28/Nov/2008
+618	dhʌ́ʌdhɤ̄	DJ, LJ	'dhëëdhö	ʌʌ	['dhëë dhö]	loc.n	сущ.лок	25/Jan/2011
+619	dhʌ̀ʌn	=nëë -sü	11/Jul/2008	ʌ̰ʌ̰ ~ ʌ̰ŋ
+620	dhʌ̀ʌn	=nëë	11/Jul/2008	ʌ̰ʌ̰ ~ ʌ̰ŋ
+621	dhʌ́dhēdhʌ́n	LJ	'nëdhenë	['në dhe -zë]	n	сущ	30/Nov/2008	Human Time
+622	dhʌ́dhēn	DJ, LJ, OD	'nëdhe	<enfant-femme>	['në dhe]	n	сущ	Human Time	30/Nov/2008
+623	dhʌ́dhɛ̏nwȕn	DJ, LJ	'nëdhɛwun	['në -dhɛ -wun]	n	сущ	23/Jan/2011
+624	dhʌ́dhōŋ-dhȕn	'nëdhong -nu	07/Dec/2008
+625	dhʌ́n	<*child>	'në	n	сущ	enfant	MG, LJ, CE	KinTerm	ребёнок	09/Jan/2009	child
+626	-dhʌ́n	DIM	'në	mrph	<от nʌ́ 'ребёнок'>	<de nʌ́ 'enfant'>	ʌ		мрф	LJ	DIM	<from nʌ́ 'child'>	08/Jan/2009	DIM
+627	dhʌ́n púu	DJ, GJ, LJ	'në 'puu	n	сущ	14/Dec/1999	Human
+628	dhʌ́n sɛ́ɛ̂n	GJ	'në 'sɛɛn-	n	сущ	14/Dec/1999	Human
+629	dhʌ́n sɛ́ɛ̂n dhȕn bhȁ blʌ̏ʌ	LJ	'në 'sɛɛn- -nu -bha -blëë	n	сущ	30/Nov/2008
+630	dhʌ́ngɔ̄ɔdhʌ́n	LJ	'nëgɔɔnnë	['në gɔɔn- 'në]	n	сущ	03/Dec/2008	Human Time
+631	dhʌ́ngɔ̄ɔn	DJ, LJ, GJ, OD, RC	'nëgɔɔn	<enfant-homme>	['në gɔɔn-]	n	сущ	Human Time	30/Nov/2008
+632	dhʌ́ngɔ̄ɔnzʌ̏	LJ	'nëgɔɔnzë	['në gɔɔn- -zë]	n	сущ	30/Nov/2008	Human Time
+633	dhʌ̀ŋ	CVV-LL var	=nëng	<*fasten>	DJ, LJ	v	гл	22/Jan/2011
+634	dhʌ̀ŋ	DJ, LJ	=nëng	n	сущ	26/Oct/2008
+635	dhʌ̏ŋkúʌ̂dhē	LJ	-nëngkuëdhe	[-nëng 'kuë- dhe]	n	сущ	30/Nov/2008
+636	dhʌ̀ŋzʌ̏	BE, LJ	=nëngzë	<chair-suff>	[=nëng -zë]	adj	прил	22/Aug/2007
+637	-dhȅ	F.AG	-dhe	mrph	<от ɗē 'женщина'>	<de ɗē 'femme'>	мрф	GJ	F.AG	18/Jun/2008	<from ɗē 'woman'>	F.AG
+638	dhē	23/Jan/2011	dhe	n	сущ	<*mother-4>	KinTerm
+639	dhē	LJ, DJ, CE	dhe	женщина	23/Jan/2011	n	сущ	femme	<*mother-4>	woman
+640	dhē gbóȍ	MG, DJ, LJ	dhe 'gboo-	n	сущ	30/Jan/2011	Human Time
+641	dhèā	=dhea'	22/Aug/2007	ea ~ ia
+642	dhēbɔ̏	LJ, CE, OD	dhebɔ	<*woman-3>	[dhe -bɔ]	n	сущ	Human	29/Nov/2008
+643	dhēbhɛ̏ndʌ̄	DJ, MG, GJ, LJ	dhemɛdë	[dhe -mɛ dë]	n	сущ	30/Jan/2011	Human
+644	dhédhéngbȁa	KD, LJ	'dhenegbaa	e-e	['dhe 'ne -gbaa]	n	сущ	Insect	25/Jan/2011
+645	dhèe	LJ, SB	=dhee	ee	n	сущ	04/Oct/2008	Natural
+646	dhée	MG, GJ, (dh) LJ	'dhee	ee ~ ei	n	сущ	23/Jan/2011
+647	dhée	LJ	'dhee		ee	prt		23/Jan/2011
+648	dhéepɛ̏n	LJ	'dheepɛn	['dhee -pɛn]	n	сущ	23/Jan/2011	Reptile
+649	dhéesȕɤ	LJ	'dheesuö	['dhee -suö]	n	сущ	23/Jan/2011	Reptile
+650	dhēglú	LJ, MG, BE, GJ	dheglu	[dhe 'glu]	n	сущ	30/Jan/2011	KinTerm
+651	dhēglúdhʌ́dhēn	MG, LJ	dheglunëdhe	[dhe 'glu 'në dhe]	n	сущ	30/Jan/2011	KinTerm
+652	dhēglúdhʌ́dhēnzʌ̏	MG, LJ	dheglunëdhezë	[dhe 'glu 'në dhe -zë]	n	сущ	30/Jan/2011	KinTerm
+653	dhēglúdhʌ́ngɔ̄ɔ̏n	LJ	dheglunëgɔɔn	[dhe 'glu 'në gɔɔn-]	n	сущ	30/Jan/2011	KinTerm
+654	dhēglúdhʌ́ngɔ̄ɔ̏nzʌ̏	LJ	dheglunëgɔɔnzë	[dhe 'glu 'në gɔɔn- -zë]	n	сущ	30/Jan/2011	KinTerm
+655	dhēglúdhēbɔ̏	LJ	dhegludhebɔ	[dhe 'glu dhe -bɔ]	n	сущ	06/Dec/2008	KinTerm
+656	dhēglúdhēzʌ̏	MG, LJ, BE	dhegludhezë	[dhe 'glu dhe -zë]	n	сущ	30/Jan/2011	KinTerm
+657	dhēglúgɔ̄ɔ̏dhʌ́nzʌ̏	LJ	dheglugɔɔnnëzë	[dhe 'glu gɔɔn- 'në -zë]	n	сущ	30/Jan/2011	KinTerm
+658	dhēglúgɔ̄ɔ̏n	MG, LJ, GJ	dheglugɔɔn	[dhe 'glu gɔɔn-]	n	сущ	30/Jan/2011	KinTerm
+659	dhēglúgɔ̄ɔ̏nzʌ̏	MG, LJ, GJ	dheglugɔɔnzë	[dhe 'glu gɔɔn- -zë]	n	сущ	30/Jan/2011	KinTerm
+660	dhēglúzʌ̏	LJ, MG, BE, GJ	dhegluzë	[dhe 'glu -zë]	n	сущ	25/Jan/2011	KinTerm
+661	dhēgɔ̄n	LJ	dhegɔn	[dhe gɔn]	n	сущ	30/Jan/2011	Human
+662	dhèī	BE, LJ	=dhei'	<*elder sister>	ei ~ ii	n	сущ	KinTerm	25/Jan/2011
+663	dhéi	'dhei	22/Aug/2007	ei ~ ee
+664	dhēklɤ̀ɤ	MG, LJ	dheklöö	[dhe =klöö]	n	сущ	28/Nov/2008	Human Time
+665	dhēkpɔ́dhȅ	DJ, LJ	dhekpɔdhe	[dhe 'kpɔ -dhe]	n	сущ	07/Dec/2008	KinTerm
+666	dhēpʌ̄	DJ, LJ	dhepë	<femme-chose>	[dhe pë]	n	сущ	29/Nov/2008
+667	dhēsɯ́gɔ̄ɔ̏n	DJ, MG, GJ, LJ	dhesügɔɔn	[dhe 'sü gɔɔn-]	n	сущ	30/Jan/2011	Human
+668	dhɛ̏	<*place-3>	-dhɛ	n	сущ	place	LJ, GJ, SB, CE	Place	место	06/Jan/2009	place
+669	dhɛ̏	CV-AF	-dhɛ	звать	30/Jan/2011	v	гл	appeler	<*call-3>	call
+670	dhɛ̏	LJ, MG	-dhɛ	день	25/Jan/2011	n	сущ	jour	day
+671	-dhɛ̏	ABSTR	-dhɛ	mrph	<от ɗɛ̏ 'место'>	<de ɗɛ̏ 'endroit'>		мрф	LJ	ABSTR	25/Jan/2011	<from ɗɛ̏ 'place'>	ABSTR
+672	-dhɛ̏	LJ	-dhɛ	MSD	25/Jan/2011	mrph	мрф	MSD	MSD
+673	-dhɛ̏		-dhɛ	CMM	25/Jan/2011	mrph	мрф	CMM	CMM
+674	dhɛ̀	MG, LJ, DJ, SB, CE	=dhɛ	conj	союз	23/Jan/2011
+675	dhɛ̄	LJ	dhɛ	n	сущ	23/Jan/2011
+676	dhɛ́	25/Jan/2011	'dhɛ	n	сущ	<*leaf-3>
+677	dhɛ́	LJ	'dhɛ	itj	межд	28/Nov/2008
+678	dhɛ̏adhíɤ	-dhɛadhiö	24/Sep/2008	ɛa ~ ia
+679	dhɛ̏adhíɤ	LJ, GJ	-dhɛadhiö	iɤ	adv	нар	25/Jan/2011
+680	dhɛ̏bíʌ̏dhɛn	LJ, DJ	-dhɛbiëndhɛ	[-dhɛ 'biën- -dhɛ]	n	сущ	30/Jan/2011	Static Condition Physical
+681	dhɛ̏bōsɯ̏	OD	-dhɛbosü	[-dhɛ bo -sü]	n	сущ	22/Aug/2007	
+682	dhɛ́dhɛ́n	LJ, BE, GJ, DJ	'nɛnɛ	ɛ-ɛ, n	['nɛ 'nɛ]	<*cold>	n	сущ	23/Jan/2011
+683	dhɛ́dhɛ́n yúa	'nɛnɛ 'yua	n	сущ	30/Nov/2008	SituationType Condition Medicine
+684	dhɛ̀ɛ	LJ	=dhɛɛ	ɛɛ	adv	нар
+685	dhɛ̀ɛ̄	LJ, OD	=dhɛɛ'	ɛɛ	n	сущ	25/Jan/2011
+686	dhɛ̀ɛ̄dhɛ̏	DJ, LJ	=dhɛɛdhɛ	ɛɛ	[=dhɛɛ' -dhɛ]	n	сущ	Object Place	09/Jun/2010
+687	dhɛ́ɛdhɛ̏	LJ	'dhɛɛdhɛ	ɛɛ	['dhɛɛ -dhɛ]	n	сущ	Natural	25/Jan/2011
+688	dhɛ̀ɛdhɛ́n	LJ	=nɛɛnɛ	ɛ̰ɛ̰	[=nɛɛ 'nɛ]	CVV-CV	v	гл	BoundedEvent Communication Condition Purpose	22/Jan/2011
+689	dhɛ́ɛdhɤ̄	LJ	'dhɛɛdhö	['dhɛɛ dhö]	25/Jan/2011
+690	dhɛ̏ɛn	LJ	-nɛɛ	ɛ̰ɛ̰	n	сущ	14/Dec/1999
+691	dhɛ̀ɛn	LJ	=nɛɛ	ɛ̰ɛ̰	n	сущ	23/Jan/2011	Religion
+692	dhɛ̀ɛ̏n	LJ	=nɛɛ-	ɛ̰ɛ̰	n	сущ	14/Dec/1999	Artifact Object
+693	dhɛ̄ɛn	YA, SE, BE	nɛɛ-	ɛ̰ɛ̰	n	сущ	26/Oct/2008	Animal
+694	dhɛ̄ɛn gɔ̄ŋ	YA, SE	nɛɛ- gɔng	n	сущ	Animal
+695	dhɛ̀ɛ̏ngā	LJ	=nɛɛga	[=nɛɛ ga]	n	сущ	30/Nov/2008	Artifact Object
+696	dhɛ́gā	MG, LJ, KB	'dhɛga	['dhɛ ga]	n	сущ	22/Aug/2007
+697	dhɛ̏gȁkɔ̏	LJ	-dhɛgakɔ	[-dhɛ -ga -kɔ]	n	ìåñòî-ñìîòðåòü-ñïîñîá	25/Jan/2011	сущ
+698	dhɛ̏gȁyȁn	KB, LJ	-dhɛgayan	<place-regarder-materiel?>	[-dhɛ -ga -yaan]	n	сущ	Artifact Object	23/Feb/2010
+699	dhɛ̏glōodhɛ̏	LJ	-dhɛgloodhɛ	[-dhɛ gloo -dhɛ]	n	сущ	01/Feb/2011
+700	dhɛ̏gȍpȉʌ	LJ	-dhɛgopië	[-dhɛ -go -pië]	n	сущ	22/Aug/2007	Artifact Object
+701	dhɛ̏kpɒ̀ɒdhíɤ	LJ	-dhɛkpaɔdhiö	iɤ	[-dhɛ =kpaɔ 'dhiö, -dhɛ -kpaɔ 'dhiö]	n	сущ	Static Time	25/Jan/2011
+702	dhɛ̏kpɒ̀ɒyȉ	MG, LJ, DJ, GJ, CE, OD, SB	-dhɛkpaɔyi	[-dhɛ =kpaɔ -yi]	n	сущ	25/Jan/2011	Time
+703	dhɛ̏lʌ́ʌ	LJ	-dhɛlëë	ʌʌ	[-dhɛ 'lëë]	n	сущ	22/Jun/2010
+704	dhɛ̀n	MG, LJ, GJ, DJ	=nɛ	dtm		26/Oct/2008
+705	dhɛ̄n	LJ	nɛ		n	сущ	23/Jan/2011	
+706	dhɛn	26/Oct/2008	nɛ-	n	сущ	<*tongue>	Living Part
+707	dhɛngā	<*tongue>	nɛga	[nɛ- ga]	n	сущ	30/Nov/2008	Living Part
+708	dhɛ́ŋ	LJ	'nɛng	adj	прил	23/Jan/2011
+709	dhɛ̏pʌ́ʌ̏dhɛ	DJ, LJ	-dhɛpëëdhɛ	[-dhɛ 'pëë- -dhɛ]	n	сущ	30/Jan/2011
+710	dhɛ̏púu	LJ	-dhɛpuu	[-dhɛ 'puu -dhɛ]	n	сущ	07/Jan/2009
+711	dhɛ̏tīi	LJ	-dhɛtii	[-dhɛ tii]	n	сущ	29/Nov/2008
+712	dhɛ̏tīidhɛ̏	[-dhɛ tii -dhɛ]	-dhɛtiidhɛ	n	сущ	25/Jan/2011
+713	dhɛ̏yàāpʌ̏	DJ, LJ	-dhɛyaapë	[-dhɛ =yaa' -pë]	n	сущ	09/Jan/2009	Artifact Object
+714	dhɛ̏yȁbhɛ̏n	DJ, LJ	-dhɛyamɛ	[-dhɛ -ya -mɛ]	n	сущ	22/Aug/2007	Human
+715	dhȉ	CV-AF	-dhi	LJ	v	гл	25/Jan/2011
+716	dhī	CV-M	dhi	<*good-2>	v	гл	25/Jan/2011
+717	dhī	LJ	dhi	n	сущ	25/Jan/2011
+718	dhí	MG, LJ, GA, CE, OD	'dhi	<*mouth>	n	сущ	25/Jan/2011
+719	dhìa	<*ɗɛ̏ ɓȁ>	=dhia	LJ	<*ɗɛ̏ ɓȁ>	ia	loc.n	сущ.лок	25/Jan/2011	<*ɗɛ̏ ɓȁ>
+720	dhìa	LJ	=dhia	DUR	25/Jul/2008	ia	mrph	мрф	DUR	DUR
+721	dhìā	LJ	=dhia'	<*tomorrow>	ia ~ ea	adv	нар	Time	25/Jan/2011
+722	dhía	DJ, LJ	'dhia	<*pile of merchandise-2>	ia	n	сущ	25/Jan/2011
+723	dhíȁan	YA, SE	'niaa-	ḭa̰a̰	n	сущ	03/Dec/2008	Fish
+724	dhīadhīan	LJ	niania	ḭa̰	[nia nia]	n	сущ	22/Aug/2007
+725	dhȉan	BE, DJ, OD, SB, LJ	-nia	<*stranger-1>	ḭa̰	n	сущ	Human	23/Jan/2011
+726	dhìɒɒbhɛ̏n	LJ	=niaɔnmɛ	ḭɒ̰ɒ̰	[=niaɔn -mɛ]	n	сущ	Human	24/Feb/2010
+727	dhìʌ̄	BE, --LJ	=dhië'	CVV-LNAF	<*turn>	iʌ	v	гл	25/Jan/2011
+728	dhìʌ̄bhɛ̏n	LJ	=niëmɛ	[=nië' -mɛ]	n	сущ	30/Nov/2008
+729	dhìʌdhíʌn	OD	=niënië	CVV-CVV	[=nië' =nië']	v	гл	22/Jan/2011
+730	dhìʌn	GA, LJ, BE	=nië	ḭʌ̰	n	сущ	26/Oct/2008	Living Part
+731	dhìʌn	BE, LJ	=nië'-	CVV-LNAF	ḭʌ̰	v	гл	22/Jan/2011
+732	dhíʌŋ	LJ	'dhiëng	iʌŋ	n	сущ	25/Jan/2011	Human Part
+733	dhȉdháa	LJ, LP	-dhidhaa	aa	[-dhi 'dhaa]	n	сущ	Magics	25/Jan/2011
+734	dhȉdháakʌ̄bhɛ̏n	LJ, LP	-dhidhaakëmɛ	[-dhi 'dhaa kë -mɛ]	n	сущ	25/Jan/2011
+735	dhídhȁan	LJ, DJ, GJ	'dhinaa	['dhi -naa]	n	сущ	25/Jan/2011	Static Communication Condition Modal Social
+736	dhídhȁanzʌ̏	LJ	'dhinaazë	['dhi -naa -zë]	adj	прил	25/Jan/2011
+737	dhȉdháapʌ̏	LJ, OD	-dhidhaapë	[-dhi 'dhaa -pë]	n	сущ	25/Jan/2011
+738	dhīdhe	[dhi dhe]	dhidhe	n	сущ	25/Jan/2011
+739	dhȉi	BE, LJ	-dhii	<*dirt>	ii ~ uu?	n	сущ	09/Jan/2009
+740	dhìī	=dhii'	06/Dec/2008	ii ~ ei
+741	dhìībɔ̏{-dhȕ}n	=dhiibɔ {-nu}	[=dhii' -bɔ]	25/Jan/2011
+742	dhȉin	GJ	-nii	ḭḭ	n	сущ
+743	dhìin	LJ	=nii	ḭḭ	n	сущ	30/Nov/2008	Plant
+744	dhīin	<*life (spirit)>	nii	n	сущ	âme	ḭḭ	Static Mental	DJ, LJ	душа	07/Dec/2008	soul
+745	dhȉin kláŋ	GJ	-nii 'klang	n	сущ	
+746	dhȉizʌ̏	BE, LJ	-dhiizë	[-dhuu -zë]	adj	прил	29/Jan/2009	Property Condition Physical
+747	dhíkábhɛ̏n	LJ	'dhikanmɛ	['dhi 'kan -mɛ]	n	сущ	28/Nov/2008
+748	dhȉkúʌdhē	LJ	-dhikuëdhe	[-dhi 'kuë dhe]	n	сущ	28/Nov/2008
+749	dhīŋ	dhing	n	сущ	13/Feb/2010	
+750	dhȉo	BE, LJ, SB	-dhio	<*advice>	io	n	сущ	25/Jan/2011
+751	dhìɔ̄	LJ	=dhiɔ'	iɔ	n	сущ	04/Oct/2008
+752	dhíɔ̂n	BE, LJ	'niɔ-?	?ḭɔ̰ ~ ḭaɔ̰	n	сущ	24/Feb/2010	Animal
+753	dhȉɤ	LJ	-dhiö	iɤ ~ iɤɤ	n	сущ	25/Jan/2011
+754	dhíɤ	остриё	'dhiö	04/Oct/2008	iɤ	n	сущ	tranchant	edge
+755	dhíɤ	MG, LJ	'dhiö	iɤ	pp	пл	04/Oct/2008
+756	dhíɤ	BE, LJ, SB, GJ	'dhiö	вперёд	25/Jan/2011	iɤ	adv	нар	devant	ahead
+757	dhíɤ̏	iɤ	'dhiö-	adj	прил	30/Jan/2011
+758	dhíɤ-bɔ̄	BE, LJ, DJ, GJ	'dhiö bɔ	ɗíɤ́ + bɔ̄	v	гл	25/Jan/2011
+759	dhíɤ̏dhɛ	LJ	'dhiödhɛ	['dhiö- -dhɛ]	n	сущ	30/Jan/2011
+760	dhíɤ-gán	BE, LJ	'dhiö 'gan		v			22/Jan/2011	гл
+761	dhȉɤɤ	-dhiöö	22/Aug/2007	iɤɤ ~ iɤ
+762	dhíɤ-sɯ́	LJ, DJ, GJ	'dhiö 'sü		v					гл
+763	dhíɤtó	<bord-laisser>	'dhiöto	ɗíɤ́ + tó	['dhiö 'to]	n	<край-оставлять>	Relation Existence Quantity	<edge-leave>	25/Jan/2011	сущ
+764	dhíɤ-tó	LJ, DJ, GJ	'dhiö 'to	v	гл	22/Jan/2011	BoundedEvent Modal Time
+765	dhíɤtódhɛ̏	LJ, GJ, OD	'dhiötodhɛ	['dhiö 'to -dhɛ]	n	сущ	25/Jan/2011
+766	dhȉɤyí	LJ	-dhiöyi	[-dhiö 'yi]	n	Natural Liquid Medicine	25/Jan/2011	сущ
+767	dhíɤzʌ̏	MG, LJ	'dhiözë	['dhiö -zë]	adj	прил	29/Jan/2009
+768	dhó	CV-H	'dho	идти	25/Jan/2011	v	гл	aller	<*go (to)-3, leave-1>	go
+769	dhóʌ̏	'dhoë-	30/Jan/2011
+770	dhódhón	LP	'dhono	o-o, n	['dho 'no]	n	сущ	Bird	25/Jan/2011
+771	dhȍdhɔ́ɔpíɤsɯ̏zʌ̏	LJ	-dhodhɔɔpiösüzë	[-dho 'dhɔɔ 'piö -sü -zë]	adj	прил	29/Jan/2009
+772	dhōɛ́nlɤ̏	DJ, LJ	noɛlö	o̰ɛ̰	[no 'ɛ -lö]	n	сущ	22/Aug/2007
+773	dhȍkúʌ̏sɯ̏	OD, LJ	-dhokuësü	[-dho 'kuë- -sü]	n	сущ	30/Jan/2011
+774	dhóŋbho	LJ	'dhongbho	['dhong 'dho]	n	сущ	25/Jan/2011
+775	dhȍŋdho	LP	-dhongdho	[-dhong -dho]	n	сущ	25/Jan/2011	Bird
+776	dhōŋzʌ̄bhɛ̏ɛn	GA, MA	dhongzëmɛɛ	[dhong zë -mɛɛ]	n	сущ	25/Jan/2011	Insect
+777	dhòŋ	CV÷-LNAF	=dhong'-	<*count-2>	BE, MG, LJ	v	гл	BoundedEvent Mental Purpose	22/Jan/2011
+778	dhòo	MG, LJ, SB, CE	=dhoo	<*elder brother>	oo	n	сущ	KinTerm	26/Apr/2000
+779	dhòō	MB, -LJ	=dhoo'	oo	n	сущ	07/Dec/2008	Animal
+780	dhóo	LJ	'dhoo	oo	n	сущ	25/Jan/2011	Plant
+781	dhóȍ	LJ	'dhoo-	oo	n	сущ	30/Jan/2011	Human Group Magic
+782	dhòobɔ̏{-dhȕ}n	=dhoobɔ {-nu}	[=dhoo -bɔ]	25/Jan/2011
+783	dhōo-dhȕn	MG, LJ	dhoonu	oo	[dhoo -nu]	25/Jan/2011
+784	dhɔ̏	26/Jan/2011	-dhɔ	n	сущ	<*desire-2>
+785	dhɔ́	CV-H	'dhɔ	<*buy-2>	v	гл	26/Jan/2011
+786	dhɔ̏dhɔ̏n	LJ	-nɔnɔ	ɔ-ɔ, n	[-nɔ -nɔ]	n	сущ	03/Dec/2008
+787	dhɔ́dhɔ́n	DJ, LJ	'nɔnɔ	ɔ-ɔ, n	['nɔ 'nɔ]	<*milk>	n	Natural Liquid Comestible Cookery	сущ	22/Aug/2007
+788	dhɔ̏kàā	LJ	-dhɔkaa	[-dhɔ kë dhe]	n	сущ	26/Jan/2011
+789	dhɔ̀n	SB, CE	=nɔ	n	сущ	09/Jan/2009	Human Relation KinTerm
+790	dhɔ̄n	LJ	nɔ	n	сущ	14/Dec/1999
+791	dhɔ̀ŋ	CV÷-LL	=dhɔng	BE, EF, MB, LJ, DJ, GJ, SB	v	гл	30/Jan/2011
+792	dhɔ̀ŋ̄	LJ	=dhɔng'	n	сущ	26/Jan/2011	Natural
+793	dhɔ̀ŋtrɔ̄ɔ̏	LJ, MB	=dhɔngtrɔɔ	ɔɔ	[=dhɔng trɔɔ-]	n	сущ	Human	26/Jan/2011
+794	dhɔ̀ŋtrɔ̄ɔ̏plɤ̀ɤ	LJ, MB	=dhɔngtrɔɔplöö	[=dhɔng trɔɔ- =plöö]	n	сущ	30/Jan/2011
+795	dhɔ̀ɔ	LJ, OD	=dhɔɔ	ɔɔ	n	сущ	26/Jan/2011
+796	dhɔ̀ɔ̄	LJ	=dhɔɔ'	ɔɔ ~ ɔɯ	n	сущ	26/Jan/2011
+797	dhɔ́ɔ	LJ	'dhɔɔ	<*market-1>	ɔɔ	n	сущ	BoundedEvent Location Social	26/Jan/2011
+798	dhɔ́ɔ	YA, SE, SB	'dhɔɔ	ɔɔ	n	сущ	28/Nov/2008	Fish
+799	dhɔ̀ɔ̄bhàa	LJ	=dhɔɔbhaa	[=dhɔɔ' =bhaa]	n	сущ	30/Jan/2011
+800	dhɔ̀ɔ̄bhàadhʌ̏n	LJ	=dhɔɔbhaanë	[=dhɔɔ' =bhaa -në]	n	сущ	22/Aug/2007	Human
+801	dhɔ́ɔdɔ̄bhȁn	LP	'dhɔɔdɔma	['dhɔɔ dɔ -ma]	n	сущ	26/Jan/2011	Bird
+802	dhɔ̀ɔdhɔ́	DJ, LJ	=dhɔɔdhɔ	[=dhɔɔ 'dhɔ]	v	гл	22/Jan/2011
+803	dhɔ̀ɔdhɔ́n	BE, LJ	=nɔɔnɔ	[=nɔɔ 'nɔ]	CVV-CV	ɔ̰ɔ̰	v	гл	22/Jan/2011
+804	dhɔ́ɔgɔ̏	LJ, SB	'dhɔɔgɔ	<"tête de marché">	['dhɔɔ -gɔ]	n	голова рынка	Static Time	04/Oct/2008	сущ
+805	dhɔ́ɔkóʌ̏dhɤ̄	LJ	'dhɔɔkoëdhö	oʌ ~ uʌ ~ uʌʌ	['dhɔɔ 'kuë- dhö]	loc.n	сущ.лок	BoundedEvent Location Social	30/Jan/2011
+806	dhɔ̏ɔn	-nɔɔ	28/Jul/2008	ɔ̰ɔ̰ ~ ɒ̰ɒ̰
+807	dhɔ̀ū	=dhɔu'	15/Feb/2010	ɔu ~ ɔɔ
+808	-dhɤ̄	ADV	dhö	mrph				мрф	LJ	ADV	11/Jul/2008		ADV
+809	-dhɤ̄	LOC	dhö	mrph				мрф		LOC	11/Jul/2008		LOC
+810	dhɤ́	v	'dhö	гл	être	LJ	ɤ		быть	30/Jan/2011	be
+811	dhɤ́	LJ, GJ	'dhö	FUT	25/Jan/2011	v	<aller>	гл	FUT	FUT
+812	dhɤ́	BE, SB, LJ, DJ	'dhö	adv	нар	04/Oct/2008
+813	dhɤ́	LJ	'dhö	pp	пл	04/Oct/2008
+814	dhɤ́ʌ̏	<ɗó nȁ>	'dhöë-	v	гл	PROX	oʌ ~ ɤʌ	LJ	PROX	30/Jan/2011	PROX
+815	dhɤ́n	LJ	'nö		adv		30/Nov/2008
+816	dhɤ̏ɤ	LJ	-dhöö	ɤɤ	n	сущ	15/Feb/2010
+817	dhɤ́ɤdhɤ̏	BE, LJ (dh, ka)	'dhöödhö	ɤɯ	['dhöü- -dhöü] {pl. 'dhöü- dhöü, 'dhöü 'dhöü}	<*round-1>	adj	прил	30/Jan/2011
+818	dhɤ́ɤdhɤɤ	'dhöödhöö	['dhöö 'dhöö]	26/Jan/2011
+819	dhú	LJ	'dhu	<*daughter>	n	сущ	06/Jan/2009	KinTerm
+820	dhú	CV-H	'dhu	LJ, MG	v	гл	14/Dec/1999	BoundedEvent Agentive Location Physical Purpose
+821	dhȕaadhȕaadhɤ̄n	LJ	-nuaanuaadhö	[-nuaa -nuaa dhö]	adv	нар	26/Oct/2008
+822	dhȕaadhȕaan	LJ	-nuaanuaa	<?>	[-nuaa -nuaa]	n	сущ	30/Nov/2008
+823	dhȕaadhȕaan	LJ	-nuaanuaa	медлительный	[-nuaa -nuaa]	30/Jan/2009	adj ADV	lent	slow
+824	dhȕaan	LJ	-nuaa	ṵa̰a̰	adv?adj	нар	25/Feb/2010
+825	dhúadhȕadhɛn	GJ	'nuanuadhɛ	ṵa̰	['nua -nua -dhɛ]	n	сущ	24/Feb/2010
+826	dhùan	LJ	=nua	<*slave>	ṵa̰	n	сущ	Human Occupation Social	30/Nov/2008
+827	dhūænzʌ̏	DJ, LJ	nuɛazë	ṵɛ̰a̰	[nuɛ -zë]????	adj	прил	Static Property Physical	25/Feb/2010
+828	dhúʌ̏	uʌ	'dhuë-	n	сущ	30/Jan/2011	Situation Type Experience Religion
+829	dhūʌn	nuë-	26/Oct/2008	ṵʌ̰
+830	dhúʌ̂nbɔ̏	DJ, MG, LJ	'nuëbɔ	ṵʌ̰	['nuë- -bɔ]	n	сущ	Human	23/Jan/2011
+831	dhùen	=nue	24/Oct/2008
+832	dhūɛn	YA, SE	'nuɛa	ṵɛ̰	n	сущ	25/Feb/2010	Animal
+833	dhȕn	<*plural marker-3>	-nu	mrph	мрф	PL	u	LJ, DJ, BE, GJ, MG	PL	07/Jul/2008	PL
+834	dhūn	CV-M	nu	<*come-3>	v	гл	venir	BE, MG, LJ, DJ, RC	приходить	22/Jan/2011	come
+835	dhūn	CV-M	nu	<*give (to)-4>	v	гл	donner	BoundedEvent Agentive Possession Purpose	BE, MG, LJ, DJ, RC	давать	22/Jan/2011	give
+836	dhȕɤ	LJ	-dhuö	CVV-AF	uɤ	v	гл	30/Jan/2011
+837	dhūɤ	LJ	dhuö	uɤ	n	сущ	26/Jan/2011	Plant
+838	dhūɤ	LJ	dhuö	uɤ	adv	нар	30/Jan/2011
+839	dhūɤdhe	YA, SE	dhuödhe	uɤ	[dhuö dhe]	n	сущ	Reptile	22/Aug/2007
+840	dhūɤdhe tɤ́ŋ	LJ	dhuödhe 'töng	[dhuö dhe]	n	сущ	22/Aug/2007
+841	dhȕtīi	LJ, BE, RC	-dhutii	ii	[-dhuu tii]	<jula>	n	Human Occupation Social Condition	сущ	26/Jan/2011
+842	dhȕu	-dhuu	22/Aug/2007	uu ~ ii?
+843	dhùu	uu	=dhuu	n	сущ	26/Jan/2011
+844	dhùu	LJ	=dhuu'-		uu	v	гл	22/Jan/2011
+845	dhúu	LJ	'dhuu	<*fog-2>	uu	n	сущ	Natural	27/Apr/2000
+846	dhúu púu	LJ	'dhuu 'puu	uu	n	сущ	Plant
+847	dhúun	LJ, GJ, SB	'nuu	ṵṵ	n	сущ	26/Oct/2008	Artifact Object
+848	dhúun	LP, LJ	'nuu	ʌʌ	n	сущ	30/Nov/2008	Human
+849	dhúuŋ	DJ, LJ	'dhuung	uuŋ	n	сущ	28/Nov/2008	Artifact Instrument Music
+850	dhúuŋgā	['dhuung ga]	'dhuungga	n	сущ	26/Jan/2011	Artifact Instrument Music
+851	dhȕutīi	-dhuutii	[-dhuu tii]	22/Aug/2007
+852	dhȕuzʌ̏	-dhuuzë	22/Aug/2007
+853	dh̄n	LJ	n	1SG.NSBJ	14/Dec/2008	pron	л.мест	1SG.NSBJ	1SG.NSBJ
+854	dh̀n dh́n	SB	=n 'n	нет	22/Aug/2007	itj	межд	non	no
+855	dh̄nká	LJ	nka	1SG.NEG.PFV	[n 'ka]	30/Nov/2008	pron	л.мест	1SG.NEG.PFV	1SG.NEG.PFV
+856	Ɗóȍdhɛ	SB, LJ	'Dhoodhɛ	oo	['Dhoo- dhɛ]	loc.n	сущ	09/Jun/2010
+857	è	RC	=e	Q	26/Jan/2011	prt	част	Q	Q
+858	ɛ̀	RC	=ɛ	Q	26/Jan/2011	Q	Q
+859	ɛ̀	SB	=ɛ	itj	межд	04/Oct/2008
+860	fá	LJ, SB, CE	'fa	n	сущ	28/Nov/2008
+861	fȁa	GA, MA, LJ	-faa	aa	n	сущ	Human Part
+862	fāȁ	MB, LJ, OD, SB	faa-	aa	n	сущ	30/Jan/2011	Bird
+863	fáa	LJ	'faa	aa	n	сущ	Artifact Object
+864	fáafȁ	OD, SB	'faafa	['faa -fa]	aa	adj	прил		29/Jan/2009
+865	fàān	OD, --LJ	=faan'	<*force-1>	a̰a̰	n	сущ	26/Jan/2011
+866	fáfȁ	['fa -fa]	'fafa	adj	прил	29/Jan/2009	
+867	fʌ̀ɯ̄fʌ̀ɯ̄dhɤ	LJ	=fëüfëüdhö	ʌɯ	[=fëü' =fëü' dhö]	adv	нар	05/Oct/2008
+868	fɛ́ɛ	LJ, RC	'fɛɛ	ɛɛ	n	сущ	26/Jan/2011
+869	fɛ́ɛbhɛ̏n	LJ	'fɛɛmɛ	['fɛɛ -mɛ]	n	сущ	26/Jan/2011
+870	fɛ̀ɛn	MG, LJ	=fɛɛn'-	CVV-LNAF	ɛ̰ɛ̰	v	гл
+871	fɛ́ɛzʌ̏	DJ, LJ	'fɛɛzë	['fɛɛ -zë]	adj	прил	29/Jan/2009
+872	fɛ́fɛ́dhɤ̄	GJ	'fɛfɛdhö	['fɛ 'fɛ dhö]	adv	нар	05/Oct/2008	
+873	fɛ̄i	MG, BE, LJ, DJ	fɛi	ɛi	n	сущ	27/Apr/2000	Human Part?
+874	fía	ia	'fia	n	сущ	26/Jan/2011
+875	fíabhɛ̏n	['fia -mɛ]	'fiamɛ	n	сущ	26/Jan/2011
+876	fíasɯ̏	DJ, GJ, CE, SB, LJ	'fiasü	ленивый	['fia -sü]	29/Jan/2009	adj	прил	paresseux	lazy
+877	fìʌ̄	SB, LJ	=fië'	iʌ	n	сущ	28/Nov/2008	
+878	fȉʌfȉʌdhɤ̄	LJ	-fiëfiëdhö	iʌ	[-fië -fië dhö]	adv	нар	05/Oct/2008
+879	fìi	LJ	=fii	ii	n	сущ	02/Dec/2008	Substance Solid
+880	fȉn	CV-AF	-fin	LJ	v	гл	26/Jan/2011	State Condition Manner Physical Medicine
+881	fíŋ	'fing	22/Aug/2007
+882	fíŋ	LJ	'finng	n	сущ	26/Jan/2011	Animal
+883	flá	CLV	'fla	n	сущ	Peul	LJ	Human	фульбе	24/Sep/2008	Fulbe
+884	flæ̏æn	CLVÃVÃ	-flɛan	n	сущ	jumeau	ɛ̰a̰ ~ ɛ̰ɛ̰	Human	BE, DJ, LJ	близнец	29/Nov/2008	twin
+885	flʌ́ʌ	LJ, BE, GJ	'flëë	CLVV	<*empty-2>	ʌʌ	adj	прил	29/Jan/2009
+886	flʌ́ʌ̏	LJ	'flëë-	CLVV	<Fr>	ʌʌ	n		сущ	30/Jan/2011
+887	flʌ́ʌflʌ́ʌ	LJ, BE, GJ	'flëëflëë	CLVV CLVV	['flëë 'flëë]	26/Jan/2011
+888	fléȅ	RC	'flee-	CLVV	ee	n		30/Jan/2011
+889	flèŋ	CLVN	=fleng	LJ	n	сущ	06/Mar/2010	Plant
+890	flèŋdhʌ́	GA, KD, LJ	=flengnë	CLV÷	[=fleng 'në]	n	сущ	Human Part	18/Nov/2008
+891	flɛ̏ɛn	CLVÃVÃ	-flɛɛn	ɛ̰ɛ̰ ~ ɛ̰a̰	22/Aug/2007
+892	flɛ́ŋ	'flɛnng	CLVÃ÷	22/Aug/2007
+893	flíȉ	MB, LJ	'flii-	CLVV	ii	v	?	30/Jan/2011
+894	flíŋ	CLVÃ÷ ~ CLVÃ ~ CLV÷	'flinng	<*dew>	LJ (wao)	n	сущ	Natural	06/Mar/2010
+895	flɔ́	CLV	'flɔ	SB	n	сущ	26/Jan/2011	
+896	flɤ́	CLV-H	'flö	v	гл	26/Jan/2011
+897	flū	CLV-M	flu	<*throw-1 (to)>	LJ	v	гл	BoundedEvent Agentive Location Physical Purpose	22/Jan/2011
+898	flùflú	CLV CLV	=fluflu	[=flu 'flu, =flu 'flu-]	SB	n	сущ	Cookery Comestible	26/Jan/2011
+899	flùu	SB	=fluu	CLVV-LL	uu	v	гл		22/Jan/2011
+900	flɯ́	CLV	'flü	GA, MA	n	сущ	Living Part
+901	fɔ̏dhɤ̄	SB, LJ	-fɔdhö	[-fɔ dhö]	adv	нар	05/Oct/2008
+902	fɔ̄ŋ	LJ	fɔng	n	сущ	<*aluminium>
+903	fɤ̏	LJ	-fö	n	сущ	09/Jan/2009
+904	fɤ̄dhɛ̏	LJ	födhɛ	[föö -dhɛ]	n	сущ	26/Jan/2011	Artifact Object
+905	fɤ́ŋfɤ̏	BE, GJ, LJ	'föngfö	ɤɤ ~ ɤŋ	['föng -fö]	<*light (not heavy)>	adj	Physical Quantity	прил	29/Jan/2009
+906	fɤ́ɤ̏	ɤɤ	'föö-	n	сущ	30/Jan/2011	Animal
+907	fɤ̄ɤdhɛ̏	ɤɤ	föödhɛ	[föö -dhɛ]	05/Oct/2008
+908	fɤ́ɤfɤ̏	'fööfö	22/Aug/2007
+909	fɤ̄ɯ	MB, LJ	föü	ɤɯ	n	сущ	29/Nov/2008	Natural
+910	fɤ̄yí	LJ	föyi	<*sweat>	[fö 'yi]	n	сущ	Living	29/Nov/2008
+911	fùʌ	LJ	=fuë	CVV-LL	uʌ	v	гл	22/Jan/2011
+912	fùu	MB, BE, LJ, SB	=fuu'-	uu	n	сущ	29/Nov/2008	Artifact Object
+913	gȁ	CV-AF	-ga	<*look-2 (to)>	MG, LJ, GJ, SB	v	гл	27/Jan/2011
+914	gā	<*bone-2>	ga	n	сущ	os	MG, LJ, DJ, GJ	Natural	кость	06/Dec/2008	bone
+915	gā	CV-M	ga	<*die-1>	v	гл	mourir	MG, LJ, GJ	умирать	30/Jan/2011	die
+916	gā	CV-M	ga	смерть	27/Jan/2011	MG, LJ, GJ	n	сущ	mort	death
+917	gàan	SB	=gaan	a̰a̰	n	сущ	23/Jan/2011	
+918	gàān	GJ, LJ	=gaan'	CVV-LNAF	a̰a̰	v	гл	22/Jan/2011
+919	gāgā	DJ, LJ	gaga	[ga ga]	n	сущ	05/Oct/2008	Human Part
+920	gȁn	MB, LJ, SB	-gan	n	сущ	<*Guinea fowl>	Bird
+921	gán	CV-H	'gan	<*pull (to)-2>	v	гл	tirer	MG, LJ, DJ	тянуть	22/Jan/2011	pull
+922	gán	LJ	'gan	n	сущ	30/Jan/2011
+923	gāzʌ̏	GJ, LJ	gazë	[ga -zë]	adj	прил	29/Jan/2009
+924	gɒ̏ɒ	YA, SE	-gaɔ	ɒɒ	n	сущ	27/Jan/2011	Animal
+925	gʌ̄ʌpȉʌklú	DJ, GJ, LJ	gëëpiëklu	iʌ	[gëë -pië 'klu]	n	сущ	Animal	09/Jan/2009
+926	gʌ̄n	DJ, LJ	gën	n	сущ	29/Nov/2008
+927	gʌ̂n	SB, LJ	'gën-	n	сущ	27/Jan/2011	BoundedEvent Communication Condition Experience Modal Purpose Social
+928	gʌ̄ɯ	YA, SE, GJ, GA, MA	gëü	ʌɯ	n	сущ	27/Jan/2011	Animal
+929	gʌ̄ɯbhɛ̏n	LJ	gëümɛ	ʌɯ	[gëü -mɛ]	n	сущ	29/Nov/2008
+930	gɛ	MB, LJ	gɛ-	n	сущ
+931	gɛ̏an	LJ	-gɛan	ɛ̰a̰ ~ ḭa̰	27/Jan/2011
+932	gɛ̀an	LJ - dh	=gɛan	<*widow>	ḛa̰ ~ ɛ̰a̰	n	сущ	Human Relation	18/Feb/2010
+933	gɛ̏dhʌ́ngā	GA, MA	-gɛnnëga	[-gɛn 'në ga]	n	сущ	27/Jan/2011	Human Part
+934	gɛ̏dhɛn	GA, GD	-gɛndhɛ	[-gɛn -dhɛ]	n	сущ	27/Jan/2011	Human Part
+935	gɛ̏dhɛ́n	GJ, LJ, MG	-gɛndhɛ	<pied-feuille>	[-gɛn 'dhɛ]	n		Human Part	27/Jan/2011	сущ
+936	gɛ̏dhɛ́nkwɛ̄ɛdhɛ̏	LJ	-gɛndhɛkwɛɛdhɛ	[-gɛn 'dhɛ kwɛɛ -dhɛ]	loc.n	сущ	09/Jun/2010	Human Part
+937	gɛ́ɛn	LJ	'gɛɛn	<*thorn-2>	ḭḭ ~ iŋ	n	сущ	Natural	29/Nov/2008
+938	gɛ́iŋ	GA, MA, LJ	'gɛing	ɛiŋ	n	сущ	09/Jun/2010	Living Part
+939	gɛ̏n	27/Jan/2011	-gɛn	n	сущ	<*foot, leg>
+940	gɛ̏ngȁlɯ́	MG, LJ	-gɛngalü	<pied-os-bois>	[-gɛn -ga 'lü]	n		Human Part	29/Nov/2008	сущ
+941	gɛ́ngɛ̏n	LJ	'gɛngɛn	['gɛn -gɛn]	adj	прил	27/Jan/2011
+942	gɛ̏nkpɤ̄ɯdhɛ̏	LJ	-gɛnkpöüdhɛ	ɤɯ	[-gɛn kpöü -dhɛ]	loc.n	сущ	Human Part	30/Jan/2011
+943	gɛ̏nkpɤ̄ɯdhɤ	LJ	-gɛnkpöüdhö	[-gɛn kpöü dhö]	27/Jan/2011
+944	gɛ̏nkwɛ̄ɛdhɛ̏	GA, KD, LJ	-gɛnkwɛɛdhɛ	[-gɛn kwɛɛ -dhɛ]	loc.n	сущ	09/Jun/2010	Human Part
+945	gɛ̏nlȍbhɛ̏n	LJ	-gɛnlomɛ	[-gɛn -lo -mɛ]	n	сущ	05/Oct/2008	Human
+946	gɛ́ŋkȍ	LJ	'gɛingko	['gɛing -ko]	n	сущ	27/Jan/2011	Living Part
+947	gȉ	CV-AF	-gi	<*wound-3>	MG, LJ, DJ, GJ, SB	v	гл	22/Jan/2011
+948	gīȁ	dtm	gia-		même	GJ	ia		сам	05/Oct/2008	self
+949	gīȁgȉa	LJ, DJ, GJ	giagia	истинный	[gia- -gia]	29/Jan/2009	adj	прил	véritable	true
+950	gīȁgȉawō	LJ, SB	giagiawo	[gia- -gia wo]	adv	нар	27/Jan/2011
+951	gȉan	-gian	BE, LJ	27/Jan/2011
+952	gīan	BE, GA, MA, LJ, CE	gian	ḭa̰	n	сущ	27/Apr/2000	Animal Insect
+953	gían	ḭa̰	'gian	adj	прил	27/Jan/2011
+954	gíanzʌ̏	GJ, LJ	'gianzë	['gian -zë]	adj	прил	27/Jan/2011
+955	gídhán	LJ	'gina	i-a, n	['gi 'na]	<jula>	n	Magics	сущ	22/Aug/2007
+956	gíȉ	LJ, DJ, BE, SB	'gii-	<*sufferance-2>	ii	n	сущ	State Condition Manner Physical Medicine	30/Jan/2011
+957	gíin	'giin	27/Jan/2011
+958	gíinzʌ̏	LJ	'giinzë	['ging -zë]	adj	прил	27/Jan/2011
+959	gȉkpɛ́	YA, SE, GJ, LJ	-gikpɛ	[-gi 'kpɛ]	n	сущ	27/Jan/2011	Animal
+960	gíŋ	'ging	LJ	27/Jan/2011
+961	gȉpȉn	LJ	-gipin	[-gi -pin]	n	сущ	09/Jan/2009	Medicine
+962	glá	CLV-H	'gla	LJ	v	гл	01/Feb/2011
+963	glàȁ	EF, LJ, MB, SB, CE, OD	=glaa-	CLVV	<*oil palm, young>	aa	n	Plant	сущ	06/Oct/2008
+964	gláaglȁ	LJ	'glaagla	CLVV CLV	['glaa -gla]	aa	adj	прил	29/Jan/2009
+965	glȁan	MB, LJ	-glaan	CLVÃVÃ	a̰a̰ (wo)	n	сущ	Animal
+966	gláan	YA, SE	'glaan	CLVÃVÃ	a̰a̰	n	сущ	Animal
+967	gládhiɤdhɛ̏	LJ	'gladhiödhɛ	CLV	['gla 'dhiö -dhɛ]	loc.n		01/Feb/2011
+968	gládhiɤsɯ́bhɛ̏n	LJ	'gladhiösümɛ	['gla 'dhiö 'sü -mɛ]	n	сущ	22/Aug/2007	Human
+969	glʌ́ŋglʌ̏ŋ	OD, LJ	'glëngglëng	CLV÷ CLV÷	['glëng -glëng]	adj	прил		29/Jan/2009
+970	glègɔ̏	LJ	=glegɔ	CLV	[=gle -gɔ]	n	сущ	01/Feb/2011
+971	glȅŋ	CLV÷	-gleng	LJ	n	сущ	29/Nov/2008	Property Modal
+972	glȅŋzʌ̏	LJ	-glengzë	CLV÷	[-gleng -zë]	adj	прил	Property Modal	29/Jan/2009
+973	glɛ̏ŋ	CLV÷	-glɛng	LJ, MB	n	сущ	Artifact Object
+974	glȉglȉdhɤ̄	LJ	-gliglidhö	CLV CLV	[-gli -gli dhö]	adv	нар	06/Oct/2008
+975	glìī	LJ, DJ	=glii'	CLVV-LNAF	ii	v	гл	BoundedEvent Condition Physical	22/Jan/2011
+976	glìi	BE, GJ, LJ	=glii'-	CLVV-LNAF	ii	v	гл	22/Jan/2011
+977	glìīsɯ̏	LJ, DJ	=gliisü	ii	[=glii' -sü]	CLVV-LNAF	adj	прил	BoundedEvent Condition Physical	01/Feb/2011
+978	glòo	CLVV-LL	=gloo	<*rest>	v	гл	oo	se.reposer	LJ, OD	отдыхать	01/Feb/2011	take.rest
+979	glòo	LJ, OD	=gloo	отдых	01/Feb/2011	oo	n	сущ	repos	rest
+980	glōo	LJ	gloo	CLVV-MM	oo	v	гл	01/Feb/2011
+981	glɔ̄ŋdʌ̄	--LJ, MB, DJ	glɔngdë	[glɔn dë]	n	CLVÃ ~ CVN	сущ	30/Jan/2011	Bird
+982	glɔ̀ɔ	CLVV-LL	=glɔɔ	v	гл	durer	ɔɔ	MB, LJ, SB	длиться	22/Jan/2011	last
+983	glɔ̄ɔ	LJ, DJ, SB	glɔɔ	CLVV	<*banana-3>	ɔɔ	n	Natural Object Comestible	сущ	01/Feb/2011
+984	glɔ́ɔ	YA, SE	'glɔɔ	CLVV	ɔɔ	n	сущ	Reptile
+985	glɔ́ɔglɔ̏	MG, LJ, DJ	'glɔɔglɔ	CLVV CLV	['glɔɔ -glɔ]	ɔɔ	adj	прил	29/Jan/2009
+986	glɔ́ɔglɔ̏dhɛ	LJ	'glɔɔglɔdhɛ	ɔɔ	['glɔɔ -glɔ -dhɛ]	n	сущ	01/Feb/2011
+987	glɔ̀ɔsɯ̏	DJ, GJ, OD, LJ	=glɔɔsü	[=glɔɔ -sü]	adj	прил	01/Feb/2011
+988	glɔ̀ɔsɯ̏	GJ, LJ	=glɔɔsü	[=glɔɔ -sü]	n	сущ	29/Nov/2008
+989	glɤ̀ɤ	LJ	=glöö	CLVV	ɤɤ	n	сущ	01/Feb/2011
+990	glɤ̀ɤbɔ̀ɔbhɛ̏n	LJ	=glööbɔɔmɛ	[=glöö =bɔɔ -mɛ]	n	сущ	01/Feb/2011	Creature
+991	glȕ	CLV-AF	-glu	<*divide>	LJ, SB	v	гл	02/Feb/2011
+992	glȕ	CLV	-glu	<*war>	BE, MG, LJ	n	сущ	07/Oct/2008
+993	glȕ	CLV	-glu	<*hole>	MG, LJ	n	сущ	07/Oct/2008
+994	glú	CLVV ~ CLV	'glu	uu ~ u	EF, LJ	loc.n	сущ	Relation Location	02/Feb/2011
+995	glúʌ̏kwȉ	CLVV	'gluëkwi	uʌ	['gluë- -kwi]	n	сущ	02/Feb/2011
+996	glȕbhadháâ	DJ, --LJ	-glubhadhaa	[-glu -bha 'dhaa- -pë]	n	сущ	23/Jan/2011
+997	glȕdʌ̄	LJ, SB	-gludë	CLV	[-glu dë]	n	сущ	Human Occupation Social Condition	02/Feb/2011
+998	glȕdhí	LJ	-gludhi	[-glu 'dhi]	n	сущ	07/Oct/2008
+999	glúdhī	LJ	'gludhi	CLV	['glu dhi]	n	сущ	02/Feb/2011
+1000	glùɛīn	LJ	=gluɛin'	CLVVV	ṵɛ̰ḭ	n	сущ	BoundedEvent Communication Condition Experience Modal Purpose Social	23/Jan/2011
+1001	glùɛ̄n	LJ	=gluɛn'	CLVÃVÃ		ṵɛ̰	n	сущ	23/Jan/2011
+1002	glùɛ̄nzʌ̏	LJ	=gluɛnzë	CLVÃVÃ	[=gluɛn' -zë]	adj	прил	02/Feb/2011
+1003	glȕgɔ̄bhɛ̏n	GJ	-glugɔnmɛ	[-glu gɔɔn -mɛ]	n	сущ	30/Jan/2011	Human
+1004	glȕkʌ̄bhɛ̏n	LJ, GJ	-glukëmɛ	[-glu kë -mɛ]	n	сущ	22/Aug/2007	Human
+1005	glȕkpá	BE, MG, LJ, DJ	-glukpa	[-glu 'kpa]	n	сущ	30/Jan/2011
+1006	glȕpíɤpʌ̏	LJ	-glupiöpë	[-glu 'piö -pë]	n	сущ	30/Jan/2011
+1007	glúsʌ̏	LJ, GJ	'glusë	['glu -së]	n	сущ	30/Jan/2011
+1008	glúu	'gluu	06/Dec/2008
+1009	glùūzʌ̏	LJ	=gluuzë	CLVV	[=gluu' -zë]	uu	<*deep-2>	adj	прил	29/Jan/2009
+1010	glúyāabhɛ̏n	LJ, SB	'gluyaamɛ	['glu yaa -mɛ]	n	сущ	22/Aug/2007	Human Condition
+1011	glɯ́lɯ̏	SB	'glülü	CLV	['glü -lü]	n	сущ	Plant	02/Feb/2011
+1012	glɯ̀ɯ	MG, LJ, SB	=glüü'-	CLVV-LNAF	ɯɯ	v	гл	02/Feb/2011
+1013	glɯ́ɯzʌ̏	'glüüzë	CLVV	22/Aug/2007
+1014	gȍ	CV-AF	-go	DJ, LJ	v	гл	22/Jan/2011
+1015	gó	CV-H	'go	уходить	02/Feb/2011	v	гл	s'en.aller	<*go away (to)>	go.away
+1016	gȍo	GA, GD, LJ	-goo	oo	n	сущ	02/Feb/2011	
+1017	gòȍ	EF, LJ	=goo-	oo	n	сущ	Human Occupation
+1018	gōo	MB, MG, LJ, GJ, SB	goo	oo	n	сущ	<*hill-2>	Natural Place
+1019	gōo	EF, DJ, LJ	goo-	<*cockroach-2>	oo	n	сущ	Insect	07/Oct/2008
+1020	góo	MB, LJ	'goo	oo	n	сущ	06/Dec/2008	Bird
+1021	góô	oo	'goo-	n	сущ	07/Oct/2008
+1022	góo dhòo dɔ̏ɔ	LP	'goo =dhoo -dɔɔ		ɔɔ	n	сущ	Bird	14/Dec/2008
+1023	gɔ̏	<*head-1>	-gɔ	n	сущ	tête	MG, LJ, GA, GJ, DJ, CE	Living Part	голова	02/Feb/2011	head
+1024	gɔ̏	MG, LJ, GA, GJ, DJ, CE	-gɔ	PP	29/Nov/2008	pp	пл	PP	PP
+1025	gɔ̏	MG, LJ, GA, GJ, DJ, CE	-gɔ	POSS.LOC	25/Jul/2008	pp	пл	POSS.LOC	POSS.LOC
+1026	gɔ̄	EF, LJ	gɔ	<*boat-5>	n	сущ	07/Oct/2008	Artifact Object Vehicle
+1027	gɔ́	LJ	'gɔ	n	сущ	02/Feb/2011	Human Occupation Social Condition
+1028	gɔ́	LJ	'gɔ	n	сущ	29/Nov/2008	Plant
+1029	gɔ	EF, LJ, SB, CE	gɔ-	<*cola nut>	n	сущ	02/Feb/2011	Natural Object Comestible
+1030	gɔ́bhȁn	DJ, LJ	'gɔma	['gɔ -ma]	n	сущ	22/Aug/2007	Bird
+1031	gɔ̏bhɛ̏n	LJ, BE, GJ	-gɔmɛ	<tete-personne>?	[-gɔ -mɛ]	n	<ãîëîâà-÷åëîâåê>??	Human	07/Oct/2008	сущ
+1032	gɔ̄bhìʌ̄n	LJ, DJ, GJ	gɔmië	iʌ	[gɔ =mië']	n	сущ	Artifact Object Vehicle	07/Oct/2008
+1033	gɔ̏dhíɤbhɛ̏n	LJ	-gɔdhiömɛ	[-gɔ 'dhiö -mɛ]	n	сущ	07/Oct/2008	Human
+1034	gɔ̏gā	LJ, DJ	-gɔga	[-gɔ -ga]	n	сущ	03/Dec/2008	Living Part
+1035	gɔ̏gȁgɯ́dhɛ̏	LJ	-gɔgagüdhɛ	[-gɔ -ga 'gü -dhɛ]	n	сущ	22/Aug/2007
+1036	gɔ̏n	CV-AF	-gɔn	LJ	v	гл	02/Feb/2011
+1037	gɔ̏n	LJ	-gɔn	ɔ̰ɔ̰ ~ ɔ̰	n	сущ	02/Feb/2011	BoundedEvent Agentive Physical Purpose
+1038	gɔ̀n	EF, BE, LJ	=gɔn	муж	02/Feb/2011	n	сущ	KinTerm	mari	husband
+1039	gɔ̄n	DJ, LJ	gɔn	adj	прил	02/Feb/2011	Relation
+1040	gɔ̄ŋgɔ̄ŋ	DJ, LJ	gɔnggɔng	<*bell-2>	[gɔng gɔng]	n	сущ	Artifact Object	02/Feb/2011
+1041	gɔ́ɔ	LP	'gɔɔ	ɔɔ	n	сущ	14/Dec/2008
+1042	gɔ́ɔ̏	<*leopard>	'gɔɔ-	ɔɔ	n	сущ	02/Feb/2011	Animal
+1043	gɔ́ɔ̏	MG, LJ	'gɔɔ-		ɔɔ	n		02/Feb/2011	сущ
+1044	gɔ̄ɔ̏bhɛ̏dhēn	MG, LJ	gɔɔnmɛdhe		[gɔɔn- -mɛ dhe]	n		Human	02/Feb/2011	сущ
+1045	gɔ̀ɔbhɛ̏n	LJ	=gɔɔnmɛ	[=gɔɔn -mɛ]	n	сущ	22/Aug/2007	Human
+1046	gɔ̏ɔn	-gɔɔn	02/Feb/2011
+1047	gɔ̀ɔn	CVV-LL	=gɔɔn	MG, LJ	v	гл	22/Jan/2011	BoundedEvent Agentive Physical Purpose
+1048	gɔ̀ɔ̄n	DJ	=gɔɔn'	ɔ̰ɔ̰	n	сущ	Artifact Object Instrument
+1049	gɔ̄ɔ̏n	<*male, man-1>	gɔɔn-	n	сущ	homme(mâle)	ɔ̰ɔ̰	Human	MG, DJ, BE, CE, LJ	мужчина	02/Feb/2011	man(male)
+1050	gɔ̄ɔ̏ndʌ̄	<homme-père>	gɔɔndë	[gɔɔn- dë]	n	<мужчина-отец>	<man-father>	Human	SB, RC, LJ	02/Feb/2011	сущ
+1051	gɔ̄ɔ̏ndē	LJ	gɔɔnde	[gɔɔn- de]	n	сущ	02/Feb/2011	Human Time
+1052	gɔ̄ɔ̏ngbóȍ	MG, LJ	gɔɔngboo		[gɔɔn- 'gboo-]	n		Human Time	02/Feb/2011	сущ
+1053	gɔ̄ɔ̏nklɤ̀ɤ	DJ, LJ	gɔɔnklöö	[gɔɔn- =klöö]	n	сущ	02/Feb/2011	Human Time
+1054	gɔ́ɔnyùā	LJ	'gɔɔnyua	ɔ̰ɔ̰	['gɔɔn =yua']	n	сущ	02/Feb/2011
+1055	gɔ̄ɔpʌ̏	LJ	gɔɔpë	ɔɔ	[gɔɔ -pë]	n	сущ	Relation Communication Purpose Possession Social	29/Nov/2008
+1056	gɔ̏pʌ̏	DJ, LJ	-gɔpë	[-gɔ -pë]	n	сущ	07/Oct/2008	Relation Possession Social
+1057	gɔ́ugɔ̏	LJ	'gɔugɔ	['gɔu -gɔ]	adj	прил	02/Feb/2011
+1058	gɔ́ugɔ̏	LJ, OD	'gɔugɔ	['gɔu -gɔ]	n	сущ	23/Feb/2010
+1059	gɔ̀ɯ̄	=gɔü'	02/Feb/2011	ɔɯ
+1060	gɤ́ŋ̏	MB	'göng-		n		02/Feb/2011	Human Part	сущ
+1061	gɤ̀ɤ̏	ироко	=göö-	29/Nov/2008	ɤɤ	n	сущ	iroko	<*iroko>	iroko
+1062	gū	SB	gu	n	сущ	Animal
+1063	gú	<*stomach, belly-1>	'gu	n	сущ	stomach	MG, BE, LJ, GA	Living Part	живот	02/Feb/2011	belly
+1064	gȕa	ua	-gua	n	сущ
+1065	gùʌ̄	uʌ	=guë'	n	сущ	07/Jan/2009
+1066	gúɛdúkpȍ	YA, SE	'guɛdukpo	uɛ	['guɛ 'du -kpo]	n	сущ	Reptile	29/Nov/2008
+1067	gúɛfīʌn	YA, SE	'guɛfiën	['guɛ fiën]	n	сущ	29/Nov/2008	Reptile
+1068	gúgbɔ̄	BE, GA, LJ	'gugbɔ	['gu gbɔ]	n	сущ	29/Nov/2008	Living Part
+1069	gúlɤ̀tȁ	LJ	'gulöta	['gu =lö -ta]	n	сущ	22/Aug/2007	State Condition Manner Physical Medicine
+1070	gȕŋ	MB, LJ	-gunng	ṵṵ ~ ṵŋ	n	сущ	29/Nov/2008	
+1071	gùŋzȉʌ	iʌ	=gungzië	<*albinos-2>	[=gung -zië -mɛ]	n	сущ	Human	02/Feb/2011
+1072	gȕɤ	BE, MG, LJ, DJ, GJ, CE	-guö	<*stone-1>	uɤ	n	сущ	Natural	02/Feb/2011
+1073	gùɤ̄	GJ; LJ -- wo	=guö'	uɤ	n	сущ	02/Feb/2011	Reptile
+1074	gȕɤgā	BE, MG, LJ, DJ, GJ	-guöga	[-guö ga]	n	сущ	22/Aug/2007	Natural
+1075	gȕɤgbɔ̄ŋ	MG, LJ, GJ	-guögbɔng	[-guö gbɔng]	n	сущ	22/Aug/2007	Natural
+1076	gȕɤkpɤ̄	BE, MG, LJ, DJ	-guökpö	[-guö kpö]	n	сущ	22/Aug/2007	Natural
+1077	gȕɤpúuyí	BE, LJ	-guöpuuyi	[-guö 'puu 'yi]	n	сущ	02/Feb/2011
+1078	gúu	SB	'guu	uu	n	сущ	Plant
+1079	gúudʌ̄	['guu dë]	'guudë	n	сущ	caméléon	uu	Reptile	LJ, DJ	хамелеон	07/Oct/2008	chameleon
+1080	gùun	LJ	=guun	ṵṵ	n	сущ	02/Feb/2011	Natural
+1081	gúun	DJ, --LJ	'guun	ṵṵ ~ ṵ	n	сущ	09/Jan/2009
+1082	gɯ́	в	'gü	02/Feb/2011	pp	пл	dans	in
+1083	gɯ́	MG, LJ, DJ, GJ	'gü	нутро	07/Oct/2008	n	сущ	intérieur	<*stomach, belly-4>	inside
+1084	gɯ́ʌ	BE, LJ	'güë	['güë ga]	ɯʌ	n	сущ	Artifact Instrument Music	02/Feb/2011
+1085	gɯ́ʌŋgɯ̏ʌŋ	MB, LJ	'güënggüëng	ɯʌŋ	['güëng -güëng]		adj		прил	27/Feb/2010
+1086	gɯ́-dān	LJ	'gü dan	v	гл	22/Jan/2011
+1087	gɯ́-gā	LJ	'gü ga		v		гл	22/Jan/2011
+1088	gɯ́gādhe	LJ, GJ	'gügadhe	['gü ga dhe]	n	сущ	29/Nov/2008	Property Physical Modal
+1089	gɯ́glȕdhē	LJ	'gügludhe	['gü -glu dhe]	n	сущ	29/Nov/2008	BoundedEvent Communication
+1090	gɯ̀ŋ̄	LJ	=güng'	n	сущ		
+1091	gɯ̀ŋ̄zʌ̏	[=güng' -zë]	=güngzë	adj	прил	02/Feb/2011
+1092	gɯ́ɤ	BE, MG, LJ, DJ	'güö	CVV-HH	<*burn-3>	ɯɤ	v	гл	22/Jan/2011
+1093	gɯ́-sìɤ	LJ	'gü =siö'	v	гл	02/Feb/2011
+1094	gɯ́sìɤbhɛ̄n	LJ	'güsiömɛ	['gü =siö'- mɛ]	n	08/Nov/2008
+1095	gɯ́sìɤdhē	LJ	'güsiödhe	['gü =siö'- dhe]	n	сущ	29/Nov/2008	Static Existence Physical
+1096	gɯ́sìɤsɯ̏	LJ	'güsiösü	['gü =siö'- -sü]	n	сущ	29/Nov/2008	Static Existence Physical
+1097	gɯ́ɯzʌ̏	LJ	'güüzë	ɯɯ	['güü -zë]	adj	прил	Property Physical	30/Jan/2009
+1098	gbȁ	Animal	-gba	02/Feb/2011	EF, LJ, MB	n		<*duiker>	сущ
+1099	gbà	DJ, --LJ	=gba	<*roof-2>	n	сущ	02/Feb/2011
+1100	gbà	DJ, LJ	=gba	<*bed-2>	n	сущ	02/Feb/2011	Artifact Object Furniture
+1101	gbā	<*bat-4>	gba	n		écureuil(esp.)	EF	белка(вид)	11/Jul/2008	сущ	squirrel(sp.)
+1102	gbā	CV-M	gba	v	гл	02/Feb/2011
+1103	gbā	LJ	gba		n	сущ	02/Feb/2011	
+1104	gbá	'gba	EF, GA, MA, LJ	22/Aug/2007
+1105	gba	MB, LJ	gba-		n		12/Feb/2010	Natural	сущ
+1106	gbȁa	DJ, LJ	-gbaa	aa	n	сущ	29/Nov/2008
+1107	gbȁa	<*cobra (Naja negricoles)>	-gbaa	n	сущ	naja	aa	Reptile	SB, LJ	кобра	29/Nov/2008	cobre
+1108	gbàā	DJ, KB, LJ	=gbaa'	aa	n	сущ	03/Feb/2011	Magics
+1109	gbāa	CVV-MM	gbaa	<*give (to)-2>	v	гл	aa	BoundedEvent Agentive Possession Purpose	donner	MG, LJ	давать	03/Feb/2011	give
+1110	gbāa	GJ	gbaa	aa	n	сущ	02/Feb/2011	Reptile
+1111	gbáa	LJ	'gbaa		aa	n	сущ		29/Nov/2008
+1112	gbàabóŋ	MG	=gbaabong	aa	[=gbaa 'bong]	<jula>	n	Artifact Object Building	сущ	03/Feb/2011
+1113	gbàādhūn	nuCVV	=gbaannu	[=gbaan' nu]	v	гл	a̰a̰	s'arrêter	останавливаться	22/Jan/2011	stop
+1114	gbàāgā	DJ, KB, LJ	=gbaaga	[=gbaa' ga]	n	сущ	03/Feb/2011	Magics
+1115	gbāȁn	gbaan-	LJ	05/Feb/2011
+1116	gbàāzɔ̀ŋ̄	DJ, LJ	=gbaazɔng	aa	[=gbaa' =zɔng']	n	сущ	State Condition Manner Physical Medicine	03/Feb/2011
+1117	gbȁbhɯɤ	LJ	-gbabhüö		[-gba -bhüö]	n	сущ		02/Feb/2011
+1118	gbȁdhɛn	GA, MA, LJ	-gbandhɛ	[-gban -dhɛ]	n	сущ	05/Feb/2011	Natural
+1119	gbágɛ̀īnpʌ̏	GA, KD	'gbagɛinpë	ɛ̰ḭ	['gba =gɛin' -pë]	n	сущ	Living Part	02/Feb/2011
+1120	gbāklɯ̄dʌ̄	[gba klü dë]	gbaklüdë	n	сущ	09/Jan/2009	Animal
+1121	gbȁn	CV-AF	-gban	втыкать	05/Feb/2011	v	гл	enfoncer	drive.in
+1122	gbàn	LJ	=gban	n	сущ	08/Oct/2008
+1123	gbān	EF, MG, LJ	gban	<*shoulder-2>	n	сущ	05/Feb/2011	Human Part
+1124	gbán	MG, LJ, GA	'gban	<*thigh>	n	сущ	05/Feb/2011	Human Part
+1125	gban	EF	gban-		n		08/Oct/2008	сущ
+1126	gban	LJ	gban-		n	сущ	23/Jan/2011	
+1127	gbántȁ	GA, MA	'gbanta	['gban -ta]	n	сущ	05/Feb/2011	Human Part
+1128	gbāntʌ́ʌ	GA, KD	gbantëë	[gban 'tëë]	n	сущ	05/Feb/2011	Living Part
+1129	gbȁntȉa	LJ	-gbantia	[-gban -tia]	n	сущ	05/Feb/2011	Artifact Object
+1130	gbánzlɤ̀ɤdhɛ̏	GA, MA	'gbanzlöödhɛ	['gban =zlöö -dhɛ]	n	сущ	05/Feb/2011	Living Part
+1131	gbáŋklú	GJ	'gbanngklu	['gbanng 'klu]	n	сущ	05/Feb/2011	Artifact Object Instrument
+1132	gbāŋkɔ́	LJ	gbangkɔ	[gbang -kɔ]	n	сущ	05/Feb/2011	Artifact Object Building
+1133	gbāpʌ̏	DJ, LJ	gbapë	<adorer-chose>	[gba -pë]	n	сущ	06/Dec/2008
+1134	gbȁvían	LJ	-gbavian	ḭa̰	[-gba 'vian]	n	сущ	02/Feb/2011
+1135	gbɒ̄ɒ	ɒɒ	gbaɔ	n	сущ	23/Jan/2011
+1136	gbɒ̀ɒn	LJ	=gbaɔn	CVV-LL	ɒ̰ɒ̰	v	гл	05/Feb/2011
+1137	gbɒ̀ɒnsɯ̏	RC1, SB, --LJ	=gbaɔnsü	[-gbaɔn -sü]	adv	нар	05/Feb/2011
+1138	gbɒ̄ɒpʌ̏	LJ	gbaɔpë	[gbaɔ -pë]	n	сущ	22/Aug/2007	Relation Communication Purpose Possession Social
+1139	gbǣæ̏	BE, GA, MA, DJ, LJ	gbɛa-	ɛa	n	сущ	08/Oct/2008	Reptile
+1140	gbǣæ̏	LJ, EF	gbɛa-	ɛa	n	сущ	08/Oct/2008	Artifact Object
+1141	gbæ̀æn	LJ	=gbɛan-	ɛ̰a̰	n	сущ	08/Oct/2008	Artifact Object Instrument
+1142	gbʌ́	EF, GA, MA, LJ	'gbë		n		08/Oct/2008	Living Part	сущ
+1143	gbʌ̄ŋ̏	MB	gbëng-	<*intestin-2>	n	сущ	05/Feb/2011	Living Part
+1144	gbʌ̄ŋ̏bhɯɤ	LJ, GA, MA, KD	gbëngbhüö	[gbëng- -bhüö]	n	сущ	09/Feb/2011	Living Part
+1145	gbʌ̄ŋ̏gā	LJ, GA	gbëngga	[gbëng- ga]	n	сущ	05/Feb/2011	Living Part
+1146	gbʌ́ŋgbʌ̏ŋ	LJ	'gbënggbëng		['gbëng -gbëng]	adj		30/Jan/2009	прил
+1147	gbʌ̏ɯ	CE, LJ	-gbëü	ʌɯ	n	сущ	Insect
+1148	gbʌ̀ɯ	DJ, GJ, SB, LJ	=gbëü	ʌɯ	n	сущ	29/Nov/2008	Artifact Object Container
+1149	gbʌ̏ɯgbʌ̏ɯ	LJ	-gbëügbëü	ʌɯ	[-gbëü -gbëü]	n	сущ	Artifact Object	22/Aug/2007
+1150	gbēdhēnkȕn	LJ, GJ	gbenekun	[gbe ne -kun]	n	сущ	09/Feb/2011	Insect
+1151	gbédhiɤbɔ̄pʌ̏	GJ	'gbedhiöbɔpë	['gbe 'dhiö bɔ -pë]	n	сущ	05/Feb/2011	Artifact Object Instrument
+1152	gbéȅ	MG, LJ, DJ, GJ, CE	'gbee-	<*difficult>	ee	adj	прил	09/Feb/2011
+1153	gbéegbȅ	GJ, LJ	'gbeegbe	['gbee -gbe]	adj	прил	03/Dec/2008
+1154	gbéêzʌ̏	DJ, LJ	'gbeezë	['gbee- -zë]	adj	прил	30/Jan/2009
+1155	gbèī	GJ, SB	=gbei'	ei	n	сущ	Artifact Object
+1156	gbȅŋ	LJ	-gbeng	<*squirrel-3>	n	сущ	09/Feb/2011	Animal
+1157	gbēŋ	LJ	gbeng	<*night-2>	eiŋ ~ eŋ	n	сущ	BoundedEvent Time	09/Feb/2011
+1158	gbēŋbhɛ̏ɛ	YA, SE	gbengmɛɛ	[gbeng -mɛɛ]	n	сущ	09/Feb/2011	Reptile
+1159	gbēŋgbànlɯ̏	LJ	gbenggbanlü	[gbeng =gban -lü]	n	сущ	09/Feb/2011
+1160	gbēŋgbēŋ	MG, LJ, GJ	gbenggbeng	[gbeng gbeng]	n	сущ	09/Feb/2011
+1161	gbɛ̄	BE, DJ, GJ, SB, LJ	gbɛ	adj	прил	30/Jan/2009
+1162	gbɛ́a	MB, LJ	'gbɛa	ɛa ~ ia	n	сущ	23/Jan/2011	Artifact Object
+1163	gbɛ́a	MB, MG, LJ, DJ, GJ	'gbɛa	ɛa			adj		30/Jan/2009	прил
+1164	gbɛ́ɛdhɤ̄	['gbɛɛ dhö]	'gbɛɛdhö	adv	нар	jamais	ɛɛ	Static Time	GJ	никогда	08/Oct/2008	never
+1165	gbɛ̀ɛn	<*long-2>	=gbɛɛn	adj	прил	long	ɛ̰ɛ̰ ~ ḭḭ ~ ɛ̰ɛ̰ŋ ~ ɛiŋ	GA, GD, LJ	длинный	07/Dec/2008	long
+1166	gbɛ̀ɛn	GA, GD, LJ	=gbɛɛn	далеко	25/Jul/2008	ɛ̰ɛ̰ ~ ḭḭ ~ ɛ̰ɛ̰ŋ ~ ɛiŋ	adv	нар	loin	far
+1167	gbɛ́gbɛ̏	MA, KD, LJ	'gbɛgbɛ	['gbɛ -gbɛ]	adj	прил	20/Dec/2008
+1168	gbɛ̄gbɛ̄zʌ̏	DJ, LJ	gbɛgbɛzë	[gbɛ gbɛ -zë]	adj	прил	29/Nov/2008
+1169	gbɛ́î	DJ, SB; (dh, -bl)KJ	'gbɛi-		ɛi	n		Artifact Object Garment	29/Nov/2008	сущ
+1170	gbɛ̀iŋ	=gbɛing	22/Aug/2007	ɛiŋ ~ ɛ̰ɛ̰
+1171	gbɛn	<*dog-2>	gbɛn-	n	сущ	chien	MB, MG, LJ, GJ, CE	Animal	собака	08/Oct/2008	dog
+1172	gbía	'gbia	22/Aug/2007	ia ~ ɛa
+1173	gbīidhɤn	SB	gbiindhö	ḭḭ	loc.n		08/Oct/2008
+1174	gbìin	=gbiin	22/Aug/2007	ḭḭ ~ ɛ̰ɛ̰
+1175	gbíiŋ̂	--LJ	'gbiing-	<*heavy-2>	iiŋ ~ ḭḭ ~ ḭŋ	adj	прил	27/Feb/2010
+1176	gbíngbȉn	LJ	'gbingbin	['gbin -gbin]	adj	прил	22/Aug/2007	Property Physical Quantity
+1177	gbío	SB	'gbio	io	n	сущ	Bird
+1178	gbȉɤ	MG, LJ	-gbiö	<*arm>	iɤ	n	сущ	Human Part	29/Nov/2008
+1179	gblá	CLV-H	'gbla	LJ, DJ	v	гл	23/Jan/2011
+1180	gblàā	LJ	=gblaa'	CLVV	<*cap-1>	aa	n	Artifact Object Garment	сущ	08/Oct/2008
+1181	gblàȁgblá	OD, LJ	=gblaagbla	aa	[=gblaa 'gbla]	CLVV-CV	v	гл	22/Jan/2011
+1182	gblāŋ	CLV÷	gblang	n	сущ	08/Oct/2008	Artifact Object Garment
+1183	gbláudhɤ̄	LJ	'gblaudhö	CLVV	['gblau dhö]	au	adv	нар	08/Mar/2010
+1184	gblɒ̏ɒn	DJ, LJ	-gblaɔn	CLVÃVÃ		ɒ̰ɒ̰	n		08/Oct/2008	сущ
+1185	gblʌ́	CLV	'gblë	LJ, GA, MA	n	сущ	08/Oct/2008	Human Part
+1186	gblʌ̀ʌ	BE, LJ	=gblëë'-	CLVV-LNAF	<*pull (to)-3>	ʌʌ	v	гл	22/Jan/2011
+1187	gblʌ̏ʌ gú tȁ wɯ̏	GJ, LJ	-gblëë 'gu -ta -wü	n	сущ	09/Jan/2009	Reptile
+1188	gblʌ̄ʌn	CE, --LJ	gblëën-	CLVÃVÃ	ʌ̰ʌ̰	n	сущ	Living Part
+1189	gblɛ̏ibȉzʌ̏	LJ	-gblɛibizë	CLVV	[-gblɛi -bi -zë]	ɛi	adj	прил	07/Jan/2009
+1190	gbló	CLV	'gblo	n	сущ	29/Nov/2008	Living Part
+1191	gblōŋ	gblong	CLV÷ ~ CLVV	22/Aug/2007
+1192	gblȍo	CLVV	-gbloo	oo	n	сущ	08/Oct/2008	Artifact Object Furniture
+1193	gblòo	CLVV-LL	=gbloo	oo	v	гл	22/Jan/2011
+1194	gblōo	CE, LJ	gbloo	CLVV ~ CLV÷	oo ~ oŋ	n	сущ	Natural Object Comestible	<*gombo>
+1195	gblȍo dhʌ́n	LJ	-gbloo 'në	n	сущ	Artifact Object Furniture
+1196	gblɔ̏dhēslʌ̄n	LJ, LP	-gblɔdheslën	CLV	[-gblɔ dhe slën]	n	сущ	Animal	07/Dec/2008
+1197	gblɔ̄ɔ	SB	gblɔɔ	CLVV-MM	ɔɔ	v	гл		22/Jan/2011
+1198	gblɤ́gblɤ́	LJ, GJ	'gblögblö	CLV CLV	['gblö 'gblö]	adj	прил	03/Dec/2008
+1199	gblɯ́	CLV-H	'gblü	LJ	v	гл	22/Jan/2011	UnboundedEvent Purpose
+1200	gblɯ̄ʌ	DJ, LJ	gblüë-	['gblü =bhaa']	CLVV	ɯʌ	n	Bird	сущ	29/Nov/2008
+1201	gblɯ̄ʌdhūn	LJ	gblüënnu	[gblüën nu]	nuCLVV	ɯ̰ʌ̰	v	гл	22/Jan/2011
+1202	gblɯ̏ŋ	LJ	-gblüng	CLVÃVÃ ~ CLV÷	<*python-3>	ɯ̰ɯ̰ ~ ɯŋ	n	Reptile	сущ	08/Jan/2009
+1203	gblɯ̏ɯn	-gblüün	22/Aug/2007
+1204	gblɯ́ɯnzʌ̏	MB, CE	'gblüünzë	CLVÃVÃ	['gblüün -zë]	ɯ̰ɯ̰	adj		прил	22/Aug/2007
+1205	gbȍ	MG, LJ	-gbo	n	сущ	03/Dec/2008	
+1206	gbō	10/Dec/2008	gbo	n	сущ	<*excrement-1>
+1207	gbó	LJ	'gbo		n	сущ	23/Jan/2011
+1208	gbō kɔ́	GJ	gbo 'kɔ	n	сущ	
+1209	gbȍa	-gboa	08/Oct/2008	oa ~ ua
+1210	gbōbhɯ̀ɤ	MG, LJ	gbobhüö	<excrement-corde>	[gbo =bhüö]	n		Human Part	22/Aug/2007	сущ
+1211	gbōgā	DJ, LJ	gboga	[gbo ga]	n	сущ	29/Nov/2008	Natural Solid
+1212	gbóŋgbó	DJ, LJ	'gbonggbo	<*bucket>	['gbong 'gbo]	n	сущ	Artifact Object	08/Oct/2008
+1213	gbōŋgbōdhɤ	LJ	gbonggbodhö	[gbong gbo dhö]	adv	нар	08/Oct/2008	Static Time
+1214	gbóô	DJ, LJ	'gboo-		oo	adj			29/Nov/2008	прил
+1215	gbóôdhɛ̏	['gboo- -dhɛ]	'gboodhɛ	n	сущ	29/Nov/2008	Human Time
+1216	gbɔ̄	<*pot-2>	gbɔ	n	сущ	pot	DJ, --LJ	Natural Substance	горшок	08/Oct/2008	pot
+1217	gbɔ̄	LJ, GJ	gbɔ	adv	нар	11/Jul/2008
+1218	gbɔ́	LJ	'gbɔ	n	сущ	Living Part
+1219	gbɔ̀ngbɔ̀nsɯ̏	MG, LJ	=gbɔngbɔnsü	[=gbɔn =gbɔn -sü]	adv	нар	29/Nov/2008
+1220	gbɔ̄ŋgbɔ̄	YA, SE	gbɔnggbɔ	[gbɔng gbɔ]	n	сущ	08/Oct/2008	Animal
+1221	gbɔ̄ŋgbɔ́	DJ, LJ	gbɔnggbɔ	<*bamboo-2>	[gbɔng 'gbɔ]	n	сущ	Plant	07/Dec/2008
+1222	gbɔ̄ŋgbɔ̄ tȉa	YA, SE	gbɔnggbɔ -tia	[gbɔng gbɔ -tia]	n	сущ	08/Oct/2008	Reptile
+1223	gbɔ̀ŋ	YA, SE	=gbɔng'-	n	сущ	Animal
+1224	gbɔ̀ɔ̄	LJ	=gbɔɔ'	ɔɔ	n	сущ	03/Dec/2008	Natural Plant Group
+1225	gbɔ̏ɔn	BE, LJ	-gbɔɔn	ɔ̰ɔ̰	n	сущ	Insect
+1226	gbɔ̄ɔn	YA, SE	gbɔɔn-	ɔ̰ɔ̰	n	сущ	Fish
+1227	gbɔ́ɔtōo	LP	'gbɔɔtoo	oo	['gbɔɔ too]	n	сущ	Bird	29/Nov/2008
+1228	gbɔ̄sɛ́	GJ, LJ	gbɔsɛ	[gbɔ 'sɛ]	n	сущ	09/Jan/2009	Natural Substance
+1229	gbɔ̏udhɤ̄	LJ	-gbɔudhö	[-gbɔu dhö]	adv	нар	23/Jan/2011
+1230	gbɤ̄	LJ, GJ, OD, RC	gbö	<*son>	n	сущ	06/Jan/2009	KinTerm
+1231	gbɤ̏ŋ	SB	-gböng	n	сущ	29/Nov/2008
+1232	gbȕa	MB, LJ	-gbua		ua ~ oa	n	сущ		08/Oct/2008
+1233	gbúʌ̂ {lɯ́}	DJ, LJ	'gbuë- {'lü}	uʌ	n	сущ	29/Nov/2008	Plant
+1234	gbuɛ	--LJ, MB	gbuɛ		n		08/Oct/2008	сущ
+1235	gbūŋ	DJ, GJ, LJ	gbung	n	сущ	08/Oct/2008	Social Quantity
+1236	gbɯ̄ŋ	MB, LJ	gbüng		onomat		07/Jun/2010	
+1237	gwā	LJ	gwa	n	сущ	08/Oct/2008	Natural
+1238	gwȁa	KB	-gwaa		aa	n	сущ	29/Nov/2008
+1239	gwāadhɛ̏	LJ	gwaadhɛ	aa	[gwaa- -dhɛ]	n	сущ	04/Jun/2010
+1240	gwāadhɤ	LJ	gwaadhö	[gwaa- dhö]	loc.n	сущ	08/Oct/2008
+1241	gwāan		gwaan	a̰a̰	n	сущ	23/Jan/2011	State
+1242	gwāndhē	MG, LJ	gwandhe		[gwan dhe]	n		Human	29/Nov/2008	сущ
+1243	gwàngā	BE, LJ	=gwanga	<*river-2>	[=gwan ga]	n			22/Aug/2007	сущ
+1244	gwʌ̏ʌ	SB, DJ	-gwëë		ʌʌ ~ uʌ	n		Natural Object Comestible	04/Jun/2010	сущ
+1245	gwɛ	LJ -- dh	gwɛ-	<*ceiba (Ceiba pentandra)-2>	ɛɛ	n	сущ	Plant	14/Dec/2008
+1246	gwɛ̏ɛ	SB, --LJ	-gwɛɛ	ɛɛ	n	сущ	08/Oct/2008	
+1247	ì	LJ	=i	Q	14/Dec/2008	prt	част	Q	Q
+1248	ìȉ	LJ, SB, RC	=ii-	itj	межд
+1249	īn	GJ	in	Q	27/Jul/2008	prt	част	Q	Q
+1250	íŋ	LJ	'inng	cnj	союз	02/May/2000
+1251	kȁ	LJ, GJ	-ka	2PL.IMP	14/Dec/2008	pron	л.мест	2PL.IMP	2PL.IMP
+1252	kā	LJ, EF	ka	2PL.EXI	14/Dec/2008	pron	л.мест	2PL.EXI	2PL.EXI
+1253	kā	LJ	ka	2PL.AUT	14/Dec/2008	pron	л.мест	2PL.AUT	2PL.AUT
+1254	kā	DJ, LJ	ka	2PL.NSBJ	14/Dec/2008	pron	л.мест	2PL.NSBJ	2PL.NSBJ
+1255	ká	LJ, MG, GJ	'ka	<*with>	pp	пл	08/Oct/2008
+1256	ká	LJ, EF	'ka	2PL.PRF	29/Nov/2008	pron	л.мест	2PL.PRF	2PL.PRF
+1257	ká	LJ, EF	'ka	2PL.JNT	14/Dec/2008	pron	л.мест	2PL.JNT	2PL.JNT
+1258	ká	LJ	'ka	2PL.OPT	14/Dec/2008		pron	л.мест	2PL.OPT	2PL.OPT
+1259	ká	SB	'ka	n	сущ	16/Jul/2008	Natural Object Comestible
+1260	kâ	<*ká ȁ>	'ka-	ká + ȁ	pron	<*ká ȁ>	a	<*ká ȁ>	LJ	14/Dec/2008	л.мест
+1261	ka	<*kā ȁ>	ka-	kā + ȁ	pron	<*kā ȁ>	a	<*kā ȁ>	LJ	14/Dec/2008	л.мест
+1262	kàȁ	MB, BE, LJ, MG, SB	=kaa-	CVV-LNAF	<*scratch>	aa	v	гл	22/Jan/2011
+1263	kàā	<*kȁ kā>	=kaa'	kȁ + kā	pron	<*kȁ kā>	aa	<*kȁ kā>	LJ	14/Dec/2008	л.мест
+1264	kāa	LJ	kaa	2PL.NEG.PFV	03/Dec/2008	aa	pron	л.мест	2PL.NEG.PFV	2PL.NEG.PFV
+1265	kāȁ	MG, LJ, GJ	kaa-	<*hair-2>	aa	n	сущ	Living Substance Solid	29/Nov/2008
+1266	kāȁ	MG, SB	kaa-	<*crab>	aa	n	сущ		16/Jul/2008
+1267	kāȁ	2PL.POSS	kaa-	pron	<*kā ɓȁ>	<*kā ɓȁ>		л.мест	LJ	2PL.POSS	16/Jul/2008	<*kā ɓȁ>	2PL.POSS
+1268	kāȁ	LJ	kaa-	2SG.и	16/Jul/2008	aa	pron	л.мест	2SG.et	2SG.and
+1269	kāȁ	LJ	kaa-	<kāȁ ȁ>	aa			14/Dec/2008	pron	л.мест
+1270	káa	LJ, EF	'kaa	2PL.NEG.IPFV	14/Dec/2008	aa	pron	л.мест	2PL.NEG.IPFV	2PL.NEG.IPFV
+1271	káa	<*scabies>	'kaa	n	сущ	gale	aa		CE, SB, LJ	чесотка	11/Jul/2008	scabies
+1272	kāagā	KB, LJ	kaaga	[kaa- ga]	n	сущ	22/Aug/2007	Living Part
+1273	kàān	EF, MG, LJ, CE	=kaan'		a̰a̰	n		Natural Object	11/Jul/2008	сущ
+1274	kàān	DJ, LJ	=kaan'	CVV-LNAF	a̰a̰	v	гл	22/Jan/2011
+1275	kàān	DJ, GJ, LJ	=kaan'	a̰a̰	v	гл	22/Jan/2011	BoundedEvent Agentive Existence Physical Purpose
+1276	kàan	CVV-LNAF	=kaan'-	a̰a̰	v	гл	22/Jan/2011
+1277	káân	LJ	'kaan-	2PL.PURP	01/Dec/2008	aa	pron	л.мест	2PL.PURP	2PL.PURP
+1278	kȁantȁ	LJ	-kaanta	a̰a̰	[-kaan -ta]	adj	прил	29/Nov/2008
+1279	kāfé	LJ, DJ	kafe	[ka 'fe]	n	сущ	08/Oct/2008	Natural
+1280	káfé yí	GJ	'kafe 'yi	[ka 'fe]	n	сущ	22/Aug/2007	Liquid
+1281	kāflēe	LJ	kaflee	ee	[ka flee]	n	сущ	22/Aug/2007
+1282	kāká	kaka	[ka 'ka]	03/Dec/2008
+1283	kȁkàō	RC	-kakao	ao	[-ka =kao']	n	сущ	Natural	10/Dec/2008
+1284	kálé	LJ	'kale	a-e, l	['ka 'le]	<Fr>	n	сущ	22/Aug/2007
+1285	kán	CV-H	'kan	<*cut-1 (to)>	v	гл	22/Jan/2011
+1286	kán bhɔ̏	GA, MA, LJ	'kan -bhɔ	n	сущ	Living Part
+1287	kȁnsō	GJ, LJ	-kanso	[-kan so]	n	сущ	14/Dec/1999
+1288	kāŋ̏	2SG.3SG	kang-	pron				л.мест	LJ	2SG.3SG	17/Jul/2008	<kā nȕ {kā}>	2SG.3SG
+1289	káŋbáâ	LJ	'kangbaa	aa	['kang 'baa-]	n	сущ	Artifact Object Building	29/Nov/2008
+1290	kāŋ{kā}-dhȕn	2PL.3	kang {ka} -nu	pron				л.мест	LJ	2PL.3	16/Jul/2008	<kā nȕ kā nȕ>	2PL.3
+1291	kɒ̀ɒ	Artifact Object	=kaɔ		ɒɒ	n		08/Oct/2008	сущ
+1292	kɒ̄ɒ	ɒɒ	kaɔ	n	сущ	14/Dec/2008	Bird
+1293	kɒ́ɒ	EF, LJ, GJ, SB	'kaɔ	<*hoe-2>	ɒɒ	n	сущ	Artifact Object Instrument	11/Jul/2008
+1294	kʌ̄	CV-M	kë	<*do-1>	v	гл	22/Jan/2011
+1295	kʌ̄dhɛ̏	OD	këdhɛ	[kë -dhɛ]	n	сущ	22/Aug/2007	
+1296	kʌ̏ŋ	CE, LJ	-këng	n	сущ	08/Oct/2008	Human Part
+1297	kʌ̏ŋ	-kënng	22/Aug/2007
+1298	kʌ̀ŋ̄	MG, --LJ, DJ	=këng'	<*hundred>	n	сущ	18/Jun/2010
+1299	kʌ̀ŋ̄	=kënng'	22/Aug/2007
+1300	kʌ̄pʌ̏yāa	LJ	këpëyaa	[kë -pë yaa]	n	сущ	22/Aug/2007
+1301	kʌ̏ɯ	SB, LJ	-këü	ʌɯ	n	сущ	29/Nov/2008	Insect?
+1302	kʌ́ɯ	GA, LJ, MA	'këü	ʌɯ	n	сущ	Human Part
+1303	kʌ̄wȕn	DJ, LJ	këwun	[kë -wun]	n	сущ	18/Nov/2008
+1304	ke	LJ	ke-	<*agriculture>	n	сущ	23/Jan/2011	Object Place
+1305	kèȅ	=kee-	22/Aug/2007	ee ~ ei
+1306	kée	GA, LJ	'kee	ee	n	сущ	Living Part
+1307	kèȉ	MG, LJ	=kei-	ei ~ ee	n	сущ	29/Nov/2008	Living Part
+1308	kèȉdhɛ	GA, MA	=keidhɛ	[=kei- -dhɛ]	n	сущ	08/Oct/2008	Living Part
+1309	kèȉdhɤ̄	GA, MA, LJ	=keidhö	[=kei- dhö]	loc.n	сущ	08/Oct/2008
+1310	kɛ̀adhē	LJ -- (wo)	=kɛadhe	ɛa	[=kɛa dhe]	n	сущ	Fish	12/Oct/2008
+1311	kɛ́ɛ	MB, LJ, DJ, SB, CE	'kɛɛ	<*peanut-2>	ɛɛ	n	сущ	Natural Object Comestible	11/Jul/2008
+1312	kɛ́ɛ	LJ, GJ, SB	'kɛɛ	но	11/Jul/2008	ɛɛ	cnj	союз	mais	but
+1313	kɛ́ɛ bhɔ̏a	LJ	'kɛɛ -bhɔa	n	сущ	08/Oct/2008	Plant
+1314	kɛ̏i	GA, MA	-kɛi	ɛi	n	сущ	08/Oct/2008	Living Part
+1315	kɛ̏i sȍo	GA, MA	-kɛi -soo	n	сущ	09/Jan/2009	Living Part
+1316	kɛ̏i zlɤ̀ɤ	GA, MA	-kɛi =zlöö	n	сущ	08/Oct/2008	Living Part
+1317	kɛ̏idhɛ	GA, GD	-kɛidhɛ	[-kɛi -dhɛ]	n	сущ	22/Aug/2007	Human Part
+1318	kɛ̀n	GA, MA	=kɛn	n	сущ	08/Oct/2008
+1319	kɛ̀ngā	GA, MA	=kɛnga	[=kɛn ga]	n	сущ	08/Oct/2008
+1320	kɛ̂npʌ̄	LJ	'kɛnpë	<*heritage>	['kɛn- pë]	n	сущ	Group Possession	29/Nov/2008
+1321	kìā	<*bark-2>	=kia'	ia	n	сущ	29/Nov/2008	Natural
+1322	kíakȉa	LJ	'kiakia	['kia -kia]	adj	прил	24/Nov/2008
+1323	kìān	LJ	=kian'	ḭa̰	n	сущ	23/Jan/2011	Property Condition Mental Social
+1324	kìān	LJ	=kian'	ḭa̰	n	сущ	29/Nov/2008
+1325	kían	ḭa̰	'kian	n	сущ	23/Jan/2011
+1326	kíin	MB, LJ	'kiin		ḭḭ	itj	межд	08/Oct/2008
+1327	kínzūu	uu	'kinzuu		['kin zuu]	n		29/Nov/2008	сущ
+1328	kìoŋgbɔ̄	[=kiong gbɔ]	=kionggbɔ	n			ioŋ	Artifact Object Instrument Weaving	MB, KB	22/Aug/2007	сущ
+1329	klȁa	CLVV	-klaa	aa	n	сущ	29/Nov/2008	Artifact Object
+1330	klȁa kpūdhe	YA, SE	-klaa kpudhe	[kpu dhe]	n	сущ	22/Aug/2007	Fish
+1331	klȁagā	KB, GJ	-klaaga	[-klaa ga]	n	сущ	08/Oct/2008	Artifact Object
+1332	klāan	MB, LJ	klaan	CLVÃVÃ		a̰a̰	n	Natural	сущ	08/Oct/2008
+1333	klàŋ̄	CLV÷	=klang'	<*read>	LJ	n	сущ	29/Nov/2008
+1334	kláŋ	CLV÷	'klang	n	сущ	08/Oct/2008
+1335	klàŋ̄ dhʌ́n	LJ, DJ	=klang' 'në	<l'enfant d'études>	n	сущ	29/Nov/2008	Human
+1336	klàŋ̄ kɔ́	MB, GJ, LJ	=klang' 'kɔ	n	<äîì ó÷åíèÿ>	Artifact Object Building	сущ
+1337	klàŋ̄gɔ̏bhɛ̏n	MB, LJ	=klanggɔmɛ	<?-maître>	[=klang' -gɔ -mɛ]	n		Human	22/Aug/2007	сущ
+1338	klàŋ̄gɔ̏dhe	GJ	=klanggɔdhe	<?-tête-femme>	[=klang' -gɔ -dhe]	n		Human	22/Aug/2007	сущ
+1339	klɒ̄ɒ	GA, GD, LJ	klaɔ	CLVV	<*hump-3>	ɔɔ	n		сущ	21/Jun/2010
+1340	klɒ́ŋ̂	YA, SE	'klaɔng-	CLVV÷ ~ CLV÷	ɒɒŋ ~ ɒŋ	n	сущ	Animal	08/Oct/2008
+1341	klʌ̏ʌ	GA, MA, LJ	-klëë	CLVV	<*shell (of snail)>	ʌʌ	n	Natural	сущ	07/Dec/2008
+1342	klʌ́ʌklʌ̏	GJ, LJ	'klëëklë	CLVV	['klëë -klë]	ʌʌ	adj	прил	08/Oct/2008
+1343	klʌ́ʌklʌ̏dhɛ	LJ	'klëëklëdhɛ	['klëë -klë -dhɛ]	n		03/Dec/2008
+1344	klʌ̀ʌn	CLVV-LL	=klëën	<*encircle-3>	v		ʌ̰ʌ̰	BoundedEvent Purpose Physical Location Agentive	entourer	DJ, LJ	гл	окружать	22/Jan/2011	encircle
+1345	klʌ̀ʌn	DJ, LJ	=klëën	ʌ̰ʌ̰	pp	пл	25/Jul/2008
+1346	klʌ́n	GJ	'klën	CLVÃVÃ ~ CLVÃ	<*millet>	ʌ̰ʌ̰ ~ ʌ̰	n	Plant Comestible	сущ	08/Jan/2009
+1347	klʌ̄ŋ	CLV÷	klëng	LJ	n	сущ	03/Dec/2008
+1348	klɛ̄yɔ̂n	MG	klɛyɔn	CLV CVÃ	[klɛ 'yɔn-]	n	сущ	Artifact Object	03/Dec/2008
+1349	kló	CLV	'klo	LP	n	сущ	23/Jan/2011
+1350	klòa	CLVV	=kloa'-	<Fr. croix>	n	<Фр. croix>	oa	croix	LJ	крест	сущ	<Fr. croix>	29/Nov/2008	cross
+1351	klóbhɔ̄dhe	LJ	'klobhɔdhe	CLV	['klo bhɔ dhe]	<punir-?>	n	сущ	29/Nov/2008
+1352	klòȍ	CLVV	=kloo-	n	сущ	touraco.géant	oo	Bird	LP	хохлатый.турако	25/Nov/2008	blue.plantain-eater
+1353	klòo	LJ	=kloo'	CLVV-LNAF	<*twist-2>	oo ~ oŋ	v	гл	22/Jan/2011
+1354	klɔ́	CLV	'klɔ	LJ	n	сущ	Plant
+1355	klɔ̀ȁ	LJ (wo)	=klɔa-	CLVV	ɔa ~ ua?	n	сущ	Living Part	10/Dec/2008
+1356	klɔ́a	GA, MA, LJ	'klɔa	CLVV	ɔa	n	сущ	Living Part	07/Dec/2008
+1357	klɔ̏ŋ	CLV÷	-klɔng	<*well>	n	сущ	puits	Object Artifact Building	MG, LJ, GJ, CE	колодец	25/Nov/2008	well(water.hole)
+1358	klɔ́ɔklɔ̏	CLVV	'klɔɔklɔ	['klɔɔ -klɔ]	adj	прил	ɔɔ		<*round-2>	BE, LJ	22/Aug/2007
+1359	klɔ̀ɔ̏n	LJ	=klɔɔn-	CLVÃVÃ	ɔ̰ɔ̰	n	сущ	
+1360	klɤ̏	GJ, LJ	-klö	CLVV ~ CLV	ɤɤ ~ ɤ	n	сущ	Animal	14/Dec/2008
+1361	klɤ́ŋgbɤ̄	LJ	'klönggbö	CLV÷	['klöng gbö]	n	сущ	25/Nov/2008
+1362	klɤ̏ɤ	-klöö	26/Jul/2008
+1363	klɤ̀ɤ	LJ	=klöö	CLVV	<*old-2>	ɤɤ	adj	Property Physical Quantity Time	прил	30/Jan/2009
+1364	klɤ̀ɤ̄	CLVV	=klöö'	<*short>	adj	прил	ɤɤ	court	LJ - wa, wo	короткий	30/Jan/2009	short
+1365	klɤ̀ɤ̄	LJ - wa, wo	=klöö'	CLVV	<*short>	ɤɤ	adv	нар	10/Oct/2008
+1366	klɤ̀ɤ̄dhɤ	LJ	=klöödhö	CLVV	[=klöö' dhö]	ɤɤ	adv		25/Nov/2008
+1367	klɤ̀ɤ̄klɤ̀ɤ̄	CLVV CLVV	=klöö' =klöö'	LJ	adj	прил	25/Nov/2008
+1368	klɤ̀ɤ̄klɤ̀ɤ̄	LJ	=klöö' =klöö'	adv	нар	29/Nov/2008
+1369	klɤ̀ɤklɤ̀ɤ{-dhȕ}n	=klöö =klöö {-nu}	07/Dec/2008
+1370	klɤ̀ɤ̄zʌ̏	LJ	=klöözë	[=klöö' -zë]	adj	прил	25/Nov/2008
+1371	klȕ	CLV-AF	-klu	<*tie-1>	BE, --LJ	v	гл	22/Jan/2011
+1372	klú	CLV	'klu	<*piece-2>	MB, MG, GJ, LJ	n	сущ	25/Nov/2008
+1373	klú	'klu	adj	прил	09/Jan/2009
+1374	klȕ kɤ́dhɤ̄ŋgɤ́	LP	-klu 'ködhönggö	CLV	[-klu 'kö dhöng 'gö]	n	сущ	Bird	10/Oct/2008
+1375	klùʌ̏	YA, SE, CE, SB, LJ	=kluë-	CLVV	uʌ	n	сущ	Animal	25/Nov/2008
+1376	klūʌ	GJ	kluë	CLVV	uʌ	n	сущ	Human
+1377	klūʌdhūn	kluënnu -sü	CLVÃVÃ ~ CVÃVÃ	25/Nov/2008
+1378	klùū	BE, LJ	=kluu'	CLVV	uu	n		Artifact Object	<*spoon-2>	сущ
+1379	kȍ	LJ	-ko	1DU.INCL.IMP	07/Dec/2008	pron	л.мест	1DU.INCL.IMP	1DU.INCL.IMP
+1380	kō	LJ, EF	ko	1DU.INCL.EXI	07/Dec/2008	pron	л.мест	1DU.INCL.EXI	1DU.INCL.EXI
+1381	kō	LJ	ko	1DU.INCL.AUT	07/Dec/2008	pron	л.мест	1DU.INCL.AUT	1DU.INCL.AUT
+1382	kō	LJ	ko	1DU.INCL.NSBJ	14/Dec/2008	pron	л.мест	1DU.INCL.NSBJ	1DU.INCL.NSBJ
+1383	kó	LJ, DJ, BE, MG	'ko	RECP.CMM	11/Jul/2008	loc.n	лок.сущ	RECP.CMM	<*reciprocal pronoun-2>	RECP.CMM
+1384	kó	LJ, EF	'ko	1DU.INCL.JNT	07/Dec/2008	pron	л.мест	1DU.INCL.JNT	1DU.INCL.JNT
+1385	kó	LJ	'ko	1DU.INCL.OPT	07/Dec/2008		pron	л.мест	1DU.INCL.OPT	1DU.INCL.OPT
+1386	kô	<*kó ȁ>	'ko-	kó + ȁ	pron	<*kó ȁ>	o	<*kó ȁ>	LJ	14/Dec/2008	л.мест
+1387	ko	<*kō ȁ>	ko-	kō + ȁ	pron	<*kō ȁ>	o	<*kō ȁ>	LJ	14/Dec/2008	л.мест
+1388	kōʌ	[ko 'ka]	koë	pron	л.мест	1DU.INCL.NEG.PFV	oʌ	LJ	1DU.INCL.NEG.PFV	07/Dec/2008	1DU.INCL.NEG.PFV
+1389	kōʌ̏	LJ	koë-	1SG.и	16/Jul/2008	oʌ	pron	л.мест	1SG.et	1SG.and
+1390	kōʌ̏	1DU.INCL.POSS	koë-	pron	<*kō ɓȁ>	<*kō ɓȁ>	л.мест	LJ	1DU.INCL.POSS	07/Dec/2008	<*kō ɓȁ>	1DU.INCL.POSS
+1391	kóʌ	LJ, EF	'koë	1DU.INCL.PRF	07/Dec/2008	oʌ	pron	л.мест	1DU.INCL.PRF	1DU.INCL.PRF
+1392	kóʌ	'koë	07/Dec/2008
+1393	kóʌ̏	<*kóʌ́ ȁ>	'koë-	kóʌ́ + ȁ	pron	<*kóʌ́ ȁ>	oʌ	<*kóʌ́ ȁ>	LJ	14/Dec/2008	л.мест
+1394	kóʌʌ	LJ, EF	'koëë	1DU.INCL.NEG.IPFV	07/Dec/2008	oʌ ~ oʌʌ	pron	л.мест	1DU.INCL.NEG.IPFV	1DU.INCL.NEG.IPFV
+1395	kóʌ̏ʌn	LJ	'koëën-	1DU.INCL.PURP	07/Dec/2008	o̰ʌ̰ ~ o̰ʌ̰ʌ̰	pron	л.мест	1DU.INCL.PURP	1DU.INCL.PURP
+1396	kōgȁ	GA, KD, MA	koga	[ko -ga]	n	сущ	22/Aug/2007	Living Part
+1397	kōká	koka	07/Dec/2008
+1398	kòŋ	GJ, LJ	=kong	n	сущ	03/Dec/2008	
+1399	kōŋ̏	2SG.1SG	kong-	pron				л.мест	LJ	2SG.1SG	17/Jul/2008	<kō nȕ {kō}>	2SG.1SG
+1400	kȍo	n	-koo	сущ	carpe	LJ	oo	Fish	карп	11/Oct/2008	carp
+1401	kósɯ́dhē	GJ, LJ	'kosüdhe	['ko 'sü dhe]	n	сущ	11/Oct/2008	BoundedEvent Purpose Social
+1402	kɔ̏	09/Jan/2009	-kɔ	n	сущ	<*hand, arm-3>
+1403	kɔ̏	CV-AF	-kɔ	LJ	v	гл	22/Jan/2011	BoundedEvent Performative Possession Purpose Social
+1404	kɔ̏	CV-AF	-kɔ	LJ	v	гл	22/Jan/2011	BoundedEvent Existence Physical Quantity
+1405	kɔ̏	OD, LJ	-kɔ	n	сущ	29/Nov/2008
+1406	kɔ́	MG, LJ, CE, OD	'kɔ	<*house-1>	n	сущ	25/Nov/2008	Artifact Object Building
+1407	kɔ̏apʌ̄	DJ, -LJ	-kɔapë	ɔa	[-kɔa pë]	n	сущ	Artifact Object Garment Smithery	25/Nov/2008
+1408	kɔ́bhádhán	'kɔnmana	25/Nov/2008
+1409	kɔ́bhíŋdhɤ̄	LJ	'kɔnmingdhö	['kɔn 'ming dhö]	adv	нар	25/Nov/2008
+1410	kɔ̏dhʌ́ngā	GA, MA, KD, GJ, OD	-kɔnëga	[-kɔ 'në ga]	n	сущ	14/Dec/2008	Living Part
+1411	kɔ̏dhʌ́ngā dɔ̄ zīʌn	GA, MA, KD	-kɔnëga dɔ ziën	[-kɔ 'në ga]	n	сущ	11/Oct/2008	Human Part
+1412	kɔ̏dhʌ́ngā gɔ̄n	GA, MA, KD, GJ, LJ	-kɔnëga gɔn	[-kɔ 'në ga]	n	сущ	11/Oct/2008	Human Part
+1413	kɔ̏dhʌ́ngā gbáazʌ̏	GA, MA, KD	-kɔnëga 'gbaazë	[-kɔ 'në ga 'gbaa -zë]	n	сущ	11/Oct/2008	Human Part
+1414	kɔ̏dhʌ́ngā vàzʌ̏	LJ, GA, MA, KD	-kɔnëga =vazë	[-kɔ 'në ga =va -zë]	n	сущ	11/Oct/2008	Human Part
+1415	kɔ́dhʌ́ntée	DJ, LJ	'kɔnëtee	['kɔ 'në 'tee]	n	сущ	06/Jan/2009	Artifact Object Building
+1416	kɔ̏dhɛ	LJ	-kɔdhɛ	[-kɔ -dhɛ]	loc.n	сущ	11/Oct/2008	Human Part
+1417	kɔ̏dhɛ́	GA, GD	-kɔdhɛ	<main-feuille>	[-kɔ 'dhɛ]	n	<ðóêà-ëèñò>	Human Part	11/Oct/2008	сущ
+1418	kɔ̏dhɛkwɛ̏ɛ	MG, GJ	-kɔdhɛkwɛɛ	[-kɔ -dhɛ -kwɛɛ]	loc.n	сущ	11/Oct/2008	Human Part
+1419	kɔ̏dhɛtȁa	MG, GJ	-kɔdhɛtaa	<main-feuille-dos>	[-kɔ -dhɛ -taa]	n	сущ	Human Part	22/Aug/2007
+1420	kɔ́dhi	LJ	'kɔdhi	['kɔ 'dhi]	n	сущ	11/Oct/2008	Artifact Object Building
+1421	kɔ́dhɔ̏ŋdhɔ́	LJ	'kɔdhɔngdhɔ	['kɔ -dhɔng 'dhɔ]	n	сущ	22/Aug/2007	Insect
+1422	kɔ̏klʌ̀ {ɛ̀}?	LJ, SB	-kɔklë {=ɛ}?	[-kɔ =klë]	adv	нар	03/Dec/2008
+1423	kɔ̏kpȉ	Human Part	-kɔkpi		[-kɔ -kpi]	n		25/Nov/2008	сущ
+1424	kɔ̏kpɤ̄	GA, GD, SB, LJ	-kɔkpö	<main-boule>	[-kɔ kpö]	n	<ðóêà-øàð>	Human Part	25/Nov/2008	сущ
+1425	kɔ̏kpɤ̄ɤdhɛ̏	[-kɔ kpöö -dhɛ]	-kɔkpöödhɛ	n			ɤɤ	Human Part	DJ, LJ	22/Aug/2007	сущ
+1426	kɔ̏kwɛ̄ɛ	GJ	-kɔkwɛɛ	[-kɔ kwɛɛ]	n	сущ	22/Aug/2007	Human Part
+1427	kɔ̏kwɛ̄ɛdhɛ̏	GJ	-kɔkwɛɛdhɛ	[-kɔ kwɛɛ -dhɛ]	n	сущ	22/Aug/2007	Human Part
+1428	kɔ̏lɤ̀ɤ	RC	-kɔlöö	[-kɔ =löö -mɛ]	n	сущ	03/Dec/2008	Human
+1429	kɔ́nkɔ̏n	LJ	'kɔnkɔn	['kɔn -kɔn]	adj	прил	22/Aug/2007	
+1430	kɔ̄ŋ	GA	kɔng	n	сущ	Part
+1431	kɔ̏ɔ	GJ, LJ	-kɔɔ	<*calabash-3>	ɔɔ	n	сущ	Natural Artifact Object Container	11/Jul/2008
+1432	kɔ̏ɔ	LJ	-kɔɔ	ɔɔ	n	сущ	25/Nov/2008	Property Mental Possession Quantity Social
+1433	kɔ̄ɔ	ɔɔ	kɔɔ	loc.n	сущ	11/Oct/2008
+1434	kɔ̀ɔbhɛ̏n	ɔ̰ɔ̰	=kɔɔnmɛ	[=kɔɔn -mɛ]	n	сущ	04/Oct/2008	Human Occupation Social Condition
+1435	kɔ̄ɔbhɛ̏n	LJ	kɔɔmɛ	[kɔɔ -mɛ]	n	сущ	29/Nov/2008	Human Group
+1436	kɔ̄ɔdhɛ̏	[kɔɔ -dhɛ]	kɔɔdhɛ	n	сущ	22/Aug/2007
+1437	kɔ̀ɔngɔ̏ɔn	SB	=kɔɔngɔɔn	ɔ̰ɔ̰	[=kɔɔn -gɔɔn]	n	сущ	Human Occupation Social	22/Aug/2007
+1438	kɔ̏tȁa	GJ	-kɔtaa	<main-dos>	[-kɔ -taa]	n	сущ	Human Part	22/Aug/2007
+1439	kɤ̏	MG, LJ, DJ	-kö	n	сущ	Property Experience Physical
+1440	kɤ̄	DJ, LJ	kö	чтобы	25/Nov/2008	cnj	союз	que	that
+1441	kɤ́	DJ, LJ	'kö	cnj	?	25/Nov/2008
+1442	kɤ̀dhàn kɤ́dhán	DJ, LJ	=köna 'köna	v	гл	22/Jan/2011
+1443	kɤ́dhánkɤ̏dhȁn	DJ, LJ	'könaköna	ɤ́-á, ɤ̏-ȁ, n	['köna -köna]	CVNV-CVNV	adj	прил	26/Jul/2008
+1444	kɤ̏pʌ̄	[-kö pë]	-köpë	n	сущ	22/Aug/2007
+1445	kú	MG, LJ, SB, CE, OD	'ku	<*yam-1>	n	сущ	14/Dec/1999	Plant Consumable
+1446	kūʌdhūn	LJ	kuënnu	[kluën nu]	nuCVV	ṵʌ̰	v	гл	22/Jan/2011
+1447	kúbhádhán	<Fr: commendant>	'kumana	['ku 'ma 'na]	n	сущ	préfet	Human	RC	префект	09/Jan/2009	prefect
+1448	kȕlȕ	-kulu -sü	22/Aug/2007	u-u, l
+1449	kùn	LJ	=kun	adv		11/Oct/2008
+1450	kùn	LJ	=kun	mrph	мрф?	25/Nov/2008
+1451	kūn	DJ, LJ	kun	n	сущ	11/Oct/2008
+1452	kún	CV-H	'kun	<*catch-3>	v	гл	attraper	LJ, MG, GJ	ловить	22/Jan/2011	catch
+1453	kùŋ	CV÷-LNAF	=kung'-	DJ, LJ	v	гл	22/Jan/2011
+1454	kùɤ̏	LJ	=kuö-	uɤ	n	сущ	08/Mar/2010	Human Part
+1455	kȕɤgā	KB	-kuöga	uɤ	[-kuö ga]	n	сущ	Human Part	25/Nov/2008
+1456	kȕu	GA, KD, MA	-kuu	uu	n	сущ	07/Dec/2008	Living Part
+1457	kɯ̄ʌkɯ̄ʌ	GJ	küëküë	ɯʌ	[küë küë]	adv	нар	23/Jan/2011
+1458	kpȁ	CV-AF	-kpa	<*cook (to)-2>	MG, LJ, DJ, GJ, SB	v	гл	22/Jan/2011
+1459	kpȁ	DJ, LJ	-kpa	oʌ	v	гл	22/Jan/2011
+1460	kpā	CV-M	kpa	<*put-2>	v	гл	22/Jan/2011
+1461	kpá	CE, LJ	'kpa	adv	нар	11/Jul/2008
+1462	kpá	SB, LJ	'kpa	n	сущ	29/Nov/2008	
+1463	kpȁa	LJ	-kpaa	aa	n	сущ	07/Jan/2009	Insect
+1464	kpàa	LJ, DJ	=kpaa	CVV-LL	aa	v	гл		22/Jan/2011
+1465	kpáâ	LJ	'kpaa-	aa	n	сущ	23/Jan/2011
+1466	kpàadhɛ̏n	LJ	=kpaandhɛ	a̰a̰	[=kpaan -dhɛ]	adj	прил	22/Aug/2007
+1467	kpàakpá	LJ	=kpaakpa	aa	[=kpaa -kpa]	v	гл	22/Jan/2011
+1468	kpáakpȁ	LJ, OD	'kpaakpa	aa	['kpaa -kpa]	adj	прил	22/Aug/2007
+1469	kpáakpȁdhɛ	['kpaa -kpa -dhɛ]	'kpaakpadhɛ	n	сущ	29/Nov/2008
+1470	kpáan	MB, MG, LJ, GJ	'kpaan	a̰a̰	adv	нар
+1471	kpàanzʌ̏	LJ	=kpaanzë	a̰a̰	[=kpaan -zë]	adj	сущ	25/Nov/2008
+1472	kpabhɔ̏n	YA, SE	kpanmɔ	[kpan- -mɔ]	n	сущ	25/Nov/2008	Animal
+1473	kpádhɤ̄	LJ	'kpadhö	['kpa dhö]	adv	нар	12/Oct/2008
+1474	kpȁkpȁdhɤ̄	LJ	-kpakpadhö	[-kpa -kpa dhö]	adv	нар	25/Nov/2008
+1475	kpákpádhɤ̄	LJ	'kpakpadhö	прекрасно	['kpa 'kpa dhö]	12/Oct/2008	adv	нар	parfaitement	perfectly
+1476	kpān	LJ	kpan-	n	сущ	12/Feb/2010	Animal
+1477	kpán	'kpan	n	сущ	10/Jan/2009	Artifact Object
+1478	kpán	LJ	'kpan	фундамент	12/Oct/2008	n	сущ	Artifact Object	fondation	foundation
+1479	kpanklù	GA, MA, LJ	kpanklu	<*centipede>	[kpan =klu]	n	сущ	Insect	12/Feb/2010
+1480	kpāsɛ̄n	DJ, LJ	kpasɛn	[kpa sɛn]	n	сущ	22/Aug/2007	Artifact Object Container
+1481	kpàɯ̏	LJ	=kpaü-	aɯ	[-kpa -sü 'ka]	adj	прил	25/Nov/2008
+1482	kpɒ̀ɒ̄	LJ	=kpaɔ'		ɒɒ	n	сущ		30/Oct/2008
+1483	kpɒ̀ɒ̄	=kpaɔ'	n	сущ	30/Oct/2008
+1484	kpɒ̀ɒ̄zʌ̏	LJ	=kpaɔzë	ɒɒ	[=kpaɔ' -zë]	adj	прил	03/Dec/2008
+1485	kpæ̀ǣ	DJ, --LJ	=kpɛa'	CVV-LNAF	ɛa	v	гл	BoundedEvent Quantity	22/Jan/2011
+1486	kpǽæ	LJdh	'kpɛa	<*dry-2>	ɛa ~ ia (dh)	adj	прил	Property Physical Quantity	23/Jan/2011
+1487	kpʌ̀	03/Dec/2008	=kpë	n	сущ		Natural
+1488	kpʌ̄	YA, SE	kpë	n	сущ	12/Oct/2008	Animal
+1489	kpʌ́dhɤ̄	LJ	'kpëdhö	['kpë dhö]	adv	нар	29/Nov/2008
+1490	kpʌ̏n	CV-AF	-kpën	LJ, SB	v	гл	22/Jan/2011
+1491	kpʌ̀ŋ	CV÷-LL	=kpëng	трясти	22/Jan/2011	LJ	v	гл	secouer	shake
+1492	kpʌ̀ŋ	=kpënng -sü	22/Aug/2007
+1493	kpʌ́ŋ	LJ	'kpënng	n	сущ	29/Nov/2008	Artifact Object Instrument
+1494	kpʌ́ŋ̂	LJ	'kpënng-	хитрость	29/Nov/2008	n	сущ	Property Modal	ruse	ruse
+1495	kpʌ́ŋ̂zʌ̏	GJ, LJ	'kpënngzë	['kpënng- -zë]	adj	прил	12/Oct/2008	
+1496	kpʌ̀ɯ	LJ, DJ	=kpëü	ʌɯ	n	сущ	12/Oct/2008	Living Part
+1497	kpʌ̀ɯ̄	BE, MG, LJ, DJ, GJ, CE	=kpëü'	ʌɯ	n	сущ	<*maize, corn-1>	Plant Comestible
+1498	kpédhán	GA, KD	'kpena	e-a, n	['kpe 'na]	n	сущ	Human Part	12/Oct/2008
+1499	kpée	LP, LJ	'kpee	ee	n	сущ	03/Dec/2008	Plant
+1500	kpée	LJ	'kpee	n	сущ	25/Nov/2008
+1501	kpéŋ	GA, MA, GJ	'kpeng	n	сущ	<*cheek-1>	Human Part
+1502	kpéŋ sīɔgā	GJ	'kpeng siɔga	iɔ	[siɔ ga]	n	сущ	Human Part	12/Oct/2008
+1503	kpēŋdhɤ	LJ	kpengdhö	eiŋ ~ eŋ ~ iŋ	[kpeng dhö]	adj	прил	14/Dec/1999
+1504	kpɛ́ȁnkpɛ́ȁdhɤ̄n	'kpɛankpɛandhö	15/Oct/2008
+1505	kpɛ́ɛdhɤ̄	LJ	'kpɛɛdhö	ɛɛ	['kpɛɛ dhö]	adv	нар	12/Oct/2008
+1506	kpɛ́ɛkpɛ́	'kpɛɛkpɛ	15/Oct/2008
+1507	kpɛ̄ɛn	LP	kpɛɛn	ɛ̰ɛ̰	n	сущ	25/Nov/2008	Natural
+1508	kpɛ́i	LJ	'kpɛi	CVV-HH verbe?	ɛi	v	гл	BoundedEvent Communication Modal Possession Purpose	22/Jan/2011
+1509	kpɛ́kpɛ́	LJ	'kpɛkpɛ	<*all-3>	['kpɛɛ 'kpɛ]	adj	прил	15/Oct/2008
+1510	kpɛ̄ŋ	LJ	kpɛng	n	сущ	29/Nov/2008	State Condition Manner Physical Medicine
+1511	kpɛ̄ŋdhɤ	LJ	kpɛnngdhö	[kpɛnng dhö]	adv	нар	15/Oct/2008
+1512	kpɛ̄ŋdhɤ	GJ, LJ	kpɛnngdhö	разумный	[kpɛnng dhö]	26/Jul/2008	adj	прил	raisonnable	reasonable
+1513	kpɛ̏zʌ̏	LJ	-kpɛzë	[-kpɛ -zë]	adj	прил	29/Nov/2008
+1514	kpìādhɤn	LJ	=kpiandhö	ḭa̰	[=kpian' dhö]	adv	нар	07/Jan/2009
+1515	kpíânkpíâdhɤ̄n	[=kpɛan' =kpɛan' dhö]	'kpiankpiandhö	adv	экс.нар	en.boitant	ḭa̰ ~ ɛ̰a̰	LJ	хромая	15/Oct/2008	limping
+1516	kpíankpȉan	LJ	'kpiankpian	ḭa̰	['kpian -kpian]	adj	прил	22/Aug/2007
+1517	kpíʌkpȉʌ	LJ	'kpiëkpië	iʌ	['kpië -kpië]	adj	прил	25/Nov/2008
+1518	kpíî	ii	'kpii-	adj	прил	25/Nov/2008
+1519	kpīidhɤn	DJ, LJ	kpiindhö	ḭḭ	[kpiin dhö]	adj	прил?	15/Oct/2008
+1520	kpȉin	-kpiin	22/Aug/2007	ḭḭ ~ ḭŋ
+1521	kpȉiŋ	-kpiing	22/Aug/2007	iiŋ ~ ḭŋ
+1522	kpȉiŋgā	GJ, LJ	-kpiingga	iiŋ ~ iŋ ~ ḭŋ	[-kpiing ga]	n	сущ	Artifact Place	27/Feb/2010
+1523	kpíîzʌ̏	RC	'kpiizë	ii	['kpii- -zë]	adj	прил	22/Aug/2007
+1524	kpíkpȉ	LJ	'kpikpi	['kpi -kpi]	adj	прил	15/Oct/2008	Quantity
+1525	kpȉŋ	LJ	-kping	n	сущ	15/Oct/2008	Artifact Object Furniture
+1526	kpȉŋ	-kping	15/Oct/2008
+1527	kpȉŋ	GJ, LJ (wo)	-kpinng	дорога	25/Nov/2008	n	сущ	Artifact Place	route	road
+1528	kpīŋdhɤ	LJ	kpingdhö		[kping dhö]	adj	прил	07/Dec/2008
+1529	kpȉŋgā	-kpingga	22/Aug/2007
+1530	kpȉŋgā	-kpinngga	[-kpinng ga]	17/Oct/2008
+1531	kplȁ	CLV	-kpla	<*cap-1>	DJ, BE, GJ, SB, OD, LJ	n	сущ	Artifact Object Garment	14/Dec/1999
+1532	kplá	CLV	'kpla	GA, LJ	n	сущ	09/Jan/2009	
+1533	kpláakplȁ	LJ	'kplaakpla	CLVV CLV	['kplaa -kpla]	aa	adj	Property Modal	прил	25/Nov/2008
+1534	kpláakplȁdhɛ	LJ	'kplaakpladhɛ	['kplaa -kpla -dhɛ]	n	сущ	17/Oct/2008	Property Modal
+1535	kplán	CLV-H	'kplan	LJ	v	гл	22/Jan/2011
+1536	kplȁwō	LJ	-kplawo	CLV CV	[=kpla wo]	adv	нар	Static Time	17/Oct/2008
+1537	kplɒ̏ɒ	YA, SE	-kplaɔ	CLVV	ɒɒ	n	сущ	Fish	17/Oct/2008
+1538	kplʌ̀ʌ	CLVV-LL	=kplëë	ʌʌ	v	гл	22/Jan/2011
+1539	kplʌ́n	CLVÃ	'kplën	MB, LP	n	сущ	25/Nov/2008	Natural
+1540	kplɛ̏	CLV	-kplɛ	LP	n	сущ	17/Oct/2008
+1541	kplɛ̏kplɛ́	LJ	-kplɛkplɛ	CLV CLV	[-kplɛ 'kplɛ]		n	Bird	сущ	29/Nov/2008
+1542	kpló	LJ	'kplo	CLVV ~ CLV	oo ~ o	n	сущ	Artifact Object	25/Nov/2008
+1543	kplóŋ	CLV÷	'kplong	LJ	adj	прил	25/Nov/2008
+1544	kplòo	LJ	=kploo	CLVV-LL	oo	v	гл	22/Jan/2011
+1545	kplōo	LJ	kploo	CLVV-MM	oo	v	гл	22/Jan/2011
+1546	kplɔ̄	CLV	kplɔ	SB, LJ	n	сущ	29/Nov/2008	
+1547	kplɔ̏ŋgȅ	LP	-kplɔngge	CLV÷	[-kplɔng -ge]	n	сущ	Bird	25/Nov/2008
+1548	kplɔ́ŋkplɔ̏ŋ	LJ	'kplɔngkplɔng	CLV÷ CLV÷	['kplɔng -kplɔng]	adj	прил	03/Dec/2008
+1549	kplɔ̀ɔ̄	KB, CE	=kplɔɔ'	CLVV	ɔɔ	n	сущ	Natural Plant Comestible	30/Aug/2000
+1550	kplɔ̄ɔn	KB	kplɔɔn	CLVÃVÃ	ɔ̰ɔ̰	n	сущ	Natural Object
+1551	kplɔ̄ɔngā	LJ, KB	kplɔɔnga	[kplɔɔn ga]	n	сущ	22/Aug/2007	Natural Object
+1552	kplɤ́	CLV	'kplö	BE, MG, LJ, DJ, GJ, SB	n	сущ	09/Jan/2009	Artifact Object Instrument Fishery
+1553	kplɤ̄ɤ	LJ	kplöö-	CLVV ~ CLV	ɤɤ ~ ɤ	n	сущ	Plant Consumable	30/Aug/2000
+1554	kplɤ́zȕɤbhɛ̏n	LJ	'kplözuömɛ	['kplö -zuö -mɛ]	n	сущ	25/Nov/2008	Human Occupation Fishery
+1555	kplūʌn	LJ	kpluën	CLVÃVÃ	ṵʌ̰	n	сущ	Cookery Comestible	17/Oct/2008
+1556	kplùū	LJ	=kpluu'	CLVV	uu	n	сущ	Artifact Object Container	26/Nov/2008
+1557	kplɯ̀ʌ̄kplɯ̏ʌkplɯ̀ʌ̄dhɤ	LJ	=kplüëkplüëkplüëdhö	CLVV CLVV CLVV	[=kplüë' -kplüë =kplüë' dhö]	ɯʌ	adv	экс.нар	03/Dec/2008
+1558	kplɯ̄ŋ	CLV÷	kplüng	LJ	n	сущ
+1559	kplɯ̄ŋzʌ̏	LJ	kplüngzë	[kplüng -zë]	adj	прил	26/Nov/2008
+1560	kpȍ	DJ, LJ	-kpo	n	сущ	17/Oct/2008
+1561	kpó	CV-H	'kpo	DJ, --LJ	v	гл	22/Jan/2011	BoundedEvent Agentive Location Physical Purpose
+1562	kpódha	GA, GD, LJ, BE	'kpodha	['kpo 'dha]	n	сущ	29/Nov/2008
+1563	kpódhazʌ̏	GA, GD, LJ	'kpodhazë	['kpo 'dha -zë]	adj	прил	22/Aug/2007
+1564	kpódhɤ̄	LJ	'kpodhö	['kpo dhö]	adv	нар	26/Nov/2008
+1565	kpókpódhɤ̄	LJ	'kpokpodhö	['kpo 'kpo dhö]	adv	нар	17/Oct/2008
+1566	kpȍlɯ́	DJ, LJ	-kpolü	[-kpo 'lü]	n	сущ	09/Jan/2009	Artifact Object
+1567	kpȍŋ	GA, MA	-kpong	n	сущ	23/Jan/2011	Human Part
+1568	kpōŋ	MG, DJ, LJ	kpong	n	сущ	09/Jan/2009	Human Part
+1569	kpōŋ	BE, MG, DJ, LJ	kpong	n	сущ	11/Jul/2008	Artifact Object Building
+1570	kpóŋ	MG, LJ, DJ, SB	'kpong	n	сущ	<*bord (of river)>	Object Natural Part Place
+1571	kpòŋdhēe	LJ	=kpongdhee	[=kpong dhee]	n	сущ	17/Oct/2008
+1572	kpòŋdhēe	LJ	=kpongdhee	ee	[=kpong dhee]	n	сущ	17/Oct/2008
+1573	kpóŋtàa	RC, LJ	'kpongtaa	['kpong =taa]	n	сущ	22/Aug/2007	Natural Object Place
+1574	kpóŋtàadhɛ̏	LJ	'kpongtaadhɛ	['kpong =taa -dhɛ]	loc.n	сущ.лок	17/Oct/2008	Natural Object Place
+1575	kpòō	LJ	=kpoo'	CVV-LNAF	oo	v	гл	22/Jan/2011
+1576	kpōo	LJ	kpoo	oo	n	сущ	30/Aug/2000
+1577	kpòōdhɛ̏	GA, MA, LJ	=kpoodhɛ	oo	[=kpoo' -dhɛ]	n	сущ	Human Part	09/Jan/2009
+1578	kpɔ́	CV-H	'kpɔ	v	гл	22/Jan/2011
+1579	kpɔ̄a	CV-AF???	kpɔa	['kpɔ -a 'ka]	v		ɔa		MB, LJ	17/Jun/2010	гл
+1580	kpɔ́bhɛ̏n	DJ, LJ	'kpɔmɛ	['kpɔ -mɛ]	n	сущ	07/Dec/2008
+1581	kpɔ̄n	GA, MA, GD, SB	kpɔn	n	сущ	03/Dec/2008	Human Part
+1582	kpɔ̄ngɔ̏	BE, --LJ	kpɔngɔ	<*knee-2>	[kpɔn -gɔ]	n	сущ	Human Part	22/Aug/2007
+1583	kpɔ̄ŋ	YA, SE	kpɔng	n	сущ	29/Nov/2008	Animal
+1584	kpɔ̏ɔ	LJ	-kpɔɔ	ɔɔ	n	сущ	07/Dec/2008	Natural
+1585	kpɔ̀ɔ̏	BE, LJ	=kpɔɔ-		ɔɔ	n			29/Nov/2008	сущ
+1586	kpɔ̏ɔ kpɤ̄	LJ	-kpɔɔ kpö	n	сущ	04/Sep/2000	Natural
+1587	kpɔ̀ɔ yīʌ	LJ	=kpɔɔ yië	n	сущ	17/Oct/2008	Stative Time
+1588	kpɔ̏ɔn	ɔ̰ɔ̰	-kpɔɔn	adj	прил	09/Jan/2009
+1589	kpɤ̄	шар	kpö	23/Jan/2011	n	сущ	boule	ball
+1590	kpɤ̄nglɤ̄ɤ	LJ	kpönglöö	ɤɤ	[kpön glöö]	loc.n	сущ.лок	29/Nov/2008
+1591	kpɤ̄ɤ	GA, GD, LJ	kpöö	ɤɤ	n	сущ	Human Part
+1592	kpɤ́ɤ	'kpöö	22/Aug/2007	ɤɤ? ~ ɤɯ
+1593	kpɤ́ɤ̂kpȁŋgȍ	KD, LJ	'kpöökpanggo	ɤɤ	['kpöö- -kpang -go]	n	сущ	Insect	23/Oct/2008
+1594	kpɤ́ɯ	LJ(dh)	'kpöü	ɤɯ ~ ɤɤ (dh)	n	сущ	23/Jan/2011
+1595	kpū	21/Jun/2010	kpu	n	сущ	<*hump-2>
+1596	kpȕa	MB, SB, LJ	-kpua	ua	n	сущ	11/Jul/2008	Natural Object Comestible
+1597	kpȕa	LJ	-kpua	ua	n	сущ	23/Oct/2008
+1598	kpūan	LJ	kpuan	ṵa̰	n	сущ	26/Nov/2008
+1599	kpúʌ	LP	'kpuë	uʌ	n	сущ	04/Sep/2000	Artifact Object Instrument
+1600	kpúdhɤ̄	LJ	'kpudhö	['kpu dhö]	adv	нар	23/Oct/2008
+1601	kpúkpúdhɤ̄	LJ	'kpukpudhö	['kpu 'kpu dhö]	adv	нар	23/Oct/2008
+1602	kpūŋ	kpung	n	сущ	26/Nov/2008	Living Part
+1603	kpɯ́dhɤ̄	LJ	'kpüdhö	['kpü dhö]	adv	нар	03/Dec/2008
+1604	kwȁ	EF, LJ	-kwa	1PL.INCL.IMP	29/Nov/2008	pron	л.мест	1PL.INCL.IMP	1PL.INCL.IMP
+1605	kwā	LJ, EF, GJ	kwa	1PL.INCL.EXI	29/Nov/2008	pron	л.мест	1PL.INCL.EXI	1PL.INCL.EXI
+1606	kwā	LJ	kwa	1PL.INCL.AUT	29/Nov/2008	pron	л.мест	1PL.INCL.AUT	1PL.INCL.AUT
+1607	kwā	LJ	kwa	1PL.INCL.NSBJ	14/Dec/2008	pron	л.мест	1PL.INCL.NSBJ	1PL.INCL.NSBJ
+1608	kwá	LJ, EF	'kwa	1PL.INCL.PRF	29/Nov/2008	pron	л.мест	1PL.INCL.PRF	1PL.INCL.PRF
+1609	kwá	LJ, EF	'kwa	1PL.INCL.JNT	07/Dec/2008	pron	л.мест	1PL.INCL.JNT	1PL.INCL.JNT
+1610	kwá	LJ	'kwa	1PL.INCL.OPT	29/Nov/2008	a	pron	л.мест	1PL.INCL.OPT	1PL.INCL.OPT
+1611	kwâ	<*kwá ȁ>	'kwa-	kwá + ȁ	pron	<*kwá ȁ>	a	<*kwá ȁ>	LJ	14/Dec/2008	л.мест
+1612	kwa	<*kwā ȁ>	kwa-	kwā + ȁ	pron	<*kwā ȁ>	a	<*kwā ȁ>	LJ	14/Dec/2008	л.мест
+1613	kwàȁ	MB, MG, LJ, GJ, CE	=kwaa-	aa	n	сущ	07/Dec/2008	Human Part
+1614	kwàa	GJ, SB, LJ	=kwaa'-	CVV-LNAF	aa ~ a?	v	гл	22/Jan/2011
+1615	kwāa	LJ	kwaa	1PL.INCL.NEG.PFV	29/Nov/2008	aa	pron	л.мест	1PL.INCL.NEG.PFV	1PL.INCL.NEG.PFV
+1616	kwāȁ	1PL.INCL.POSS	kwaa-	pron	<*kwā ɓȁ>	<*kwā ɓȁ>		л.мест	LJ	1PL.INCL.POSS	03/Dec/2008	<*kwā ɓȁ>	1PL.INCL.POSS
+1617	kwāȁ	LJ	kwaa-	1PL.INCL.и	03/Dec/2008	aa	pron	л.мест	1PL.INCL.et	1PL.INCL.and
+1618	kwáa	LJ, EF	'kwaa	1PL.INCL.NEG.IPFV	29/Nov/2008	aa	pron	л.мест	1PL.INCL.NEG.IPFV	1PL.INCL.NEG.IPFV
+1619	kwáâ	DJ, -LJ	'kwaa-	aa	n	сущ	17/Jul/2008	Liquid
+1620	kwàabhɛ̏n	DJ, --LJ	=kwaanmɛ	[=kwaan -mɛ]	n	сущ	22/Aug/2007
+1621	kwàan	MG, LJ, DJ	=kwaan	CVV-LL	<*theft>	a̰a̰	v	гл	22/Jan/2011
+1622	kwáân	LJ	'kwaan-	1PL.INCL.PURP	01/Dec/2008	pron	л.мест	1PL.INCL.PURP	1PL.INCL.PURP
+1623	kwàanglȕdȁbhɛ̏n	LJ	=kwaangludamɛ	[=kwaan -glu -da -mɛ]	n	сущ	22/Aug/2007	Human
+1624	kwàansɯ̏	GJ, LJ	=kwaansü	[=kwaan -sü]	adj	прил	29/Nov/2008	
+1625	kwāazʌ̏	LJ	kwaazë	[kwaa- -zë]	aa	adj	прил	23/Oct/2008
+1626	kwāká	kwaka	[kwa 'ka]	29/Nov/2008
+1627	kwán	LJ	'kwan	n	сущ	03/Dec/2008
+1628	kwāŋ̏	1PL.INCL.3SG	kwang-	pron				л.мест	LJ	1PL.INCL.3SG	07/Dec/2008	<kwā nȕ>	1PL.INCL.3SG
+1629	kwæ̀æ	ɛa	=kwɛa	adv	нар	18/Oct/2008	Time
+1630	kwǽæ	DJ, LJ, SB	'kwɛa	ɛa	n	сущ	03/Dec/2008	Human
+1631	kwǽæ̏dhɛn	MB	'kwɛandhɛ	ɛ̰a̰ ~ ɛ̰ɛ̰?	['kwɛan- -dhɛ]	loc.n	сущ	Artifact Object Group Building	03/Dec/2008
+1632	kwǽæ̏dhɤ̄n	DJ, OD	'kwɛandhö	['kwɛan- dhö]	loc.n	сущ.лок	03/Dec/2008
+1633	kwǽæ̏n	SB, LJ	'kwɛan-	двор	23/Oct/2008	ɛ̰a̰	n	сущ	concession	compound(family)
+1634	kwʌ̄ʌ̏	kwëë-	03/Dec/2008
+1635	kwēe	BE, LJ, DJ	kwee	ee	n	сущ	<*salt>	Natural
+1636	kwēezʌ̏	LJ	kweezë	[kwee -zë]	adj	прил	22/Aug/2007
+1637	kwēezɤ̄	LJ	kweezö	[kwee zö]	n	сущ	22/Aug/2007	Natural
+1638	kwɛ̏	<*year-2>	-kwɛ	n	сущ	an	MG, LJ	Time Static	год	23/Oct/2008	year
+1639	kwɛ̄	GA, MA KD, LJ	kwɛ	n	сущ	29/Nov/2008	Living Part
+1640	kwɛ̀ɛ̏	MB, MG, LJ	=kwɛɛ-	ɛɛ	n	сущ	22/Jun/2010	Human Part
+1641	kwɛ̀ɛ̏	DJ, BE, GJ, CE, SB, LJ	=kwɛɛ-	ɛɛ	n	сущ	11/Jul/2008
+1642	kwɛ̀ɛ̄	GJ, OD, LJ	=kwɛɛ'	CVV-LNAF	ɛɛ ~ ɛa?	v	гл	BoundedEvent Condition Physical Quantity	22/Jan/2011
+1643	kwɛ̀ɛ̄	OD, --LJ	=kwɛɛ'	CVV-LNAF	ɛɛ ~ ɛa?	n	сущ	29/Nov/2008
+1644	kwɛ̄ɛ	DJ, LJ	kwɛɛ		ɛɛ	n		Human Part	23/Oct/2008	сущ
+1645	kwɛ́ɛ	'kwɛɛ	22/Aug/2007	ɛɛ ~ ɛi
+1646	kwɛ̄ɛdhɛ̏	GA, MA, KD, LJ	kwɛɛdhɛ		[kwɛɛ -dhɛ]	n		Human Part	23/Oct/2008	сущ
+1647	kwɛ́ɛ̂dhɛ̏n	'kwɛɛndhɛ	22/Aug/2007
+1648	kwɛ̄ɛzʌ̏	LJ	kwɛɛzë	[kwɛɛ- -zë]	adj	прил	23/Oct/2008
+1649	kwɛ́i	LJ, DJ, GJ	'kwɛi	<*door>	ɛi ~ ɛɛ	n	сущ	Artifact Object Building	04/Sep/2000
+1650	kwɛ́n yȁn	LJ	'kwɛn -yan	n	сущ	29/Nov/2008	Artifact Object Building
+1651	kwī	MG, LJ, GJ, SB, OD	kwi	<*skin>	n	сущ	04/Sep/2000	Living Part Covering
+1652	kwí	LJ, DJ, SB	'kwi	<*white man>	n	сущ	29/Nov/2008	Human
+1653	kwí plɤ̀ɤ	DJ, LJ, BE	'kwi =plöö	loc.n	сущ	23/Oct/2008
+1654	kwí plɤ̀ɤ dhɛ̏	DJ, LJ, BE	'kwi =plöö -dhɛ	loc.n	сущ	23/Oct/2008
+1655	kwí pɤ và	DJ, LJ	'kwi pö- =va	n	сущ	23/Oct/2008
+1656	kwí tɔ̏	DJ, LJ, LP	'kwi -tɔ	n	сущ	23/Oct/2008	Bird
+1657	kwíâ bhɔ̏n	LJ	'kwia- -mɔ	ia ~ iʌ	n	сущ	04/Sep/2000	Animal
+1658	kwíʌ̂dhóo	LJ	'kwiëdhoo	iʌ	['kwië- 'dhoo]	n	сущ	Natural Object Comestible	22/Aug/2007
+1659	kwīgā	DJ, KB, LJ	kwiga	[kwi ga]	n	сущ	07/Dec/2008	Magics
+1660	kwīgā kʌ̄ bhɛ̏n	kwiga kë -mɛ	n	сущ	23/Oct/2008
+1661	kwīgā kɔ̀ɔn bhɛ̏n	kwiga =kɔɔn -mɛ	n	сущ	23/Oct/2008
+1662	kwlá	CLV	'kwla	n	сущ	18/Nov/2008	Living Part
+1663	kwlá téezʌ̏	GA, KD	'kwla 'teezë	n	сущ	18/Nov/2008	Living Part
+1664	kwlàȁ	GA, MA	=kwlaa-	CLVV	aa	n	сущ	Living Part	09/Jan/2009
+1665	Kwlæ̀ǣdhɤn	MB, LJ	=Kwlɛandhö	CLVÃVÃ	[=kwlɛan' dhö]	ɛ̰a̰		loc.n	сущ	22/Jun/2010
+1666	kwlɛ̀ɛ̏	=kwlɛɛ-	CLVV ~ CVV	22/Aug/2007
+1667	là	=la	n	сущ	29/Nov/2008
+1668	làā	<*lion>	=laa'	n	сущ	lion	aa	Animal	BE, YA, SE, GJ, LJ	лев	14/Dec/2008	lion
+1669	làbáŋ̂	GJ, LJ	=labang	aa ~ aŋ	[=lang 'baa-]	n	сущ	Artifact Object	22/Aug/2007
+1670	lagīdhēn	LJ	=lagine	[=la gi ne]	n	сущ	15/Feb/2010
+1671	làkédhe	LJ	=lakedhe	[=la 'ke 'dhe]	n	сущ	22/Aug/2007	Artifact Object
+1672	lȁn	CV-AF	-lan	LJ	v	гл	22/Jan/2011
+1673	làn	BE, LJ	=lan	n	сущ	29/Nov/2008
+1674	lan	DJ, --LJ	lan-	n	сущ	23/Jan/2011	Natural Object Astronomy
+1675	lan kɔ́	LJ	lan- 'kɔ	<sun-house>	n	<ñîëíöå-äîì>	23/Oct/2008	сущ
+1676	lantra	--LJ	=lantra	[=lan tra]	n	сущ	15/Feb/2010	Natural Object Comestible
+1677	làŋbáâ	=langbaa	23/Oct/2008
+1678	lāŋ	lang-	22/Aug/2007
+1679	lāsó	LJ	laso	[la 'so]	n	сущ	22/Aug/2007
+1680	lɒ̄ɒn	LJ	laɔn	ɒ̰ɒ̰	n	сущ	30/May/2010	Natural Object Comestible
+1681	lǽængǽæ̏n	LP	'lɛangɛa	ɛ̰a̰ (wo)	['lɛan 'gɛa-]	n	сущ	Magics	03/Dec/2008
+1682	lʌ	BE, SB, CE, LJ	lë-	<*shame-3>	1	n	сущ	Property Experience Mental	23/Jan/2011
+1683	lʌ	GA, LJ, KD	lë-	n	сущ	01/Dec/2008	Human Part
+1684	lʌ̏ʌdhɤ̄	LJ	-lëëdhö	ʌʌ	[-lëë dhö]	adv	нар	07/Dec/2008
+1685	lʌ́ʌ̂lʌ̄	OD, LJ	'lëëlë	ʌʌ	['lëë -lë]	adv	нар	07/Dec/2008
+1686	lʌ́ʌ̂nzʌ̏	LJ	'lëënzë	ʌ̰ʌ̰	['lëën- -zë]	adj	прил	29/Nov/2008
+1687	lʌkʌ̄dhʌ̏n	LJ	lëkëndhë	[lë- kën -dhë]	n	сущ	12/Feb/2010	Plant
+1688	lʌkʌ̄dhʌ̏ngā	LJ	lëkëndhëga	[lë- kën -dhë ga]	n	сущ	29/Nov/2008	Plant
+1689	lʌ̏n	BE, DJ, LJ	-lën	n	сущ	29/Nov/2008
+1690	lʌ̄ŋ	LJ	lëng	n	сущ	16/Feb/2010
+1691	lʌ̄ŋgɯ́dhɛ̏	SB, LJ	lënggüdhɛ	[lëng 'gü -dhɛ]	n	сущ	16/Feb/2010
+1692	lʌ̄ŋlʌ̄ŋ	LJ, SB	lënglëng	adv	нар
+1693	lʌ̄ŋ	lënng-	24/Oct/2008
+1694	lʌ́ŋ̂	LJ	'lëng-	n	сущ	23/Jan/2011
+1695	lʌ́ŋ̂dhɛ̏	LJ	'lëngdhɛ	['lëng- -dhɛ]	n	сущ	23/Jan/2011
+1696	lʌzʌ̏	SB, OD, LJ	lëzë	[lë- -zë]	adj	прил	22/Aug/2007
+1697	lɛ́ɛlɛ̏	LJ	'lɛɛlɛ	ɛɛ	['lɛɛ -lɛ]	adj	прил	30/Jan/2009
+1698	lɛ́lɛ́	LJ, DJ	'lɛlɛ	['lɛ 'lɛ]	n	сущ	24/Oct/2008
+1699	lɛ́ŋlɛ̏ŋ	LJ	'lɛnglɛng	['lɛng -lɛng]	adj	прил	29/Nov/2008
+1700	lȍ	CV-AF/M	-lo	SB	v	гл	22/Jan/2011
+1701	lȍ	CV-AF	-lo	LJ	v	гл	22/Jan/2011	BoundedEvent Agentive Physical Purpose
+1702	lòkô	LJ	=loko	<b>	[=lo 'ko-]	n	сущ	Cookery Comestible	29/Nov/2008
+1703	lóŋ	LJ	'long	n	сущ	23/Jan/2011
+1704	lȍo	oo	-loo	n	сущ	23/Jan/2011
+1705	lōo	LJ	loo	CVV-MM	oo	v	гл	22/Jan/2011
+1706	lɔ̀ŋ	LJ	=lɔnng	n	сущ	29/Nov/2008	Plant
+1707	lɔ̀ŋ̏	MB, LJ	=lɔng-		n		24/Oct/2008	Plant	сущ
+1708	lɔ́ɔ̂	CE, LJ	'lɔɔ-	ɔɔ	n	сущ	29/Nov/2008	Artifact Object
+1709	lɔ́ɔ̂fìʌ̄	LJ	'lɔɔfië	['lɔɔ- =fië']	n	сущ	29/Nov/2008	Artifact Object
+1710	lɔ́ɔn	GA, MA	'lɔɔn	<*worm-2>	ɔ̰ɔ̰	n	сущ	Animal Invertebrate	14/Dec/1999
+1711	lɔ̄ɔn lɯ̏	LJ	lɔɔn -lü	n	Plant	24/Oct/2008	сущ
+1712	lɔ̄ɔngā	LJ	lɔɔnga	[lɔɔn ga]	n	сущ	29/Nov/2008
+1713	lɔ̀ɔzʌ̏	LJ	=lɔɔzë	ɔɔ	[=lɔɔ- -zë]	adj	прил	Property Condition Physical	22/Aug/2007
+1714	lɤ̏	CV-AF	-lö	<*fly, spring (to)-3>	BE, MG, LJ, DJ	v	гл	22/Jan/2011
+1715	lɤ̏	CV-AF	-lö	<*tie-1, bind>	v	гл	22/Jan/2011
+1716	lɤ́	BE, LJ	'lö	<*mortar-3>	n	сущ	24/Oct/2008	Artifact Object Instrument Cookery
+1717	lɤ́	GA, GD	'lö	n	сущ	11/Jul/2008	State Condition Manner Physical Medicine
+1718	lɤ̀ɤ	BE, MG, LJ, CE	=löö	<*louse-3>	ɤɤ	n	сущ	Insect	23/Jan/2011
+1719	lɤ̀ɤ	ɤɤ	=löö	pp	пл	11/Jul/2008
+1720	lɤ́ɤ	LJ	'löö	ɤɤ	24/Oct/2008
+1721	lɤ́ɤdhɤ̄	LJ	'löödhö	loc.n	24/Oct/2008
+1722	lɤ̏sɔ̏	GJ, LJ	-lösɔ	[-lö -sɔ]	n	сущ	29/Nov/2008	Artifact Object Garment
+1723	lɤ́ɯlɤ̏	LP	'löülö	ɤɯ ~ ɤɤ	['löng -lö] (wo)	adj	прил	29/Nov/2008
+1724	lùu	BE, MG, LJ, DJ, GJ	=luu'-	CVV-LNAF	<*rise (to)-2>	uu	v	гл	22/Jan/2011
+1725	lúu	uu	'luu	n	сущ	29/Nov/2008	Insect
+1726	lúu kpá	LJ	'luu 'kpa	n	сущ	Insect
+1727	lúulȕ	LJ	'luulu	uu	['luu -lu]	adj	прил	29/Nov/2008
+1728	lɯ̏	OD, LJ	-lü	mrph	мрф
+1729	lɯ́	23/Jan/2011	'lü	n	сущ	<*tree>
+1730	lɯ́ kpǽæ	LJ	'lü 'kpɛa	ɛa	n	сущ	03/Dec/2008
+1731	lɯ́dhʌ́n	MG, LJ, DJ, GJ	'lünë	[lü 'në]	n	сущ	22/Aug/2007
+1732	lɯ́dhɛ̀ɛ̄dhɤ	LJ	'lüdhɛɛdhö	['lü =dhɛɛ' dhö]	n	сущ	24/Oct/2008
+1733	lɯ́gɔ̏kpɤ̄	GJ	'lügɔkpö	['lü -gɔ kpö]	n	сущ	24/Oct/2008	
+1734	lɯ́gúŋpā	YA, SE	'lü 'gungpa	['lü 'gung pa]	n	сущ	24/Oct/2008	Reptile
+1735	lɯ́kìā	LJ	'lükia	['lü =kia']	n	сущ	29/Nov/2008	State Condition Manner Physical Medicine
+1736	lɯ́kɔ̏dhʌ́n	LJ	'lükɔnë	['lü -kɔ 'në]	n	сущ	24/Oct/2008	Natural Object
+1737	lɯ́kɔ̏ɔ	MG, LJ	'lükɔɔ	['lü -kɔɔ]	n	сущ	22/Aug/2007	Natural Artifact Object Container
+1738	lɯ́ɯdhɤ̄	ɯɯ	'lüüdhö	['lüü dhö]	adv	нар	24/Oct/2008
+1739	lɯ́ɯdhɤ̄	LJ	'lüüdhö	ɯɯ	['lüü dhö]	adv	нар	03/Dec/2008
+1740	Máadhɤ̄	LJ	'Maandhö	a̰a̰	['Maan dhö]	loc.n	сущ	30/Oct/2008
+1741	ō	RC	o	prt	част	27/Jul/2008
+1742	ōo	LJ	oo	itj	союз	09/Jan/2009
+1743	ɔ̏	LJ	-ɔ		prt	част	30/Nov/2008	
+1744	ɤ̏	-ö	30/Nov/2008
+1745	ɤ̏	-ö	03/Dec/2008
+1746	ɤ̏	-ö	03/Dec/2008
+1747	ɤ̄	LOG.SG.EXI	ö	pron			ɤ	л.мест	LJ	LOG.SG.EXI	30/Nov/2008		LOG.SG.EXI
+1748	ɤ̄	DJ, LJ, GJ	ö	REFL.SG	30/Nov/2008	pron	л.мест	REFL.SG	REFL.SG
+1749	ɤ́	'ö	pron	мест	30/Nov/2008
+1750	ɤ́	'ö	03/Dec/2008
+1751	ɤ̂	'ö-	14/Dec/2008
+1752	pā	CV-M	pa	<*fill (to)>	DJ, GJ, LJ	v	гл	22/Jan/2011
+1753	pā	CV-M	pa	<*lick-2>	v	гл	22/Jan/2011
+1754	pā	CV-M	pa	LJ	v	гл	22/Jan/2011
+1755	pá	CV-H	'pa	LJ, KB	v	гл	22/Jan/2011
+1756	pàa	LJ	=paa'-	CVV-LNAF	aa	v	гл	BoundedEvent Agentive Physical	22/Jan/2011
+1757	páa	<*bowl-2>	'paa	aa	n	сущ	12/Dec/1999	Artifact Object
+1758	pāafɛ̂n	LJ	paafɛn	[paa 'fɛn-]	aa	n	сущ	22/Aug/2007
+1759	pāagɔ́bhɛ̏n	LJ	paagɔmɛ	aa	[paa- -gɔ -mɛ]	n	сущ	Human	22/Aug/2007
+1760	páan	LJ	'paan	a̰a̰	n	сущ	23/Jan/2011
+1761	pádhe	LJ	'padhe	['pa 'dhe]	n	сущ	26/Oct/2008
+1762	pāŋ	LJ	pang	n	сущ	30/Nov/2008	Artifact Object Garment
+1763	pápá	LP, LJ	'papa	n		26/Oct/2008
+1764	pápádhɤ̄	LJ	'papadhö	['pa 'pa dhö]	adv	нар	30/Nov/2008
+1765	pāyɛ́ɛ̂n	LJ	payɛɛn	ɛ̰ɛ̰	[pa 'yɛɛn-]	n	сущ	Human	22/Aug/2007
+1766	pɒ́ɒ	BE, LJ	'paɔ	ɒɒ	n	сущ	30/Nov/2008	Artifact Object
+1767	pɒ́ɒgā	LJ	'paɔga	['paɔ ga]	n	сущ	30/Nov/2008	Artifact Object
+1768	pæ̀ǣ	DJ, LJ	=pɛa'	ɛa	n	сущ	30/Oct/2008	Static Condition Modal Religion
+1769	pʌ̄	вещь	pë	23/Jan/2011	n	сущ	chose	<*thing-2>	thing
+1770	pʌ̄	LJ	pë	n	сущ	30/Oct/2008	Magie
+1771	pʌ́	SB	'pë	n	сущ	23/Jan/2011
+1772	pʌ̄ dhíɤ̂	30/Nov/2008	pë 'dhiö-	n	сущ	<chose-tranchant>
+1773	pʌ̄ kpɤ̄	DJ, LJ	pë kpö	n	сущ	09/Jan/2009	State Condition Manner Physical Medicine
+1774	pʌ́ʌ̂	LJ	'pëë-	ʌʌ		adj	прил	30/Jan/2009
+1775	pʌ́ʌpʌ̏	DJ, LJ, OD	'pëëpë	ʌʌ	['pëë -pë]	adj	прил	Property Condition Experience Modal	30/Jan/2009
+1776	pʌ̄bȉdhɛn	LJ	pëbindhɛ	[pë -bin -dhɛ]	n	сущ	30/Oct/2008
+1777	pʌ̄bhlé	LJ, MG	pëbhle	[pë 'bhle]	restr		30/Oct/2008
+1778	pʌ̄gā	[pë ga]	pëga	n	сущ	30/Nov/2008
+1779	pʌ̄kàāpʌ̏	LJ	pëkaapë	[pë =kaa' -pë]	n	сущ	22/Aug/2007
+1780	pʌ̏-kʌ̄	LJ	-pë kë	22/Jan/2011	v	<chose-faire?>	<вещь-делать?>	BoundedEvent Agentive Existence Physical Purpose	<thing-do?>	гл
+1781	pʌ̄kpȁbhɛ̏n	LJ	pëkpamɛ	[pë -kpa -mɛ]	n	сущ	30/Oct/2008	Human Occupation Cookery
+1782	pʌ̄kpȁdhɛ	LJ	pëkpadhɛ	[pë -kpa -dhɛ]	n	сущ	22/Aug/2007
+1783	pʌ̄tée	DJ, LJ	pëtee	<chose-petit>	[pë 'tee]	n	сущ		22/Aug/2007
+1784	pȅ	CV-AF	-pe	<*vomit-4>	LJ	n	сущ	26/Jul/2008
+1785	pȅ	BE, MG, LJ, DJ	-pe	тошнить	22/Jan/2011	v	гл	BoundedEvent Experience Physical Medicine	vomir	vomit
+1786	pēdhēn	MG, KB	pene	e-e, n	[pe ne]	n	сущ	Human Part	18/Nov/2008
+1787	pēdhēngā	KB	penega	[pe ne ga]	n	сущ	18/Nov/2008	Human Part
+1788	pēe	LJ	pee	ee	n	сущ	30/Nov/2008	State Condition Manner Physical Medicine
+1789	pȅedʌ̄	<*two>	-peedë	[-pee dë]	num	числ	ee	deux	LJ	два	18/Jun/2010	two
+1790	pēedhɛ̀n	LJ	peenɛ	ee	[pee =nɛ]	adv	нар	30/Nov/2008
+1791	pɛ́	CV-H	'pɛ	DJ, LJ	v	гл	22/Jan/2011
+1792	pɛ̀ɛ	CVV-LNAF	=pɛɛ'-	ɛɛ	v	гл	22/Jan/2011
+1793	pɛ̀ɛ̄sɯ̏	LJ	=pɛɛsü	[=pɛɛ' -sü]	adj	прил	30/Nov/2008
+1794	pɛ̏n	CV-AF	-pɛn	DJ, LJ	v	гл	22/Jan/2011
+1795	pɛ̏n	BE, LJ	-pɛn	30/Oct/2008	n	сущ	<*wood-borer>	Insect
+1796	pɛ́n	LJ	'pɛn	<*piece-1>	n	сущ	23/Jan/2011
+1797	pɛn	SB	pɛn-	n	сущ	Plant
+1798	pɛ̏n yùā	DJ, LJ	-pɛn =yua'	n	сущ
+1799	pɛ̄ŋ	LJ	pɛnng	n	сущ	30/Nov/2008	Natural Object
+1800	pɛ̄ŋgā	LJ	pɛnng ga	[pɛnng ga]	n	сущ	30/Nov/2008	Natural Object
+1801	pȉa	-pia -sü	03/Dec/2008
+1802	pīan	pian	22/Aug/2007
+1803	pían	ḭa̰	'pian	n	сущ	30/Oct/2008
+1804	pían	'pian	pp	пл	30/Oct/2008
+1805	pȉʌ	DJ, MG, SB, LJ	-pië	iʌ	n	сущ	30/Nov/2008	Artifact Object
+1806	pȉʌn	BE, CE, LJ	-piën	<*tale>	ḭʌ̰	n	сущ	14/Dec/1999
+1807	pīʌn	 piën	30/Oct/2008
+1808	píʌnpíʌn	LJ	'piënpiën	ḭʌ̰	['piën 'piën]	n	сущ	Insect	03/Dec/2008
+1809	píi	LJ	'pii	ii	n	сущ	03/Dec/2008	Natural Place
+1810	pīidhɤn	DJ, SB, OD	piindhö	ḭḭ	[piin dhö]	adv	нар	30/Nov/2008
+1811	píigɯ́dhɛ̏	LJ	'piigüdhɛ	['pii 'gü -dhɛ]	n	сущ	22/Aug/2007
+1812	píigbéêdhɛ̏	LJ	'piigbeedhɛ	ii	['pii 'gbee- -dhɛ]	n	сущ	29/Nov/2008
+1813	pȉikɔ́	GJ, LJ	-piikɔ	ii	[-pii 'kɔ]	n	сущ	22/Aug/2007
+1814	pȉiŋdhɤ̄	LJ	-piingdhö	iiŋ	[-piing dhö]	adv	нар	30/Nov/2008
+1815	píitàa	SB, LJ	'piitaa	['pii =taa]	loc.n	сущ.лок	30/Oct/2008	Natural Place
+1816	píitàadhɛ̏	LJ	'piitaadhɛ	['pii =taa -dhɛ]	loc.n	сущ	30/Oct/2008
+1817	pīn	pin	n	сущ	30/Oct/2008	Object Relation
+1818	pìo	DJ, LJ	=pio'-	CVV-LNAF	io	v	гл	22/Jan/2011
+1819	píɔnpȉɔn	LJ	'piɔnpiɔn	ḭɔ̰	['piɔn -piɔn]	adv	прил	09/Jan/2009
+1820	píɔŋpȉɔŋ	LJ	'piɔngpiɔng	iɔŋ	['piɔng -piɔng]	adj	прил	03/Dec/2008
+1821	pȉɤ	BE, MG, LJ, GJ, CE	-piö	<*iron>	iɤ	n	сущ	23/Jan/2011
+1822	pȉɤ	CVV-AF	-piö	<*winnow>	iɤ	v	гл	22/Jan/2011
+1823	pìɤ̄	LJ, KB	=piö'	iɤ	n	сущ	17/Apr/2000	Artifact Object Instrument Fishery
+1824	píɤ	у	'piö	03/Dec/2008	iɤ	pp	пл	chez	<*side-3>	at
+1825	pȉɤbhȁn	LJ	-piöma	[-piö -ma]	n	сущ	30/Oct/2008
+1826	pȉɤgā	-piöga	[-piö ga]	30/Oct/2008
+1827	pìɤ̄gā	LJ, KB	=piöga	[=piö' ga]	n	сущ	22/Aug/2007	Artifact Object Instrument Fishery
+1828	pȉɤgbɔ̄	DJ, GJ, LJ	-piögbɔ	<fer-canari>	[-piö gbɔ]	n	сущ	Artifact Object	30/Oct/2008
+1829	píɤklɤ̀ɤzʌ̏	LJ	'piöklöözë	['piö =klöö'- -zë]	adv	нар	22/Aug/2007
+1830	pīɤŋdhɤ	LJ	piöngdhö	iɤŋ	[piöng dhö]	adv	нар	22/Aug/2007
+1831	pȉɤsáŋ	LJ	-piösang	[-piö 'sang]	n	сущ	30/Oct/2008	Artifact Object Cookery
+1832	pȉɤsòo	LJ, DJ	-piösoo	<cheval de fer>	[-piö =soo]	n	сущ	Artifact Object	22/Aug/2007
+1833	pȉɤsɯ́	GJ, LJ	-piösü	[-piö 'sü]	n	сущ	30/Oct/2008	Artifact Object
+1834	plȁ	LJ	-pla	CLV-AF	ia ~ la	v	гл	22/Jan/2011
+1835	plȁadhɛ	LJ	-plaadhɛ	CLVV	[-plaa -dhɛ]	aa	n	сущ	30/Nov/2008
+1836	plāan	CLVÃVÃ	plaan	ḭa̰ ~ la̰a̰??	LJ	pp		Location	03/Dec/2008
+1837	plàkàī	LJ	=plakai	CLV CVV	[=pla =kai']	ai	n	Cookery Comestible	сущ	03/Dec/2008
+1838	plàŋ	CLV÷	=plang'-	LJ	n	сущ	30/Nov/2008
+1839	plʌ̀ʌn	MG	=plëën	CLVÃVÃ	ʌ̰ʌ̰	n	сущ	Human Part	30/Nov/2008
+1840	plʌ́ʌplʌ̏	LJ	'plëëplë	CLVV CLV	['plëë -plë]	ʌʌ	adj	прил	30/Nov/2008
+1841	plʌ̀ʌplʌ́zʌ̏	LJ	=plëëplëzë	CLVV CLV	[=plëë 'plë -zë]	ʌʌ	adj		прил	22/Aug/2007
+1842	plʌ̀ʌzʌ̏	LJ, DJ, GJ, OD, RC	=plëëzë	CLVV	[=plëë' -zë]	ʌʌ	adj	прил	30/Oct/2008
+1843	plʌ́ŋ	CLV÷	'plëng	KD	n	сущ	30/Nov/2008	Living Part
+1844	plɛ̀	CLV	=plɛ	<*two>	num	числ	deux	MG, LJ, GJ, CE, OD	два	30/Oct/2008	two
+1845	plɛ̀	CLV	=plɛ	LP	n	сущ	30/Nov/2008	Plant
+1846	plɛ́	CLV	'plɛ	MG, LJ, GJ, CE, SB	dtm		30/Oct/2008
+1847	plɛ́ŋplɛ̏ŋ	LJ	'plɛngplɛng	CLV÷ CLV÷	['plɛng -plɛng]	adj	прил	03/Dec/2008
+1848	plɛ̀ŋ̄zʌ̏	LP	=plɛngzë	CLV÷	[=plɛng' -zë]	adj	прил	22/Aug/2007
+1849	plȍo	LJ	-ploo	CLVV	oo	n	сущ	Artifact Object	14/Dec/1999
+1850	plòo	DJ, LJ	=ploo'-	CLVV-LNAF	oo	v	гл	22/Jan/2011
+1851	plɔ̏	CLVV ~ CLV	-plɔ	ɔɔ ~ ɔ	LJ	n	сущ	18/Nov/2008
+1852	plɔ̏gā	KB	-plɔga	[-plɔ ga]	n	сущ	30/Nov/2008
+1853	plɔ̏ŋ	CLV÷	-plɔng	LJ	adj	прил	07/Dec/2008
+1854	plɔ̏ɔ	-plɔɔ	22/Aug/2007
+1855	plɔ́ɔ	LJ	'plɔɔ	CLVV	ɔɔ	n	сущ	Human Occupation Social	29/Nov/2008
+1856	plɤ̀ɤ	CLVV	=plöö	pp	пл	chez	ɤɤ	Location	LJ	у	30/Nov/2008	at
+1857	plɤ̄ɤ	MG, LJ, DJ, GJ, SB	plöö	CLVV	ɤɤ	loc.n	сущ	Artifact Object Place	30/Oct/2008
+1858	plɤ̄ɤdhɛ̏	MG, LJ	plöödhɛ	[plöö -dhɛ]	n	сущ	30/Oct/2008	Artifact Object Place
+1859	plɤ́ɤnplɤ̏	DJ, LJ	'plöönplö	CLVÃVÃ CLV	['plöön -plö]	ɤ̰ɤ̰	adj	прил	22/Aug/2007
+1860	plɯ́ŋ	CLV÷	'plüng	n	сущ	30/Nov/2008	Natural Plant Part
+1861	plɯ́plɯ̏	LJ	'plüplü	CLV CLV	['plü -plü]	adj	прил	30/Oct/2008
+1862	pó	BE, LJ, DJ, GJ	'po	<*open>	v	гл	22/Jan/2011
+1863	póŋ	LJ	'pong		n		23/Jan/2011
+1864	pōo	LJ	poo	<*frog-1>	oo	n	сущ	14/Dec/1999
+1865	pōo kùn	DJ, LJ	poo =kun	oo		
+1866	pȍtàāsɯ̏	[-po =taa' -sü]	-potaasü	n	сущ	30/Nov/2008
+1867	pȍtàāsɯ̏	GJ	-potaasü	[-po =taa' -sü]	adj		30/Oct/2008
+1868	póɯ̂	'poü-	26/Jul/2008	oɯ
+1869	pɔ́dhɤ̄	LJ	'pɔdhö	['pɔ dhö]	adv	нар	30/Nov/2008
+1870	pɔ́n	CV-H	'pɔn	<*dig-2>	MG, LJ, GJ, SB	v	гл	22/Jan/2011
+1871	pɔ̄ɔ	MG, LJ, DJ, GJ	pɔɔ-	<pʌ̄ + ɓɤ̏>	ɔɔ	<pë + -bhö -sü>	гл	BoundedEvent Agentive Existence Physical Purpose Usage	08/Jul/2008	v
+1872	pɔ́ɔ̂	LJ	'pɔɔ-	<Fr.>	ɔɔ	n	сущ	17/Apr/2000
+1873	pɔ́ɔn	LJ	'pɔɔn	ɔ̰ɔ̰	n	сущ	14/Dec/1999	Bird
+1874	pɤ̄	CV-M	pö	<*say-1>	MG, LJ, GJ, SB	v	гл	BoundedEvent Communication Purpose	22/Jan/2011
+1875	pɤ́	LJ, DJ, CE	'pö	adv	нар
+1876	pɤ	LJ, DJ, GJ, CE, OD	pö-	<*house-3>	n	сущ	30/Nov/2008	Artifact Object Place
+1877	pɤdhɛ̏	DJ, GJ, RC, LJ	pödhɛ	[pö- -dhɛ]	n	30/Nov/2008
+1878	pɤ̀ɯ̄	LJ	=pöü'	CVV-LNAF	ɤɯ	v	гл	22/Jan/2011
+1879	pùʌn	BE, --LJ	=puën	ṵʌ̰	n	сущ	30/Nov/2008	State Condition Manner Physical Medicine
+1880	púʌŋpȕʌŋ	LJ	'puëngpuëng	uʌŋ	['puëng -puëng]	adj	прил	22/Aug/2007
+1881	púɛ̂ {yùā}	MB, BE, LJ	'puɛ- {=yua'}	uɛ	n	сущ	State Condition Manner Physical Medicine
+1882	pún	CV-H	'pun	LJ	v	гл	22/Jan/2011
+1883	púpú{-dhȕ}n	'pupu {-nu}	07/Dec/2008
+1884	pùū	LJ	=puu'	uu	n	сущ	30/Nov/2008
+1885	púu	BE, MG, LJ, SB, CE	'puu	<*white-2>	uu	adj	прил	Property Physical	30/Jan/2009
+1886	pɯ̏ɤ	CVV-AF	-püö	<*fall>	ɯɤ	v	гл	22/Jan/2011
+1887	pɯ́ɯ	LJ	'püü	ɯɯ	onomat	ономат	19/Jun/2010	Artifact Object
+1888	sā	CV-M	sa	v	гл	22/Jan/2011
+1889	sá	LJ, DJ, SB	'sa	prt	част	31/Oct/2008
+1890	sȁa	BE, MG, LJ, GJ	-saa	aa		adj	прил	30/Jan/2009
+1891	sàa	MG, LJ, SB	=saa	aa	n	сущ	31/Oct/2008	Artifact Object Instrument Fishery
+1892	sāa	DJ, GJ, SB, LJ	saa-	aa	n	сущ	03/Apr/2000	Artifact Solid Consumable
+1893	sáa	LJ	'saa	aa	n	сущ	30/Nov/2008
+1894	sàa kɔ́	LJ	=saa 'kɔ	aa	n	сущ	Artifact Object Building
+1895	sàadhē	GA, MA	=saadhe	[=saa dhe]	n	сущ	22/Aug/2007	Artifact Object Instrument Fishery
+1896	sàādhen	DJ, GJ, LJ	=saandhe	a̰a̰	[=saan' dhe]	n	сущ	22/Aug/2007
+1897	sàādhenkʌ̄bhɛ̏n	[=saandhe kë -mɛ]	=saandhekëmɛ	n	сущ	30/Nov/2008	Human
+1898	sáadhɤ̄	aa	'saadhö	['saa dhö]	adv	нар	31/Oct/2008	Static Time
+1899	sȁan	LJ	-saan	a̰a̰	n	сущ	30/Nov/2008	Artifact Object
+1900	sàān	<*pay (to)>	=saan'	a̰a̰	n	сущ	23/Jan/2011
+1901	sáan	LJ	'saan	a̰a̰	n	сущ	23/Jan/2011
+1902	sȁangā	-saanga	n	сущ	30/Nov/2008	Artifact Object
+1903	sâblà	LJ, OD	'sabla	['sa- =bla]	adv	нар	31/Oct/2008	Time
+1904	sȁdhen	LJ	-sandhe	<*bottle>	[-san -dhe]	n	сущ	Artifact Object	07/Dec/2008
+1905	sákásákádhɤ̄	LJ	'sakasakadhö	a-a, k	['sa 'ka 'sa 'ka dhö]	adv	?	31/Oct/2008
+1906	sȁkpá	GJ, LJ	-sakpa	<*shoe>	[-sa 'kpa]	n	сущ	Artifact Object Garment	22/Aug/2007
+1907	sȁn	RC, LJ	-san	n	сущ	23/Jan/2011
+1908	sān	CV-M	san	LJ	v	гл	22/Jan/2011
+1909	sán	CV-H	'san	LJ	v	гл	22/Jan/2011	
+1910	sán	CV-H	'san	<*sneeze-2>	LJ	v	гл	22/Jan/2011
+1911	sángó dhɤ̀ɤ dhɤ́	LP	'sango =dhöö 'dhö	ɤɤ	n	сущ	03/Dec/2008	Bird
+1912	sȁnzʌ̄dhe	LJ	-sanzëdhe	[-san zë dhe]	n	сущ	31/Oct/2008
+1913	sɒ̄ɒ	RC	saɔ	ɒɒ	n	сущ	03/Dec/2008	
+1914	sɒ́ɒ	Man Marc	'saɔ	ɒɒ	n	сущ	30/Nov/2008	Artifact Object Instrument
+1915	sɒ̏ɒn	SB	-saɔn	ɒ̰ɒ̰	n	сущ
+1916	sʌ̏	<*good-4>	-së		adj	прил	bon	BE, LJ, MG, DJ, GJ	хороший	30/Jan/2009	good
+1917	sʌ̏	DJ, BE, LJ	-së	хорошо	26/Jul/2008	adv	нар	bien	well
+1918	sʌ̀ʌ̄	DJ, LJ	=sëë'	<*tiredness-2>	ʌʌ	n	сущ	23/Jan/2011
+1919	sʌ̀ʌ	LJ	=sëë'-	ʌʌ	n	сущ	07/Dec/2008	Magics
+1920	sʌ́ʌ	MB, LJ	'sëë	ʌʌ	n	сущ	23/Jan/2011	BoundedEvent Communication Purpose
+1921	sʌ́ʌ̂	DJ, LJ	'sëë-	ʌʌ	n	сущ	08/Nov/2008	Artifact Object
+1922	sʌ́ʌ̂	DJ, LJ	'sëë-	<*pray (to)>	ʌʌ	n	сущ	23/Jan/2011
+1923	sʌ̏ʌdhʌ́n	LJ	-sëënë	ʌʌ	[-sëë 'në]	adj	прил	10/Jan/2009
+1924	sʌ́ʌdhɛ̄	DJ, LJ, GJ	'sëëdhɛ	['sëë dhɛ]	ʌʌ	n	сущ	23/Jan/2011
+1925	sʌ́ʌdhɛ̏bȅ	GJ	'sëëdhɛbe	['sëë -dhɛ -be]	n	сущ	08/Nov/2008	Artifact Object
+1926	sʌ́ʌdhɛkɔ́	<maison de lettre>	'sëëdhɛkɔ	['sëë 'dhɛ 'kɔ]	n	сущ	08/Nov/2008
+1927	sʌ̏ʌzʌ̏	DJ, BE, LJ	-sëëzë	ʌʌ	[-sëë -zë]	adj	прил	Property Condition	08/Nov/2008
+1928	sʌ̏bhɛ̏n	LJ	-sëmɛ	[-së -mɛ]	n	сущ	07/Dec/2008	Human
+1929	sʌ̏dhɛ	LJ	-sëdhɛ	[-së -dhɛ]	n	сущ	29/Nov/2008	State Condition Manner Physical
+1930	sʌ́nsʌ́dhɤ̄n	MG, LJ	'sënsëndhö	['sën 'sën dhö]	adv		03/Dec/2008
+1931	sʌ̄ŋ	LJ	sënng	n	сущ	08/Nov/2008	Natural
+1932	sʌ́ŋ	LJ	'sënng	<*gold>	n	сущ	23/Jan/2011
+1933	sʌ̄ŋgbʌ̄	LJ	sënggbë	[sëng gbë]	n	сущ	03/Dec/2008	Plant
+1934	sʌ́ŋsʌ̏	LJ	'sëngsë	['sëng -së]	n	сущ	03/Dec/2008	Animal
+1935	sé	LJ	'se	n	сущ	08/Nov/2008	State Condition Manner Physical Medicine
+1936	sèe	n	=see'-	сущ	agrume	EF, LJ, SB, CE, OD	ee	Natural Object Comestible	цирусовый	30/Nov/2008	citrus
+1937	sēi	LJ	sei	[sö 'yi]	ei ~ ɤi	n	сущ	Cookery Comestible	03/Dec/2008
+1938	séŋdhɤ̄	GJ, --LJ	'sengdhö	['sɛnng dhö]	adv	нар	30/Nov/2008
+1939	séŋséŋdhɤ̄	LJ	'sengsengdhö	[-sɛn -sɛn dhö]	adv	нар	08/Nov/2008
+1940	sɛ́	земля	'sɛ	03/Dec/2008	loc.n	сущ	terre	<*earth-5>	land
+1941	sɛ̄ȁ	LJ	sɛa-	ɛa ~ ia	loc.n	08/Nov/2008
+1942	sɛ̄ȁbɛ̏n	KD	sɛabɛn	[sɛa- -bɛn]	n	сущ	30/Nov/2008	Living Part
+1943	sɛ̄ȁzȉan	DJ, LJ	sɛazian	[sɛa- -zian]	n	сущ	03/Dec/2008
+1944	sɛ́dʌ̄	LJ	'sɛdë	<pere de la terre>	['sɛ dë]	n	сущ	Human Occupation Social Condition	23/Jan/2011
+1945	sɛ́dhɛ́n	LJ, DJ	'sɛnɛ	ɛ-ɛ, n	['sɛ 'nɛ]	n		03/Dec/2008
+1946	sɛ̏ɛ	LJ, SE	-sɛɛ	ɛɛ	n	сущ	08/Jan/2009	Living
+1947	sɛ̀ɛ̏	LJ, RC	=sɛɛ-	ɛɛ	n	сущ	23/Jan/2011	BoundedEvent Communication Purpose Social
+1948	sɛ̀ɛ̄	CE, --LJ	=sɛɛ'	<*mat-2>	ɛɛ	n	сущ	Artifact Object	23/Jan/2011
+1949	sɛ̀ɛ	LJ	=sɛɛ'-	CVV-LNAF	ɛɛ	v	гл	22/Jan/2011
+1950	sɛ́ɛ	<*bow (weapon)-2>	'sɛɛ	ɛɛ	n	сущ	14/Dec/1999	Artifact Object Instrument
+1951	sɛ̏ɛbɔ̏	[-sɛɛ -bɔ]	-sɛɛbɔ	adj	прил	bon.INT.PL	ɛɛ	LJ, DJ	хороший.INT.PL	07/Dec/2008	good.INT.PL
+1952	sɛ̀ɛ̄dhɛ̏	GA, GD	=sɛɛdhɛ	ɛɛ	[=sɛɛ' -dhɛ]	n	сущ	03/Dec/2008
+1953	sɛ́ɛgā	DJ, GJ, LJ	'sɛɛga	<*arrow-2>	['sɛɛ ga]	n	сущ	Artifact, Instrument	22/Aug/2007
+1954	sɛ́ɛlɯ́	KB	'sɛɛlü	['sɛɛ 'lü]	n	сущ	22/Aug/2007	Artifact, Instrument
+1955	sɛ̀ɛ̏n	LP	=sɛɛn-	ɛ̰ɛ̰	n	сущ	14/Dec/1999	Artifact Object Garment
+1956	sɛ́ɛ̂n	LJ, DJ, SB	'sɛɛn-	<*small-4>	ɛ̰ɛ̰	adj	прил	30/Jan/2009
+1957	sɛ́ɛ̂n	LJ	'sɛɛn-	ɛ̰ɛ̰	n	сущ	23/Jan/2011
+1958	sɛ́gɔ̏	DJ, LJ	'sɛgɔ	['sɛ -gɔ]	n	сущ	08/Nov/2008	Object Place
+1959	sɛ́gɯ́bhɛ̏n	LJ	'sɛgümɛ	['sɛ 'gü -mɛ]	n	сущ	08/Nov/2008	Human
+1960	sɛ́i	LJ	'sɛi	ɛi	loc.n	сущ.лок	08/Nov/2008
+1961	sɛ́i bhɛ̏ɛn	YA, SE	'sɛi -mɛɛ	n	сущ	Reptile
+1962	sɛ́idhɤ̄	LJ	'sɛidhö	['sɛi dhö]	loc.n	сущ.лок	08/Nov/2008
+1963	sɛ́ipʌ̀ŋdhɛ̏	GA	'sɛipëngdhɛ	['sɛi =pëng -dhɛ]	n	сущ	09/Jan/2009
+1964	sɛ́isīʌ	CE woLJ	'sɛisië	iʌ	['sɛi sië]	<*nine>	num	числ	08/Nov/2008
+1965	sɛ́kɛ́	LJ	'sɛkɛ	['sɛ 'kɛ]	n	сущ	30/Nov/2008
+1966	sɛ́kɔ́	LJ	'sɛkɔ	['sɛ 'kɔ]	n	сущ	30/Nov/2008
+1967	sɛ̀n	LJ	=sɛn	n	сущ	03/Dec/2008	Artifact Object Instrument Fishery
+1968	sɛ́n	<*rib>	'sɛn	n	сущ	côte	LJ	Human Part	ребро	04/Jun/2010	rib
+1969	sɛ̏nsɛ̏dhɤ̄n	-sɛnsɛndhö	08/Nov/2008
+1970	sɛ́nsɛ́n-dhȕn	'sɛn 'sɛn -nu	07/Dec/2008
+1971	sɛ́ntȁdhɛ	GA, MA	'sɛntadhɛ	['sɛn -ta -dhɛ]	n	сущ	03/Dec/2008	Human Part
+1972	sɛ̄ŋ	LJ	sɛnng	n	сущ	14/Dec/1999	Natural Object Comestible
+1973	sɛ́pían	GJ	'sɛpian	ḭa̰	['sɛ 'pian]	n	сущ		08/Nov/2008
+1974	sɛ́pɔ́dhɛ̏n	LJ	'sɛpɔndhɛ	['sɛ 'pɔn -dhɛ]	n	сущ	03/Dec/2008
+1975	sɛ̏sȉɤbhɛ̏n	LJ	-sɛsiömɛ	[-sɛ -siö -mɛ]	n	сущ	30/Nov/2008	Human
+1976	sɛ́tɔ̏n	LJ	'sɛtɔn	['sɛ -tɔn]	n	сущ	22/Aug/2007	Natural Place
+1977	sí	GA, MA, LJ	'si	n	сущ	18/Nov/2008	Human Part
+1978	sí	GJ, LJ	'si	n	сущ	23/Jan/2011	BoundedEvent Communication Condition Experience Modal Purpose Social
+1979	sìa	DJ, LJ	=sia	ia ~ ɛa	adv	нар?	30/Nov/2008
+1980	sīȁ	GJ, LJ	sia-	ia	n	сущ	08/Nov/2008
+1981	sīȁ	MB, LJ, GJ	sia-	ia	loc.n	08/Nov/2008
+1982	sīan	<*charcoal-2>	sian-	ḭa̰	n	сущ	09/Nov/2008	Natural
+1983	sían	LP	'sian	ḭa̰	n	сущ	09/Nov/2008	Living Part
+1984	sían	DJ, LJ	'sian	ḭa̰	n	сущ	03/Dec/2008
+1985	sìʌ	LJ	=sië'	CVV-LNAF	iʌ	v	гл	BoundedEvent Agentive Location Physical Purpose	22/Jan/2011
+1986	sīʌ	iʌ	sië-	n	сущ	03/Dec/2008	Human
+1987	sīʌn	LJ	siën-	ḭʌ̰	adj	прил	03/Dec/2008
+1988	sīi	SB	sii	ii	n	сущ	14/Dec/1999
+1989	sìisí	OD, LJ	=siisi	ii	[=sii 'si]	CVV-CV	v	гл		22/Jan/2011
+1990	sìō	BE, LJ	=sio'	io	n	23/Jan/2011
+1991	sīoo	LJ	sioo	ioo	v	гл	22/Jan/2011
+1992	síɔn	DJ, LJ, CE	'siɔn	ḭɔ̰	n	сущ	14/Dec/1999	Gas
+1993	sȉɤ	DJ, LJ	-siö	n	сущ	30/Nov/2008	Magics
+1994	sȉɤ	LJ	-siö	CVV-AF	iɤ	n	сущ	30/Nov/2008
+1995	sȉɤ	LJ	-siö	CVV-AF	iɤ	v	гл	03/Dec/2008
+1996	sìɤ	LJ	=siö'-	CVV-LNAF	<*spoil>	iɤ	v	гл	22/Jan/2011
+1997	síɤ	BE, MG, LJ	'siö	<*fire-3>	iɤ	n	сущ	23/Jan/2011
+1998	síɤ̂	LJ, LP	'siö-	iɤɤ	adj	прил	30/Jan/2009
+1999	síɤ̂	LJ, SB	'siö-	adv	нар	26/Jul/2008
+2000	síɤ bhɤ̀ɯ̏	YA, SE	'siö =bhöü-	n	сущ	Reptile
+2001	síɤ̂dhɤ̄	LJ	'siödhö	iɤ	['siö- dhö]	loc.n	сущ.лок	09/Nov/2008
+2002	sȉɤgā	LJ	-siöga	[-siö ga]	n	сущ	09/Jan/2009	Living Part
+2003	síɤkɔ́	DJ, LJ	'siökɔ	['siö 'kɔ]	n	сущ	23/Jan/2011	Artifact Object
+2004	síɤkɔ́gā	LJ	'siökɔga	['siö 'kɔ ga]	n	сущ	09/Nov/2008	Artifact Object
+2005	síɤɤzʌ̏	LJ	'siöözë	iɤɤ	['siöö -zë]	adj	прил	09/Nov/2008
+2006	síɤsīɤ	DJ, LJ	'siösiö	['siö- siö]	adv	нар	30/Nov/2008
+2007	síɤsíɤzʌ̏	LJ	'siösiözë	['siö 'siö -zë]	adj	прил	22/Aug/2007
+2008	sȉɤsɯ̏	LJ	-siösü	[-siö -sü]	adj	прил	30/Nov/2008
+2009	síɤtʌ́ʌ	BE, MG, LJ	'siötëë	<feu-vent>	['siö 'tëë]	n	сущ	Gas	22/Aug/2007
+2010	sȉɤzʌ̏	LJ	-siözë	[-siö -zë]	adj	прил	22/Aug/2007
+2011	síɤ̂zʌ̏	BE, LP	'siözë	['siö- -zë]	adj	прил	22/Aug/2007
+2012	sísúŋgā	KB	'sisungga	<chiken soup>	['si 'sung ga]	n	сущ	Cookery Comestible	29/Nov/2008
+2013	slȁ	CLV	-sla	SB	n	сущ	09/Nov/2008	Natural
+2014	sla	CLV	sla-	<*sacrifice, alm>	LJ	n	сущ	BoundedEvent Possession Purpose Social Usage Religion Magic	23/Jan/2011
+2015	slàa	LJ	=slaa'-	CLVV	aa	n	сущ	29/Nov/2008
+2016	slāan	LJ	slaan	CLVÃVÃ	a̰a̰	n	сущ	Natural Object Comestible	30/Nov/2008
+2017	slàaŋsláa	LJ	=slaangslaa	CLVV÷ CLVV ~ CLV÷ CLVV	[=slang 'slaa-]	aaŋ ~ aŋ	n	Human	сущ	27/Feb/2010
+2018	sládō	BE, MG, LJ, CE, OD	'slado	CLV CV	['sla do]	<*six>	num	числ	09/Nov/2008
+2019	slȁn	CLVÃ	-slan	LJ, LP	n	сущ	03/Dec/2008	Bird
+2020	slâplɛ̀	BE, MG, LJ, CE, OD	'slaplɛ	CLV CLV	['sla- =plɛ]	<*seven>	num	числ	09/Nov/2008
+2021	slǽægā	BE, MG, LJ, CE, OD	'slɛaga	CLVV	['slɛa ga]	ɛa	<*eight>	num	числ	09/Nov/2008
+2022	slʌ̏	-slë	09/Nov/2008
+2023	slʌ̄	CLV	slë	MG (DJ-non)	n	сущ	14/Dec/1999	Bird
+2024	slʌ́	CLV	'slë	DJ, LJ	n	сущ	30/Nov/2008
+2025	slʌ́a	'slëa	09/Nov/2008
+2026	slʌ̏ʌ	DJ, LJ	-slëë	CLVV	ʌʌ	n	сущ	Bird	14/Dec/1999
+2027	slʌ̀ʌ	LJ	=slëë'-	waowo CLVV-LNAF	ʌʌ (wo)	v	гл	22/Jan/2011
+2028	slʌ̏ʌdhɤ̄	LJ	-slëëdhö	CLVV	[-slëë dhö]	ʌʌ	adv	нар	03/Dec/2008
+2029	slʌ́ʌdhɤ̄	LJ	'slëëdhö	CLVV	['slëë dhö]	ʌʌ ~ ʌɯ	loc.n	сущ.лок	09/Jun/2010
+2030	slʌ́ʌnslʌ̏n	DJ, LJ, OD	'slëënslën	CLVÃVÃ CLVÃ	['slëën -slën]	ʌ̰ʌ̰	adj	Property Condition Experience Physical	прил	08/Jul/2008
+2031	slʌ̏ʌslʌ̏dhɤ̄	DJ, LJ	-slëëslëdhö	CLVV CLV	[-slëë -slë dhö]	ʌʌ	adv	нар	09/Nov/2008
+2032	slòo	LP	=sloo'-	CLVV-LNAF	oo	v	гл	22/Jan/2011
+2033	slóo	LJ	'sloo	CLVV	oo	adj	прил	03/Oct/2008
+2034	slóodhɤ̄	LJ	'sloodhö	CLVV	['sloo dhö]	oo	adv	State Quantity	нар	03/Dec/2008
+2035	slɔ́aslɔ̏a	LJ	'slɔaslɔa	CLVV CLVV	['slɔa -slɔa]	ɔa	adj	прил	03/Dec/2008
+2036	slɔ́ŋ	CLV÷	'slɔng	LP	n	сущ	10/Dec/2008	Bird
+2037	slɔ́ŋ	CLV÷	'slɔng	LJ	n	сущ	12/Jul/2008	Animal
+2038	slɔ̀ɔ	CLVV-LL	=slɔɔ	<*receive>	ɔɔ	v	гл	22/Jan/2011
+2039	slɔ́ɔ	YA, SE, LJ	'slɔɔ	CLVV	ɔɔ	n	сущ	Animal	14/Dec/2008
+2040	slɤ̏	CLV	-slö	EF	n			Natural Object	сущ
+2041	slɤ́	CLV	'slö	GJ	n	сущ	09/Nov/2008	
+2042	slɤ̏ɤ	CLVV	-slöö	n			ɤɤ	Bird	EF	09/Nov/2008	сущ
+2043	slɤ̀ɤ̄	LJ	=slöö'	CLVV	ɤɤ	n	сущ	23/Jan/2011
+2044	slɤ̄ɤdhɤ	LJ	slöödhö	CLVV	[slöö dhö]	ɤɤ	adv	нар	30/Nov/2008
+2045	slɤ́ɤslɤ̏	CLVV CLV	'slööslö	ɤɤ	['slöö -slö]	adj	прил	22/Aug/2007
+2046	slɤ̀ɤ̄zʌ̄bhɛ̏n	LJ	=slöözëmɛ	CLVV	[=slöö' zë -mɛ]	ɤɤ	n	сущ	30/Nov/2008
+2047	slúbhɔ̏n	YA, SE	'slunmɔ	CLVÃ	['slun -mɔ]	n	сущ	Animal	30/Nov/2008
+2048	slúun	LJ	'sluun	CLVÃVÃ	ṵṵ	n	сущ	Artifact, Instrument	14/Dec/1999
+2049	slɯ́	CE, LP, LJ	'slü	ɯɯ ~ ɯ	CLVV ~ CLV	n	сущ	Bird	30/Nov/2008
+2050	slɯ̀ɯ	GA, KD, LJ	=slüü'-	CLVV	<*crest>	ɯɯ	n	Living Part	сущ	03/Dec/2008
+2051	slɯ́ɯ	'slüü	22/Aug/2007
+2052	sȍ	CV-AF	-so	<*early in the morning>	v	гл	être.matinal	LJ, GJ, LP	делать.рано	22/Jan/2011	do.early
+2053	sȍ	CV-AF	-so	LP	v	гл	22/Jan/2011	UnboundedEvent Existence Physical
+2054	sō	LJ	so	n	сущ	03/Dec/2008
+2055	sòa	=soa	09/Nov/2008
+2056	sōbhɛ̏n	LJ	somɛ	[so -mɛ]	n	сущ	03/Dec/2008
+2057	sōŋ	KB	song	n	сущ?	03/Dec/2008
+2058	sōŋdhɤ	KD, GJ, RC	songdhö	[song dhö]	pp	пл?	09/Nov/2008
+2059	sóŋgòzʌ̏	LJ	'songgozë	['song =go -zë]	adj	прил	09/Nov/2008	Static Property Physical
+2060	sóŋgō{lɯ̏}	M?	'songgo{-lü}	['song go -lü]	n	сущ	03/Dec/2008
+2061	sòo	MG, LJ	=soo	<*nail>	oo	n	сущ	Living Part	09/Nov/2008
+2062	sòo	n	=soo	сущ	cheval	LJ, GJ, OD	oo	Animal	лошадь	09/Nov/2008	horse
+2063	sòo	MB	=soo	oo	n	сущ	12/Jul/2008	Plant
+2064	sòofàŋ̄	DJ, LJ	=soofang	[=soo =fang']	n	сущ	22/Aug/2007	Animal
+2065	sòogā	KB	=sooga	[=soo ga]	n	сущ	22/Aug/2007	Living Part
+2066	sòosōŋdhɛ̏	GA, KD	=soosongdhɛ	[=soo song -dhɛ]	n	сущ	09/Nov/2008	Living Part
+2067	sɔ̄	03/Dec/2008	sɔ	n	сущ	<*cloth>	Artifact Object
+2068	sɔ́	BE, LJ, KB, GJ, CE	'sɔ	<*trap>	n	сущ	23/Jan/2011	Artifact Object
+2069	sɔ́	CV-H	'sɔ	v	гл	22/Jan/2011
+2070	sɔ̀a	=sɔa	09/Nov/2008
+2071	sɔ̄dhʌ́n	OD	sɔnë	[sɔ 'në]	n	сущ	22/Aug/2007	Artifact Object Garment
+2072	sɔ́gā	KB	'sɔga	['sɔ ga]	n	сущ	03/Dec/2008
+2073	sɔ̀n	=sɔn	22/Aug/2007
+2074	sɔ́n	23/Jan/2011	'sɔn	n	сущ	<*tooth-2>	Living Part
+2075	sɔ́n	DJ, LJ	'sɔn	n	сущ	01/Dec/2008	Plant Part
+2076	sɔ́ngā	['sɔn ga]	'sɔnga	n	сущ	03/Dec/2008	Living Part
+2077	sɔ́nkɔ́	LJ	'sɔnkɔ	['sɔn 'kɔ]	n	сущ	03/Dec/2008	Artifact Object Building
+2078	sɔ́nkpɛ̄ŋ	LJ	'sɔnkpɛng	['sɔn kpɛng]	n	сущ	09/Nov/2008	Insect
+2079	sɔ̀ŋ̄	<*price>	=sɔng'	n	сущ	prix	ɔ̰ɔ̰? ~ oŋ	Property Mental Possession Quantity Social	GJ, LJ	цена	09/Nov/2008	price
+2080	sɔ́ŋ	LP	'sɔng	n	сущ	09/Jan/2009	Animal
+2081	sɔ̀ɔ̏	YA, SE, SB	=sɔɔ-	ɔɔ	n	сущ	09/Nov/2008	Fish
+2082	sɔ̀ɔ	LJ	=sɔɔ'-		ɔɔ	v	гл		22/Jan/2011
+2083	sɔ́ɔ	MG, LJ, DJ, SB, CE	'sɔɔ	рядом	09/Nov/2008	ɔɔ	pp	пл	auprès.de	near
+2084	sɔ́ɔ	GJ	'sɔɔ	ɔɔ	adj	прил	26/Jul/2008
+2085	sɔ́ɔdhu	<*five>	'sɔɔdhu	['sɔɔ 'dhu]	num	числ	ɔɔ	cinq	BE, MG, LJ, CE, OD	пять	09/Nov/2008	five
+2086	sɔ̀ɔn	GJ	=sɔɔn	<*character>	ɔ̰ɔ̰ ~ ɔ̰?	n	сущ	23/Jan/2011
+2087	sɔ̀ɔ̄n	=sɔɔn'	22/Aug/2007
+2088	sɔ̄ɔn	GA, MA, SB, LJ	sɔɔn	ɔ̰ɔ̰	n	сущ	03/Dec/2008	Artifact Object Instrument Fishery
+2089	sɔ̀ɔsɔ́	LJ	=sɔɔsɔ	ɔɔ	[=sɔɔ 'sɔ]	CVV-CV	v	гл	22/Jan/2011
+2090	sɔ́ɔsɔ̏	['sɔɔ -sɔ]	'sɔɔsɔ	adj	прил	étroit	ɔɔ	BE, MG, LJ	узкий	30/Jan/2009	narrow
+2091	sɤ̏	MG, GA, DJ	-sö	<*horn-2>	n	сущ	01/Dec/2008	Animal Part
+2092	sɤ̏	-sö	n	сущ	23/Jan/2011	Magics
+2093	sɤ̄	орех.масличной.пальмы	sö	01/Dec/2008	n	сущ	grain.palmier	<*oilpalm grain>	oil.palm.nut
+2094	sɤ̏bhɔkw̄̀̄	YA, SE	-söbhɔkwɛa'	ɛa	[-sö -bhɔ =kwɛa']	n	сущ	Animal	03/Dec/2008
+2095	sɤ̏gā	MG, GA, DJ	-söga	[-sö ga]	n	сущ	03/Dec/2008	Animal Part
+2096	sɤ̄i	söi	[sö 'yi]	08/Nov/2008
+2097	sɤ̄kpʌ̀	LJ	sökpë	[sö =kpë]	n	сущ	09/Nov/2008	Magics
+2098	sɤ̀ŋ	BE, LJ	=söng	v	гл	22/Jan/2011
+2099	sɤ́ŋgɤ́sɤ̏ŋgɤ̏	LJ	'sönggösönggö	['söng 'gö -söng -gö]	adv	нар	22/Aug/2007
+2100	sɤ̄sɔ̀ɔ	GA, GD	sösɔɔ	ɔɔ	[sö =sɔɔ]	n	сущ	09/Jan/2009
+2101	sū	SB, LJ	su	n	сущ	
+2102	sú	MG, LJ, GJ	'su	луна	09/Nov/2008	n	сущ	lune	moon
+2103	sùa	MB	=sua	ложь	23/Jan/2011	ua ~ oa ~ ɔa	n	сущ	mensonge	lie(untruth)
+2104	sȕadhɤ̄	LJ	-suadhö	ua	[-sua dhö]	adv	нар	17/Jun/2010
+2105	sùakʌ̄bhɛ̏n	LJ	=suakëmɛ	[=sua {kë} -mɛ]	n	сущ	09/Nov/2008	Human
+2106	súân	LJ	'suan-	ṵa̰	n	сущ	23/Jan/2011
+2107	súbhádhángā	KB	'sumanaga	<jula>	['su 'ma 'na ga]	n	сущ	Cookery Comestible	29/Nov/2008
+2108	súbhōyɛ̏abha	YA. SE, --LJ	'subhoyɛabha	ɛa	['su bho -yɛa]	n	сущ	Reptile	09/Nov/2008
+2109	súbhɯsɯ̏	GJ	'subhüsü	['su 'bhü -sü]	n	сущ	09/Nov/2008
+2110	súdʌ̏ɯ	MG, LJ	'sudëü	ʌɯ	['su -dëü]	n	сущ	Natural	09/Nov/2008
+2111	súglɤ̀ɤ	MG, DJ	'suglöö	ɤɤ	['su =glöö]		n		07/Dec/2008	сущ
+2112	súgbɔ̏	MG, LJ	'sugbɔ	<lune-canari>	['su -gbɔ]	n	сущ	Natural Object	22/Aug/2007
+2113	sūŋ	LJ	sunng	n	сущ	07/Dec/2008	Religion
+2114	súɤ	CVV-HH	'suö	<*fear>	v	гл	uɤ	avoir.peur	MG, LJ	бояться	26/Jul/2008	scare
+2115	súɤ	CVV-HH	'suö	n	сущ	peur	uɤ	BE, CE, LJ	страх	23/Jan/2011	fear
+2116	súɤgādhʌ	YA, SE	'suögadhë	['suö ga dhë]	n	сущ	09/Nov/2008	Animal
+2117	súpɛ́n	MG	'supɛn	<lune-tranche>	['su 'pɛn]	n	сущ	07/Dec/2008
+2118	súsōŋ	BE, KB, LJ	'susong	['su song]	n	сущ	22/Aug/2007	Natural Object Place Astronomy
+2119	súsōŋgā	MG, LJ, BE	'susongga	['su song ga]	n	сущ	22/Aug/2007	Natural Object Place Astronomy
+2120	sùu	DJ, GJ, SB, LJ	=suu'-	вид	03/Dec/2008	uu	n	сущ	sorte	kind
+2121	sùugɯ́dhʌ́n	LJ	=suugünë	[=suu'- -ta]	n	сущ	01/Dec/2008	Human
+2122	sùuyāabhɛ̏n	LJ	=suuyaamɛ	[=suu'- yaa -mɛ]	n	сущ	03/Dec/2008	Human
+2123	-sɯ̏	GER	-sü	mrph			ɯ	мрф	LJ	GER	01/Dec/2008		GER
+2124	-sɯ̏	ADJ	-sü	mrph			ɯ	мрф		ADJ	07/Jul/2008		ADJ
+2125	sɯ́	CV-H	'sü	брать	22/Jan/2011	v	гл	prendre	<*take-2>	take
+2126	sɯ́ʌsɯ̏ʌ	SB, LJ	'süësüë	ɯʌ	['süë -süë]	adj	прил		01/Dec/2008
+2127	sɯ̏ʌtȁ	DJ, LJ	-süëta	ɯʌ	[-süë -ta]	n	сущ	Cause	09/Nov/2008
+2128	sɯ̏-dhú	DJ, --LJ	-sü 'dhu	v	гл	22/Jan/2011
+2129	tȁ	GJ	-ta	поверхность	09/Nov/2008	n	сущ	surface	<*surface>	surface
+2130	tȁ	на	-ta	01/Dec/2008	pp	пл	sur	<*surface>	on
+2131	tā	DJ, LJ	ta	закрывать	22/Jan/2011	v	гл	fermer	<*close-2>	close
+2132	tá	CV-H	'ta	хождение	23/Jan/2011	n	сущ	marche	<*go (to)-1>	walking
+2133	tá	ходить	'ta	22/Jan/2011	v	гл	marcher	walk
+2134	tàa	GJ, LJ	=taa	спина.LOC	09/Nov/2008	aa	loc.n	сущ	dos.LOC	back.LOC
+2135	tàa	<*back-5>	=taa	pp	пл	sur	aa	Location	на	09/Nov/2008	on
+2136	tàa	SB	=taa	aa	loc.n	сущ.лок	09/Nov/2008	Place
+2137	táâ	GJ	'taa-	aa	n	сущ	23/Jan/2011	Plant Substance Solid Comestible
+2138	tàadhɛ̏	[=taa -dhɛ]	=taadhɛ	n	сущ	dos	GA, MA, KD	Living Part	спина	01/Dec/2008	back
+2139	táâgbɔ̄lɯ́	DJ, LJ	'taagbɔlü	['taa- gbɔ 'lü]	n	сущ	23/Jan/2011	Artifact Object
+2140	tȁalɯ̏	LJ	-taalü	aa	[-taa -lü]	n	сущ	Artifact Object	03/Dec/2008
+2141	tàān	LJ	=taan'	a̰a̰	n	сущ	01/Dec/2008
+2142	tàāngā	KB, LJ	=taanga	[=taan' ga]	n	сущ	01/Dec/2008
+2143	táblʌ̏	table	'tablë	['ta -blë]	n	<Фр. table>	<Fr. table>	Artifact Object	сущ	DJ, LJ	стол	<Fr. table>	09/Nov/2008	table
+2144	tȁbhābhɛ̏n	KL	-tamamɛ	[-ta ma -mɛ]	n	сущ	09/Nov/2008	Human
+2145	tȁdhɛ	GA, GD, GJ	-tadhɛ	[-ta -dhɛ]	loc.n	сущ	01/Dec/2008	Object Part
+2146	tȁdhūɤ	LJ	-tadhuö	uɤ	[-ta dhuö]	loc.n	сущ.лок	09/Nov/2008
+2147	tȁdhūɤ	LJ	-tadhuö	[-ta dhuö]	pp	пл	09/Nov/2008	Location
+2148	tȁ-gā	LJ	-ta ga	v	гл	22/Jan/2011
+2149	tȁ-kɔ̀ɔ̄	LJ	-ta =kɔɔ'	<sur-main-dans?>	ɔɔ	v	гл	22/Jan/2011
+2150	tȁ-kún	LJ	-ta 'kun		v	surface-attraper			22/Jan/2011	гл
+2151	tȁ-kpȁ	LJ	-ta -kpa	v	гл	22/Jan/2011
+2152	tán	MG, LJ, DJ, BE, GJ	'tan	<*dance>	n	сущ	23/Jan/2011
+2153	tántádhɤ̄n	LJ	'tantandhö	['tan 'tan dhö]	adv	нар	01/Dec/2008
+2154	tāpʌ̏	<cultiver-chose>	tapë	[ta -pë]	n	сущ	22/Aug/2007
+2155	tāpʌ̏dhɛ	SB	tapëdhɛ	<cultiver-chose-place>	[ta -pë -dhɛ]	loc.n	сущ	09/Nov/2008
+2156	táɯ̂	LJ	'taü-	<tá + sɯ̏>	aɯ	adj	прич	03/Dec/2008
+2157	tȁ-yɤ̄	LJ	-ta yö	v	гл	22/Jan/2011
+2158	tȁzɔ̏dhēn	LJ	-tazɔndhe	[-ta -zɔn dhe]	n	сущ	23/Jan/2011
+2159	tɒ̏ɒ	DJ, LJ	-taɔ	ɒɒ	adj	прил	01/Dec/2008
+2160	tɒ̀ɒ̄	ɒɒ	=taɔ'	n	сущ	23/Jan/2011
+2161	tɒ̀ɒ̄	SB	=taɔ'	CVV-LNAF	ɒɒ	v	гл	BoundedEvent Agentive Possession Purpose	22/Jan/2011
+2162	tʌ̏	SB	-të	ротанговая пальма	03/Dec/2008	n	сущ	Artifact Object	rotang	rattan
+2163	tʌ́	CV-H	'të	LJ	v	гл	22/Jan/2011
+2164	tʌ́ʌ	MG, LJ, BE, DJ, GJ	'tëë	ʌʌ	n	сущ	23/Jan/2011	Natural
+2165	tʌ́ʌ	BE, LJ	'tëë	ʌʌ	n	сущ	12/Jul/2008	Insect
+2166	tʌ́ʌbɔ̀āgɯ́	GA, KD, LJ	'tëëbɔagü	['tëë =bɔa' 'gü]	n	сущ	09/Nov/2008	Human Part
+2167	tʌ́ʌgɔ̄n	BE	'tëëgɔn	['tëë gɔn]	n	сущ	01/Dec/2008	Insect
+2168	tʌ́ʌtʌ̏	GJ, LJ	'tëëtë	ʌʌ	['tëë -të]	adj	прил	09/Nov/2008
+2169	tʌ́dhɛ̏	GA, MA	'tëdhɛ	['të -dhɛ]	n	сущ	01/Dec/2008	Human Part
+2170	tʌ̏n	CV-AF	-tën	LJ	v	гл	22/Jan/2011
+2171	tʌ̄n	CV-M/H?	tën	DJ, LJ	v	гл	22/Jan/2011
+2172	tʌ́n	OD, LJ	'tën	v	гл	22/Jan/2011
+2173	tʌ̏ngʌ̏	-tëngë	22/Aug/2007
+2174	tʌ̀ŋ	LJ	=tëng	n	сущ	23/Jan/2011
+2175	tʌ̄ŋ	LJ	tëng	adv	нар	14/Dec/1999
+2176	tʌ̏ŋgʌ̏	DJ, LJ	-tënggë	[-tëng -gë]	n	сущ	22/Aug/2007	Human Part
+2177	tʌ́pʌ̄	GJ	'tëpë	['të pë]	n	сущ	09/Nov/2008	Insect
+2178	tʌ́sɯ̏	LJ	'tësü	['të -sü]	n	сущ	09/Nov/2008	Static Existence Mental
+2179	tʌ̄ɯ	LJ	tëü	ʌɯ	n	сущ	03/Dec/2008
+2180	tʌ̀ɯ̄dhʌ́n	[=tëü' 'në]	=tëünë	n	сущ	09/Nov/2008	Artifact Object Container
+2181	tȅ	-te	n	сущ	11/Nov/2008	Artifact Object
+2182	tē	LJ	te	n	сущ	30/Aug/2000	Artifact Object Instrument Fishery
+2183	té	'te	n	сущ	07/Dec/2008	Animal
+2184	té	LJ	'te	n	сущ	23/Jan/2011
+2185	tȅdhʌ́n	<*orphan-2>	-tenë	[-te 'në]	n	сущ	orphelin	Human	BE, LJ, SB	сирота	11/Nov/2008	orphan
+2186	tée	MG, LJ, BE, CE, OD	'tee	ee	adj	прил	30/Jan/2009
+2187	tée	MG, LJ, BE, CE, OD	'tee	ee	adv	нар	11/Nov/2008
+2188	téetȅ	OD	'teete	ee	['tee -te]	adj	прил	22/Aug/2007
+2189	téezʌ̏	GA, GD	'teezë	['tee -zë]	adj	прил	01/Dec/2008
+2190	téŋtéŋdhɤ̄	LJ	'tengtengdhö	['teng 'teng dhö]	adv	нар	22/Aug/2007
+2191	tété	EF	'tete	['te 'te]	adj	прил?	22/Aug/2007
+2192	tétúnsɯ̏	LJ	'tetunsü	['te 'tun -sü]	n	сущ	09/Jan/2009
+2193	têyí	LJ	'teyi	['te- 'yi]	n	сущ	11/Nov/2008	Liquid Comestible
+2194	tɛ̀dhɛn	LJ	=tɛnɛ'-	ɛ-ɛ, n	n	сущ	14/Dec/1999	Artifact Object
+2195	tɛ̄dhɔ́ɔnyī	LJ	tɛndhɔɔyi	<?>	[tɛn 'dhɔɔ yi]	n	сущ		07/Dec/2008
+2196	tɛ́ɛ	LJ, DJ, GJ	'tɛɛ	ɛɛ	n	сущ	23/Jan/2011
+2197	tɛ́ɛn	LJ	'tɛɛn	<*red-1>	ɛ̰ɛ̰	adj	прил	11/Nov/2008
+2198	tɛ́ɛpā	LJ, DJ, GJ	'tɛɛpa	ɛɛ	['tɛɛ pa]	n	сущ	07/Dec/2008
+2199	tɛ̀ī	LJ	=tɛi'	ɛi	n	сущ	23/Jan/2011
+2200	tɛ̏idhɤ̄	LJ	-tɛidhö	ɛi	[-tɛi dhö]	adv	нар	01/Dec/2008
+2201	tɛ̄nyī	tɛnyi	07/Dec/2008
+2202	tɛ́tɛ̏	LJ	'tɛtɛ	['tɛ -tɛ]	adj	прил	01/Dec/2008
+2203	tíâ	EF, LJ, GJ, DJ, CE	'tia-	<*bowl-1>	ia	n	сущ	Artifact Object	11/Nov/2008
+2204	tȉadhɤ̄bhɛ̏n	LJ	-tiandhömɛ	ḭa̰	[-tian dhö -mɛ]	n	сущ	Human	11/Nov/2008
+2205	tìān	LJ	=tian'	ḭa̰	pp		11/Nov/2008
+2206	tīan	MB	tian	<*totem>	ḭa̰	n		11/Nov/2008	сущ
+2207	tíaŋtȉaŋ	LJ	'tiangtiang	iaŋ	['tiang -tiang]	adj	прил	01/Dec/2008
+2208	tīi	<*black-2>	tii	ii	adj	прил	01/Dec/2008	Property Physical
+2209	tíibhɛ̏n	LJ	'tiinmɛ	ḭḭ	['tiin =yua' -mɛ]	n	сущ	Human	11/Nov/2008
+2210	tíin	LJ	'tiin	n	сущ	23/Jan/2011
+2211	tīizʌ̏	DJ, LJ	tiizë	[tii -zë]	adj	прил	01/Dec/2008	Property Physical
+2212	tíŋ	LJ	'ting		n	сущ	11/Nov/2008	
+2213	tȉɔn	BE, LJ	-tiɔn	ḭɔ̰	n	сущ	14/Dec/2008	Animal
+2214	tíɔŋtȉɔŋ	LJ	'tiɔngtiɔng	iɔŋ	['tiɔng -tiɔng]	adj	прил	03/Dec/2008
+2215	tíɤŋtȉɤŋ	LJ	'tiöngtiöng	iɤŋ	['tiöng -tiöng]	adj	прил	09/Jan/2009
+2216	tītī{-dhȕ}n	titi {-nu}	07/Dec/2008
+2217	tȍ	CV-AF	-to	v	гл	22/Jan/2011
+2218	tó	CV-H	'to	<*remain>	LJ, GJ, SB	v	гл	UnboundedEvent Purpose Agentive Usage	22/Jan/2011
+2219	tó	MG, LJ, GA, SB	'to	<*ear>	n	сущ	23/Jan/2011	Living Part Instrument BodyPart
+2220	tòbhāntɤ̄	LJ	=tomatö	[=to ma tö]	n	сущ	22/Aug/2007	Natural Object Comestible
+2221	tȍbhɛ̄ngɔ̏pʌ̏	LJ	-tomɛgɔpë	[-to mɛ -gɔ -pë]	n	сущ	01/Dec/2008	Group Possession
+2222	tódhʌ́ngā	BE, GA, KB, LJ	'tonëga	['to 'në ga]	n	сущ	11/Nov/2008	Human Part
+2223	tódhɛ	['to 'dhɛ]	'todhɛ	n	сущ	11/Nov/2008	Human Part
+2224	tódhiɤ	LJ	'todhiö	['to 'dhiö -dhɛ]	n	сущ	01/Dec/2008
+2225	tókpɤ̄ɯdhɛ̏	GA, MA, KD	'tokpöüdhɛ	ɤɯ	['to kpöü -dhɛ]	n	сущ	Living Part	11/Nov/2008
+2226	tòo	MG, CE	=too		oo	n		03/Dec/2008	сущ
+2227	tōo	CE, LJ	too	oo	n	сущ	01/Dec/2008
+2228	tóo	BE, LJ, DJ, SB, CE	'too	<*mush-2>	oo	n	сущ	Cookery Comestible	01/Dec/2008
+2229	tóobhɛ̄	GJ	'toobhɛ	['too bhɛ]	n	сущ	11/Nov/2008	Natural Object Comestible
+2230	tóodhɛ̀ɛ̄dhɛ̏	DJ, LJ	'toodhɛɛdhɛ	['too =dhɛɛ' -dhɛ]	loc.n	сущ	12/Nov/2008
+2231	tóodhɛ̀ɛ̄dhɤ	LJ	'toodhɛɛdhö	['too =dhɛɛ' dhö]	loc.n	12/Nov/2008
+2232	tóogbéêkʌ̄sɯ̏	LJ	'toogbeekësü	['too 'gbee- kë -sü]	n	сущ	12/Nov/2008
+2233	tōokɔ̏	LJ	tookɔ	oo	[too -kɔ]	n	сущ	Artifact Object Building	12/Nov/2008
+2234	tóoyí	LJ	'tooyi	['too 'yi]	n	сущ	12/Nov/2008	Cookery Comestible
+2235	tótābhɛ̏n	LJ	'totamɛ	['to ta -mɛ]	n	сущ	12/Nov/2008
+2236	tɔ̏	EF, GA, KD, SB, OD	-tɔ	<*chicken-2>	n	сущ	12/Nov/2008	Bird
+2237	tɔ́	MG, LJ, SB, CE, RC	'tɔ	<*name-1>	n	сущ	23/Jan/2011	LanguageRepresentation
+2238	tɔ́	CV-H	'tɔ	<*draw-2>	LJ	v	гл	BoundedEvent Purpose Physical Location Agentive	22/Jan/2011
+2239	tɔ́bhán	'tɔma	12/Nov/2008
+2240	tɔ̏bhangbɛn	DJ, GJ, LJ	-tɔnbhagbɛn-	[-tɔn -bha gbɛn-]	n	сущ	12/Nov/2008	Animal
+2241	tɔ́bhɔ̄dhe	LJ	'tɔbhɔdhe	['tɔ bhɔ dhe]	n	сущ	29/Nov/2008	Relation Social Condition Mental
+2242	tɔ́bhɔ́dhiɤdhɛ̏n	GA, GD	'tɔmɔdhiödhɛ	['tɔ 'mɔ 'dhiö -dhɛ]	n	сущ	09/Jan/2009	Human Part
+2243	tɔ́bhɔ́dhiɤnyɛ̏klúʌ̂dhɛ̏	GA, GD	'tɔmɔdhiöyɛkluëdhɛ	['tɔ 'mɔ 'dhiö -yɛ 'kluë- -dhɛ]	n	сущ	12/Nov/2008
+2244	tɔ̏dhē	LJ	-tɔdhe	[-tɔ dhe]	n	сущ	12/Nov/2008	Bird
+2245	tɔ̏gɔ̀n	OD	-tɔgɔn	<poule-homme>	[-tɔ gɔn]	n		Bird	22/Aug/2007	сущ
+2246	tɔ̏n	12/Nov/2008	-tɔn	n	сущ	<*mountain-1>	Natural Object
+2247	tɔ̄ŋ	23/Jan/2011	tɔng	n	сущ	<*law>
+2248	tɔ̀ɔ	LJ	=tɔɔ	CVV-LL	ɔɔ	v	гл	22/Jan/2011
+2249	tɔ̀ɔ	LJ	=tɔɔ	ɔɔ	n	сущ	23/Jan/2011
+2250	tɔ̄ɔ	LJ	tɔɔ	CVV-MM	ɔɔ	v	гл	BoundedEvent Communication	22/Jan/2011
+2251	tɔ̄ɔ	MG, LJ, GJ	tɔɔ	ɔɔ	n	сущ	12/Nov/2008
+2252	tɔ́ɔ̂	YA, SE, SB	'tɔɔ-	ɔɔ	n	сущ	Fish
+2253	tɔ́ɔbhán	LJ	'tɔɔma	ɔɔ ~ ɔ	['tɔ 'ma]	n	сущ	Human	03/Dec/2008
+2254	tɔ́ɔtɔ̏	LJ	'tɔɔtɔ	ɔɔ	['tɔɔ -tɔ]	adj	прил	01/Dec/2008
+2255	tɔ́-sȉɤ	DJ, GJ, LJ	'tɔsiö	['tɔ -siö]	n	сущ	03/Dec/2008	State Condition Manner Physical Medicine
+2256	tɔ́tɔ̏	LJ	'tɔtɔ	['tɔ -tɔ]	adj	прил	07/Dec/2008
+2257	tɤ̀dhɤ̀n	LJ	=tönö	ɤ-ɤ, n	[=tö =nö]	n	сущ	Plant	01/Dec/2008
+2258	tɤ́ŋ	03/Dec/2008	'töng	n	сущ	<*time-4>
+2259	tɤ̄ŋgá	GA, GD	töngga	[töng 'ga]	n	сущ	01/Dec/2008	Human Part
+2260	tɤ̏ŋgbɤ̏	LP	-tönggbö	[-töng -gö]	n	сущ	07/Dec/2008	Bird
+2261	tɤ̀ɯ̄	BE, GJ, LJ	=töü'	ɤɯ ~ ɤɤ	n	сущ	14/Dec/1999	Artifact Object Container
+2262	tɤ́ɯ̂	GJ	'töü-	ɤɯ ~ ɤɤ	n	сущ	23/Jan/2011
+2263	tɤ́ɯ̂dhɤ̄	LJ, MG, OD	'töüdhö	ɤɯ	['töü- dhö]	adv		12/Nov/2008
+2264	trȁtrȁdhɤ̄	SB, LJ	-tratradhö	CLV CLV	[-tra -tra dhö]	adv	нар		10/Jan/2009
+2265	trʌ̀ʌ	LJ	=trëë'-	CLVV-LNAF	ʌʌ	v	гл	UnboundedEvent Physical	22/Jan/2011
+2266	trʌ̏ʌdhɤ̄	LJ	-trëëdhö	CLVV	[-trëë dhö]	ʌʌ	adv	нар	01/Dec/2008
+2267	trʌ́ʌtrʌ̏	LJ	'trëëtrë	CLVV CLV	['trëë -trë]	ʌʌ	adj	прил	03/Dec/2008
+2268	trʌ́ŋ	'trëng	12/Nov/2008
+2269	trʌ̏ŋtrʌ̏ŋdhɤ̄	LJ	-trëngtrëngdhö	CLV÷ CLV÷	[-trëng -trëng dhö]	adv	нар	03/Dec/2008
+2270	trɛ̀īn	LJ	=trɛin'	CLVÃVÃ	ɛ̰ḭ ~ ɛ̰ɛ̰	n	сущ	Artifact Object
+2271	tròō	MB	=troo'	CLVV	<*play-1>	oo	n	сущ	23/Jan/2011
+2272	trōo	LJ	troo-	CLVV	oo	n	сущ	Bird	12/Dec/1999
+2273	tróo	EF, LJ, CE, SB	'troo	CLVV	oo	n	сущ	<*termite hill>
+2274	tròōkàāpʌ̏	OD	=trookaapë		[=troo' =kaa' -pë]	n	сущ	Artifact Object	22/Aug/2007
+2275	tròōkʌ̄bhɛ̏n	LJ	=trookëmɛ	[=troo' kë -mɛ]	n	сущ	22/Aug/2007	Human
+2276	trɔ̄ŋ	CLV÷	trɔng	LP	n	сущ	23/Jan/2011
+2277	trɔ̄ɔ	BE, GJ, SB, LJ	trɔɔ-	CLVV	ɔɔ	n	сущ	Reptile	14/Dec/1999
+2278	trɔ̀ɔdhɤ̄n	LJ	=trɔɔndhö	CLVÃVÃ	[=trɔɔn dhö]	ɔ̰ɔ̰	adv	нар	03/Dec/2008
+2279	trɔ̄ɔdhɤn	LJ	trɔɔndhö	CLVÃVÃ ~ CVÃVÃ	[trɔɔn dhö]	ɔɔ	adv	нар	01/Dec/2008
+2280	trɔ́ɔ̂n	MB, SB, LJ	'trɔɔn-	CLVÃVÃ	ɔ̰ɔ̰	n	сущ	Artifact Object	12/Nov/2008
+2281	trɤ̄	CLV-M	trö	v	гл	22/Jan/2011
+2282	trɤ́ŋtrɤ̏ŋ	LJ	'tröngtröng	CLV÷ CLV÷	['tröng -tröng]	adj	прил	01/Dec/2008
+2283	trùʌn	BE, CE, LJ	=truën	CLVÃVÃ	ṵʌ̰	n	сущ	01/Dec/2008
+2284	trȕu	LJ	-truu	CLVV	uu	n	сущ	Human Part	01/Dec/2008
+2285	trúu	DJ, LJ, BE	'truu	CLVV	uu	n	сущ	Artifact Instrument Music	23/Jan/2011
+2286	trɯ́ʌtrɯ̏ʌ	LJ	'trüëtrüë	CLVV CLVV	['trüë -trüë]	ɯʌ	adj	прил	22/Aug/2007
+2287	trɯ́ŋ	CLV÷	'trüng	SB, OD	pp	пл	12/Nov/2008
+2288	tú	LJ, SB	'tu	n	сущ	14/Dec/1999	Plant
+2289	tȕʌ	LJ, GJ	-tuë	uʌ	n	сущ	03/Dec/2008	Animal
+2290	túʌŋtúʌŋ̏	LP	'tuëngtuëng	uʌŋ	['tuëng 'tuëng-]	adj	прил	22/Aug/2007
+2291	túɛyɔ́n	LJ	'tuɛyɔn	uɛ	['tuɛ 'yɔn]	<*oil-1>	n	Natural Liquid Consumable	сущ	12/Nov/2008
+2292	tùn	LJ, MG, DJ, GJ	=tun	v	гл	12/Nov/2008
+2293	tūɤ	uɤ	tuö	loc.n	сущ	01/Dec/2008
+2294	tùū tùū	LP	=tuu' =tuu'	uu	n	сущ	03/Dec/2008	Bird
+2295	túubhɛ̏n	LJ	'tuunmɛ	ṵṵ ~ ṵŋ	['tunng -mɛ]	n	сущ	Human Property Communication	22/Aug/2007
+2296	tūudhɤ	LJ	tuudhö	uu	[tuu dhö]	adv	нар	12/Nov/2008
+2297	tùūn	CE, LJ	=tuun'	CV÷-LNAF var	ṵṵ ~ uŋ?	v	гл	22/Jan/2011
+2298	tùun	SB	=tuun'-	ṵṵ	n	сущ	Insect
+2299	túun	LJ	'tuun	ṵṵ ~ ɔ̰ɔ̰ (wo, dh)	n	сущ	23/Jan/2011
+2300	tùuntún	LJ	=tuuntun	ṵṵ	[=tuun 'tun]	CVV-CV		v	гл	22/Jan/2011
+2301	tùunzʌ̏	LJ	=tuunzë	ṵṵ	[=tuun -zë]	adj	прил	03/Dec/2008
+2302	ɯ̄	LJ, EF	ü	2SG.EXI	19/Jul/2008	pron	л.мест	2SG.EXI	2SG.EXI
+2303	ɯ̄	DJ, LJ	ü	2SG.NSBJ	14/Dec/2008	pron	л.мест	2SG.NSBJ	2SG.NSBJ
+2304	ɯ́	LJ, EF	'ü	2SG.JNT	03/Dec/2008	pron	л.мест	2SG.JNT	2SG.JNT
+2305	ɯ́	LJ	'ü	2SG.OPT	03/Dec/2008	ɯ	pron	л.мест	2SG.OPT	2SG.OPT
+2306	ɯ̂	<*ɯ́ ȁ>	'ü-	ɯ́ + ȁ	pron	<*ɯ́ ȁ>	ɯ́	<*ɯ́ ȁ>	LJ	14/Dec/2008	л.мест
+2307	ɯ	<*ɯ̄ ȁ>	ü-	ɯ̄ + ȁ	pron	<*ɯ̄ ȁ>	ɯ	<*ɯ̄ ȁ>	LJ	14/Dec/2008	л.мест
+2308	ɯ́ʌ̂n	LJ, GJ	'üën-	2SG.PURP	01/Dec/2008	pron	л.мест	2SG.PURP	2SG.PURP
+2309	ɯ̄ká	EF, LJ	üka	2SG.NEG.PFV	[ü 'ka]	21/Jul/2008	pron	л.мест	2SG.NEG.PFV	2SG.NEG.PFV
+2310	và	BE, MG, LJ, DJ, GJ, OD	=va	adj	прил	01/Dec/2008
+2311	và	BE, MG, LJ, DJ, GJ, OD	=va	adv	Quantity	26/Jul/2008	нар
+2312	vá	'va	n	сущ	14/Dec/1999	Artifact Object Instrument Fishery
+2313	vȁa	LJ	-vaa	aa	n	сущ	14/Dec/1999	Artifact Object Garment Smithery
+2314	váa	LP	'vaa	aa	n	сущ	01/Dec/2008
+2315	váa	LJ	'vaa	aa	n	сущ	12/Nov/2008
+2316	vȁagā	GA, MA, KD, DJ	-vaaga	[-vaa ga]	n	сущ	22/Aug/2007	Artifact Object Garment Smithery
+2317	vȁagāyȉʌkɔ̏dhʌ́ngā	GA, MA, KD	-vaagayiëkɔnëga	[-vaa ga -yië -kɔ 'në ga]	n	сущ	12/Nov/2008	Human Part
+2318	váan	LJ	'vaan	ɒɒ ~ a̰a̰	n	сущ	23/Jan/2011
+2319	váanvȁdhɛn	LJ	'vaanvandhɛ	a̰a̰	['vaan -van -dhɛ]	n	сущ	29/Nov/2008
+2320	vàanván	LJ	=vaanvan	[=vaan 'van]	CVV-CV	a̰a̰	v	гл	22/Jan/2011
+2321	vàāvàā	LJ	=vaavaa	aa	[=vaa' =vaa']	n	сущ	01/Dec/2008
+2322	vàȁzʌ̏	KD	=vaazë	aa	[=vaa -zë]	adj	прил	01/Dec/2008
+2323	vádhɤ̄	DJ, LJ	'vadhö	['va dhö]	adv	нар	12/Nov/2008
+2324	vàvà	LJ	=vava	[=va =va]	Human	07/Dec/2008
+2325	vávádhɤ̄	LJ	'vavadhö	['va 'va dhö]	adv	нар	12/Nov/2008
+2326	vɒ̄ɒnvɒ̄ɒdhɤn	LJ	vaɔnvaɔndhö	ɒ̰ɒ̰ ~ ɒɒŋ	[vaɔn vaɔn dhö]	adv	нар	01/Dec/2008
+2327	vʌ̏	YA, SE, DJ	-vë	n	сущ	03/Dec/2008	Animal
+2328	vʌ́ɯvʌ̏ɯ	LP	'vëüvëü	ʌɯ	['vëü -vëü]	adj	прил	01/Dec/2008
+2329	vʌ̀ɯ̄vʌ̀ɯ̄dhɤ	LJ	=vëüvëüdhö	ʌɯ	[=vëü' =vëü' dhö]	adv	нар	09/Jan/2009
+2330	vé	LJ	've	n	сущ	14/Nov/2008	Fish
+2331	véaavȅa	LJ	'veaavea	eaa ~ ia	['via -via]	adj	прил?	01/Dec/2008
+2332	véê	LJ	'vee-	ee	itj	???	07/Dec/2008
+2333	végā	LJ	'vega	['ve ga]	n	сущ	14/Nov/2008	Fish
+2334	vɛ̄	YA, SE	vɛ	n	сущ	03/Dec/2008	Animal
+2335	vɛ̄ɛdhɛ̏	GA, MA; LJ	vɛɛdhɛ	ɛɛ ~ ɛi?	[vɛi dhɛ]	loc.n	сущ	05/Jun/2010
+2336	vɛ̄ɛdhɤ	LJ, DJ, OD, SB	vɛɛdhö	ɛɛ	[vɛɛ dhö]	adv	нар	14/Nov/2008
+2337	vɛ̄ɛdhɤ	vɛɛdhö	[vɛɛ dhö]	14/Nov/2008
+2338	vɛ̏i	LJ	-vɛi	ɛi	n	сущ	23/Jan/2011	Natural Plant Group
+2339	vɛ̄idhɛ̏	vɛidhɛ	14/Nov/2008
+2340	vɛ̏ŋdhɤ̄	LJ	-vɛnngdhö	[-vɛnng dhö]	adv	нар	22/Aug/2007
+2341	vìānvìādhɤn	LJ	=vianviandhö	ḭa̰	['vian 'vian dhö]	adv	нар	01/Dec/2008
+2342	víavȉa	'viavia	22/Aug/2007	ia ~ eaa
+2343	víʌʌ	LJ	'viëë	iʌʌ	n	сущ	14/Feb/2010
+2344	víʌvȉʌ	GA, MA, LJ	'viëvië	iʌ	['vië -vië]	adj	прил	Static Property Physical	22/Aug/2007
+2345	vīi	LP	vii	ii	n	сущ	01/Dec/2008	Insect
+2346	vīn	CV-M	vin	LJ	v	гл	22/Jan/2011
+2347	vȉŋ	MB, LJ	-vinng	n	сущ	08/Jun/2010
+2348	víɔ̂n	LJ	'viɔn-	ḭɔ̰	n	сущ	<Fr>	Artifact Object
+2349	vlā	LJ	vla	CLVV	ua	n	сущ	Animal	14/Nov/2008
+2350	vlā	CLV-M	vla	LJ	v	гл	22/Jan/2011
+2351	vlàa	LJ	=vlaa	CLVV-LL	aa	v	гл	22/Jan/2011
+2352	vláanvlȁn	LJ	'vlaanvlan	CLVÃVÃ CLVÃ	['vlaan -vlan]	a̰a̰	adj	прил	03/Dec/2008
+2353	vlānkāadhɤn	LJ	vlankaandhö	CLVÃ	[vlan kaan dhö]	a̰a̰	adv	нар	07/Dec/2008
+2354	vlānvlànvlādhɤn	MB, LJ	vlanvlanvlandhö	CLVÃ CLVÃ CLVÃ	[vlan =vlan vlan dhö]	adv	нар	14/Nov/2008
+2355	vlānvlànvlān	MB, LJ	vlanvlanvlan	CLVÃ CLVÃ CLVÃ	[vlan =vlan vlan]	n	сущ		29/Nov/2008
+2356	vlʌ́ŋvlʌ̏ŋ	LP, LJ	'vlëngvlëng	CLV÷ CLV÷	['vlëng -vlëng]	adj	прил	01/Dec/2008
+2357	vlɛ̄i	LP, LJ	vlɛi-	CLVV	ɛi	n	сущ	Reptile	14/Dec/1999
+2358	vlɛ́ŋvlɛ̏ŋ	LJ	'vlɛngvlɛng	CLV÷ CLV÷	['vlɛng -vlɛng]	adj	прил	01/Dec/2008
+2359	vló	CLV	'vlo	YA, SE, SB	n	сущ	03/Dec/2008	Reptile
+2360	vlōo	SB, LJ	vloo	CLVV-MM	oo	v	гл		22/Jan/2011
+2361	vlɤ̄dhɤ	LJ	vlödhö	CLV	[=vlö dhö]	adv	нар	03/Dec/2008
+2362	vlùazʌ̏	LJ	=vluazë	CLVV	[=vlua -zë]	ua	adj	прил	17/Jun/2010
+2363	vlɯ̄	CLV-M	vlü	LJ	v	гл	22/Jan/2011
+2364	vlɯ́ŋ	CLV÷	'vlüng	GA, MA, LJ	n	сущ	14/Nov/2008	Living Part
+2365	vlɯ́ɯn	LJ	'vlüün	CLVÃVÃ	ɯ̰ɯ̰	n	сущ	Object Part	03/Dec/2008
+2366	vlɯ́vlɯ́dhɤ̄	LJ	'vlüvlüdhö	CLVV CLVV ~ CLV CLV	['vlüü 'vlüü dhö]	ɯɯ ~ ɯ	adv	нар	03/Dec/2008
+2367	vòkāa	<Fr>	=vokaa-	[=vo kaa-]	n	сущ	avocat	Human	LJ	адвокат	01/Dec/2008	lawyer
+2368	vōodhɤ	LJ	voodhö	oo	[voo dhö]	adv	нар	14/Nov/2008
+2369	vɔ́	LJ	'vɔ	n	сущ	03/Dec/2008	Object Group
+2370	vɔ̄ŋ	GA, MA, LJ	vɔng	<*lung-1>	n	сущ	23/Jan/2011	Human Part
+2371	vɔ̏ɔ	n	-vɔɔ	сущ	cola.blanc	LJ	ɔɔ	Plant, Part, Comestible	белый.кола	03/Dec/2008	white.cola
+2372	vɔ̏ɔgā	LJ	-vɔɔga	ɔɔ	[-vɔɔ ga]	n	сущ	Plant, Part, Comestible	03/Dec/2008
+2373	vɤ̄	LP	vö	n	сущ	03/Dec/2008	Animal
+2374	vɤ́ɯ	LJ	'vöü	ɤɯ	n	сущ	14/Nov/2008
+2375	vɤ́ɯzʌ̏	LJ	'vöüzë	ɤɯ	['vöü -zë]	adj	прил	04/Dec/2008
+2376	vùʌ̄n	LJ	=vuën'	ṵʌ̰	n	сущ	07/Jan/2009
+2377	vùʌ̄nvùʌ̄dhɤn	LJ	=vuënvuëndhö	ṵʌ̰	[=vuën' =vuën' dhö]	adv	нар	01/Dec/2008
+2378	vúʌvȕʌ	LJ	'vuëvuë	uʌ	['vuë -vuë]	adj	прил	14/Nov/2008
+2379	vúu	CE, LJ	'vuu	uu	n	сущ	01/Dec/2008	
+2380	vȕudō	BE, LJ, CE, OD	-vuudo	uu	[-vuu do]	num	числ	14/Nov/2008
+2381	vɯ̂	LJ	'vü-	prt		04/Dec/2008
+2382	wȁ	CV-AF	-wa	LJ	v	гл	22/Jan/2011	BoundedEvent Location Physical
+2383	wȁ	<*wȍ ȁ>	-wa	wȍ + ȁ	a	<*wȍ ȁ>	<*wȍ ȁ>	14/Dec/2008	pron	л.мест
+2384	wà	LJ, EF, GJ	=wa	3PL.PRF	06/Dec/2008	pron	л.мест	3PL.PRF	3PL.PRF
+2385	wà	LJ, LP	=wa	n	сущ	23/Jan/2011
+2386	wā	LJ	wa	n	сущ	14/Dec/1999	Plant
+2387	wá	LJ	'wa	3PL.LOG.PRF	17/Jul/2008	a	pron	л.мест	3PL.LOG.PRF	3PL.LOG.PRF
+2388	wȁa	-waa	01/Dec/2008
+2389	wàa	LJ	=waa	CVV-LL	aa ~ ɒɒ	v	гл	22/Jan/2011
+2390	wàa	LP	=waa'-	aa	n	сущ	01/Dec/2008	Insect
+2391	wāa	LJ, EF	waa	3PL.NEG.PFV	04/Dec/2008	aa	pron	л.мест	3PL.NEG.PFV	3PL.NEG.PFV
+2392	wāa	LJ	waa	aa	cnj	союз	17/Nov/2008
+2393	wāȁ	LJ, SB	waa-	aa	pron	л.мест	26/Jul/2008
+2394	wāȁ	LJ, SB	waa-	3SG.и	26/Jul/2008	aa	3SG.et	3SG.and
+2395	wāȁ		waa-	wāȁ+ ȁ	pron		aa		LJ	14/Dec/2008	л.мест
+2396	wáa	LJ, EF, GJ	'waa	3PL.NEG.IPFV	04/Dec/2008	aa	pron	л.мест	3PL.NEG.IPFV	3PL.NEG.IPFV
+2397	wáa	LJ	'waa	aa	adj	прил	17/Nov/2008
+2398	wáâ	'waa-	01/Dec/2008
+2399	wȁabhȁanyȉ	LJ	-waamaayi	aa	[-waa -maa -yi]	n	сущ	01/Dec/2008
+2400	wáadhɛ̏	LJ	'waadhɛ	['waa -dhɛ]	n	сущ	17/Nov/2008
+2401	wȁadhɤ̄	LJ	-waadhö	aa	[-waa dhö]	adv	нар	04/Dec/2008
+2402	wàādhūn	=waannu -sü	22/Aug/2007	a̰a̰ ~ aa
+2403	wāadhūn	LJ	waanu	[waan nu]	nuCVV	aa ~ a̰a̰	v	BoundedEvent Location Physical	гл	22/Jan/2011
+2404	wȁan	LJ	-waan	3PL.PURP	01/Dec/2008	aa ~ a̰a̰	pron	л.мест	3PL.PURP	3PL.PURP
+2405	wàān	LJ	=waan'	a̰a̰	n	сущ	07/Dec/2008	Artifact Object Garment Weaving
+2406	wáan	LJ	'waan	a̰a̰	n	сущ	23/Jan/2011
+2407	wáân	LJ	'waan-	LOG.PL.PURP	01/Dec/2008	aa ~ a̰a̰	pron	л.мест	LOG.PL.PURP	LOG.PL.PURP
+2408	wáanwȁn	LJ	'waanwan	a̰a̰	['waan -wan]	adj	прил?	01/Dec/2008
+2409	wàawá	DJ, LJ	=waawa	aa	[=waa 'wa]	CVV-CV	v	гл	22/Jan/2011
+2410	wáawá	LJ	'waawa	aa	['waa 'wa]	adj	прил	26/Jul/2008
+2411	wáawá	LJ	'waawa	aa	['waa 'wa]	adv	26/Jul/2008
+2412	wāgɔ̄n	M?	wagɔn	[wa gɔn]	n	сущ	04/Dec/2008
+2413	wāŋ	LJ	wang	n	сущ	04/Dec/2008
+2414	wɒ̀ɒ	=waɔ -sü	09/Jan/2009
+2415	Wɒ̀ɒ̏dhɤ̄	LJ	=Waɔdhö	ɒɒ	[=waɔ- dhö]	n	сущ	01/Dec/2008
+2416	wæ̀ǣ	LJ	=wɛa'	ɛa	n	сущ	23/Jan/2011
+2417	wʌ́ɯ̂	<*money>	'wëü-	n	сущ	argent	ʌɯ	Group MoneyRepresentation	LJ, KB, GJ, CE	деньги	17/Nov/2008	money
+2418	wʌ́ɯ̂dhɛ́	GJ	'wëüdhɛ	['wëü- 'dhɛ]	n	сущ	17/Nov/2008
+2419	wʌ́ɯ̂gā	LJ, KB, GJ	'wëüga	<*money>	['wëü- ga]	n	сущ	Group MoneyRepresentation	22/Aug/2007
+2420	wʌ́ɯ̂sɛ́ɛ̂n	LJ	'wëüsɛɛn	['wëü- 'sɛɛn-]	n	сущ	01/Dec/2008
+2421	wʌ̏ɯzʌ̏	LJ	-wëüzë	ʌɯ (wo)	[-wëü -zë]	adj	прил		22/Aug/2007
+2422	wé	CV-H	'we	<*speak-3>	v	гл	22/Jan/2011
+2423	wéʌ̂	'weë- -sü	22/Aug/2007	eʌ
+2424	wèe	n	=wee	сущ	lèpre	GJ, LJ	ee	State Condition Manner Physical Medicine	лепра	17/Nov/2008	leprosy
+2425	wèe	LJ	=wee		ee (dh)	n		Natural	12/Jul/2008	сущ
+2426	wēe	wee	17/Nov/2008
+2427	wēekɔ́	LP, LJ	weekɔ	ee	[wee 'kɔ]	n	сущ	Living Part	17/Nov/2008
+2428	wèepākɔ̏dhʌ́ngā	GA, MA, KD	=weepakɔnëga	ee	[=wee pa -kɔ 'në ga]	n	сущ	Human Part	17/Nov/2008
+2429	wèeyȉ	KB	=weeyi	[=wee -yi]	n	сущ	17/Nov/2008
+2430	wégā	GA, LJ, MA, BE	'wega	['we ga]	n	сущ	22/Aug/2007	Human Part
+2431	wēi	<*urine>	wei	n	сущ	urine	ei ~ ee	Natural Liquid	BE, LJ	моча	23/Jan/2011	urine
+2432	wēiyí	LJ	weiyi	[wei 'yi]	n	сущ	17/Nov/2008	Natural Liquid
+2433	wēŋ	<*tail-1>	weng	n	сущ	queue	ḛḛ ~ eŋ	MG, DJ, BE, LJ	хвост	08/Jan/2009	tail
+2434	wéŋ	LJ, LP	'weng	n	сущ	01/Dec/2008	Bird
+2435	wɛ̏ɛ	LJ	-wɛɛ	ɛɛ ~ ɛi	n	сущ	23/Jan/2011
+2436	wɛ̏ɛbhōdhe	LJ	-wɛɛbhodhe	[-wɛɛ bho dhe]	n	сущ	23/Jan/2011
+2437	wɛ̏ɛdhɤ̄n	LJ	-wɛɛndhö	ɛ̰ɛ̰	[-wɛɛn dhö]	adv	нар	22/Aug/2007
+2438	wɛ̏i	-wɛi	17/Nov/2008
+2439	wɛ̄n	SB, DJ, LJ	wɛn	04/Dec/2008	n	сущ	<*oilpalm grain>	Natural
+2440	wɛ́ŋsɔ̄dhʌ́n	LJ	'wɛngsɔnë	['wɛng sɔ 'në]	n	сущ	17/Nov/2008
+2441	wìan	LJ	=wian	ḭa̰	n	сущ	04/Jun/2010	Object
+2442	wìangā	LJ	=wianga	ḭa̰	[=wian ga]	n	сущ	Object	04/Dec/2008
+2443	wíanwȉan	LJ	'wianwian	ḭa̰	['wian -wian]	adj	прил	17/Nov/2008
+2444	wíʌ	LP	'wië	iʌ	n	сущ	04/Dec/2008	Fish
+2445	wīɤ	LP	wiö	iɤ	loc.n	сущ.лок	17/Nov/2008
+2446	wísá	GJ, LJ	'wisa	['wi 'sa]	n	сущ	17/Nov/2008	Human
+2447	wlā	CLV	wla	YA, SE	n	сущ	Animal
+2448	wláan	CLVÃVÃ	'wlaan	<*gray hair>	a̰a̰	n	сущ	Living Part	23/Jan/2011
+2449	wláân	LJ, DJ, GJ, RC	'wlaan-	CLVÃVÃ	a̰a̰	n	сущ
+2450	wlàawlá	LJ	=wlaawla	[=wlaa 'wla]	CLVV-CLV	aa	v	гл	22/Jan/2011
+2451	wlȁdhɤ̄	OD	-wladhö	CLV	[-wla dhö]	adv	нар		22/Aug/2007
+2452	wlán	CLVÃ	'wlan		MB	n		Natural	17/Nov/2008	сущ
+2453	wlȁwlȁdhɤ̄	LJ	-wlawladhö	CLV CLV	[-wla -wla dhö]	adv	нар	01/Dec/2008
+2454	wlǽæ̏	SB, LJ	'wlɛa-	CLVV	ɛa	n	сущ		04/Jun/2010
+2455	wlæ̏æzʌ̏	SB	-wlɛazë	CLVV	[-wlɛa -zë]	ɛa	adj		прил	18/Oct/2008
+2456	wlʌ̀ʌ̄	LJ	=wlëë'	ʌʌ	v	CLVV-LL var	гл	22/Jan/2011	BoundedEvent Agentive Physical Existence
+2457	wlʌ́ʌnwlʌ̏n	LJ	'wlëënwlën	CLVÃVÃ CLVÃ	['wlëën -wlën]	ʌ̰ʌ̰	adj	прил	17/Nov/2008
+2458	wlʌ̄ɯ	LP	wlëü	CLVV	ʌɯ	adj	прил	04/Dec/2008
+2459	wlɛ̏ɛdhɤ̄	LJ	-wlɛɛdhö	CLVV	[-wlɛɛ dhö]	ɛɛ	adv	нар	04/Dec/2008
+2460	wlōo	LP	wloo	CLVV-MM	oo	v	гл	22/Jan/2011
+2461	wlɤ̄wlɤ̄zʌ̏	LJ, LP	wlöwlözë	CLV CLV	[wlö wlö -zë]	adj	прил	07/Dec/2008
+2462	wȍ	BE, DJ, GJ, SB, CE, LJ	-wo	голос	23/Jan/2011	n	сущ	voix	<*voice>	voice
+2463	wȍ	CV-AF	-wo	v	гл	apparaître	DJ, SB, LJ	BoundedEvent Purpose Physical Location Time	появляться	22/Jan/2011	appear
+2464	wȍ	GJ	-wo	3PL.EXI	09/Jan/2009	pron	л.мест	3PL.EXI	3PL.EXI
+2465	wȍ	LJ	-wo	3PL.OPT	04/Dec/2008	o	pron	л.мест	3PL.OPT	3PL.OPT
+2466	wȍ	CV-AF double?	-wo	LP, LJ	v	гл	22/Jan/2011
+2467	wȍ	-wo	04/Dec/2008
+2468	wò	=wo	04/Dec/2008
+2469	wō	CV-M	wo	LJ	v	гл	22/Jan/2011
+2470	wō	LJ	wo	3PL.LOG.EXI	19/Jul/2008		pron	л.мест	3PL.LOG.EXI	3PL.LOG.EXI
+2471	wō	LJ	wo	3PL.AUT	04/Dec/2008	pron	л.мест	3PL.AUT	3PL.AUT
+2472	wō	DJ, LJ	wo	REFL.PL	19/Jul/2008	pron	л.мест	REFL.PL	REFL.PL
+2473	wó	LJ, EF	'wo	3PL.JNT	04/Dec/2008	pron	л.мест	3PL.JNT	3PL.JNT
+2474	wó	LJ	'wo	3PL.LOG.JNT	18/Jul/2008	o	pron	л.мест	3PL.LOG.JNT	3PL.LOG.JNT
+2475	wô	<*wó ȁ>	'wo-	wó+ ȁ	pron	<*wó ȁ>	<*wó ȁ>	14/Dec/2008	л.мест
+2476	wōʌ̏	3PL.POSS	woë-	pron	<*wō ɓȁ>	<*wō ɓȁ>	oʌ	л.мест	3PL.POSS	04/Dec/2008	<*wō ɓȁ>	3PL.POSS
+2477	wȍdȁplɛ̀bhɛ̏n	LJ	-wodaplɛmɛ	[-wo -da =plɛ -mɛ]	n	сущ	04/Dec/2008	Human
+2478	wȍdhíɤlȍbhɛ̏n	LJ, LP	-wodhiölomɛ	[-wo 'dhiö -lo -mɛ]	n	сущ	01/Dec/2008	Human
+2479	wȍdhíɤsɯ́bhɛ̏n	LJ	-wodhiösümɛ	[-wo 'dhiö 'sü -mɛ]	n	сущ	22/Aug/2007	Human Occupation Communication
+2480	wȍgbíŋ̂dhɛ̏	OD	-wogbinngdhɛ		[-wo 'gbinng- -dhɛ]	n	сущ		22/Aug/2007
+2481	wȍká	-woka	[-wo 'ka]	04/Dec/2008
+2482	wōká	LOG.PL.NEG.PFV	wo 'ka	04/Dec/2008	[wo 'ka]	pron	л.мест	LOG.PL.NEG.PFV	LOG.PL.NEG.PFV
+2483	wòŋ	=wong	n	сущ	01/Dec/2008	Animal
+2484	wōŋ̏	LJ	wong-	3SG.3SG	17/Jul/2008	pron	л.мест	3SG.3SG	3SG.3SG
+2485	wóŋ̂	LJ	'wong-	n	сущ	14/Dec/1999
+2486	wōŋ{wō}-dhȕn	LJ	wong {wo} -nu	3PL.3-PL	17/Jul/2008	pron	л.мест	3PL.3-PL	3PL.3-PL
+2487	wòō	LJ	=woo'	CVV-LNAF redoubl	oo	v	гл	22/Jan/2011
+2488	wɔ̏	CV-AF	-wɔ	DJ, LJ	v	гл	22/Jan/2011	BoundedEvent Agentive Existence Physical Purpose
+2489	wɔ̄	wɔ	n	сущ	17/Nov/2008
+2490	wɔ̄	CV-M	wɔ	<*put-3>	v	гл	22/Jan/2011
+2491	wɔ̄	YA, SE	wɔ	n	сущ	17/Nov/2008	Animal
+2492	wɔ́	<*firewood-3>	'wɔ	n	сущ	fois.à.brûler	MG, LJ, SB	Natural Group	дрова	23/Jan/2011	firewood
+2493	wɔ̄dhɛ̏	[wɔ -dhɛ]	wɔdhɛ	n	сущ	17/Nov/2008
+2494	wɔ́dhɤ̄	LJ	'wɔdhö	['wɔ dhö]	adv	нар	08/Jan/2009
+2495	wɔ̄kɔ̏	GJ	wɔkɔ	[wɔ -kɔ]	n	сущ	17/Nov/2008
+2496	wɔ́ŋwɔ̏ŋ	LJ, LP	'wɔnngwɔnng	['wɔnng -wɔnng]	adj	прил	17/Nov/2008
+2497	wɔ̀ɔ̏	GJ	=wɔɔ-	ɔɔ	n	сущ	07/Dec/2008	Animal
+2498	wɔ́ɔnwɔ̏n	LJ, LP	'wɔɔnwɔn	ɔ̰ɔ̰	['wɔɔn -wɔn]	adj	прил	04/Dec/2008
+2499	wɔ̀ūglōʌbhȁn	LP	=wɔugloëma	oʌ	[=wɔu' gloë- -ma]	n	сущ	Bird	17/Nov/2008
+2500	wɔ́yɛ́lan	LJ, LP	'wɔyɛlan	['wɔ 'yɛ lan-]	n	сущ	01/Dec/2008	Natural Group
+2501	wɔ́zʌ̏	LJ, LP	'wɔzë	['wɔ -zë]	adj	прил	22/Aug/2007
+2502	wɤ̄	GA, GD, GJ	wö	<*face-2>	n	сущ	17/Nov/2008	Human Part
+2503	wɤ̀ŋ̄	CE, SB, LJ	=wöng'	пест	17/Nov/2008	n	сущ	Artifact Object Instrument	pilon	pestle
+2504	wɤ̄ɤ	LP, LJ	wöö	<*fly-2>	ɤɤ	n	сущ	Insect	17/Nov/2008
+2505	wɤ̄ɤdhɛ̏	GA, GD	wöödhɛ	ɤɤ ~ ɤɯ	[wöö -dhɛ]	<*face-2>	loc.n	Human Part	сущ	17/Nov/2008
+2506	wɤ̄ɯdhɤ	LJ, GA, GD	wöüdhö	ɤɯ	[wöü dhö]	17/Nov/2008
+2507	wúdhɤ̄nkʌ̄dhíɤblɛ̀ɛ̄bhɛ̏n	LJ	'wundhökëdhiöblɛɛmɛ	['wun dhö kë 'dhiö =blɛɛ' -mɛ]	n	сущ	17/Nov/2008	Human
+2508	wūn	MG, LJ, MA, GJ	wun	<*hair-3>	n	сущ	23/Jan/2011	Human Part
+2509	wún	LJ, DJ, GJ, OD	'wun	<*affair, matter-2>	n	сущ	23/Jan/2011	Static Existence Modal
+2510	wúnblʌ́	DJ, LJ	'wunblë	['wun 'blë]	n	сущ	22/Aug/2007	Insect
+2511	wúndánpɤ̄bhɛ̏n	LJ	'wundanpömɛ	['wun 'dan pö -mɛ]	n	сущ	17/Nov/2008	Human
+2512	wúndɔ̏a	LJ, LP	'wundɔa	['wun -dua dhe]	n	сущ	01/Dec/2008
+2513	wúndɔ̄bhɛ̏n	LJ	'wundɔmɛ	['wun dɔ -mɛ]	n	сущ	22/Aug/2007
+2514	wúndɔ̄dhe	OD, LJ	'wundɔdhe	['wun dɔ dhe]	n	сущ	17/Nov/2008
+2515	wúndȕadhē	'wunduadhe	17/Nov/2008
+2516	wūngā	KB	wunga	[wun ga]	n	сущ	17/Nov/2008	Human Part
+2517	wúngīa	LJ	'wungia	['wun gia-]	n	сущ	17/Nov/2008
+2518	wúngɔ̏	LP	'wungɔ	['wun -gɔ]	n	сущ	17/Nov/2008
+2519	wúngɔ̏dhíɤbhɛ̏n	LP	'wungɔdhiömɛ	['wun -gɔ 'dhiö -mɛ]	n	сущ	17/Nov/2008	Human
+2520	wúntȁyɔ́bhɛ̏n	LJ	'wuntayɔmɛ	['wun -ta 'yɔ -mɛ]	n	сущ	01/Dec/2008	Human
+2521	wúnyɤ̏yāansɯ̏	LP	'wunyöyaansü	['wun -yö yaan -sü]	n	сущ	04/Dec/2008
+2522	wúnzàāsɯ̏	GJ	'wunzaasü	['wun =zaa' -sü]	n	сущ	17/Nov/2008
+2523	wúu	LJ	'wuu	uu	n	сущ	14/Dec/1999
+2524	wɯ̄	MG, LJ, DJ, GJ, OD	wü	мясо	23/Jan/2011	n	сущ	viande	<*meat, animal-2>	meat
+2525	wɯ́	CV-H	'wü	<*break (to)-2>	v	гл	casser		LJ, GJ	ломать	22/Jan/2011	break
+2526	wɯ́	CV-H	'wü	LJ	v	гл	22/Jan/2011
+2527	wɯ́dhɛ̏	DJ, LJ	'wüdhɛ	['wü -dhɛ]	n	сущ	17/Nov/2008
+2528	wɯ̄kwī	LJ, LP	wükwi	[wü kwi]	n	сущ	17/Nov/2008	Artifact Solid Covering Shoemaking
+2529	wɯ̀ɯ	LJ	=wüü'-	CVV-LNAF redoubl	<*grind-2>	ɯɯ	v	гл	22/Jan/2011
+2530	yȁ	CV-AF	-ya	<*sit (to)-2>	v	гл	22/Jan/2011
+2531	yȁ	<*yɤ̏ ȁ>	-ya	yɤ̏+ ȁ	pron	<*yɤ̏ ȁ>	<*yɤ̏ ȁ>	14/Dec/2008	л.мест
+2532	yà	LJ, EF, GJ, DJ, BE, MG	=ya	3SG.PRF	29/Nov/2008	pron	л.мест	3SG.PRF	3SG.PRF
+2533	yā	MG, LJ, GJ, BE, DJ	ya	<*evil>	a ~ aa	adj	прил	06/Jan/2009
+2534	yā	MG, LJ, GJ, BE, DJ	ya	adv	нар	18/Nov/2008
+2535	yá	LJ, SB, CE, OD	'ya	n	сущ	18/Nov/2008	Plant Comestible Cookery
+2536	yá	3SG.LOG.PRF	'ya	29/Nov/2008	pron	л.мест	3SG.LOG.PRF	3SG.LOG.PRF
+2537	yȁa	-yaa	01/Dec/2008
+2538	yāa	LJ	yaa	3SG.NEG.PFV	01/Dec/2008	aa	pron	л.мест	3SG.NEG.PFV	3SG.NEG.PFV
+2539	yāa	yaa	24/Jul/2008
+2540	yáa	LJ, EF, GJ	'yaa	3SG.NEG.IPFV	01/Dec/2008	aa	pron	л.мест	3SG.NEG.IPFV	3SG.NEG.IPFV
+2541	yáâ	'yaa-	01/Dec/2008
+2542	yāadhɛ̏	GJ	yaadhɛ	[yaa -dhɛ]	n	сущ	18/Nov/2008	State Condition Manner Physical
+2543	yáadhɛn	LJ	'yaandhɛ	['yaan 'dhɛ]	n	сущ	06/Dec/2008	Plant
+2544	yàādhūn	MG, LJ, OD	=yaanu	a̰a̰ ~ aa	[=yaan' nu]	nuCVV	<*sit (to)-2>	v	гл	22/Jan/2011
+2545	yàādhūn	=yaannu -sü	18/Nov/2008	aa ~ a̰a̰
+2546	yȁagā	<*three-2>	-yaaga	[-yaa ga]	num	числ	aa	trois	MG, LJ, CE, OD, RC	три	18/Nov/2008	three
+2547	yāagɯ́bhɛ̏n	LJ	yaagümɛ	[yaa 'gü -mɛ]	n	сущ	22/Aug/2007	Human Relation Condition
+2548	yȁan	LJ	-yaan	3SG.PURP	01/Dec/2008	aa ~ a̰a̰	pron	л.мест	3SG.PURP	3SG.PURP
+2549	yȁan	-yaan	06/Dec/2008
+2550	yàȁn	LJ, LP	=yaan-	a̰a̰	n	сущ	06/Dec/2008	Bird
+2551	yáan	LJ	'yaan	<*grass-3>	a̰a̰	n	сущ	Plant	01/Dec/2008
+2552	yáan	SB	'yaan	глаза.COM	18/Nov/2008	a̰a̰	yeux.COM	eyes.COM
+2553	yáân	LJ	'yaan-	LOG.SG.PURP	01/Dec/2008	aa ~ a̰a̰	pron	л.мест	LOG.SG.PURP	LOG.SG.PURP
+2554	yáanló	LJ	'yaanlo	a̰a̰	['yaan 'lo]		n		сущ	01/Dec/2008
+2555	yȁantédhē	KD, DJ	-yaantedhe	a̰a̰	[-yaan 'te dhe]	n	сущ	Insect	18/Nov/2008
+2556	yȁatȁgblȍo	GA	-yaatagbloo	[-yaa -ta -gbloo]	n	сущ	01/Dec/2008	Living Part
+2557	yāazʌ̏	LJ	yaazë	[yaa -zë]	adj	прил	01/Dec/2008
+2558	yádhʌ́n	GA, MA	'yannë	['yan 'në]	n	сущ	01/Dec/2008	Human Part
+2559	yȁdhɛ	[-ya -dhɛ]	-yadhɛ	n	сущ	23/Jan/2011
+2560	yádhɛ̏nyɤ̄bhɛ̏n	LJ	'yandhɛyömɛ	['yan -dhɛ yö -mɛ]	n	сущ	01/Dec/2008	Human
+2561	yákȍ	GA, MA, LJ	'yako	['ya -ko]	n	сущ	09/Jan/2009	Human Part
+2562	yȁkúʌ̂dhē	LJ	-yakuëdhe	uʌ ~ oʌ	[-ya 'koë- dhe]	n	сущ	Social Quantity Purpose	18/Nov/2008
+2563	yȁn	LJ	-yan	<*egg-3>	a̰a̰ ~ a̰	n	сущ	Living Comestible	23/Jan/2011
+2564	yán	<*eye>	'yan	n	сущ	yeux	MG, KB, BE, GJ, LJ	Human Part	глаза	23/Jan/2011	eyes
+2565	yán	CV-H	'yan	<*carve (to)>	DJ, LJ	v	гл	BoundedEvent Agentive Physical Purpose	22/Jan/2011
+2566	yȁnbɔ̄dhɛ̏	GA, KD, LJ	-yanbɔdhɛ	[-yan bɔ -dhɛ]	n	сущ	18/Nov/2008
+2567	yángā	DJ, LJ	'yanga	<*eye>	['yan ga]	n	сущ	Living Part	01/Dec/2008
+2568	yȁngādō	KB	-yangado	[-yan ga do]	n	сущ	01/Dec/2008	Living
+2569	yángādōzʌ̏	GA, GD	'yangadozë	['yan ga do -zë]	adj	прил	18/Nov/2008
+2570	yánkpȍŋtȁ	LJ	'yankpongta	['yan -kpong -ta]	n	сущ	18/Nov/2008	Human Part
+2571	yánpíɤpʌ̏	LJ	'yanpiöpë	['yan 'piö -pë]	n	сущ	01/Dec/2008
+2572	yánpúu	GA, MA, KD	'yanpuu	['yan 'puu]	n	сущ	18/Nov/2008	Human Part
+2573	yántīi	GA, MA, KD	'yantii	['yan tii]	n	сущ	01/Dec/2008	Human Part
+2574	yántóȁgɔ̏pʌ̏	LJ	'yantoagɔpë	['yan -to -a -gɔ -pë]	n	сущ	29/Nov/2008
+2575	yánzìɤ̄	LJ	'yanziö	['yan =ziö']	n	сущ	23/Jan/2011
+2576	yáŋ̂	GA, GD, --LJ	'yang-	n	сущ	18/Nov/2008	Living Part
+2577	yásá	LJ	'yasa	a-a, s	['ya 'sa]	loc.n	сущ. лок	01/Dec/2008
+2578	yàɯ	GA, GD, LJ	=yaü	[-ya 'gü -sü -zë]	aɯ	n	сущ	Human	22/Aug/2007
+2579	yāyā{-dhȕ}n	yaya {-nu}	07/Dec/2008
+2580	yȁyɔ́ɔ	RC, LJ	-yayɔɔ	[-ya 'yɔɔ]	n	сущ	18/Nov/2008	
+2581	yɒ̏ɒ	LJ	-yaɔ	ɒɒ	n	сущ	23/Jan/2011	Part
+2582	yɒ̀ɒbhāa	LJ	=yaɔbhaa	ɒɒ	[-yaɔ baa]	n	сущ	25/Nov/2008
+2583	yɒ̀ɒn	BE, --LJ	=yaɔn'-	<*cat-1>	ɒ̰ɒ̰	n	сущ	Animal	18/Nov/2008
+2584	yǽæ	LJ	'yɛa	ɛa	n	сущ	18/Nov/2008
+2585	yʌ̄n	CV-M	yën	LJ, DJ, CE	v	гл	22/Jan/2011	BoundedEvent Modal Time
+2586	yʌ̀ŋ	LJ	=yënng	n	сущ	06/Dec/2008	Insect
+2587	yʌ̀ŋ	LJ	=yënng	n	сущ	18/Nov/2008	Plant
+2588	yʌ́ŋ	GJ	'yëng	<*sand>	n	сущ	12/Jul/2008	Natural
+2589	yʌ́ŋ	LJ	'yëng	n	сущ	12/Jul/2008	Plant
+2590	yʌ́ŋ	'yëng	18/Nov/2008
+2591	yʌ́ŋ	LJ	'yënng	глаза.IN	18/Nov/2008	yeux.IN	eyes.IN
+2592	yʌ́ŋ	'yënng	12/Jul/2008
+2593	yʌ́ŋdhɛ̏	GA, MA, KD	'yëngdhɛ	['yëng -dhɛ]	n	сущ	01/Dec/2008	Human Part
+2594	yʌ́ŋgbló	GA, MA	'yënggblo	['yan 'yi 'gblo]	n	сущ	18/Nov/2008
+2595	yʌ́ŋtàa	LJ	'yënngtaa	['yënng =taa]	loc.n	18/Nov/2008
+2596	yʌ́ŋtàadhɛ̏	LJ	'yënngtaadhɛ	['yënng =taa -dhɛ]	n	сущ	18/Nov/2008	Natural Place
+2597	yʌ́ŋtīibhɛ̏n	OD	'yënngtiimɛ	['yënng tii -mɛ]	n	сущ	22/Aug/2007	Human Condition Physical
+2598	yʌ́ŋyʌ̏	GJ, LJ	'yëngyë	['yëng -yë]	adj	прил	22/Aug/2007
+2599	yédhábhɛ̏n	['ye 'na -mɛ]	'yenamɛ	n		18/Nov/2008
+2600	yédhán	RC	'yena	e-a, n	['ye 'na]	n	сущ	Stative Condition Social	18/Nov/2008
+2601	yédhánzʌ̏	['ye 'na -zë]	'yenazë	adj	прил	22/Aug/2007
+2602	yédhén	KB, LJ	'yene	e-e, n	['ye 'ne]	n	сущ	Insect	08/Dec/2008
+2603	yèe	<*thread-1>	=yee'-	n	сущ	coton	ee	Natural Plant Weaving	BE, --LJ	хлопок	23/Jan/2011	cotton
+2604	yée	'yee	22/Aug/2007	ee ~ ei
+2605	yéê	YA, SE	'yee-	ee	n	сущ	Reptile
+2606	yèedhȉ	GA, GD	=yeedhi	ee	[=yee'- -dhi]	n	сущ	Human Part	01/Dec/2008
+2607	yèegā	[=yee'- ga]	=yeega	n	сущ	14/Feb/2010
+2608	yéegblɯ̄ŋ	YA, SE	'yeegblüng	ee	['yee gblüng]	n	сущ	Reptile	18/Nov/2008
+2609	yéi	<*laugh (to)>	'yei	n	сущ	rire	ei ~ ee	BE, LJ, DJ	смех	23/Jan/2011	laughter
+2610	yéizʌ̏	GJ, OD	'yeizë	['yei -zë]	adj	прил	22/Aug/2007
+2611	yɛ̏	CV-AF	-yɛ	жарить	22/Jan/2011	MG, LJ, DJ, SB	v	гл	griller	roast
+2612	yɛ́	CV-H	'yɛ	<*break (to)-3>	DJ, GJ, SB, LJ	v	гл	BoundedEvent Agentive Physical Existence	22/Jan/2011
+2613	yɛ̄an	yɛan	18/Oct/2008	ɛ̰a̰ ~ ḭɛ̰
+2614	yɛ̀ɛ	LJ	=yɛɛ'-	CVV-LNAF redoubl	ɛɛ	v	гл	BoundedEvent Agentive Physical Existence	22/Jan/2011
+2615	yɛ̏ɛdhɤ̄	LJ	-yɛɛdhö	ɛɛ	[-yɛɛ dhö]	adv	нар	22/Aug/2007
+2616	yɛ̄ɛn	yɛɛn	20/Nov/2008	ɛ̰ɛ̰ ~ ḭɛ̰
+2617	yɛ̄ɛntàabhȁ	DJ, LJ	yɛɛntaabha	[yɛɛn =taa -bha]	adv	нар?	01/Dec/2008
+2618	yɛ́in	GJ (wa)LJ	'yɛin	ɛ̰ɛ̰ (wa)	n	сущ	20/Nov/2008
+2619	yɛ̏iŋzʌ̏	LJ	-yɛingzë	ɛiŋ	[-yɛing -zë]	adj	прил	Property Condition Physical	06/Dec/2008
+2620	yɛ́lɯ́	BE, LJ	'yɛlü	['yɛ 'lü]	n	сущ	06/Dec/2008	Plant
+2621	yɛ́sɯ̏	LJ	'yɛsü	['yɛ -sü]	n	сущ	29/Nov/2008
+2622	yɛ́tȁdhɛ	GJ	'yɛtadhɛ	['yɛ -ta -dhɛ]	loc.n	сущ	20/Nov/2008	
+2623	yɛ̏tȁwɔ̀ɔ̏	YA, SE	-yɛtawɔɔ	[-yɛ -ta =wɔɔ-]	n	сущ	06/Dec/2008	Animal
+2624	yɛ̀ɯ	LJ	=yɛü	ɛɯ	adj	прил	20/Nov/2008
+2625	yī	LJ, BE, SB	yi	день	23/Jan/2011	n	сущ	jour	<*day-2>	day
+2626	yī	LJ	yi	1PL.EXCL.EXI	01/Dec/2008	pron	л.мест	1PL.EXCL.EXI	1PL.EXCL.EXI
+2627	yī	LJ	yi	1PL.EXCL.AUT	01/Dec/2008	pron	л.мест	1PL.EXCL.AUT	1PL.EXCL.AUT
+2628	yī	LJ, GJ	yi	1PL.EXCL.NSBJ	14/Dec/2008	pron	л.мест	1PL.EXCL.NSBJ	1PL.EXCL.NSBJ
+2629	yī	<*sleep>	yi	n	сущ	sommeil	DJ, LJ	State Physical	сон	23/Jan/2011	sleeping
+2630	yí	<*water>	'yi	n	сущ	eau	MG, LJ, DJ, BE, GJ, CE	Natural Liquid Comestible	вода	23/Jan/2011	water
+2631	yí	LJ, EF	'yi	1PL.EXCL.JNT	07/Dec/2008	pron	л.мест	1PL.EXCL.JNT	1PL.EXCL.JNT
+2632	yí	LJ	'yi	1PL.EXCL.OPT	01/Dec/2008	i	pron	л.мест	1PL.EXCL.OPT	1PL.EXCL.OPT
+2633	yî	<*yí ȁ>	'yi-	yí + ȁ	pron	<*yí ȁ>	i	<*yí ȁ>	LJ	14/Dec/2008	л.мест
+2634	yi	<*yī ȁ>	yi-	yī + ȁ	pron	<*yī ȁ>	i	<*yī ȁ>	LJ	14/Dec/2008	л.мест
+2635	yìʌ̄	LJ	=yië'	yi 'ka	iʌ	n	сущ	Stative Time	20/Nov/2008
+2636	yìʌ	DJ, --LJ	=yië'-	iʌ	n	сущ	Artifact Object
+2637	yīʌ	MG, LJ	yië	iʌ	n	сущ	01/Dec/2008
+2638	yīʌ	LJ	yië	1PL.EXCL.NEG.PFV	01/Dec/2008	iʌ	pron	л.мест	1PL.EXCL.NEG.PFV	1PL.EXCL.NEG.PFV
+2639	yīʌ̏	LJ	yië-	1SG.и	18/Jul/2008	iʌ	pron	л.мест	1SG.et	1SG.and
+2640	yīʌ̏		yië-	yīʌ̏+ ȁ	aa			14/Dec/2008	pron	л.мест
+2641	yīʌ̏	1PL.EXCL.POSS	yië-	pron	<*yī ɓȁ>	<*yī ɓȁ>	л.мест	1PL.EXCL.POSS	06/Dec/2008	<*yī ɓȁ>	1PL.EXCL.POSS
+2642	yíʌ	LJ	'yië	3PL.EXCL.PRF	01/Dec/2008	iʌ	pron	л.мест	3PL.EXCL.PRF	3PL.EXCL.PRF
+2643	yíʌ̏	<*yíʌ́ ȁ>	‘yië-	yíʌ́ + ȁ	pron	<*yíʌ́ ȁ>	iʌ	<*yíʌ́ ȁ>	LJ	14/Dec/2008	л.мест
+2644	yíʌ̏	'yië-	01/Dec/2008
+2645	yíʌʌ	LJ	'yiëë	1PL.EXCL.NEG.IPFV	06/Dec/2008	iʌʌ	pron	л.мест	1PL.EXCL.NEG.IPFV	1PL.EXCL.NEG.IPFV
+2646	yíʌ̏ʌn	LJ	'yiëën-	1PL.EXCL.PURP	01/Dec/2008	ḭʌ̰ ~ ḭʌ̰ʌ̰	pron	л.мест	1PL.EXCL.PURP	1PL.EXCL.PURP
+2647	yíʌ̂bīɤ	BE, LJ	'yiëbiö	iʌ	['yië- biö]	n	сущ	Animal Mammal	20/Nov/2008
+2648	yíʌ̂bhȁn	LJ	'yiëma	iʌ	['yi 'piö -ma]		n	Bird	сущ	01/Dec/2008
+2649	yíʌ̂bhɒ̀ɒ̄	LJ	'yiëbhaɔ	['yië- =bhaɔ']	n	сущ	20/Nov/2008	Natural
+2650	yíʌ̂pȁ	LJ	'yiëpa	['yië- -pa]	n	сущ	22/Aug/2007	Artifact Object Instrument
+2651	yíblɯ̏bhɛ̏n	DJ, LJ	'yiblümɛ	<eau-chasse-homme>	['yi -blü -mɛ]	n	сущ	Human Occupation Fishery	20/Nov/2008
+2652	yíbhlétée	GJ, LJ	'yibhletee	['yi 'bhle 'tee]	n	сущ	20/Nov/2008	Natural Place
+2653	yíbhɯ̄nkɔ̏ɔ	LJ, DJ	'yimükɔɔ	['yi mü -kɔɔ]	n	сущ	22/Aug/2007	Artifact Object
+2654	yíbhɯ̄nvɛ́dhɛ̏	DJ, LJ	'yimüvɛdhɛ	<Fr>	['yi mü 'vɛ -dhɛ]	n	сущ	Artifact Object	20/Nov/2008
+2655	yídō	KB	'yido	['yi do]	n	сущ	20/Nov/2008	Natural Place
+2656	yīdōʌ	LJ	yidoë	oʌ	[yi do ë]	[yī dō ká]			23/Oct/2008
+2657	yídhʌ́ngā	MG, LJ	'yinëga	['yi 'në ga]	n	сущ	20/Nov/2008	Natural Place
+2658	yídhē	GA, GD	'yidhe	['yi dhe]	n	сущ	09/Jan/2009	State Condition Manner Physical Medicine
+2659	yídhìān	LJ, OD	'yinia	ḭa̰	['yi =nia']	n	сущ	Time	20/Nov/2008
+2660	yīɛn	DJ, SB	yiɛn	<*yesterday>	ḭɛ̰ ~ ɛ̰a̰ ~ ɛ̰ɛ̰	adv	нар	Time Static	20/Nov/2008
+2661	yīɛn	LJ	yiɛn	adj	06/Dec/2008
+2662	yígā	BE, LJ, MG, GJ	'yiga	['yi ga]	n	сущ	20/Nov/2008	Natural Place
+2663	yíglōopíɤdhɛ̏	LJ	'yigloopiödhɛ	['yi gloo 'piö -dhɛ]	n	сущ	22/Aug/2007	Natural Place
+2664	yíglȕ	GJ	'yiglu	['yi -glu]	n	сущ	20/Nov/2008	Natural Place
+2665	yígɔ̏	LJ	'yigɔ	['yi 'gɔ bhɔ -dhɛ]	n	сущ	20/Nov/2008
+2666	yígɔ̏	LJ	'yigɔ	['yi -gɔ]	n	сущ	06/Dec/2008	KinTerm
+2667	yígbā	LJ	'yigba	['yi gba]	n	сущ	07/Dec/2008
+2668	yīgbȁnwȍ	LJ	yigbanwo	[yi -gban -wo]	n	сущ	20/Nov/2008	Dynamic Manner Physical
+2669	yȉisīʌ	MG, LJ, CE, OD	-yiisië	iʌ	[-yii sië]	<*four-2>	num	числ	20/Nov/2008
+2670	yīká	yika	[yi 'ka]	07/Dec/2008
+2671	yíkȁbhɛ̄dhʌ̏nwȕn	LJ	'yikanmɛdhëwun	['yi -kan mɛ -dhë -wun]	n	сущ	20/Nov/2008
+2672	yíkɔ̏dhʌ́n	MG, LJ	'yikɔnë	['yi -kɔ 'në]	n	сущ	20/Nov/2008	Natural Place
+2673	yíkpóŋ	LJ	'yikpong	['yi 'kpong]	n	сущ	20/Nov/2008	Natural Place
+2674	yíkpóŋdhiɤ	BE, LJ	'yikpongdhiö		['yi 'kpong 'dhiö]	n		Natural Place	20/Nov/2008	сущ
+2675	yíkpɤ̄	<boule d'eau>	'yikpö	['yi kpö]	n	сущ	20/Nov/2008	Natural
+2676	yīŋ̏	LJ	ying-	1SG.3SG	19/Jul/2008	iŋ	pron	л.мест	1SG.3SG	1SG.3SG
+2677	yīŋ{yī}-dhȕn	1PL.INCL.3	ying {yi} -nu	19/Jul/2008	pron	л.мест	1PL.INCL.3	1PL.INCL.3
+2678	yīɤ	LJ	yiö	<*dream-2>	iɤ	n	сущ	BoundedEvent Mental Experience	23/Jan/2011
+2679	yīɤ	LJ	yiö	iɤ	01/Dec/2008
+2680	yīɤ	LJ	yiö	iɤ	20/Nov/2008
+2681	yípíɤ	LJ	'yipiö	['yi 'piö]	n	сущ	20/Nov/2008
+2682	yípíɤbhȁn	'yipiöma	20/Nov/2008
+2683	yípúʌ	GJ	'yipuë	uʌ ~ oʌ?	['yi 'puë]	n	сущ	20/Nov/2008
+2684	yípúu	GA, KD, LJ	'yipuu	['yi 'puu]	n	сущ	06/Dec/2008	Living
+2685	yísɛ́ɛ̂n	LJ, MG	'yisɛɛn	['yi 'sɛɛn-]	n	сущ	20/Nov/2008	Natural Place
+2686	yítȁ	OD, LJ	'yita	['yi -ta gɔ]	n	сущ	20/Nov/2008	Artifact Object Vehicle
+2687	yítée	LJ, MG	'yitee	['yi 'tee]	n	сущ	20/Nov/2008	Natural Place
+2688	yítɔ́ɔ̂bhàadhɛ̏	LJ	'yitɔɔbhaadhɛ	['yi 'tɔɔ- =bhaa -dhɛ]	loc.n	сущ	06/Dec/2008	Natural Place
+2689	yítɔ́ɯ̂	MG, LJ	'yitɔü	ɔɯ	['yi 'tɔü-]	n	сущ	Object Artifact Building	06/Dec/2008
+2690	yívà	LJ, MG	'yiva	['yi =va]	n	сущ	20/Nov/2008	Natural Place
+2691	yízīʌnsɛ́gɔ̏	LJ	'yiziënsɛgɔ	<eau-milieu-terre-pp>	['yi ziën 'sɛ -gɔ]	n	сущ	Natural Object Place	20/Nov/2008
+2692	yízȕɤdhɛ	DJ, LJ	'yizuödhɛ	['yi -zuö -dhɛ]	n	сущ	20/Nov/2008	Natural Place
+2693	yȍŋ	LJ	-yong	n	сущ	01/Dec/2008	Plant
+2694	yóo	MG, LJ	'yoo	<*ashes-2>	oo	n	сущ	Natural Substance Solid	20/Nov/2008
+2695	yóo	BE, LJ	'yoo	oo	n	сущ	23/Jan/2011
+2696	yóo	LJ, DJ, GJ	'yoo	oo	n	сущ	12/Jul/2008	Natural Group Place
+2697	yɔ̏	DJ, LJ	-yɔ	калым	06/Dec/2008	n	сущ	dot	bride.price
+2698	yɔ̄	LJ, GJ, DJ	yɔ	n	сущ	06/Dec/2008	Liquid
+2699	yɔ́	CV-H	'yɔ	MG, LJ	v	гл	22/Jan/2011
+2700	yɔ̄akʌ̏bhɛ̏n	LJ	yɔakëmɛ	[yɔ -a -kë -mɛ]	n	сущ	22/Aug/2007	Human
+2701	yɔ́n	MG, LJ	'yɔn	<*breast-3>	n	сущ	23/Jan/2011	Living Part Container
+2702	yɔ́n	24/Nov/2008	'yɔn	n	сущ	<*oil-2>
+2703	yɔ́ngā	GA, MA, KD	'yɔnga	['yɔn ga]	n	сущ	01/Dec/2008	Living Part
+2704	yɔ́ngɔ̏	GA, KD, MA	'yɔngɔ	['yɔn -gɔ]	n	сущ	01/Dec/2008	Human Part
+2705	yɔ́ŋ	LJ	'yɔng	n	сущ	07/Dec/2008	UnboundedEvent
+2706	yɔ̀ɔ̄	DJ, GJ, LJ	=yɔɔ'	ɔɔ	n	сущ	22/Apr/2000	Artifact Object
+2707	yɔ̀ɔ	LJ	=yɔɔ'-	<*descend-2>	ɔɔ	CVV-LNAF	v	гл	22/Jan/2011
+2708	yɔ́ɔ	n	'yɔɔ	сущ	kaolin	LJ, DJ, SB	ɔɔ	Natural	каолин	23/Jan/2011	kaolin
+2709	yɔ́ɔ	GJ	'yɔɔ	ɔɔ	n	сущ	12/Jul/2008	Human
+2710	yɔ̏ɔbhɛ̄an	DJ, LJ	-yɔɔnmɛa-	ɛ̰a̰	[-yɔɔn mɛa-]	n	сущ	Animal	24/Nov/2008
+2711	yɔ̀ɔ̄dhɛ̏	LJ	=yɔɔdhɛ	ɔɔ	[=yɔɔ' -dhɛ]	n	сущ	06/Dec/2008
+2712	yɔ̀ɔn	CVV-LL	=yɔɔn	ɔ̰ɔ̰	v	гл	22/Jan/2011
+2713	yɔ̀ɔn	<*blood-1>	=yɔɔn	n	сущ	sang	ɔ̰ɔ̰	CE, LJ	кровь	24/Nov/2008	blood
+2714	yɔ́ɔ̂n	LJ	'yɔɔn-	ɔ̰ɔ̰	adj	прил
+2715	yɔ́sɯ̏	LJ	'yɔsü	['yɔ -sü]	adj	прил	23/Nov/2008
+2716	yɔ́sɯ̏zʌ̏	LJ	'yɔsüzë	['yɔ -sü -zë]	adj	прил	24/Nov/2008
+2717	yɔ̄zlȁ	LJ	yɔzla	[yɔ -zla]	n	сущ	06/Dec/2008	Liquid
+2718	yɤ̏	LJ	-yö	3SG.EXI	09/Jan/2009	pron	л.мест	3SG.EXI	3SG.EXI
+2719	yɤ̏	LJ	-yö	3SG.OPT	06/Dec/2008	ɤ	pron	л.мест	3SG.OPT	3SG.OPT
+2720	yɤ̏	-yö	06/Dec/2008
+2721	yɤ̀	=yö	06/Dec/2008
+2722	yɤ̄	CV-M	yö	<*see (to)>	v	гл	22/Jan/2011
+2723	yɤ̄	LJ, GJ	yö	3SG.AUT	06/Dec/2008	pron	л.мест	3SG.AUT	3SG.AUT
+2724	yɤ̄	yö	17/Jul/2008
+2725	yɤ́	EF, LJ	'yö	3SG.JNT	06/Dec/2008	pron	л.мест	3SG.JNT	3SG.JNT
+2726	yɤ́	LOG.SG.OPT	'yö	19/Jul/2008	ɤ	pron	л.мест	LOG.SG.OPT	LOG.SG.OPT
+2727	yɤ̂	<*yɤ́ ȁ>	'yö-	yɤ́+ ȁ	pron	<*yɤ́ ȁ>	<*yɤ́ ȁ>	14/Dec/2008	л.мест
+2728	yɤ̏ká	-yöka	[-yö 'ka]	06/Dec/2008
+2729	yɤ̄ká	LOG.SG.NEG.PFV	yöka	06/Dec/2008	[yö 'ka]	pron	л.мест	LOG.SG.NEG.PFV	LOG.SG.NEG.PFV
+2730	yɤ̏kóʌdhɛ̏	GJ (wa)LJ	-yökoëdhɛ	[-yö 'koë -dhɛ]	n	сущ	01/Dec/2008	Part
+2731	yɤ̏sōŋkʌ̄bhɛ̏n	LJ	-yösongkëmɛ	<intermediateur>	[-yö song kë -mɛ]	n	сущ	Human Occupation Social	26/Nov/2008
+2732	yɤ̏zlūdhʌdhíɤ	YA, SE	-yözludhëdhiö	[-yö zlu dhë 'dhiö]	n	сущ	26/Nov/2008	Reptile
+2733	yúa	BE, LJ, DJ, CE, OD	'yua	<*illness-2>	ua	n	сущ	SituationType Condition Medicine	23/Jan/2011
+2734	yúadhɛ	LJ	'yuadhɛ	['yua 'dhɛ]	n	сущ	01/Dec/2008	Instrument Cause Medicine
+2735	yúadhɛ̏n	--LJ, --LP	'yuandhɛ	['yuan -dhɛ]	n	сущ	22/Aug/2007
+2736	yūan	MB, KB, LJ, --LP	yuan		ṵa̰	adj	прил		17/Jun/2010
+2737	yúazʌ̏	LJ	'yuazë	['yua -zë]	adj	прил	26/Nov/2008	Property Physical Condition
+2738	yuʌn	?	yuën	ṵʌ̰	n	сущ	Plant
+2739	yúʌnyȕʌn	GJ	'yuënyuën	ṵʌ̰	['yuën -yuën]	adj	прил	01/Dec/2008
+2740	yūn	<*nose>	yun	n	сущ	nez	ṵṵ ~ ṵ	Living Part	MB, LJ	нос	23/Jan/2011	nose
+2741	yūn	KB	yun	ṵṵ ~ ṵ	n	сущ	01/Dec/2008	Plant Part
+2742	yūngɔ̄n	GA, MA	yungɔn	[yun gɔn]	n	сущ	26/Nov/2008	Living Part
+2743	yūngbɔ̄	GJ	yungbɔ	[yun gbɔ]	n	сущ	26/Nov/2008	Human part
+2744	yúŋ̂	MB, --LJ	'yung-	ṵṵ ~ ṵŋ ~ uŋ ~ uu??	n	сущ	Human Relation Condition
+2745	yúŋ̂	'yunng-	22/Aug/2007
+2746	yùɤ	LJ	=yuö	uɤ	n	сущ	06/Dec/2008	Relation Existence Quantity
+2747	yūɤ	BE, LJ, GJ, DJ, OD	yuö	<*work-3>	uɤ	n	сущ	UnboundedEvent Agentive Purpose	23/Jan/2011
+2748	yúɤ̂	KB	'yuö-	uɤ	n	сущ	01/Dec/2008	Fish
+2749	yúɤ̂	BE, CE, LJ	'yuö-	<*pocket>	uɤ	n	сущ	Artifact Object Garment	12/Jul/2008
+2750	yúɤgā	['yuö ga]	'yuöga	n	сущ	01/Dec/2008	Fish
+2751	Yúu	LJ, SB	'Yuu	uu	n	сущ	14/Dec/1999
+2752	yúû	'yuu-	03/Oct/2008
+2753	yūun	yuun	22/Aug/2007
+2754	yúûn	'yuun-	22/Aug/2007
+2755	yūungā	KB	yuunga	[yuun ga]	n	сущ	18/Nov/2008	Plant Part
+2756	zȁ	LJ	-za	n	сущ	23/Jan/2011
+2757	zā	LJ, DJ, CE	za	n	сущ	23/Jan/2011
+2758	zàā	LJ	=zaa'	aa	n	сущ	Plant
+2759	zāa	MG, LJ, CE, SB	zaa-	aa	n	сущ	06/Dec/2008	Artifact Object Building
+2760	záa	aa	'zaa	n	сущ	10/Jun/2010	Living Part
+2761	zȁan	LJ	-zaan	a̰a̰	n	сущ	26/Nov/2008
+2762	zȁan	LJ	-zaan	a̰a̰	n	сущ	10/Jan/2009
+2763	zàanzán	DJ, LJ	=zaanzan	a̰a̰	[=zaan 'zan]	CVV-CV	v	гл	22/Jan/2011
+2764	zádhɤ̄	DJ, LJ	'zadhö		['za dhö]	adv		26/Nov/2008	нар
+2765	zàgā	BE, GA, MA, LJ	=zaga	[=za ga]	n	сущ	22/Aug/2007	Human Part
+2766	zán	LJ	'zan	n	сущ	06/Dec/2008
+2767	zàŋ	LJ	=zang	n	сущ	Human
+2768	záŋ	DJ, LJ	'zang	n	сущ	23/Jan/2011	Plant Substance Solid Comestible
+2769	zázádhɤ̄	DJ, SB	'zazadhö	['za 'za dhö]	adv	нар	26/Nov/2008
+2770	zɒ́ɒ	SB	'zaɔ	ɒɒ	n	сущ	26/Nov/2008	Artifact Object
+2771	zɒ̄ɒdhe	GJ	zaɔdhe	ɒɒ	[zaɔ dhe]	n	сущ	23/Jan/2011
+2772	zɒ̏ɒdhɤ̄n	BE, LJ	-zaɔndhö	ɒ̰ɒ̰	[-zaɔn dhö]	adj	прил	Static Property Physical	22/Aug/2007
+2773	-zʌ̏	ADJ	-zë	mrph			ʌ	мрф		ADJ	10/Jul/2008		ADJ
+2774	-zʌ̏	PL.M	-zë	mrph			ʌ	мрф		PL.M	01/Dec/2008		PL.M
+2775	zʌ̄	CV-M	zë	<*kill-2>	v	гл	22/Jan/2011
+2776	zʌ̄ʌ	LJ	zëë	ʌʌ	adj	09/Jan/2009
+2777	zʌ́ʌdhē	LP	'zëëdhe	ʌʌ	['zëë dhe]	n	сущ	Bird	06/Dec/2008
+2778	zʌ̄n	zën	n	сущ	02/Dec/2008
+2779	zʌ̄ngā	GA, MA	zënga	[zën ga]	n	сущ	02/Dec/2008	Living Part
+2780	zʌ̄ngā	LJ	zënga	[zën ga]	n	сущ	02/Dec/2008
+2781	zʌ̄nzʌ̏	LJ	zënzë	<cuivre-suff>	[zën -zë]	adj	прил	02/Dec/2008
+2782	zʌ̄nzʌ̄nzʌ̏	GA, MA, LJ	zënzënzë	<cuivre-cuivre-suff>	[zën zën -zë]	adj	прил	Static Property Physical	06/Dec/2008
+2783	zʌ̄ŋgʌ̄	YA, SE, LJ	zënggë	[zëng gë]	n	сущ	14/Dec/2008	Animal
+2784	zʌ̄ŋgbʌ̄	LJ	zënggbë	[zëng gbë]	n	сущ	02/Dec/2008	Animal
+2785	zʌ́ŋzʌ̏	LJ	'zëngzë	['zëng -zë]	adv	нар	06/Dec/2008
+2786	zʌ́ŋzʌ̏	LJ	'zëngzë	['zëng -zë]	adj	02/Dec/2008
+2787	zʌ̄ɯ	LJ	zëü	ʌɯ	n	сущ	06/Dec/2008	Natural Object
+2788	zʌ̄ɯ	MB, LJ	zëü		ʌɯ	n	сущ	Plant	12/Jul/2008
+2789	zē	SB, LJ	ze	07/Jan/2009	n	сущ	<*bean>	Natural Object
+2790	zéêwɔ́yɛ́gbàāngɯ́	LP	'zeewɔyɛgbaangü	ee	['zee- 'wɔ 'yɛ =gbaan' 'gü]		n	Bird	сущ	02/Dec/2008
+2791	zēlɯ̏	M?	zelü	[ze -lü]	n	сущ	02/Dec/2008
+2792	zȅŋgbȅkɔ̏dɔ̄dhagɔ̏	YA, SE, LJ	-zenggbekɔdɔdhagɔ	[-zeng -gbe -kɔ dɔ dha -gɔ]	n	сущ	14/Dec/2008	Animal
+2793	zètūbhādhen	LJ	=zetunmadhe	[=ze tun ma dhe]	n	сущ	22/Aug/2007	Fish
+2794	zètūbhādhengā	LJ	=zetunmadhega	[=ze tun ma dhe ga]	n	сущ	22/Aug/2007	Fish
+2795	zɛ̀	SB, CE, OD	=zɛ	<*termites-2>	n	сущ	02/Dec/2008	Insect
+2796	zɛ́	M?	'zɛ	n		02/Dec/2008
+2797	zɛ̄ɛn	LJ	zɛɛn-	ɛ̰ɛ̰	n	сущ	02/Dec/2008	Human Group
+2798	zɛ̀gā	SB, CE, OD	=zɛga	<*termites-2>	[=zɛga]	n	сущ	Insect	02/Dec/2008
+2799	zɛ̀ī	LJ	=zɛi'	ɛi	n	сущ	02/Dec/2008	Artifact Object Garment
+2800	zɛ̄n	SB, M?	zɛn	n	сущ	06/Dec/2008	Plant
+2801	zɛ̄npʌ̄	GJ	zɛnpë	<*mosquito-1>	[zɛn pë]	n	сущ	Insect	22/Aug/2007
+2802	zɛ́nzɛ̏n	GA, MA, KD, --LJ	'zɛnzɛn	['zɛn -zɛn]	adj	прил	02/Dec/2008	Static Property Physical
+2803	zíaa	LJ	'ziaa	iaa	n	сущ	07/Dec/2008	Substance Solid
+2804	zīadhɤn	LJ	ziandhö	[zian- dhö]	loc.n	сущ.лок	02/Dec/2008
+2805	zȉan	LJ	-zian	CVV-AF	ḭa̰	v	гл	22/Jan/2011
+2806	zìān	MG, LJ, SB	=zian'	ḭa̰	pp	пл
+2807	zīan	BE, MG, LJ	zian	<*road>	ḭa̰	n	сущ	Artifact Place	23/Jan/2011
+2808	zīangā	KB	zianga	[zian ga]	n	сущ	22/Aug/2007	Artifact Place
+2809	zīangblȍo	GJ, LJ	ziangbloo	[zian -gbloo]	n	сущ	02/Dec/2008	Artifact Place
+2810	zīangblȍogā	KB, DJ, LJ	ziangblooga	[zian -gbloo ga]	n	сущ	22/Aug/2007	Artifact Place
+2811	zìʌ̄	DJ, GJ, LJ	=zië'	iʌ			09/Jan/2009	Relation
+2812	zīʌ	DJ, LJ	zië	iʌ	n	сущ	06/Dec/2008	Human Relation KinTerm
+2813	zīʌ và	LJ	zië =va	n	сущ	02/Dec/2008	Human Relation KinTerm
+2814	zīʌn	BE, DJ, GJ, LJ	ziën	<*middle-2>	ḭʌ̰	loc.n	сущ.лок	Relation Space	02/Dec/2008
+2815	zīʌn	BE, DJ, GJ, LJ	ziën	<*middle-2>	ḭʌ̰	pp		02/Dec/2008
+2816	zȉgā	LJ	-ziga		n	сущ	23/Jan/2011	Artifact Instrument
+2817	zȉi	LJ	-zii	ii	adj		02/Dec/2008
+2818	zìi	LJ	=zii	CVV-LL	ii	v	гл	BoundedEvent Physical	22/Jan/2011
+2819	zīi	BE, MG, LJ, DJ, SB	zii	<*old-3>	ii	adj	прил	02/Dec/2008
+2820	zíi	MG	'zii	ii	n	сущ	02/Dec/2008	Human Part
+2821	zȉiŋ dhā	--LJ	-ziing dha	iiŋ	n	сущ	02/Dec/2008	Natural
+2822	zȉisɯ̏	OD	-ziisü	[-zii -sü]	adj		02/Dec/2008	
+2823	zȉizʌ̏	LJ	-ziizë	[-zii -zë]	adj	прил	06/Dec/2008
+2824	zīizīi{dhȕ}n	ziizii {-nu}	07/Dec/2008
+2825	zīnpʌ̄	zinpë	22/Aug/2007
+2826	zȉoo	LJ	-zioo	ioo ~ io?	n	сущ	06/Dec/2008	Artifact Instrument Music
+2827	zȉozʌ̄bhɛ̏n	SB, LJ	-ziozëmɛ	io	[-zio zë -mɛ]	<harpe-battre-personne>	n	Human Occupation	сущ	06/Dec/2008
+2828	zȉɔlógɔ̀ɔ̄	LP	-ziɔlogɔɔ	iɔ	[-ziɔ 'lo =gɔɔ']	n	сущ	Bird	02/Dec/2008
+2829	zīɔn	KB, GJ	ziɔn	ḭɔ̰	n	сущ	02/Dec/2008	Insect
+2830	zīɤ	LJ, DJ, GJ	ziö	CVV-MM	<*pass-2>	iɤ	v	гл	22/Jan/2011
+2831	zíɤ̏	BE, LJ	'ziö-	<*grandfather>	iɤ	n		KinTerm	06/Dec/2008	сущ
+2832	zíɤ̂ và	LJ	'ziö- =va		n	сущ	06/Dec/2008	Kinship Relation Term
+2833	zíɤ̏zʌ̏-dhȕn	'ziözë -nu	02/Dec/2008
+2834	zȉɤzíɤ	DJ, LJ	-ziöziö	iɤ	[-ziö 'ziö]	CVV-CVV	v	гл	22/Jan/2011
+2835	zīzī{dhȕ}n	zizi {-nu}	07/Dec/2008
+2836	zláâ	LJ, CE, OD	'zlaa-	CLVV	aa	n	сущ	KinTerm	06/Dec/2008
+2837	zláâdhʌ́dhēn	LJ	'zlaanëdhe	['zlaa- 'në dhe]	n	сущ	06/Dec/2008	KinTerm
+2838	zláâdhʌ́dhēnzʌ̏	LJ	'zlaanëdhezë	['zlaa- 'në dhe -zë]	n	сущ	06/Dec/2008	KinTerm
+2839	zláâdhēzʌ̏	MG, LJ	'zlaadhezë	['zlaa- dhe -zë]	n	сущ	06/Dec/2008	KinTerm
+2840	zláâgɔ̄ɔnzʌ̏	MG, LJ	'zlaagɔɔnzë	['zlaa- gɔɔn- -zë]	n	сущ	22/Aug/2007	KinTerm
+2841	zlȁbhɔnyāa	-LJ	-zlanbhɔyaa	[-zlan -bhɔ yaa]	n	сущ	02/Dec/2008	Creature
+2842	zlȁkpɔ̀ɔ	LJ	-zlakpɔɔ	CLV	[-zla =kpɔɔ]	n	сущ	29/Nov/2008
+2843	Zlȁn	CLVÃ	-Zlan	RC	n	сущ	06/Dec/2008	Creature Religion
+2844	zlȁnwȍpɤ̄bhɛ̏n	LJ	-zlanwopömɛ	[-zlan -wo pö -mɛ]	n	сущ	02/Dec/2008	Christianity
+2845	zlɒ̀ɒ	CLVV	=zlaɔ	ɒɒ (wo) ~ oa	22/Aug/2007
+2846	zlòa	GJ, LJ	=zloa	CLVV-LL	oa ~ ɔa ~ ua ~ aɔ (wo)	v	гл	22/Jan/2011
+2847	zlȍo	LJ	-zloo	CLVV	oo	n	сущ	Insect	14/Dec/2008
+2848	zlòo	LJ	=zloo	CLVV	<*antelope bushbock>	oo	n	Animal	сущ	14/Dec/2008
+2849	zlòo	DJ, LJ	=zloo'	CLVV-LNAF	oo	v	гл	22/Jan/2011
+2850	zlɔ̀a	CLVV	=zlɔa -sü	ɔa ~ oa	22/Aug/2007
+2851	zlɔ̄a	YA, SE	zlɔa	CLVV	ɔa	n	сущ	Animal
+2852	zlɔ̀azʌ̏	LJ	=zlɔazë	CLVV	[=zlɔa -zë]	adj	прил	22/Aug/2007
+2853	zlɔ̏ɔ	LJ	-zlɔɔ	CLVV	ɔɔ	n	сущ	Natural Object	07/Dec/2008
+2854	zlɤ̀ɤ	GJ, MG, LJ	=zlöö	CLVV	ɤɤ	pp	пл	02/Dec/2008
+2855	zlɤ̄ɤ	LJ	zlöö	CLVV	ɤɤ	adv	нар	06/Dec/2008
+2856	zlɤ̀ɤdhɛ̏	MG	=zlöödhɛ	CLVV	[=zlöö -dhɛ]	loc.n	сущ	Location Part	10/Dec/2008
+2857	zlɤ̀ɤdhɛ̏	MG	=zlöödhɛ	CLVV	[=zlöö -dhɛ]	pp	пл	02/Dec/2008
+2858	zlū	CLV	zlu	<*ant-2>	KB	n	сущ	Insect	02/Dec/2008
+2859	zlú	CLV-H	'zlu	<*wash-2>	BE, MG, LJ, GJ, SB	v	гл	22/Jan/2011
+2860	zlùa	CLVV	=zlua -sü	ua ~ oa	22/Aug/2007
+2861	zlūa	zlua	14/Nov/2008
+2862	zlūa	LJ	zlua	CLVV-MM	ua	v	гл	BoundedEvent Agentive Physical Purpose	22/Jan/2011
+2863	zlūɛi	MB, SB, LJ	zluɛi-	CLVVV	uɛi ~ wɛi?	n	сущ	Reptile	<*crocodile-3>
+2864	zlúsɔ̄	LJ	'zlusɔ	CLV	['zlu sɔ]	n	сущ	Artifact Object	02/Dec/2008
+2865	zlùu	DJ, LJ	=zluu	CLVV-LL	uu	v	гл	BoundedEvent Physical	22/Jan/2011
+2866	zȍ	GA, MA, LJ	-zo	n	сущ	23/Jan/2011
+2867	zō	SB	zo	<*agama lizard>	n	сущ	12/Jul/2008	Reptile
+2868	zō	YA, SE	zo	n	сущ	12/Jul/2008	Fish
+2869	zòʌ̄kpʌ́ɯbȉzʌ̏	M?	zoëkpëübizë	oʌ	[=zoë' 'kpëü -bi -zë]	<coeur-?>	adj	Static Property Physical	прил	22/Aug/2007
+2870	zȍdhɛ	DJ, LJ	-zodhɛ	[-zo -dhɛ]	n	сущ	22/Aug/2007	Artifact Object
+2871	zódhɤ̄	LJ, DJ, GJ, SB	'zodhö	['zo dhö]	adv	нар	02/Dec/2008
+2872	zȍgɔ́dhēn	LJ	-zogɔndhe	[-zo 'gɔn dhe]	n	сущ	02/Dec/2008	Dynamic Mental
+2873	zȍgbȁdhēn	LJ	-zogbandhe	[-zo -gban dhe]	n	сущ	29/Nov/2008	Property Mental
+2874	zȍgbéêdhɛ̏	LJ	-zogbeedhɛ	[-zo 'gbee- -dhɛ]	n	сущ	06/Dec/2008
+2875	zòŋ	CV÷-LNAF	=zong'-	<*throw-2 (to)>	BE, MG, LJ, DJ, GJ	v	гл	BoundedEvent Agentive Location Physical Purpose	22/Jan/2011
+2876	zȍo	LJ	-zoo		oo	n	сущ	23/Jan/2011
+2877	zòō	LJ	=zoo'	oo	n		23/Jan/2011
+2878	zóo	DJ, LJ	'zoo	<*magician-2>	oo	n		Human	02/Dec/2008	сущ
+2879	zóoyǣæn	LJ	'zooyɛan	ɛ̰a̰	['zoo yɛan]	n	сущ	Bird	02/Dec/2008
+2880	zȍtádhē	MG, LJ, DJ, OD	-zotadhe	[-zo 'ta dhe]	n	сущ	02/Dec/2008
+2881	zózódhɤ̄	DJ, GJ, SB, LJ	'zozodhö	['zo 'zo dhö]	adv	нар	14/Nov/2008
+2882	zōzōzʌ̏	LJ	zozozë		[zo zo -zë]	adj	прил	02/Dec/2008
+2883	zɔ̄	YA, SE, CE	zɔ	<*pangolin-2>	n	сущ	02/Dec/2008	Animal
+2884	zɔ́	LJ, KB, SB, CE, OD	'zɔ	02/Dec/2008	n	сущ	<*bee-1>
+2885	zɔ́	06/Dec/2008	'zɔ	n	сущ	<*tip>
+2886	zɔ̀ān	LJ	=zɔan'	ɔ̰a̰	[-zɔn -a 'ka]	CVV-LNAF	v	гл	22/Jan/2011
+2887	zɔ̀ān	CVV-LNAF	=zɔan'	ɔ̰a̰	n	сущ	02/Dec/2008
+2888	zɔ́gā	GA, MA, KB	'zɔga	['zɔ ga]	n	сущ	22/Aug/2007	Insect
+2889	zɔ̏n	CV-AF	-zɔn	v	гл	22/Jan/2011
+2890	zɔ̏n	LJ	-zɔn	ɔ̰ɔ̰ ~ ɔ̰	n	сущ	14/Dec/2008	Animal
+2891	zɔ̄n	CV-M	zɔn	<*pound-2>	v	гл	22/Jan/2011
+2892	zɔ̀ŋgā	LJ, KB	=zɔnngga	ɔ̰ɔ̰ ~ ɔ̰ŋ	[=zɔnng ga]	n	сущ	Artifact Object	02/Dec/2008
+2893	zɔ̏ɔ	LJ	-zɔɔ	ɔɔ ~ oo?	n	сущ	14/Dec/1999	Artifact Object Container
+2894	zɔ̀ɔ	DJ, LJ	=zɔɔ	CVV-LL	ɔɔ	v	гл	22/Jan/2011
+2895	zɔ̄ɔ	LJ	zɔɔ	CVV-MM	ɔɔ	v	гл	22/Jan/2011
+2896	zɔ́ɔ̂	LJ	'zɔɔ-	ɔɔ	n	сущ	Plant
+2897	zɔ̏ɔdhɤ̄n	LJ	-zɔɔndhö	ɔ̰ɔ̰ ~ ɒ̰ɒ̰?	[-zɔɔn dhö]	adj	прил	Static Property Physical	22/Aug/2007
+2898	zɔ̀ɔn	ɔ̰ɔ̰	=zɔɔn	n	сущ	02/Dec/2008
+2899	zɔ̀ɔngā	=zɔɔnga	[=zɔɔn ga]	02/Dec/2008
+2900	zɔ́û	LJ	'zɔu-	['zɔ -sü]	ɔu	adj	прил?	22/Aug/2007
+2901	zɤ̄	BE, MG, LJ, DJ, GJ	zö	<*here-2>	adv	нар	17/Apr/2000
+2902	zɤ̀ŋ̄	LJ, LP	=zöng'	n	сущ	02/Dec/2008	Bird
+2903	zɤ̀ŋ̄ bɛ̏n	GA, GD	=zöng' -bɛn	n	сущ	09/Jan/2009	Living Part
+2904	zɤ́ɯ	ɤɯ	'zöü	n	сущ	02/Dec/2008	Plant
+2905	zūʌn	GJ	zuën		ṵʌ̰	n	сущ	Human Part	02/Dec/2008
+2906	zúɛdhɤ̄	MB, LJ	'zuɛdhö	uɛ	['zuɛ dhö]	<?>	adv	нар?	22/Aug/2007
+2907	zȕgā	BE, LJ	-zuga		[-zu ga]	n		22/Aug/2007	сущ
+2908	zūngblʌ̀ʌ̄	LJ	zungblëë	<?>	[zun =gblëë']	n	сущ	Insect	06/Dec/2008
+2909	zȕɤ	MG, LJ, DJ, GJ	-zuö	CVV-AF	uɤ	v	гл	22/Jan/2011
+2910	zȕɤ	LJ	-zuö	uɤɤ ~ uɤ	n	сущ	23/Jan/2011
+2911	zùɤ̄	LJ	=zuö'	<*heart>	uɤ ~ oʌ?	n	сущ	Living Part	23/Jan/2011
+2912	zūɤ	LJ, RC	zuö	uɤ	n		23/Jan/2011
+2913	zùɤ̄bȅ	GA, LJ	=zuöbe	[=zuö' -be]	n	сущ	02/Dec/2008	Human Part
+2914	zȕɤdɔ̄bhɛ̏n	[-zuö dɔ -mɛ]	-zuödɔmɛ	n	02/Dec/2008
+2915	zùɤ̄gā	GA, MA, LJ	=zuöga	[=zuö' ga]	n	сущ	06/Dec/2008	Living Part
+2916	zùɤ̄gʌ̄n	GA, KD, LJ	=zuögën	[=zuö' gën]	n	сущ	02/Dec/2008	Human Part
+2917	zùɤ̄glúdhī	OD	=zuögludhi	[=zuö' 'glu dhi]	n	сущ	22/Aug/2007
+2918	zùɤ̄kȕnsīadhe	LJ	=zuökunsiadhe	<coeur-attraper-par terre-?/nom>	[=zuö' -kun sia- -sü]	n	сущ	02/Dec/2008
+2919	zùɤ̄píɤyāabhɛ̏n	LJ	=zuöpiöyaamɛ	[=zuö' 'piö yaa -mɛ]	n	сущ	02/Dec/2008	Human
+2920	zùɤ̄púudhɛ̏	DJ, LJ	=zuöpuudhɛ	[=zuö' 'puu -dhɛ]	n	сущ	02/Dec/2008
+2921	zùɤ̄síɤ̂dhɛ̏	LJ	=zuösiödhɛ	[=zuö' 'siö- -dhɛ]	n	сущ	02/Dec/2008
+2922	zùɤtȍzlɤ̀ɤdhē	[=zuö' -to zlöö dhe]	=zuötozlöödhe	n	сущ	09/Jan/2009
+2923	zùɤ̄vɔ̄ŋ	BE, LJ	=zuövɔng	[=zuö' vɔng]	n	сущ	02/Dec/2008	Human Part
+2924	zùɤ̄wàādhūdhen	LJ	=zuöwaannudhe	[=zuö' waan nu dhe]	n	сущ	06/Dec/2008
+2925	zùɤ̄yāabhɛ̏n	LJ	=zuöyaamɛ	[=zuö' yaa -mɛ]	n	сущ	02/Dec/2008	Human Condition
+2926	zùɤ̄yȁglúu	LJ	=zuöyagluu	<coeur-appaiser-dans le ventre>	[=zuö' -ya 'gluu]	loc.n	сущ.лок	06/Dec/2008
+2927	zúsɯ̏	LJ	'zusü	['zu -sü]	n	сущ	07/Jan/2009
+2928	zȕu	DJ, GJ, LJ	-zuu	uu	n	сущ	02/Dec/2008	Creature
+2929	zȕugā	-zuuga	02/Dec/2008	uu
+2930	zúuzȕ	LJ	'zuuzu	uu	['zuu -zu]	adj	прил	07/Dec/2008
+2931	zúzáa	LJ	'zuzaa	aa	['zu 'zaa]	n	сущ	Natural	02/Dec/2008
+2932	zɯ̏	DJ, LJ, GJ	-zü	loc.n	сущ	02/Dec/2008
+2933	zɯ̄	MG, GA	zü	<*bottom-1>	n	сущ	23/Jan/2011	Human Part
+2934	zɯ́	LJ	'zü	adv	нар	23/Jan/2011
+2935	zɯ̄dhí	<derriere-bouche>	züdhi	[zü 'dhi]	n	сущ	06/Dec/2008
+2936	zɯ̄gȍo	GA, MA	zügoo	[zü -goo]	n	сущ	02/Dec/2008	Human Part
+2937	zɯ̄kpɤ̄	GA, MA, KD, LJ	zükpö	[zü kpö]	n	сущ	02/Dec/2008
+2938	zɯ̏tódhɛ̏	BE, LJ	-zütodhɛ		[-zü 'to -dhɛ]	n	сущ		09/Jan/2009
+2939	zɯ̄ɯ	LJ	züü	ɯɯ	n	сущ	06/Dec/2008	Human Part
