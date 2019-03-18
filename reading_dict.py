@@ -84,7 +84,9 @@ def divideByMS(inLex, article):
     #analyseMeanings(inLex['id'], meanings)
 
 def analyseLexFields(inLex, lexFields):
-    divideBy(lexFields, ['\al', '\ald', '\var'])
+    head_als = divideBy(lexFields, ['\al', '\ald', '\var'])
+    for name, content in head_als[0]:
+        inLex[name] = content
     write(inLex, 'lex')
 
 def divideBy(lines, dividers):
@@ -111,7 +113,11 @@ def divideBy(lines, dividers):
 def write(fields, table):
     tableFile = open(table+'.txt', 'a', encoding='utf8')
     toWrite = []
+    for i in range(len(listOfLexFields())):
+        toWrite.insert(i, '')
     for field in fields:
+        if field not in listOfLexFields():
+            continue
         toWrite.insert(column(field, table), fields[field])
     tableFile.write('\t'.join(toWrite)+'\n')
     tableFile.close()
@@ -124,10 +130,12 @@ def column(field, table):
     for fName in fNames:
         name_num[fName] = i
         i += 1
-    return name_num[field]
+    #print(field+'\t'+str(name_num[field]))
+    if field in name_num:
+        return name_num[field]
 
 def listOfLexFields():
-    return ['id', '\\le', '\\leor', '\\ph', '\\u', '\\voc', '\\voir', '\\key', '\\src', '\\ps', '\\psr', '\\pf', '\\pfr', '\\pff', '\\dt', '\\ge', '\\gf', '\\gr']
+    return ['id', '\\le', '\\leor', '\\ph', '\\u', '\\voc', '\\voir', '\\key', '\\src', '\\ps', '\\psr', '\\pf', '\\pfr', '\\pff', '\\dt', '\\ge', '\\gf', '\\gr', '\\egr', '\\ege', '\\egf']
 
 def getFields(lexeme):
     commonFields = []
