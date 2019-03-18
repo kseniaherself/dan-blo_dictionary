@@ -81,13 +81,21 @@ def divideByMS(inLex, article):
     if lexFields == []:
         lexFields = article
     analyseLexFields(inLex, lexFields)
-    #analyseMeanings(inLex['id'], meanings)
+  #  analyseMeanings(inLex['id'], meanings)
 
 def analyseLexFields(inLex, lexFields):
     head_als = divideBy(lexFields, ['\al', '\ald', '\var'])
     for name, content in head_als[0]:
         inLex[name] = content
-    write(inLex, 'lex')
+    write(inLex, 'table_lex')
+
+#def analyseMeanings(inLex['id'], meanings):
+#    head = {}
+#    for meaning in meanings:
+#        head_phrases = divideBy(meaning, ['\\idi', '\\cbn', '\\ex'])
+#        for name, content in head_phrases[0]:
+#            head[name] = content
+#    write(head, 'table_ms')
 
 def divideBy(lines, dividers):
     nonHeadParts = []
@@ -114,28 +122,31 @@ def write(fields, table):
     tableFile = open(table+'.txt', 'a', encoding='utf8')
     toWrite = []
     for i in range(len(listOfLexFields())):
-        toWrite.insert(i, '')
+        toWrite.append('')
     for field in fields:
         if field not in listOfLexFields():
             continue
-        toWrite.insert(column(field, table), fields[field])
+        toWrite[column(field, table)] = fields[field]
     tableFile.write('\t'.join(toWrite)+'\n')
     tableFile.close()
 
 def column(field, table):
-    if table == 'lex':
+    if table == 'table_lex':
         fNames = listOfLexFields()
+#    if table == 'table_ms':
+ #       fNames =
     i = 0
     name_num = {}
     for fName in fNames:
         name_num[fName] = i
         i += 1
-    #print(field+'\t'+str(name_num[field]))
-    if field in name_num:
-        return name_num[field]
+    return name_num[field]
 
 def listOfLexFields():
     return ['id', '\\le', '\\leor', '\\ph', '\\u', '\\voc', '\\voir', '\\key', '\\src', '\\ps', '\\psr', '\\pf', '\\pfr', '\\pff', '\\dt', '\\ge', '\\gf', '\\gr', '\\egr', '\\ege', '\\egf']
+
+def listOfMSFields():
+    return ['\\']
 
 def getFields(lexeme):
     commonFields = []
@@ -150,7 +161,7 @@ def getFields(lexeme):
     return [commonFields, msFields]
 
 def createFiles():
-    lexFile = open('lex.txt', 'w', encoding='utf8')
+    lexFile = open('table_lex.txt', 'w', encoding='utf8')
     lexFile.write('\t'.join(listOfLexFields())+'\n')
     lexFile.close()
 
