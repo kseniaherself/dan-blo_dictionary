@@ -32,6 +32,13 @@ def readLexeme(lexeme, id):
             inLex[name] = content
         else:
             article.append([name, content])
+    divideByMS(inLex, article)
+
+def divideByMS(inLex, article):
+    MSs = []
+    for lineNum in range(article):
+        if article[lineNum][0] = '\ms':
+            MSs.append(lineNum)
 
     #for fieldName in ['id', '\\le', '\\leor', '\\ph', '\\u', '\\voc', '\\voir', '\\key', '\\src', '\\ps', '\\psr', '\\pf', '\\pfr', '\\pff']:
 
