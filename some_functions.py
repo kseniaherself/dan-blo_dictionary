@@ -56,6 +56,7 @@ def F_old_new_orthography(word_old, word_new):
         else:
             print('нужно менять')
 
+
     w1 = str(word_old)
     w1 = w1.replace('^m', 'bh')
     w1 = w1.replace('^n', 'dh')
