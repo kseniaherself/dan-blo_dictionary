@@ -42,8 +42,30 @@ def F_russian_stress(word):
 
     return word
 
-word = '' # ПОДСТАВЬ НУЖНОЕ
-word = F_russian_stress(word)
-print(word)
+#word = '' # ПОДСТАВЬ НУЖНОЕ
+#word = F_russian_stress(word)
+#print(word)
+
+def F_old_new_orthography(word_old, word_new):
+    res1 = re.search('m.+ng', word_old)
+    if res1:
+        print(word_old)
+        res12 = re.search('bh.+nŋ', word_new)
+        if res12:
+            print('успех')
+        else:
+            print('нужно менять')
+
+
+    w1 = str(word_old)
+    w1 = w1.replace('^m', 'bh')
+    w1 = w1.replace('^n', 'dh')
+
+    a_new = []
+
+F_old_new_orthography('mëng', 'bhʌ̄ŋ')
+
+#\le bhīn
+#\leor mi
 
 print("--- %s seconds ---" % (time.time() - start_time))
