@@ -45,9 +45,10 @@ def readLexeme(lexeme, id):
     divideByMS(inLex, article)
 
 # пилю статью на шапку и значения (по полям \ms, либо по первому \df(e|f|r) )
+# ! посмотреть случаи \df до \ms
 def divideByMS(inLex, article):
-    #MSs = [] # массив для номеров линий с полями \ms
     meanings = []
+    lexFields = []
     msAttested = False # становится верна, если встретилось \ms
     dfAttestedBeforeMs = False # становится верна, если встретилось \df до \ms
     for num, name_content in enumerate(article):
@@ -61,7 +62,7 @@ def divideByMS(inLex, article):
         if name_content[0] == '\ms':
             # если уже был \df, то это ошибка (просто печатаю статью)
             if dfAttestedBeforeMs == True:
-                print(article)
+                print(article) #! todo: посмотреть ошибки
             # если \df раньше не было, то
             else:
                 # если это первый \ms, то отрезаю шапку и записываю номер строки с первым \ms
@@ -76,9 +77,20 @@ def divideByMS(inLex, article):
     # если встречались \ms, то записываю последнее значение
     if msAttested == True:
         meanings.append(article[lastMS:num])
-    
+    if lexFields == []:
+        lexFields = article
+    alienLexFields = ()
+    for name, content in lexFields:
+        if name not in listOfLexFields():
+            alienLexFields += (name,)
+    return alienLexFields
+    #analyseMeanings(inLex['id'], meanings)
 
-    #for fieldName in ['id', '\\le', '\\leor', '\\ph', '\\u', '\\voc', '\\voir', '\\key', '\\src', '\\ps', '\\psr', '\\pf', '\\pfr', '\\pff']:
+def analyseLexFields(inLex, lexFields):
+
+
+def listOfLexFields():
+    return ['id', '\\le', '\\leor', '\\ph', '\\u', '\\voc', '\\voir', '\\key', '\\src', '\\ps', '\\psr', '\\pf', '\\pfr', '\\pff']
 
 def getFields(lexeme):
     commonFields = []
