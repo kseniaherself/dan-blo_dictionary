@@ -46,7 +46,7 @@ def readLexeme(lexeme, id):
     divideByMS(inLex, article)
 
 # пилю статью на шапку и значения (по полям \ms, либо по первому \df(e|f|r) )
-# ! посмотреть случаи \df до \ms
+# ! TODO: посмотреть случаи \df до \ms
 def divideByMS(inLex, article):
     meanings = []
     lexFields = []
@@ -83,6 +83,7 @@ def divideByMS(inLex, article):
     analyseLexFields(inLex, lexFields)
   #  analyseMeanings(inLex['id'], meanings)
 
+# беру поля из шапки, отрезаю от них алломорфы и варианты (и всё, что ниже) и отправляю печатать в таблицу с шапками
 def analyseLexFields(inLex, lexFields):
     head_als = divideBy(lexFields, ['\al', '\ald', '\var'])
     for name, content in head_als[0]:
@@ -97,6 +98,7 @@ def analyseLexFields(inLex, lexFields):
 #            head[name] = content
 #    write(head, 'table_ms')
 
+# функция для разделения статьи (или ее части) на шапку и блоки (по начальным полям блоков)
 def divideBy(lines, dividers):
     nonHeadParts = []
     divAttested = False
@@ -117,24 +119,22 @@ def divideBy(lines, dividers):
         head = lines
     return [head, nonHeadParts]
 
-#беру словарь с полями и записываю его в таблицу
+# беру словарь с полями и записываю его в таблицу
 def write(fields, table):
     tableFile = open(table+'.txt', 'a', encoding='utf8')
     toWrite = []
-    for i in range(len(listOfLexFields())):
+    for i in range(len(fieldList('lex'))):
         toWrite.append('')
     for field in fields:
-        if field not in listOfLexFields():
+        if field not in fieldList('lex'):
             continue
         toWrite[column(field, table)] = fields[field]
     tableFile.write('\t'.join(toWrite)+'\n')
     tableFile.close()
 
+# беру название поля и таблицы, возвращаю номер столбца для этого поля для этой таблицы
 def column(field, table):
-    if table == 'table_lex':
-        fNames = listOfLexFields()
-#    if table == 'table_ms':
- #       fNames =
+    fNames = fieldList('lex')
     i = 0
     name_num = {}
     for fName in fNames:
@@ -142,12 +142,14 @@ def column(field, table):
         i += 1
     return name_num[field]
 
-def listOfLexFields():
-    return ['id', '\\le', '\\leor', '\\ph', '\\u', '\\voc', '\\voir', '\\key', '\\src', '\\ps', '\\psr', '\\pf', '\\pfr', '\\pff', '\\dt', '\\ge', '\\gf', '\\gr', '\\egr', '\\ege', '\\egf']
+# беру название домена и возвращаю массив с названиями полей
+def fieldList(domain):
+    if domain == 'lex':
+        return ['id', '\\le', '\\leor', '\\ph', '\\u', '\\voc', '\\voir', '\\key', '\\src', '\\ps', '\\psr', '\\pf', '\\pfr', '\\pff', '\\dt', '\\ge', '\\gf', '\\gr', '\\egr', '\\ege', '\\egf']
+    if domain == 'ms':
+        return ['\\']
 
-def listOfMSFields():
-    return ['\\']
-
+# для подсчета полей в шапках и в значениях
 def getFields(lexeme):
     commonFields = []
     msFields = []
@@ -160,9 +162,10 @@ def getFields(lexeme):
         msFields.append(line.split(' ')[0])
     return [commonFields, msFields]
 
+# создаю файлы для таблиц
 def createFiles():
     lexFile = open('table_lex.txt', 'w', encoding='utf8')
-    lexFile.write('\t'.join(listOfLexFields())+'\n')
+    lexFile.write('\t'.join(fieldList('lex'))+'\n')
     lexFile.close()
 
 if __name__ == '__main__':
