@@ -8,7 +8,6 @@ def main():
         readLexeme(lexeme, id)
         ## делаю список полей из шапок
         if '\n\ms ' in lexeme:
-            i += 1
             for field in getFields(lexeme)[0]:
                 if field not in fieldList:
                     fieldList[field] = [1, 0]
@@ -19,21 +18,22 @@ def main():
                     fieldList[field] = [0, 1]
                 else:
                     fieldList[field][1] += 1
-    print(fieldList)
     dictFile.close()
 
 def readLexeme(lexeme, id):
-    inLex = []
-    inLex.insert(id, 0)
+    inLex = {}
+    inLex['id'] = id
+    article = []
     for line in lexeme.split('\n'):
         divBySpaces = line.split(' ')
         name = divBySpaces[0]
-        content = ' '.join(divBySpaces[1:len(divBySpaces)-1])
-        if name == '\le':
-            inLex.insert(1, content)
-        if name == '\ms':
-            ms = content
-        #if name == '\dfe':
+        content = ' '.join(divBySpaces[1:len(divBySpaces)])
+        if name == '\dt' or name.startswith('\g'):
+            inLex[name] = content
+        else:
+            article.append([name, content])
+
+    #for fieldName in ['id', '\\le', '\\leor', '\\ph', '\\u', '\\voc', '\\voir', '\\key', '\\src', '\\ps', '\\psr', '\\pf', '\\pfr', '\\pff']:
 
 def getFields(lexeme):
     commonFields = []
