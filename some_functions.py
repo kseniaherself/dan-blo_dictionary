@@ -47,14 +47,17 @@ def F_russian_stress(word):
 #print(word)
 
 def F_old_new_orthography(word_old, word_new):
-    res1 = re.search('m.+ng', word_old)
+    res1 = re.search('m[^pbtdkgszylrmn]+ng', word_old)
     if res1:
         print(word_old)
-        res12 = re.search('bh.+nŋ', word_new)
+        res12 = re.search('bh[^pbtdkgszylrmn]+nŋ', word_new)
         if res12:
             print('успех')
         else:
             print('нужно менять')
+    #elif:
+    #    res2 = re.search('m[^pbtdkgszylrmn]+')
+    #    if
 
 
     w1 = str(word_old)
