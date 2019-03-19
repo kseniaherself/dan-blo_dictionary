@@ -90,8 +90,7 @@ def M_main(f_name): #18
     F_write_file_w(my_lines_fin, ('KS_' + f_name))
 
 
-M_main('table_lex.txt')
-M_main('table_ms.txt')
+M_main('blowo12.txt')
 
 
 print("--- %s seconds ---" % (time.time() - start_time))

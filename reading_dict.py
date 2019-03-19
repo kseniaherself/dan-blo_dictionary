@@ -3,7 +3,7 @@ import re
 # * делю словарь на лексемы и нумерую их
 # * считаю, как поля встречаются в шапке, а какие в значениях (в статьях с ms)
 def main():
-    dictFile = open('blowo12.txt', 'r', encoding='utf8')
+    dictFile = open('KS_blowo12.txt', 'r', encoding='utf8') #ПРОВЕРЬ НАЗВАНИЕ ФАЙЛА
     lexemes = dictFile.read().split('\n\n') #разделяю на лексемы
     del lexemes[0] #удаляю нулевой элемент — строку с названием словаря
     fieldList = {} #для списков полей из шапок и значений

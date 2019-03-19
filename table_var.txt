@@ -1,7 +1,7 @@
 id_lex	type	trans	ortho	\ph	\src
 6	\al	, ā	, a		
 6	\al	, ȁ	, -a		
-16	\al	, áâ	, 'aa-		
+16	\al	, áä	, 'aa-		
 17	\al	, ȁbí	, -abi		
 32	\al	, bālōn kpɤ̄	, balon kpö		
 52	\al	, bīa	, bia		
@@ -14,8 +14,8 @@ id_lex	type	trans	ortho	\ph	\src
 103	\al	, bìŋ̄bìŋ̄dhɤ	, =bingbingdhö		LJ
 103	\ald	bèŋ̄bèŋ̄dhɤ	=bengbengdhö		
 103	\ald	bʌ̀ŋ̄bʌ̀ŋ̄dhɤ	=bëngbëngdhö		
-117	\al	, blúû	, 'bluu-		
-118	\al	, blùu bȉ	, =bluubi		DJ, LJ
+117	\al	, blúü	, 'bluu-		
+118	\al	, blùû bȉ	, =bluubi		DJ, LJ
 126	\al	, blɯ́ɯdȕ	, 'blüüdu		
 128	\al	, blɯ́dhɛzʌ̏	, 'blüdhɛzë		
 140	\ald	, blɯ́ɯn	, 'blüün		
@@ -50,10 +50,10 @@ id_lex	type	trans	ortho	\ph	\src
 306	\al	, bhīingā	, miiga		
 311	\al	, bhláa	, 'bhlaa		LJ
 321	\al	, bhé	, 'bhe		
-331	\ald	bhlɤ́ɤ̂dhɛ̏	'bhlöö- -dhɛ		
-331	\ald	bhɯ́ɤ̂dhɛ̏	'bhüödhɛ (dh)		
+331	\ald	bhlɤ́ɤ̈dhɛ̏	'bhlöö- -dhɛ		
+331	\ald	bhɯ́ɤ̈dhɛ̏	'bhüödhɛ (dh)		
 332	\al	, bhlɤ́ŋbhlɤ̏ŋ	, 'bhlöngbhlöng		
-334	\ald	bhɯ́ɤ̂gbȁa	'bhüögbaa (dh)		
+334	\ald	bhɯ́ɤ̈gbȁa	'bhüögbaa (dh)		
 342	\al	, bhnlȁabɔ̏	, -mlaabɔ		OD, LJ
 348	\al	, bhnlíŋbhlȉ	, 'mlingmli		LJ
 349	\al	, bhnlìŋ	, =mling		
@@ -65,9 +65,9 @@ id_lex	type	trans	ortho	\ph	\src
 397	\al	, bhɔ́ʌ̏	, 'bhɔë-		
 413	\al	, bhʌ̄ŋ	, mëng		
 432	\al	, Dàādhɤn	, =Daandhö		LJ
-434	\al	, dàan	, =daan'-		
+434	\al	, dàân	, =daan'-		
 437	\ald	dáabhō	'daabho		
-441	\al	, dànsèi	, =dansei		DJ, LJ
+441	\al	, dànsèî	, =dansei		DJ, LJ
 468	\al	, dɛ̀bhnlɔ̄ɔdʌ̄	, =dɛmlɔɔdë		OD, --LJ
 472	\al	, dɛ̄ŋ̏	, dɛnng-		
 484	\al	, dȉŋ	, -ding		
@@ -106,7 +106,7 @@ id_lex	type	trans	ortho	\ph	\src
 700	\al	, dhɛ̏kpɒ̏ɒdhíɤ			
 709	\al	, dhɛ̏púudhɛ̏	, -dhɛpuudhɛ		LJ
 720	\al	, dhèā	, =dhea'		
-726	\al	, dhìʌ	, =dhië'-		
+726	\al	, dhìʌ̂	, =dhië'-		
 728	\al	, dhìʌ̄dhìʌ̄n	, =niënië		OD
 730	\al	, dhìʌ̄n	, =nië'		
 738	\al	, dhȕu	, -dhuu		
@@ -134,7 +134,7 @@ id_lex	type	trans	ortho	\ph	\src
 857	\al	, ɛ̏	, -ɛ		
 857	\al	, ɛ̄	, ɛ		
 858	\al	, ɛ̀ɛ	, =ɛɛ		
-864	\al	, fàan	, =faan'-		
+864	\al	, fàân	, =faan'-		
 881	\al	, fíŋ	, 'fing		
 881	\al	, fɛ́ŋ	, 'fɛnng		
 881	\ald	, fɛ́n	, 'fɛn		
@@ -143,7 +143,7 @@ id_lex	type	trans	ortho	\ph	\src
 893	\al	, flíin	, 'fliin		
 893	\al	, flíŋ	, 'fling		
 893	\ald	, flɛ́ŋ	, 'flɛnng		
-897	\al	, flù flû			
+897	\al	, flù flü			
 903	\al	, fɤ̄ɤdhɛ̏	, föödhɛ		LJ
 904	\al	, fɤ́ɤfɤ̏	, 'fööfö		
 924	\al	, gʌ̄ɯpȉʌklú	, gëüpiëklu		
@@ -156,7 +156,7 @@ id_lex	type	trans	ortho	\ph	\src
 957	\al	, gíŋzʌ̏	, 'gingzë		LJ
 980	\al	, glɔ̄ndʌ̄	, glɔndë		
 993	\al	, glúu	, 'gluu		
-995	\al	, glȕbhadháâpʌ̏	, -glubhadhaapë		DJ, --LJ
+995	\al	, glȕbhadháäpʌ̏	, -glubhadhaapë		DJ, --LJ
 1002	\al	, glȕgɔ̄ɔbhɛ̏n	, -glugɔɔnmɛ		GJ
 1033	\al	, gɔ̏gȁ	, -gɔga		LJ, DJ
 1036	\al	, gɔ̏ɔn	, -gɔɔn		LJ
@@ -188,8 +188,8 @@ id_lex	type	trans	ortho	\ph	\src
 1165	\al	, gbɛ̀ɛŋ	, =gbɛɛng		
 1165	\al	, gbìiŋ	, =gbiing		
 1165	\al	, gbɛ̀iŋ	, =gbɛing		
-1174	\al	gbíîn	, 'gbiin-		
-1174	\ald	, gbíŋ̂	, 'gbinng-		--LJ
+1174	\al	gbíïn	, 'gbiin-		
+1174	\ald	, gbíŋ̈	, 'gbinng-		--LJ
 1177	\ald	gbìɤ	=gbiö		MG, LJ
 1180	\al	, gblàagblá	, =gblaagbla		OD, LJ
 1187	\al	, gblʌ̀ʌ̏n	, =gblëën-		
@@ -203,12 +203,12 @@ id_lex	type	trans	ortho	\ph	\src
 1231	\al	, gbȍa	, -gboa		
 1236	\ald	, gwàa	, =gwaa (wi)		
 1237	\al	, gwȁ	, -gwa		
-1244	\al	, gwɛ̄ɛ {lɯ̂}	, gwɛɛ- {-lü}		LJ
+1244	\al	, gwɛ̄ɛ̂ {lɯ̈}	, gwɛɛ- {-lü}		LJ
 1244	\ald	, gwɛ̄	, gwɛ		LJ -- dh
 1246	\al	, ī	, i		
 1246	\al	, ȉ	, -i		
 1249	\al	, íin	, 'iin		
-1261	\al	, kàa	, =kaa'-		
+1261	\al	, kàâ	, =kaa'-		
 1263	\al	, kāká	, kaka		
 1295	\al	, kʌ̏ŋ	, -kënng		
 1297	\al	, kʌ̀ŋ̄	, =kënng'		
@@ -218,8 +218,8 @@ id_lex	type	trans	ortho	\ph	\src
 1352	\ald	, klòŋ̄	, =klong' (wo)		
 1354	\ald	, klùa	, =klua		LJ (wo)
 1359	\al	, klɤ̏ɤ	, -klöö		
-1363	\ald	, klɤ̀ɤ	, =klöö'-		LJ - wa, wo
-1364	\ald	, klɤ̀ɤ	, =klöö'-		LJ - wa, wo
+1363	\ald	, klɤ̀ɤ̂	, =klöö'-		LJ - wa, wo
+1364	\ald	, klɤ̀ɤ̂	, =klöö'-		LJ - wa, wo
 1370	\al	, kȕlȕ	, -kulu		
 1387	\al	, kōká	, koka		LJ
 1389	\al	, kwʌ̄ʌ̏	, kwëë-		
@@ -231,7 +231,7 @@ id_lex	type	trans	ortho	\ph	\src
 1445	\al	, klūʌdhūn	, kluënnu		LJ
 1446	\al	, kɔ́bhádhán	, 'kɔnmana		
 1453	\al	, kȕɤ	, -kuö		
-1484	\al	, kpæ̀æ	, =kpɛa'-		
+1484	\al	, kpæ̀æ̂	, =kpɛa'-		
 1485	\ald	, kpía	, 'kpia		LJdh
 1490	\al	, kpʌ̀ŋ	, =kpënng		
 1502	\al	, kpēiŋdhɤ	, kpeingdhö		LJ
@@ -250,7 +250,7 @@ id_lex	type	trans	ortho	\ph	\src
 1526	\ald	, kplȉŋ	, -kpling		
 1535	\al	, kplàwō	, =kplawo		LJ
 1541	\al	, kplóo	, 'kploo		
-1552	\al	, kplɤ	, kplö-		
+1552	\al	, kplɤ̂	, kplö-		
 1581	\al	, kpɔ̄ngɔ̄	, kpɔn gɔ		
 1584	\al	, kpɔ̀ɔ	, =kpɔɔ		
 1586	\al	, kpɔ̀ɔ̏ yīʌ	, =kpɔɔ- yië		
@@ -258,21 +258,21 @@ id_lex	type	trans	ortho	\ph	\src
 1614	\al	, kwāká	, kwaka		
 1619	\al	, kwàbhɛ̏n	, =kwanmɛ		
 1627	\al	, kwāŋ {kwā}-dhȕn	, kwang {kwa}-nu		
-1630	\al	, kwɛ́ɛ̂dhɛ̏n	, 'kwɛɛndhɛ		
+1630	\al	, kwɛ́ɛ̈dhɛ̏n	, 'kwɛɛndhɛ		
 1637	\al	, kwɛ̀ŋ	, =kwɛng		
 1637	\ald	kwɛ̀	=kwɛ (dh)		
 1639	\al	, kwlɛ̀ɛ̏	, =kwlɛɛ-		
 1641	\al	, kw̄̀̄̀	, =kwɛa		GJ, OD, LJ
 1642	\al	, kw̄̀̄̀	, =kwɛa		
 1648	\al	, kwɛ́ɛ	, 'kwɛɛ		
-1649	\al	, kwɛ́i yāan	, 'kwɛi yaan-		
-1656	\al	, kwíʌ̂ bhɔ̏n	, 'kwië- -mɔ		
-1668	\al	, làŋbáâ	, =langbaa		GJ, LJ
+1649	\al	, kwɛ́i yāân	, 'kwɛi yaan-		
+1656	\al	, kwíʌ̈ bhɔ̏n	, 'kwië- -mɔ		
+1668	\al	, làŋbáä	, =langbaa		GJ, LJ
 1670	\al	, làkélé	, =lakele		
-1673	\al	, lāŋ	, lang-		
+1673	\al	, lāŋ̂	, lang-		
 1684	\al	, lʌ́ʌlʌ̄	, 'lëëlë		LJ
 1684	\al	, lʌ́ʌlʌ̏	, 'lëëlë		OD, LJ
-1689	\al	, lʌ̄ŋ	, lënng-		
+1689	\al	, lʌ̄ŋ̂	, lënng-		
 1689	\al	, lʌ̄ŋ	, lënng		
 1692	\al	, lʌ̄ŋ	, lënng		
 1699	\al	, lō	, lo		
@@ -285,7 +285,7 @@ id_lex	type	trans	ortho	\ph	\src
 1841	\al	, plʌ̀ʌ̄zʌ̏	, =plëëzë		LJ, DJ, GJ, OD, RC
 1850	\al	, plɔ̏ɔ	, -plɔɔ		LJ
 1878	\al	, pȕʌn	, -puën		
-1891	\al	, sàa	, =saa'-		
+1891	\al	, sàâ	, =saa'-		
 1905	\al	, sàkpá	, =sakpa		
 1931	\al	, sʌ́ŋ	, 'sëng		
 1933	\ald	sʌ́ŋgɤ̏	'sëng -gö (dh)		
@@ -294,13 +294,13 @@ id_lex	type	trans	ortho	\ph	\src
 1937	\al	, séŋdhɤ̄	, 'senngdhö		
 1937	\al	, sɛ́ŋdhɤ̄	, 'sɛnngdhö		GJ, --LJ
 1938	\al	, sɛ̏nsɛ̏dhɤ̄n	, -sɛnsɛndhö		LJ
-1947	\al	, sɛ̀ɛ	, =sɛɛ'-		
+1947	\al	, sɛ̀ɛ̂	, =sɛɛ'-		
 1963	\ald	, séisīʌ	, 'seisië		
 1978	\al	, sɛ̀a	, =sɛa		
 1995	\al	, sìɤ̄	, =siö'		
 1995	\ald	, sìɤ	, =siö (wo)		
-1997	\al	, síɤɤ̂	, 'siöö-		LJ, LP
-2005	\al	, síɤ̂sīɤ	, 'siösiö		DJ, LJ
+1997	\al	, síɤɤ̈	, 'siöö-		LJ, LP
+2005	\al	, síɤ̈sīɤ	, 'siösiö		DJ, LJ
 2012	\al	, slʌ̏	, -slë		
 2016	\al	, slàŋsláa	, =slangslaa		LJ
 2028	\ald	, slʌ́ɯdhɤ̄	, 'slëüdhö		
@@ -314,7 +314,7 @@ id_lex	type	trans	ortho	\ph	\src
 2104	\al	, sùabhɛ̏n	, =suamɛ		LJ
 2107	\al	, súbhōyɛ̏agɯ́	, 'subhoyɛagü		LJ
 2107	\al	, súbhōyɛ̏a	, 'subhoyɛa		YA. SE, --LJ
-2120	\al	, sùutȁ	, =suuta		LJ
+2120	\al	, sùûtȁ	, =suuta		LJ
 2127	\al	, sɯ́-dhúu	, 'sü 'dhuu		
 2175	\al	, tʌ̏ngʌ̏	, -tëngë		
 2183	\ald	, slɯ́	, 'slü (wo)		
@@ -327,8 +327,8 @@ id_lex	type	trans	ortho	\ph	\src
 2252	\al	, tɔ́bhán	, 'tɔma		LJ
 2259	\al	, tɤ̏ŋgɤ̏	, -tönggö		LJ
 2260	\al	, tɤ̀ɤ̄	, =töö'		
-2261	\al	, tɤ́ɤ̂	, 'töö-		
-2269	\al	, trɛ̀ɛn	, =trɛɛn'-		
+2261	\al	, tɤ́ɤ̈	, 'töö-		
+2269	\al	, trɛ̀ɛ̂n	, =trɛɛn'-		
 2278	\ald	, tɔ̄ɔdhɤn	, tɔɔndhö (dh)		
 2286	\al	, trʌ́ŋ	, 'trëng		LJ
 2286	\al	, trɯ́ɯn	, 'trüün		
@@ -351,12 +351,12 @@ id_lex	type	trans	ortho	\ph	\src
 2365	\al	, vlɯ́ɯvlɯ́ɯdhɤ̄	, 'vlüüvlüüdhö		
 2388	\al	, wɒ̀ɒ	, =waɔ		
 2390	\al	, wȍká	, -woka		
-2391	\al	, wāâ	, waa-		
+2391	\al	, wāä	, waa-		
 2402	\al	, wàādhūn	, =waannu		OD, LJ
 2402	\ald	, wàadhūn	, =waannu		
 2402	\al	, wāadhūn	, waan nu		LJ
 2403	\al	, wȁa	, -waa		
-2406	\al	, wáâ	, 'waa-		
+2406	\al	, wáä	, 'waa-		
 2428	\al	, wèe yí	, =wee 'yi		
 2430	\al	, wēe	, wee		
 2432	\al	, wēen	, ween		MG, DJ, BE, LJ
@@ -364,7 +364,7 @@ id_lex	type	trans	ortho	\ph	\src
 2455	\al	, wlʌ̀ʌ	, =wlëë		
 2463	\al	, wò	, =wo		
 2472	\al	, wȍ	, -wo		
-2496	\al	, wɔ̄ɔ	, wɔɔ-		
+2496	\al	, wɔ̄ɔ̂	, wɔɔ-		
 2504	\al	, wɤ̄ɯdhɛ̏	, wöüdhɛ		
 2511	\al	, wúndɔ̏adhē	, 'wundɔadhe		LJ
 2511	\al	, wúndȕadhē	, 'wunduadhe		LJ, LP
@@ -373,13 +373,13 @@ id_lex	type	trans	ortho	\ph	\src
 2537	\al	, yɤ̏ká	, -yöka		
 2543	\al	, yàādhūn	, =yaannu		MG, LJ, OD
 2547	\al	, yȁa	, -yaa		
-2552	\al	, yáâ	, 'yaa-		
+2552	\al	, yáä	, 'yaa-		
 2562	\al	, yȁan	, -yaan		LJ
 2581	\al	, yɒ̏ɒbāa	, -yaɔbaa		LJ
 2582	\al	, yɒ̀ɒ̄n	, =yaɔn'		
 2587	\al	, yʌ́ŋ	, 'yënng		
 2588	\al	, yʌ́ŋlɯ̏	, 'yëng -lü		
-2602	\al	, yēe	, yee-		
+2602	\al	, yēê	, yee-		
 2608	\al	, yée	, 'yee		BE, LJ, DJ
 2617	\ald	, yɛ́ɛn	, 'yɛɛn		GJ (wa)LJ
 2637	\al	, yīká	, yika		
@@ -398,15 +398,15 @@ id_lex	type	trans	ortho	\ph	\src
 2724	\al	, ɤ́	, 'ö		
 2724	\al	, ɤ̏	, -ö		
 2724	\al	, yɤ̏	, -yö		
-2726	\al	, ɤ̂	, 'ö-		
+2726	\al	, ɤ̈	, 'ö-		
 2729	\ald	, yȅ kóʌ dhɛ̏	-ye 'koë -dhɛ		
 2730	\al	, yɤ̏sōŋbhɛ̏	, -yösongmɛ		
 2738	\al	, yúʌn yūʌn	, 'yuën yuën		
 2739	\al	, yūun	, yuun		
 2740	\al	, yūun	, yuun		
-2743	\al	, yúŋ̂	, 'yunng-		
-2743	\al	, yúûn	, 'yuun-		
-2743	\al	, yúû	, 'yuu-		
+2743	\al	, yúŋ̈	, 'yunng-		
+2743	\al	, yúün	, 'yuun-		
+2743	\al	, yúü	, 'yuu-		
 2747	\al	, yúɤ	, 'yuö		
 2760	\al	, zȁangɔ̄n	, -zaan gɔn		
 2795	\al	, zɛ́lɯ̏	, 'zɛlü		
