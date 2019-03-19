@@ -1,0 +1,430 @@
+id_lex	type	trans	ortho	\ph	\src
+6	\al	, ā	, a		
+6	\al	, ȁ	, -a		
+16	\al	, áâ	, 'aa-		
+17	\al	, ȁbí	, -abi		
+32	\al	, bālōn kpɤ̄	, balon kpö		
+52	\al	, bīa	, bia		
+54	\ald	bɛ̏i	-bɛi		DJ, LJ
+65	\ald	bìn	=bin (dh) LJ		
+86	\al	, blʌ̏ʌyīʌ	, -blëë yië		
+86	\al	, blɯ̏ʌ{yīʌ}	, -blüë {yië}		
+86	\ald	blʌ̀ʌ	=blëë (dh) MG, LJ		
+102	\al	, bríkɤ́	, 'brikö		LJ
+103	\al	, bìŋ̄bìŋ̄dhɤ	, =bingbingdhö		LJ
+103	\ald	bèŋ̄bèŋ̄dhɤ	=bengbengdhö		
+103	\ald	bʌ̀ŋ̄bʌ̀ŋ̄dhɤ	=bëngbëngdhö		
+117	\al	, blúû	, 'bluu-		
+118	\al	, blùu bȉ	, =bluubi		DJ, LJ
+126	\al	, blɯ́ɯdȕ	, 'blüüdu		
+128	\al	, blɯ́dhɛzʌ̏	, 'blüdhɛzë		
+140	\ald	, blɯ́ɯn	, 'blüün		
+140	\al	, blɯ́ŋ	, 'blüng		
+150	\al	, bɔ́ŋ	, 'bɔng		
+153	\al	, bɔ́nbɔ̏n	, 'bɔnbɔn		
+176	\al	, būdhazʌ̏	, budhazë		DJ, LJ
+176	\al	, búládhʌ̏	, 'buladhë		
+178	\al	, būʌn	, buën		LJ
+182	\al	, 'búsɯ	, 'busü		
+184	\al	, bhɯ́ʌŋbhɯ̏ʌŋ	, 'bhüëngbhüëng		LJ
+194	\ald	, bhā	, bha		
+205	\al	, bhʌ́ʌ	, 'bhëë		
+214	\al	, bháȁ	, 'bhaa-		LJ
+219	\ald	bhàn	=ma (dh)		
+235	\al	, bháŋgɤ̏	, 'manggö		LJ
+238	\al	, bhȁnwȕn	, -mawun		LJ
+246	\al	, bhɒ́ŋ̏			
+249	\al	, bhèā	, =bhea'		
+257	\al	, bhʌ̏n ɛ̏	, -më -ɛ		
+258	\al	, bhán	, 'ma		
+265	\al	, bhéȅ	, 'bhee-		LJ
+266	\al	, bhéȅzʌ̏	, 'bheezë		
+267	\al	, bhȅŋ	, -bheng		
+269	\al	, bhɛ́bháan	, 'bhɛmaa		LJ
+272	\ald	bhɛ̀iŋ	=mɛing		LJ(wa)
+291	\al	, bhīɒɒŋ	, bhiaɔng		
+291	\al	, bhìɒŋ gɔ	, =bhiaɔnggɔ		
+295	\al	, bhī	, bhi		DJ, RC, LJ
+303	\al	, bhīiŋ	, miing		
+303	\al	, bhɛ̄ŋ	, mɛng		
+306	\al	, bhīingā	, miiga		
+311	\al	, bhláa	, 'bhlaa		LJ
+321	\al	, bhé	, 'bhe		
+331	\ald	bhlɤ́ɤ̂dhɛ̏	'bhlöö- -dhɛ		
+331	\ald	bhɯ́ɤ̂dhɛ̏	'bhüödhɛ (dh)		
+332	\al	, bhlɤ́ŋbhlɤ̏ŋ	, 'bhlöngbhlöng		
+334	\ald	bhɯ́ɤ̂gbȁa	'bhüögbaa (dh)		
+342	\al	, bhnlȁabɔ̏	, -mlaabɔ		OD, LJ
+348	\al	, bhnlíŋbhlȉ	, 'mlingmli		LJ
+349	\al	, bhnlìŋ	, =mling		
+350	\al	, bhnlɔ̀ɔ	, =mlɔɔ		
+365	\al	, bhùān	, =mua'		
+388	\ald	bhɤ̀	=bhö		LJ
+392	\al	, bhɤ̀ɯ̄	, =bhöü'		
+394	\al	, bhɔ̏adhʌ	, -bhɔadhë		
+397	\al	, bhɔ́ʌ̏	, 'bhɔë-		
+413	\al	, bhʌ̄ŋ	, mëng		
+432	\al	, Dàādhɤn	, =Daandhö		LJ
+434	\al	, dàan	, =daan'-		
+437	\ald	dáabhō	'daabho		
+441	\al	, dànsèi	, =dansei		DJ, LJ
+468	\al	, dɛ̀bhnlɔ̄ɔdʌ̄	, =dɛmlɔɔdë		OD, --LJ
+472	\al	, dɛ̄ŋ̏	, dɛnng-		
+484	\al	, dȉŋ	, -ding		
+484	\al	, drȉiŋ	, -driing		
+484	\al	, drȉin	, -driin		
+490	\al	, dȉn	, -diin		
+501	\al	, dōkāsɛ̄n	, dokasɛn		LJ, SB
+501	\ald	dō kpāsɛ̄n	do kpasɛn (dh, wo, ka)		
+509	\ald	dɔ̀n	=dɔn (dh)		
+535	\al	, drȉin	, -driin		
+543	\al	, drūʌgā	, druëga		
+544	\al	, drùɛi	, =druɛi		LJ
+545	\al	, drùɛn	, =druɛn		
+545	\ald	, drùææn			
+545	\ald	, =druɛadhn			
+548	\al	, drɯ̏ɯn	, -drüün		MB, LJ
+548	\al	, drɯ̏ŋ	, -drüng		
+548	\ald	, drɯ̏n	, -drün		
+564	\al	, dȕklɔ̄ɔ̏lɯ̏			
+568	\al	, dúŋ	, 'dunng		
+572	\al	, dȕɤ	, -duö		
+594	\al	, dhásí	, 'dhasi		LJ, GJ
+595	\ald	dhākpɤ̀ŋ	dhakpöng [dha =kpöng] (wo)		
+611	\al	, dhɔ̏ɔn	, -nɔɔ		
+615	\al	, dhʌ̏	, -dhë		
+620	\al	, dhʌ́dhēnzʌ̏	, 'nëdhezë		LJ
+632	\al	, dhʌ̀ʌn	, =nëë		
+633	\al	, dhʌ̀ʌn	, =nëë		
+645	\al	, dhéi	, 'dhei		
+645	\ald	dhɛ́i	'dhɛi		
+661	\al	, dhìī	, =dhii'		
+678	\al	, dhȉadhíɤ	, -dhiadhiö		
+691	\al	, dhɛ̀ɛn	, =nɛɛ		
+694	\al	, dhɛ̀ɛngā	, =nɛɛga		LJ
+697	\al	, dhɛ̏gȁyȁan	, -dhɛgayaan		KB, LJ
+700	\al	, dhɛ̏kpɒ̏ɒdhíɤ			
+709	\al	, dhɛ̏púudhɛ̏	, -dhɛpuudhɛ		LJ
+720	\al	, dhèā	, =dhea'		
+726	\al	, dhìʌ	, =dhië'-		
+728	\al	, dhìʌ̄dhìʌ̄n	, =niënië		OD
+730	\al	, dhìʌ̄n	, =nië'		
+738	\al	, dhȕu	, -dhuu		
+745	\al	, dhȕuzʌ̏	, -dhuuzë		BE, LJ
+752	\al	, dhȉɤɤ	, -dhiöö		
+773	\al	, dhóŋdho	, 'dhongdho		LJ
+782	\ald	dhōoŋdhȕ	dhoong -nu (dh)		
+787	\al	, dhɔ̏kʌ̄dhe	, -dhɔkëdhe		LJ
+795	\al	, dhɔ̀ū	, =dhɔu'		
+804	\al	, dhɔ́ɔkúʌ̏dhɤ̄	, 'dhɔɔkuëdhö		LJ
+804	\ald	, dhɔ́ɔkwádhɤ̄	, 'dhɔɔkwadhö		LJ
+810	\al	, dhó	, 'dho		
+813	\al	, dhóʌ̏	, 'dhoë-		
+816	\ald	dhɤ́ɯ̏dhɤɯ	'dhöüdhöü		BE, LJ (dh, ka)
+822	\al	, dhúaan dhȕan	, 'nuaa -nua		
+822	\al	, dhúadhȕan	, 'nua -nua		
+826	\al	, dhūɛnzʌ̏	, nuɛzë		
+840	\al	, dhȕutīi	, -dhuutii		LJ, BE, RC
+854	\al	, dhán	, 'na		
+856	\al	, ē	, e		
+856	\al	, ȅ	, -e		
+856	\al	, ɛ̀	, =ɛ		
+856	\al	, ɛ̏	, -ɛ		
+856	\al	, ɛ̄	, ɛ		
+857	\al	, ɛ̏	, -ɛ		
+857	\al	, ɛ̄	, ɛ		
+858	\al	, ɛ̀ɛ	, =ɛɛ		
+864	\al	, fàan	, =faan'-		
+881	\al	, fíŋ	, 'fing		
+881	\al	, fɛ́ŋ	, 'fɛnng		
+881	\ald	, fɛ́n	, 'fɛn		
+881	\ald	, flɛ́n	, 'flɛn (wo)		
+883	\al	, flɛ̏ɛn	, -flɛɛn		
+893	\al	, flíin	, 'fliin		
+893	\al	, flíŋ	, 'fling		
+893	\ald	, flɛ́ŋ	, 'flɛnng		
+897	\al	, flù flû			
+903	\al	, fɤ̄ɤdhɛ̏	, föödhɛ		LJ
+904	\al	, fɤ́ɤfɤ̏	, 'fööfö		
+924	\al	, gʌ̄ɯpȉʌklú	, gëüpiëklu		
+926	\al	, gʌ́n	, 'gën		
+931	\al	, gèan	, =gean		LJ
+931	\ald	gìan	=gian		LJ - dh
+936	\al	, gíin	, 'giin		DJ, LJ
+936	\al	, gíŋ	, 'ging		
+936	\ald	glɛ́ɛn	'glɛɛn (wo)		
+957	\al	, gíŋzʌ̏	, 'gingzë		LJ
+980	\al	, glɔ̄ndʌ̄	, glɔndë		
+993	\al	, glúu	, 'gluu		
+995	\al	, glȕbhadháâpʌ̏	, -glubhadhaapë		DJ, --LJ
+1002	\al	, glȕgɔ̄ɔbhɛ̏n	, -glugɔɔnmɛ		GJ
+1033	\al	, gɔ̏gȁ	, -gɔga		LJ, DJ
+1036	\al	, gɔ̏ɔn	, -gɔɔn		LJ
+1069	\al	, gȕun	, -guun		MB, LJ
+1070	\al	, gùŋzȉʌbhɛ̏n	, =gungziëmɛ		
+1072	\ald	, gùʌ̄	, =guë'		
+1080	\al	, gùūn	, =guun'		
+1080	\al	, gún	, 'gun		
+1080	\al	, gùn	, =gun		
+1083	\al	, gɯ́ʌgā	, 'güëga		BE, LJ
+1096	\al	, glɯ́ɯzʌ̏	, 'glüüzë		
+1098	\al	, gbā	, gba		
+1098	\al	, gbȁ	, -gba		
+1131	\al	, gbāŋkɔ̏	, gbangkɔ		LJ
+1136	\al	, gbɒ̏ɒnsɯ̏	, -gbaɔnsü		RC1, SB, --LJ
+1141	\al	, gbá	, 'gba		
+1142	\al	, gbʌ̀ŋ̄	, =gbëng'		
+1142	\al	, gbʌ̄ŋ̏	, gbënng-		
+1155	\ald	, gbȅi	, -gbei (k, dh)		
+1156	\al	, gbēiŋ	, gbeing		LJ
+1161	\al	, gbía	, 'gbia		
+1164	\al	, gbìin	, =gbiin		
+1164	\al	, gbɛ̀in	, =gbɛin		
+1164	\al	, gbɛ̀ɛŋ	, =gbɛɛng		
+1164	\al	, gbìiŋ	, =gbiing		
+1164	\al	, gbɛ̀iŋ	, =gbɛing		
+1165	\al	, gbìin	, =gbiin		
+1165	\al	, gbɛ̀in	, =gbɛin		
+1165	\al	, gbɛ̀ɛŋ	, =gbɛɛng		
+1165	\al	, gbìiŋ	, =gbiing		
+1165	\al	, gbɛ̀iŋ	, =gbɛing		
+1174	\al	gbíîn	, 'gbiin-		
+1174	\ald	, gbíŋ̂	, 'gbinng-		--LJ
+1177	\ald	gbìɤ	=gbiö		MG, LJ
+1180	\al	, gblàagblá	, =gblaagbla		OD, LJ
+1187	\al	, gblʌ̀ʌ̏n	, =gblëën-		
+1188	\al	, gblɛ̄ibȉzʌ̏	, gblɛibizë		
+1193	\al	, gblōŋ	, gblong		
+1195	\al	, gblɔ̏dhēsʌ̄n	, -gblɔdhesën		
+1199	\al	, gblɯ́bhàā	, 'gblübhaa		DJ, LJ
+1201	\al	, gblɯ̏ɯn	, -gblüün		
+1222	\al	, gbɔ̀ŋ̄	, =gbɔng'		
+1230	\al	, gbɤ̀ŋ	, =gböng		
+1231	\al	, gbȍa	, -gboa		
+1236	\ald	, gwàa	, =gwaa (wi)		
+1237	\al	, gwȁ	, -gwa		
+1244	\al	, gwɛ̄ɛ {lɯ̂}	, gwɛɛ- {-lü}		LJ
+1244	\ald	, gwɛ̄	, gwɛ		LJ -- dh
+1246	\al	, ī	, i		
+1246	\al	, ȉ	, -i		
+1249	\al	, íin	, 'iin		
+1261	\al	, kàa	, =kaa'-		
+1263	\al	, kāká	, kaka		
+1295	\al	, kʌ̏ŋ	, -kënng		
+1297	\al	, kʌ̀ŋ̄	, =kënng'		
+1306	\al	, kèȅ	, =kee-		
+1339	\al	, klɒ́ɒŋ	, 'klaɔng		
+1345	\al	, klʌ́ʌn	, 'klëën		
+1352	\ald	, klòŋ̄	, =klong' (wo)		
+1354	\ald	, klùa	, =klua		LJ (wo)
+1359	\al	, klɤ̏ɤ	, -klöö		
+1363	\ald	, klɤ̀ɤ	, =klöö'-		LJ - wa, wo
+1364	\ald	, klɤ̀ɤ	, =klöö'-		LJ - wa, wo
+1370	\al	, kȕlȕ	, -kulu		
+1387	\al	, kōká	, koka		LJ
+1389	\al	, kwʌ̄ʌ̏	, kwëë-		
+1393	\al	, kóʌ	, 'koë		
+1394	\al	, kóʌ̏n	, 'koën-		
+1399	\al	, kòo	, =koo		
+1415	\al	, kɔ̏dhɛ̄	, -kɔ dhɛ		
+1427	\al	, kɔ̏lɤ̀ɤbhɛ̏n	, -kɔlöömɛ		RC
+1445	\al	, klūʌdhūn	, kluënnu		LJ
+1446	\al	, kɔ́bhádhán	, 'kɔnmana		
+1453	\al	, kȕɤ	, -kuö		
+1484	\al	, kpæ̀æ	, =kpɛa'-		
+1485	\ald	, kpía	, 'kpia		LJdh
+1490	\al	, kpʌ̀ŋ	, =kpënng		
+1502	\al	, kpēiŋdhɤ	, kpeingdhö		LJ
+1502	\al	, kpīŋdhɤ	, kpingdhö		
+1508	\al	, kpɛ́ɛkpɛ́	, 'kpɛɛkpɛ		LJ
+1514	\al	, kpìān kpìān dhɤ̄	, =kpiankpiandhö		
+1514	\al	, kpɛ́ȁnkpɛ́ȁdhɤ̄n	, 'kpɛankpɛandhö		
+1514	\al	, kpɛ̀ānkpɛ̀ādhɤn	=kpɛankpɛandhö		LJ
+1521	\al	, kpȉŋgā	, -kpingga		
+1521	\al	, kpȉŋgā	, -kpinngga		--LJ
+1521	\ald	, kplȉn gā	, -kplin ga (wo)		
+1526	\al	, kpȉŋ	, -kping		
+1526	\al	, kpȉin	, -kpiin		
+1526	\al	, kpȉiŋ	, -kpiing		
+1526	\ald	, kplȉin	, -kpliin		
+1526	\ald	, kplȉŋ	, -kpling		
+1535	\al	, kplàwō	, =kplawo		LJ
+1541	\al	, kplóo	, 'kploo		
+1552	\al	, kplɤ	, kplö-		
+1581	\al	, kpɔ̄ngɔ̄	, kpɔn gɔ		
+1584	\al	, kpɔ̀ɔ	, =kpɔɔ		
+1586	\al	, kpɔ̀ɔ̏ yīʌ	, =kpɔɔ- yië		
+1593	\ald	, kpɤ́ɤ	, 'kpöö		LJ(dh)
+1614	\al	, kwāká	, kwaka		
+1619	\al	, kwàbhɛ̏n	, =kwanmɛ		
+1627	\al	, kwāŋ {kwā}-dhȕn	, kwang {kwa}-nu		
+1630	\al	, kwɛ́ɛ̂dhɛ̏n	, 'kwɛɛndhɛ		
+1637	\al	, kwɛ̀ŋ	, =kwɛng		
+1637	\ald	kwɛ̀	=kwɛ (dh)		
+1639	\al	, kwlɛ̀ɛ̏	, =kwlɛɛ-		
+1641	\al	, kw̄̀̄̀	, =kwɛa		GJ, OD, LJ
+1642	\al	, kw̄̀̄̀	, =kwɛa		
+1648	\al	, kwɛ́ɛ	, 'kwɛɛ		
+1649	\al	, kwɛ́i yāan	, 'kwɛi yaan-		
+1656	\al	, kwíʌ̂ bhɔ̏n	, 'kwië- -mɔ		
+1668	\al	, làŋbáâ	, =langbaa		GJ, LJ
+1670	\al	, làkélé	, =lakele		
+1673	\al	, lāŋ	, lang-		
+1684	\al	, lʌ́ʌlʌ̄	, 'lëëlë		LJ
+1684	\al	, lʌ́ʌlʌ̏	, 'lëëlë		OD, LJ
+1689	\al	, lʌ̄ŋ	, lënng-		
+1689	\al	, lʌ̄ŋ	, lënng		
+1692	\al	, lʌ̄ŋ	, lënng		
+1699	\al	, lō	, lo		
+1712	\al	, lɔ̀ɔ̏zʌ̏	=lɔɔzë		LJ
+1722	\al	, lɤ́ɤlɤ̏	, 'löölö		LJ
+1722	\ald	, lɤ́ŋlɤ̏	, 'lönglö		LP
+1746	\al	, yɤ̄	, yö		
+1833	\al	, pȉa	, -pia		
+1835	\al	, pīan	, pian		MB
+1841	\al	, plʌ̀ʌ̄zʌ̏	, =plëëzë		LJ, DJ, GJ, OD, RC
+1850	\al	, plɔ̏ɔ	, -plɔɔ		LJ
+1878	\al	, pȕʌn	, -puën		
+1891	\al	, sàa	, =saa'-		
+1905	\al	, sàkpá	, =sakpa		
+1931	\al	, sʌ́ŋ	, 'sëng		
+1933	\ald	sʌ́ŋgɤ̏	'sëng -gö (dh)		
+1936	\al	, sɤ̄i	, söi		
+1936	\al	, sɤ̄yí	, söyi		LJ
+1937	\al	, séŋdhɤ̄	, 'senngdhö		
+1937	\al	, sɛ́ŋdhɤ̄	, 'sɛnngdhö		GJ, --LJ
+1938	\al	, sɛ̏nsɛ̏dhɤ̄n	, -sɛnsɛndhö		LJ
+1947	\al	, sɛ̀ɛ	, =sɛɛ'-		
+1963	\ald	, séisīʌ	, 'seisië		
+1978	\al	, sɛ̀a	, =sɛa		
+1995	\al	, sìɤ̄	, =siö'		
+1995	\ald	, sìɤ	, =siö (wo)		
+1997	\al	, síɤɤ̂	, 'siöö-		LJ, LP
+2005	\al	, síɤ̂sīɤ	, 'siösiö		DJ, LJ
+2012	\al	, slʌ̏	, -slë		
+2016	\al	, slàŋsláa	, =slangslaa		LJ
+2028	\ald	, slʌ́ɯdhɤ̄	, 'slëüdhö		
+2048	\al	, slɯ́ɯ	, 'slüü		
+2078	\al	, sɔ̀ɔ̄n	, =sɔɔn'		GJ, LJ
+2085	\al	, sɔ̀n	, =sɔn		
+2095	\al	, sɤ̄yí	, söyi		
+2097	\ald	sɤ̀ŋgɤ	=sönggö (dh)		
+2102	\al	, sòa	, =soa		
+2102	\al	, sɔ̀a	, =sɔa		
+2104	\al	, sùabhɛ̏n	, =suamɛ		LJ
+2107	\al	, súbhōyɛ̏agɯ́	, 'subhoyɛagü		LJ
+2107	\al	, súbhōyɛ̏a	, 'subhoyɛa		YA. SE, --LJ
+2120	\al	, sùutȁ	, =suuta		LJ
+2127	\al	, sɯ́-dhúu	, 'sü 'dhuu		
+2175	\al	, tʌ̏ngʌ̏	, -tëngë		
+2183	\ald	, slɯ́	, 'slü (wo)		
+2194	\al	, tɛ̄nyī	, tɛnyi		LJ
+2208	\al	, tíinyùābhɛ̏n	, 'tiinyuamɛ		
+2209	\al	, tíiŋ	, 'tiing		
+2223	\al	, tódhiɤdhɛ̏	, 'to 'dhiö -dhɛ		LJ
+2232	\al	, tōokɔ́	, too 'kɔ		
+2244	\al	, tɔ̏gɔ̄n	, -tɔgɔn		OD
+2252	\al	, tɔ́bhán	, 'tɔma		LJ
+2259	\al	, tɤ̏ŋgɤ̏	, -tönggö		LJ
+2260	\al	, tɤ̀ɤ̄	, =töö'		
+2261	\al	, tɤ́ɤ̂	, 'töö-		
+2269	\al	, trɛ̀ɛn	, =trɛɛn'-		
+2278	\ald	, tɔ̄ɔdhɤn	, tɔɔndhö (dh)		
+2286	\al	, trʌ́ŋ	, 'trëng		LJ
+2286	\al	, trɯ́ɯn	, 'trüün		
+2294	\al	, túŋbhɛ̏	, 'tunngmɛ		LJ
+2296	\al	, tùun	, =tuun		
+2296	\al	, tùŋ̄	, =tung'		
+2298	\ald	, tɔ́ɔn	, 'tɔɔn (wo, dh)LJ		
+2317	\al	, vɒ́ɒ	, 'vaɔ		LJ
+2321	\al	, vàazʌ̏	, =vaazë		KD
+2325	\al	, vɒ̄ɒŋvɒ̄ɒŋdhɤ	, vaɔngvaɔngdhö		LJ
+2330	\al	, víavȉa	, 'viavia		
+2334	\al	, vɛ̄idhɛ̏	, vɛidhɛ		GA, MA; LJ
+2336	\al	, vɛ̄idhɤ	, vɛidhö		
+2340	\al	, vȉanvȉadhɤ̄n	, -vianviandhö		
+2340	\al	, víanvíadhɤ̄n	, 'vianviandhö		LJ
+2346	\al	, vȉin	, -viin		
+2348	\al	, zlūa	, zlua		
+2360	\al	, vlɤ̀dhɤ̄	, =vlödhö		LJ
+2361	\al	, zlùazʌ̏			
+2365	\al	, vlɯ́ɯvlɯ́ɯdhɤ̄	, 'vlüüvlüüdhö		
+2388	\al	, wɒ̀ɒ	, =waɔ		
+2390	\al	, wȍká	, -woka		
+2391	\al	, wāâ	, waa-		
+2402	\al	, wàādhūn	, =waannu		OD, LJ
+2402	\ald	, wàadhūn	, =waannu		
+2402	\al	, wāadhūn	, waan nu		LJ
+2403	\al	, wȁa	, -waa		
+2406	\al	, wáâ	, 'waa-		
+2428	\al	, wèe yí	, =wee 'yi		
+2430	\al	, wēe	, wee		
+2432	\al	, wēen	, ween		MG, DJ, BE, LJ
+2434	\al	, wɛ̏i	, -wɛi		
+2455	\al	, wlʌ̀ʌ	, =wlëë		
+2463	\al	, wò	, =wo		
+2472	\al	, wȍ	, -wo		
+2496	\al	, wɔ̄ɔ	, wɔɔ-		
+2504	\al	, wɤ̄ɯdhɛ̏	, wöüdhɛ		
+2511	\al	, wúndɔ̏adhē	, 'wundɔadhe		LJ
+2511	\al	, wúndȕadhē	, 'wunduadhe		LJ, LP
+2528	\al	, wɯ̀ɯ̄	, =wüü'		
+2532	\al	, yāa	, yaa		
+2537	\al	, yɤ̏ká	, -yöka		
+2543	\al	, yàādhūn	, =yaannu		MG, LJ, OD
+2547	\al	, yȁa	, -yaa		
+2552	\al	, yáâ	, 'yaa-		
+2562	\al	, yȁan	, -yaan		LJ
+2581	\al	, yɒ̏ɒbāa	, -yaɔbaa		LJ
+2582	\al	, yɒ̀ɒ̄n	, =yaɔn'		
+2587	\al	, yʌ́ŋ	, 'yënng		
+2588	\al	, yʌ́ŋlɯ̏	, 'yëng -lü		
+2602	\al	, yēe	, yee-		
+2608	\al	, yée	, 'yee		BE, LJ, DJ
+2617	\ald	, yɛ́ɛn	, 'yɛɛn		GJ (wa)LJ
+2637	\al	, yīká	, yika		
+2638	\al	, yīʌ	, yië		
+2645	\al	, yíʌ̏	, 'yië-		
+2647	\al	, yípíɤbhȁn	, 'yipiöma		LJ
+2659	\al	, yɛ̄an	, yɛan		
+2659	\al	, yɛ̄ɛn	, yɛɛn		
+2664	\al	, yígɔ́bhɔ̄dhɛ̏	, 'yigɔbhɔdhɛ		LJ
+2682	\al	, yípóʌ	, 'yipoë		
+2685	\al	, yítȁgɔ̏	, 'yitagɔ		DJ, GJ, LJ
+2706	\al	, yɔ̀ɔ̄	, =yɔɔ'		
+2717	\al	, yɤ̀	, =yö		
+2717	\al	, ɤ̏	, -ö		
+2718	\al	, ɤ̏	, -ö		
+2724	\al	, ɤ́	, 'ö		
+2724	\al	, ɤ̏	, -ö		
+2724	\al	, yɤ̏	, -yö		
+2726	\al	, ɤ̂	, 'ö-		
+2729	\ald	, yȅ kóʌ dhɛ̏	-ye 'koë -dhɛ		
+2730	\al	, yɤ̏sōŋbhɛ̏	, -yösongmɛ		
+2738	\al	, yúʌn yūʌn	, 'yuën yuën		
+2739	\al	, yūun	, yuun		
+2740	\al	, yūun	, yuun		
+2743	\al	, yúŋ̂	, 'yunng-		
+2743	\al	, yúûn	, 'yuun-		
+2743	\al	, yúû	, 'yuu-		
+2747	\al	, yúɤ	, 'yuö		
+2760	\al	, zȁangɔ̄n	, -zaan gɔn		
+2795	\al	, zɛ́lɯ̏	, 'zɛlü		
+2800	\al	, zīnpʌ̄	, zinpë		
+2808	\al	, zīangblȍ	, ziangblo		
+2815	\al	, zȕugā	, -zuuga		
+2825	\al	, zȉo	, zio		
+2842	\al	, Zlān	, Zlan		
+2845	\al	, zlɔ̀a	, =zlɔa		
+2845	\al	, zlùa	, =zlua		
+2845	\ald	, zlɒ̀ɒ	, =zlaɔ (wo)LJ		
+2846	\al	, zlȍogā	, -zlooga		LJ
+2852	\al	, zlɔ̏ɔgā	, -zlɔɔga		LJ
+2857	\ald	zlù	=zlu		KB
+2858	\ald	, vlú	, 'vlu (dh, wo)LJ		
+2863	\ald	, vlúsɔ̄	, 'vlusɔ		
+2880	\ald	, váanvádhɤ̄n	, 'vaan 'van dhö (wo) LJ		
+2889	\al	, zɔ̏ɔn	, -zɔɔn		
+2891	\al	, zɔ̀ɔngā	, =zɔɔnga		LJ, KB
+2909	\al	, zȕɤɤ	, -zuöö		LJ
+2910	\al	zòʌ̄	=zoë'		

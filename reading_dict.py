@@ -9,8 +9,8 @@ def main():
     fieldList = {} #для списков полей из шапок и значений
     i = 0
     #нумерую лексемы и беру по одной с номером
-    for id, lexeme in enumerate(lexemes, 1):
-        lexeme.replace('\n(\w)', ' (\1)')
+    for id, lexeme in enumerate(lexemes):
+        lexeme = re.sub('\n(\w)', ' (\1)', lexeme)
         readLexeme(lexeme, id) #отправляю слов. статью на чтение вместе с id
         # делаю список полей из шапок
         if '\n\ms ' in lexeme:
@@ -53,14 +53,16 @@ def divideByMS(inLex, article):
     msAttested = False # становится верна, если встретилось \ms
     dfAttestedBeforeMs = False # становится верна, если встретилось \df до \ms
     for num, name_content in enumerate(article):
-        if msAttested == False:
+        if msAttested == False and dfAttestedBeforeMs == False:
             # Как только встретилось \df, отрезаю шапку, остальное отправляю в значения
             # но буду проверять (см. след. цикл), не встретилось ли после него \ms (тогда выдам ошибку)
-            if name_content[0].startswith('\df'):
+            if name_content[0].startswith('\\df'):
                 lexFields = article[0:num]
-                meanings.append(article[num:])
+                meaning = [['\\ms', '0']]
+                meaning.extend(article[num:])
+                meanings.append(meaning)
                 dfAttestedBeforeMs = True
-        if name_content[0] == '\ms':
+        if name_content[0] == '\\ms':
             # если уже был \df, то это ошибка (просто печатаю статью)
             if dfAttestedBeforeMs == True:
                 print()#(article) #! todo: посмотреть ошибки
@@ -71,34 +73,73 @@ def divideByMS(inLex, article):
                     lexFields = article[0:num]
                     lastMS = num
                     msAttested = True
+                    continue
                 # если \ms уже был, то записываю предыдущий \ms и меняю номер последней строки с \ms
-                if msAttested == True:
+                elif msAttested == True:
                     meanings.append(article[lastMS:num])
                     lastMS = num
+                    continue
     # если встречались \ms, то записываю последнее значение
     if msAttested == True:
         meanings.append(article[lastMS:num])
     if lexFields == []:
         lexFields = article
+    if meanings != []:
+        analyseMeanings(inLex['id'], meanings)
     analyseLexFields(inLex, lexFields)
-    analyseMeanings(inLex['id'], meanings)
 
 # беру поля из шапки, отрезаю от них алломорфы и варианты (и всё, что ниже) и отправляю печатать в таблицу с шапками
 def analyseLexFields(inLex, lexFields):
-    head_als = divideBy(lexFields, ['\al', '\ald', '\var'])
-    for name, content in head_als[0]:
-        inLex[name] = content
+    for num, name_content in enumerate(lexFields):
+        if name_content[0] in ['\\al', '\\ald']:
+            variant = {}
+            type = name_content[0]
+            variant['id_lex'] = inLex['id']
+            variant['type'] = type
+            variant['trans'] = name_content[1]
+            if lexFields[num+1][0] == type+'or':
+                variant['ortho'] = lexFields[num + 1][1]
+                del lexFields[num + 1]
+                if lexFields[num + 2][0] == '\\ph':
+                    variant['\\ph'] = lexFields[num + 2][1]
+                    del lexFields[num + 2]
+                    if lexFields[num + 3][0] == '\\src':
+                        variant['\\src'] = lexFields[num + 3][1]
+                        del lexFields[num + 3]
+                elif lexFields[num + 2][0] == '\\src':
+                    variant['\\src'] = lexFields[num + 2][1]
+                    del lexFields[num + 2]
+            write(variant, 'var')
+        else:
+            inLex[name_content[0]] = name_content[1]
     write(inLex, 'lex')
 
-# беру значение, пишу его шапку
+# беру значение, пишу его шапку и отправляю фразы (идиомы, \cbn, примеры) в следующую функцию
 def analyseMeanings(id, meanings):
     head = {}
-    head['id'] = id
+    head['id_lex'] = id
     for meaning in meanings:
+        #print(meaning)
         head_phrases = divideBy(meaning, ['\\idi', '\\cbn', '\\ex'])
         for name, content in head_phrases[0]:
             head[name] = content
-    write(head, 'ms')
+        #print(head_phrases[1])
+        if head_phrases[1] != []:
+            for phrase in head_phrases[1]:
+                analysePhrase(id+'_'+head['\\ms'], phrase)
+        write(head, 'ms')
+
+# беру id значения, фразу
+def analysePhrase(id_ms, phraseLines):
+    phrase = {}
+    phrase['id_ms'] = id_ms
+    phrase['type'] = phraseLines[0][0]
+    if phraseLines[1][0] == phraseLines[0][0]+'or':
+        phraseLines[0][0] = 'trans'
+        phraseLines[1][0] = 'ortho'
+    for name, content in phraseLines[1:]:
+        phrase[name] = content
+    write(phrase, 'ph')
 
 # функция для разделения статьи (или ее части) на шапку и блоки (по начальным полям блоков)
 def divideBy(lines, dividers):
@@ -106,15 +147,17 @@ def divideBy(lines, dividers):
     divAttested = False
     for num, name_content in enumerate(lines):
         if name_content[0] in dividers:
+            # если разделитель уже был, то записываю предыдущий разделитель и меняю номер последней строки с разделителем
+            if divAttested == True:
+                nonHeadParts.append(lines[lastDiv:num])
+                lastDiv = num
+                continue
             # если это первый разделитель, то отрезаю шапку и записываю номер строки с первым разделитель
             if divAttested == False:
                 head = lines[0:num]
                 lastDiv = num
                 msAttested = True
-            # если разделитель уже был, то записываю предыдущий разделитель и меняю номер последней строки с разделителем
-            if msAttested == True:
-                nonHeadParts.append(lines[lastDiv:num])
-                lastDiv = num
+                continue
     if divAttested == True:
         nonHeadParts.append(article[lastDiv:num])
     else:
@@ -149,7 +192,11 @@ def fieldList(domain):
     if domain == 'lex':
         return ['id', '\\le', '\\leor', '\\ph', '\\u', '\\voc', '\\voir', '\\key', '\\src', '\\ps', '\\psr', '\\pf', '\\pfr', '\\pff', '\\dt', '\\ge', '\\gf', '\\gr', '\\egr', '\\ege', '\\egf']
     if domain == 'ms':
-        return ['id', '\\dfr', '\\smr', '\\dfe', '\\sme', '\\dff', '\\smf', '\\sn', '\\src', '\\syn', '\\synor', '\\ant', '\\antor']
+        return ['id_lex', '\\ms', '\\dfr', '\\smr', '\\dfe', '\\sme', '\\dff', '\\smf', '\\sn', '\\src', '\\syn', '\\synor', '\\ant', '\\antor']
+    if domain == 'ph':
+        return ['id_ms', 'type', 'trans', 'ortho', '\\trr', '\\smr', '\\tre', '\\sme', '\\trf', '\\smf', '\\src']
+    if domain == 'var':
+        return ['id_lex', 'type', 'trans', 'ortho', '\\ph', '\\src']
 
 # для подсчета полей в шапках и в значениях
 def getFields(lexeme):
@@ -172,5 +219,5 @@ def createFiles(domains):
         lexFile.close()
 
 if __name__ == '__main__':
-    createFiles(['lex', 'ms'])
+    createFiles(['lex', 'ms', 'ph', 'var'])
     main()
