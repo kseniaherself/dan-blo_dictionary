@@ -34,7 +34,7 @@ def F_write_file_a(data, f_name):
 
 # транскрипция
 def F_transpon(word):
-    cons = ['p', 'b', 't', 'd', 'k', 'g', 's', 'z', 'y', 'l', 'r', 'm', 'n', 'bh', 'dh']
+    cons = ['bh', 'dh', 'p', 'b', 't', 'k', 'g', 's', 'z', 'y', 'l', 'r', 'm', 'n', 'd']
     voc = ['i', 'e', 'ɛ', 'a', 'ɔ', 'o', 'u', 'ᴧ', 'ë', 'ɤ', 'ö', 'ɯ', 'ü']
     #print(word)
     for i in range(0, len(cons)):
