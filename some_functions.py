@@ -77,7 +77,7 @@ def F_db_replaces(word):
 # основная замена
 def M_main(f_name): #18
     my_lines = F_get_lines(f_name)
-    my_lines = my_lines[1:]             # РАБОЧАЯ ВЕРСИЯ ДЛЯ ВСЕХ СЛОВ
+    my_lines = my_lines[1:]             # РАБОЧАЯ ВЕРСИЯ ДЛЯ ВСЕХ СЛОВ !!!избавиться от нулевой строчки
     #my_lines = my_lines[5:15]             # тестовая выборка
     #print(my_lines_i)
     my_lines_fin = my_lines[0]             # тестовая выборка
