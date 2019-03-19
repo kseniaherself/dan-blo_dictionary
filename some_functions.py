@@ -42,10 +42,7 @@ def F_russian_stress(word):
 
     return word
 
-#word = '' # ПОДСТАВЬ НУЖНОЕ
-#word = F_russian_stress(word)
-#print(word)
-
+# функция должна решать проблемы с ошибками перевода орфографий
 def F_old_new_orthography(word_old, word_new):
     res1 = re.search('m[^pbtdkgszylrmn]+ng', word_old)
     if res1:
@@ -66,9 +63,35 @@ def F_old_new_orthography(word_old, word_new):
 
     a_new = []
 
-F_old_new_orthography('mëng', 'bhʌ̄ŋ')
+# п 4.2, тоже про запись
+def F_db_replaces(word):
+    #  ̂ -> ̈,  -> ̂, dh̄n —> n̄
+    a1 = ['̂', '', 'dh̄n']
+    a2 = ['̈', '̂', 'n̄']
+    for i in range(0, len(a1)):
+        if a1[i] in word:
+            word = word.replace(a1[i], a2[i])
 
-#\le bhīn
-#\leor mi
+    return word
+
+# основная замена
+def M_main(f_name): #18
+    my_lines = F_get_lines(f_name)
+    my_lines = my_lines[1:]             # РАБОЧАЯ ВЕРСИЯ ДЛЯ ВСЕХ СЛОВ
+    #my_lines = my_lines[5:15]             # тестовая выборка
+    #print(my_lines_i)
+    my_lines_fin = my_lines[0]             # тестовая выборка
+
+    for line in my_lines:
+        my_line_m = F_russian_stress(line)
+        my_line_f = F_db_replaces(my_line_m)
+        my_lines_fin = my_lines_fin + my_line_f
+
+    F_write_file_w(my_lines_fin, ('KS_' + f_name))
+
+
+M_main('table_lex.txt')
+M_main('table_ms.txt')
+
 
 print("--- %s seconds ---" % (time.time() - start_time))
