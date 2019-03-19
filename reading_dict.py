@@ -116,17 +116,41 @@ def analyseLexFields(inLex, lexFields):
 
 # беру значение, пишу его шапку и отправляю фразы (идиомы, \cbn, примеры) в следующую функцию
 def analyseMeanings(id, meanings):
-    head = {}
-    head['id_lex'] = id
     for meaning in meanings:
-        #print(meaning)
-        head_phrases = divideBy(meaning, ['\\idi', '\\cbn', '\\ex'])
-        for name, content in head_phrases[0]:
-            head[name] = content
-        #print(head_phrases[1])
-        if head_phrases[1] != []:
-            for phrase in head_phrases[1]:
-                analysePhrase(id+'_'+head['\\ms'], phrase)
+        head = {}
+        head['id_lex'] = id
+        head['\\ms'] = meaning[0][1]
+        for num, name_content in enumerate(meaning):
+            if name_content[0] in ['\\idi', '\\cbn', '\\ex']:
+                phrase = {}
+                type = name_content[0]
+                phrase['id_ms'] = id+'_'+head['\\ms']
+                phrase['type'] = type
+                phrase['trans'] = name_content[1]
+                if len(meaning) < num +2:
+                    continue
+                if meaning[num + 1][0] == type + 'or':
+                    phrase['ortho'] = meaning[num + 1][1]
+                    del meaning[num + 1]
+                    if len(meaning) < num + 3:
+                        continue
+                    if meaning[num + 2][0] == ('\\src'):
+                        phrase['\\src'] = meaning[num + 2][1]
+                        del meaning[num + 2]
+                        if meaning[num + 3][0].startswith('\\tr'):
+                            phrase[meaning[num + 3][0]] = meaning[num + 3][1]
+                            del meaning[num + 3]
+                            if len(meaning) < num + 5:
+                                continue
+                            if meaning[num + 4][0].startswith('\\tr'):
+                                phrase[meaning[num + 4][0]] = meaning[num + 4][1]
+                                del meaning[num + 4]
+                                if meaning[num + 5][0].startswith('\\tr'):
+                                    phrase[meaning[num + 5][0]] = meaning[num + 5][1]
+                                    del meaning[num + 5]
+                write(phrase, 'ph')
+            else:
+                head[name_content[0]] = name_content[1]
         write(head, 'ms')
 
 # беру id значения, фразу
