@@ -58,25 +58,42 @@ def M_phon(f_name):
     my_lines = my_lines_1[1:]        # все слова: без первой строчки с названиями
     #my_lines = my_lines_1[16:25]  # РАБОЧАЯ ВЕРСИЯ ДЛЯ ВСЕХ СЛОВ
     my_lines_fin = my_lines_1[0]
-    voc_cluster = 'None'
-    new_table = 'lex' + '\t' + 'Str'
+    trans_12 = 'None'
+    new_table = 'lex' + '\t' + 'Str' + '\t' + 'vowels'
 
     for line in my_lines:
+        #print(line)
         new_line = str(line)
-        line_split = line.split('\t')
+        line_split = new_line.split('\t')
         trans_1 = line_split[2]  # для данного слова есть его словарное вхождение
         trans_1 = trans_1.strip()
-        #trans_1 = trans_1.replace
-        trans_voc = re.match('(\W)*?[pbtdkgszylrmn]*(.+)', trans_1)
-        #if trans_voc.group(1):
-        #    voc_cluster = trans_voc.group(1)
-        #    print('vc: ', voc_cluster)
+        #print(trans_1)
+
+        for elem in trans_1:
+            trans_12 = trans_1.replace("'", '')
+            trans_12 = trans_12.replace("=", '')
+            trans_12 = trans_12.replace("-", '')
+            trans_12 = trans_12.replace("p", '')
+            trans_12 = trans_12.replace("b", '')
+            trans_12 = trans_12.replace("t", '')
+            trans_12 = trans_12.replace("d", '')
+            trans_12 = trans_12.replace("k", '')
+            trans_12 = trans_12.replace("g", '')
+            trans_12 = trans_12.replace("s", '')
+            trans_12 = trans_12.replace("z", '')
+            trans_12 = trans_12.replace("y", '')
+            trans_12 = trans_12.replace("l", '')
+            trans_12 = trans_12.replace("r", '')
+            trans_12 = trans_12.replace("m", '')
+            trans_12 = trans_12.replace("n", '')
+            trans_12 = trans_12.replace("h", '')
 
         transpon = F_transpon(trans_1)
         #print('tr: ', transpon)
 
-        new_table = new_table + '\n' + line_split[1] + '\t' + transpon
+        new_table = new_table + '\n' + line_split[1] + '\t' + transpon + '\t' + trans_12
 
+        #print(new_table)
         F_write_file_w(new_table, 'table_phon_v2.txt')
 
 

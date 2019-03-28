@@ -1,2940 +1,2940 @@
-lex	Str
-	
--`	
--\	\
--\	\
--\	\
-ȁ	V
-à	V
-ā	V
-á	V
-á	V
-á	V
-ä	V
-â	V
-āa	VV
-áaàân	VVCVVC
-áan	VVC
-áän	VVC
-àbí	VCV
-ȁ-bhȁn	VCV
-ȁn	VC
-àn	VC
-àō	VV
-bȁ	CV
-bá	CV
-bá	CV
-bàâ	CVV
-báa	CVV
-báabȁ	CVVCV
-bàādhèen	CVVCCVV
-báȁn	CVVC
-bàāpʌ̏	CVVCV̈
-bádhɤ̄	CVCV̈
-bālōn	CVCVC
-bān	CVC
-bán	CVC
-báudhɤ̄	CVVCV̈
-bæ̏æn	CVVC
-bʌ́	CV̈
-bʌ́ʌ̏	CV̈V̈
-bʌ́dhɤ̄	CV̈CV̈
-bʌ̏ŋbʌ̏ŋdhɤ̄	CV̈CCCV̈CCCV̈
-bʌ̀ŋ̄bʌ̀ŋ̄dhɤ	CV̈CCCV̈CCCV̈
-bȅ	CV
-bȅ	CV
-bèê	CVV
-bèê gīŋ	CVV CVCC
-bèê kpá	CVV CCV
-bèêdhɛ́yí	CVVCVCV
-bèêdhɛ́yízʌ̏	CVVCVCVCV̈
-bèêgā	CVVCV
-bèŋ̄bèŋ̄dhɤ	CVCCCVCCCV̈
-bȅzʌ̏	CVCV̈
-bɛ̄a	CVV
-bɛ̏ankȁa	CVVCCVV
-bɛ̏ɛ	CVV
-bɛ̀ɛ̂n	CVVC
-bɛ́i	CVV
-bɛ̏n	CVC
-bɛ̏n gbɔ̄	CVC CCV
-bȉ	CV
-bīa	CVV
-Bīȁ	BVV
-bìʌn	CVV̈C
-bȉbȉdhɤ̄	CVCVCV̈
-bídhɤ̄	CVCV̈
-bȉn	CVC
-bín	CVC
-bín	CVC
-bín	CVC
-bíngātīi	CVCCVCVV
-bìŋ̄bìŋ̄dhɤ	CVCCCVCCCV̈
-bìo	CVV
-bíɔ	CVV
-bíɔnbȉɔn	CVVCCVVC
-bíɔnbȉɔnzʌ̏	CVVCCVVCCV̈
-bíɔŋbȉɔŋ	CVVCCCVVCC
-bīɤ	CVV̈
-bīɤ lɯ̏	CVV̈ CV̈
-blȁ	CCV
-blàā	CCVV
-blàāblàā	CCVVCCVV
-blȁan	CCVVC
-blábládhɤ̄	CCVCCVCV̈
-bládhɤ̄	CCVCV̈
-blákpɔ́	CCVCCV
-blʌ́	CCV̈
-blʌ̏ʌ	CCV̈V̈
-blʌ̀ʌ̄	CCV̈V̈
-blʌ̀ʌ̂	CCV̈V̈
-blʌ̀ʌ̄dhɛ́	CCV̈V̈CV
-blʌ́dhɛ̏	CCV̈CV
-blʌ̀ŋ	CCV̈CC
-blʌ́ŋ	CCV̈CC
-bléedhɛ̏	CCVVCV
-bléedhɤ̄	CCVVCV̈
-blēŋdhɤ	CCVCCCV̈
-blɛ̀ɛ̂	CCVV
-blɛ̀ɛ̄dhe	CCVVCV
-blɛ̀ɛ̄dhɛ́	CCVVCV
-blɛ̏ɛzʌ̏	CCVVCV̈
-blɛ́ŋblɛ̏ŋ	CCVCCCCVCC
-blīi	CCVV
-blíkɤ́	CCVCV̈
-blìŋ̄blìŋ̄dhɤ	CCVCCCCVCCCV̈
-Blòŋ̄dhɛ̏	BCVCCCV
-Blōȍdhɛ	BCVVCV
-blɔ̄	CCV
-blɔ́ɔ	CCVV
-blɔ́ɔ̏bhɛ̏n	CCVVCCV
-blɔ̄ɔ̏n	CCVVC
-blɔ̄ɔ̏n	CCVVC
-blɔ́ɔ̏n	CCVVC
-blɔ̄ɔ̏ntàadhɛ̏	CCVVCCVVCV
-blɔ́ɔ̏nzʌ̏	CCVVCCV̈
-blɤ̄ɤ	CCV̈V̈
-blȕ	CCV
-blȕgbɔ̄ŋ	CCVCCVCC
-blùû	CCVV
-blúȕbȉ	CCVVCV
-blȕudhɤ̄	CCVVCV̈
-blɯ̏	CCV̈
-blɯ́	CCV̈
-blɯ̏ʌ{yīʌ}	CCV̈V̈ {CVV̈}
-blɯ́blɯ́	CCV̈CCV̈
-blɯ́blɯ́dhɤ̄	CCV̈CCV̈CV̈
-blɯ́bhɔ̏	CCV̈CV
-blɯ́dȕ	CCV̈CV
-blɯ́dhɛyí	CCV̈CVCV
-blɯ́dhɛyízʌ̏	CCV̈CVCVCV̈
-blɯ́dhīin	CCV̈CVV
-blɯ́gȁn	CCV̈CVC
-blɯ́gbɔ̏ɔn	CCV̈CCVVC
-blɯ́kɒ̄ɒ	CCV̈CVV
-blɯ́kʌ̄bhɛ̏n	CCV̈CV̈CV
-blɯ́ŋ	CCV̈CC
-blɯ̏pʌ̏	CCV̈CV̈
-blɯ̀ɯ̂	CCV̈V̈
-blɯ́ɯ	CCV̈V̈
-blɯ́ɯdȕ	CCV̈V̈CV
-blɯ́ɯn yùā	CCV̈V̈C CVV
-blɯ́ɯŋ	CCV̈V̈CC
-blɯ́yɒ̏ɒn	CCV̈CVVC
-bȍ	CV
-bō	CV
-bòʌ̄	CVV̈
-bòī	CVVV
-bɔ̄	CV
-bɔ́	CV
-bɔ́asíɤ	CVVCVV̈
-bɔ̄bhɛ̏n	CVCV
-bɔ́n	CVC
-bɔ́nkánpʌ̏	CVCCVCCV̈
-bɔ́ŋ	CVCC
-bɔ́ŋbɔ̏ŋ	CVCCCVCC
-bɔ̀ɔ̄	CVV
-bɔ̄ɔ	CVV
-bɔ̏tóu	CVCVV
-bɤ́	CV̈
-bɤ̄ɯ̏	CV̈V̈
-bɤ́ɯ	CV̈V̈
-bɤ́ɯdhɤ̄	CV̈V̈CV̈
-bɤ̄ɯ̏gɯ́	CV̈V̈CV̈
-bɤ̄ɯ̏gɯ́dhɛ̏	CV̈V̈CV̈CV
-bɤ̄ɯ̏kpɤ̄	CV̈V̈CCV̈
-bɤ̄ɯ̏zʌ̏	CV̈V̈CV̈
-bɤ́ɯzʌ̏	CV̈V̈CV̈
-bū	CV
-bú	CV
-bȕadhɤ̄	CVVCV̈
-būʌ̏dhɤ̄n	CVV̈CCV̈
-būʌ̏npʌ̏	CVV̈CCV̈
-būdhazʌ̏	CVCVCV̈
-búdhɤ̄	CVCV̈
-bùeî	CVVV
-būgā	CVCV
-búlá	CVCV
-búlázʌ̏	CVCVCV̈
-būn	CVC
-būn	CVC
-búsɯ̏	CVCV̈
-bȕu	CVV
-búu	CVV
-búȕ	CVV
-būudhɤ	CVVCV̈
-bɯ́ʌŋbɯ̏ʌŋ	CV̈V̈CCCV̈V̈CC
-bɯ̄ʌŋbɯ̄ʌŋdhɤ	CV̈V̈CCCV̈V̈CCCV̈
-bɯ̏dhɤ̄	CV̈CV̈
-bɯ́dhɤ̄	CV̈CV̈
-bɯ̏ŋ	CV̈CCC
-bɯ̏ɤ	CV̈V̈
-bɯ̏ɤ	CV̈V̈
-bɯ̏ɤ	CV̈V̈
-bɯ̏ɤbȉ	CV̈V̈CV
-bhȁ	CV
-bhȁ	CV
-bhȁ	CV
-bhā	CV
-bhá	CV
-bhá	CV
-bhä	CV
-bhàa	CVV
-bhāa	CVV
-bháa	CVV
-bháa	CVV
-bháa	CVV
-bháa	CVV
-bháȁ	CVV
-bhàabhán	CVVCV
-bhàân	CVV
-bhāân	CVV
-bháan	CVV
-bhȁan kʌ̄	CVV CV̈
-bhȁazʌ̏	CVVCV̈
-bhȁbha	CVCV
-bhábhɛ̏n	CVCV
-bhȁdʌ̄	CVCV̈
-bhȁdhʌ́n	CVCV̈
-bhádhȅ	CVCV
-bhádhɛ̏	CVCV
-bhȁn	CV
-bhȁn	CV
-bhȁn	CV
-bhān	CV
-bhān	CV
-bhān	CV
-bhān	CV
-bhán	CV
-bhán	CV
-bhän	CV
-bhȁnkún	CVCVC
-bhȁnwȕn	CVwVC
-bhānzīgā	CVCVCV
-bhàŋ	CVCC
-bhàŋ̄	CVCC
-bhàŋbhá	CVCCCV
-bháŋgló	CVCCCCV
-bhȁŋgɤ̏	CVCCCV̈
-bhàŋ̄zʌ̏{dhȕ}n	CVCCCV̈ {CV}
-bhȁwȕn	CVwVC
-bházʌ̏	CVCV̈
-bházʌ̏	CVCV̈
-bhɒ̀ɒ̄	CVV
-bhɒ̄ɒ	CVV
-bhɒ́ɒdhɤ̄	CVVCV̈
-bhɒ́ɒ-dhȕn	CVV CV
-bhɒ̄ɒgā	CVVCV
-bhɒ́ɒŋ̏	CVVCC
-bhɒ́ɒŋ̏{zʌ̏}-dhȕn	CVVCC {CV̈} CV
-bhæ̏æ	CVV
-bhæ̀æ̂	CVV
-bhæ̏æn	CVV
-bhæ̏ængā	CVVCV̄
-bhʌ̄	CV̈
-bhʌ̄	CV̈
-bhʌ́ʌ	CV̈V̈
-bhʌ̄ʌn yɔ̏n	CV̈V̈ CVC
-bhʌ̏bhɛ̄npíɤdhē	CV̈CVCVV̈CV
-bhʌ̏n	CV̈
-bhʌ́n	CV̈
-bhʌ́n	CV̈
-bhʌ̄ŋ	CV̈CC
-bhʌ́ŋ	CV̈CC
-bhē	CV
-bhé	CV
-bhèā	CVV CV̈
-bhéȉ	CVV
-bhéȉzʌ̏	CVVCV̈
-bhēŋ	CVCC
-bhɛ̄	CV
-bhɛ́bhán	CVCV
-bhɛ́ɛbhɛ̏	CVVCV
-bhɛ̏ɛn	CVV
-bhɛ̀ɛn	CVV
-bhɛ̀ɛ̂n	CVV
-bhɛ̄ɛn	CVV
-bhɛ̄ɛ̂n	CVV
-bhɛ̏ɛnzʌ̏	CVVCV̈
-bhɛ̄gɯ́dhɛ̏	CVCV̈CV
-bhɛ́i	CVV
-bhɛ́lɛ́bhɛ̏lɛ̏	CVCVCVCV
-bhɛ̏n	CV
--bhɛ̏n	CV
-bhɛ̄n	CV
-bhɛ̄n	CV
-bhɛ̄n tīi sɛ̏	CV CVV CV
-bhɛ̄nsʌ̏	CVCV̈
-bhɛ̄ŋ	CVCC
-bhī	CV
-bhī	CV
-bhían	CVV
-bhīɒŋ	CVVVCC
-bhīɒŋ	CVVVCC
-bhīɒŋgā	CVVVCCCV
-bhìʌ̄n	CVV̈
-bhīdhīntɤ̄	CVCVCV̈
-bhīi	CVV
-bhìibhín	CVVCV
-bhīin yɔ̏n	CVV CVC
-bhīingā	CVVCV
-bhīiŋ	CVVCC
-bhīn	CV
-bhȉŋ	CVCC
-bhīŋ	CVCC
-bhīŋ	CVCC
-bhíŋ	CVCC
-bhīŋbhiŋdhɤ	CVCCCVCCCV̈
-bhīŋgā	CVCCCV
-bhīɤ̏fǽædʌ̄	CVV̈fVVCV̈
-bhlȁ	CCV
-bhlȁ	CCV
-bhlà	CCV
-bhlá	CCV
-bhlāȁ	CCVV
-bhláa	CCVV
-bhláabhlȁ	CCVVCCV
-bhlʌ̀	CCV̈
-bhlʌ́	CCV̈
-bhlʌ̀kʌ̄pʌ̏	CCV̈CV̈CV̈
-bhlʌ̀kpɔ́dhē	CCV̈CCVCV
-bhlʌ̀ŋ̂	CCV̈CC
-bhlʌ̀zʌ̏	CCV̈CV̈
-bhlé	CCV
-bhlɛ́ɛbhlɛ̏	CCVVCCV
-bhlɛ̀ȉ	CCVV
-bhlɛ́ŋbhlɛ̏ŋ	CCVCCCCVCC
-bhlō	CCV
-bhlòô	CCVV
-bhlɔ̄	CCV
-bhlɔ̈bhlɔ̂	CCVCCV
-bhlɔ̏lɯ̏	CCVCV̈
-bhlɤ̂	CCV̈
-bhlɤ̂dhɛ̏	CCV̈CV
-bhlɤ́ŋbhlɤ̏	CCV̈CCCCV̈
-bhlɤ̀ɤ̏	CCV̈V̈
-bhlɤ̀ɤ̄gbȁa	CCV̈V̈ CCVV
-bhlȕ	CCV
-bhlú	CCV
-bhlúubhlȕzʌ̏	CCVVCCVCV̈
-bhlɯ̀	CCV̈
-bhnlā	CCV
-bhnlàa	CCVV
-bhnlàa gɔ̄ɔ̂n	CCVV CVVC
-bhnlàȁbɔ̏	CCVVCV
-bhnlàabɔ̏ bhɛ̀ɛ̂bhɛ̏n	CCVVCV CVVCV
-bhnlʌ̏	CCV̈
-bhnlʌ̀ʌ	CCV̈V̈
-bhnlʌ̀ʌ yùā	CCV̈V̈ CVV
-bhnlʌ̄ʌzʌ̏	CCV̈V̈CV̈
-bhnlɛ́ŋbhlɛ̏ŋ	CCVCCCCVCC
-bhnlìi	CCVV
-bhnlɔ̏ɔ	CCVV
-bhnlɔ́ɔbhnlɔ̏	CCVVCCV
-bhnlūʌ	CCVV̈
-bhnlɯ̏	CCV̈
-bhȍ	CV
-bhō	CV
-bhóŋ	CVCC
-bhōo	CVV
-bhòodhʌ́n	CVVCV̈
-bhɔ̏	CV
-bhɔ̄	CV
-bhɔ̄	CV
-bhɔ́	CV
-bhɔ̏adhʌ	CVVCV̈
-bhɔ̏an	CVV
-bhɔ̄ân	CVV
-bhɔ́ʌ̏	CVV̈
-bhɔ́bhnlí	CVCCV
-bhɔ̏dhɛn	CVCV
-bhɔ̏kúʌ̏	CVCVV̈
-bhɔ̏n	CV
-bhɔ̏n	CV
-bhɔ̏n	CV
-bhɔ́ntrʌ̏	CVCCV̈
-bhɔ̏ŋ	CVCC
-bhɔ̄ŋ	CVCC
-bhɔ̄ŋ	CVCC
-bhɔ́ŋ zɔ̏	CVCC CV
-bhɔ̄ŋdhɛ̏	CVCCCV
-bhɔ̀ɔ̄	CVV
-bhɔ̄ɔ̏	CVV
-bhɔ́ɔ̏	CVV
-bhɔ̀ɔ̄bhɛ̏n	CVVCV
-bhɔ́ɔ̏kpʌ̀	CVVCCV̈
-bhɔ́ɔ̈n	CVV
-bhɔ̀ɔ̄pʌ̏	CVVCV̈
-bhɔ̀ɔ̄zʌ̏	CVVCV̈
-bhɔ́ɔzɔ̏	CVVCV
-bhɤ̏	CV̈
-bhɤ̏	CV̈
-bhɤ̏pʌ̏	CV̈CV̈
-bhɤ̀ɯ̏	CV̈V̈
-bhɤ̀ɯ̂	CV̈V̈
-bhɤ̏yíʌ	CV̈CVV̈
-bhȕaadhʌ	CVVVCV̈
-bhúabhȕan	CVVCVV
-bhùān	CVV
-bhúʌ̏	CVV̈
-bhūn	CV
-bhūŋbhuŋdhɤ	CVCCCVCCCV̈
-bhūȕ	CVV
-bhúu	CVV
-bhūu gȁn	CVV CVC
-bhūȕdhɤ̄	CVVCV̈
-bhūun	CVV
-bhūȕn	CVV
-bhúun	CVV
-bhɯ́	CV̈
-bhɯ́	CV̈
-bhɯ́ʌŋbhɯ̏ʌŋ	CV̈V̈CCCV̈V̈CC
-bhɯ̏n	CV̈
-bhɯ̄n	CV̈
-bhɯ̄n	CV̈
-bhɯ̄ŋ	CV̈CC
-bhɯ̏ɤ	CV̈V̈
-bhɯ̏ɤ	CV̈V̈
-bhɯ̀ɤ̄	CV̈V̈
-bhɯ̄ɤ	CV̈V̈
-bhɯ́ɤ	CV̈V̈
-bhɯ́ɤ̏	CV̈V̈
-bhɯ̀ɤ̄dhʌ́n	CV̈V̈CV̈
-bhɯ́ɤdhȅ	CV̈V̈CV
-bhɯ̀ɤ̄gā	CV̈V̈CV
-bhɯ̀ɤ̄gblōogā	CV̈V̈CCCVVCV
-bhɯ́sɯ̏	CV̈CV̈
-bhɯ́zʌ̏	CV̈CV̈
-dȁ	CV
-dà	CV
-dȁa	CVV
-dāa	CVV
-Dàādhɛ̏n	DVVCCV
-dàādhɛ̏n	CVVCCV
-Dàān	DVVC
-dàān	CVVC
-dàān	CVVC
-dàān dhɔ́ɔ yī	CVVC CVV CV
-dàānwȍ	CVVCwV
-dáawō	CVVwV
-dȁdhʌ́ɯ	CVCV̈V̈
-dȁdhʌ́ɯ	CVCV̈V̈
-dān	CVC
-dànsȅe	CVCCVV
-dàŋdá	CVCCCV
-dáŋdȁŋdáŋdhɤ̄	CVCCCVCCCVCCCV̈
-dȁplɤ̄ɤdhɛ̏	CVCCV̈V̈CV
-dȁsɔ̏	CVCV
-dɒ̀ɒn	CVVC
-dɒ̄ɒn	CVVC
-dɒ́ɒn	CVVC
-dʌ̄	CV̈
-dʌ́ʌ̏	CV̈V̈
-dʌ̄bhɛ̄n	CV̈CV
-dʌ̄glúdhɛ̏	CV̈CCVCV
-dʌ̄kpɔ́dʌ̏	CV̈CCVCV̈
-dʌ̏ɯ	CV̈V̈
-dʌ̏ɯdʌ̏ɯ	CV̈V̈CV̈V̈
-dʌ̏ɯdʌ̏ɯ	CV̈V̈CV̈V̈
-dʌ̏ɯwō	CV̈V̈wV
-dȅ	CV
-dȅ	CV
-dȅ	CV
-dȅbɔ̏	CVCV
-dȅe	CVV
-dȅe	CVV
-dèŋ̄dȅ	CVCCCV
-dēpītē	CVCVCV
-dɛ̏	CV
-dɛ̏bhɛ̏n	CVCCV
-dɛ̏bhnlɔ̄ɔdʌ̄	CVCCVVCV̈
-dɛ́dɛ̏	CVCV
-dɛ̀ɛ	CVV
-dɛ̄ɛ̏n	CVVC
-dɛ̄ɛ̏n	CVVC
-dɛ̀ī	CVV
-dɛ̀īdȁbhɛ̏n	CVVCVCV
-dɛ̄n	CVC
-dȉan	CVVC
-dȉan	CVVC
-dìan	CVVC
-dȉʌ	CVV̈
-dìbhānsɯ̏	CVCVCV̈
-dīȉ	CVV
-dīidhɤn	CVVCCV̈
-dīin	CVVC
-dȉiŋ	CVVCC
-dȉn	CVC
-dīn	CVC
-dīn	CVC
-dín	CVC
-dín	CVC
-dȉŋ	CVCC
-dȉŋ	CVCC
-dīɔŋ	CVVCC
-díɤŋ	CVV̈CC
-dō	CV
-dō	CV
-dōdō	CVCV
-dōdō	CVCV
-dòŋ	CVCC
-dóŋdó	CVCCCV
-dȍo	CVV
-dōsɛ̄n	CVCVC
-dɔ̄	CV
-dɔ̄	CV
-dɔ̀ā	CVV
-dɔ̀ā	CVV
-dɔ̀ā	CVV
-dɔ̏dhɛ	CVCV
-dɔ̏n	CVC
-dɔ̏n	CVC
-dɔ̏n	CVC
-dɔ̄n	CVC
-dɔ́n	CVC
-dɔ́n	CVC
-dɔ́ŋdɔ̏n	CVCCCVC
-dɔ̀ɔ̄	CVV
-dɔ́ɔ	CVV
-dɔ̀ɔn	CVVC
-dɔ̏pɤ́ʌ̏	CVCV̈V̈
-dɔ̏sɔ̄tȁ	CVCVCV
-dɔ̀ū	CVV
-dɔ̀ū lɯ̏	CVV CV̈
-dɤ̄	CV̈
-dɤ̀ŋ	CV̈CC
-dɤ̏ŋdhɤ	CV̈CCCV̈
-dɤ̀ŋ̄gā	CV̈CCCV
-dɤ́ŋgɤ́dɤ̏ŋgɤ̏	CV̈CC CV̈CC
-dɤ̄zʌ̏	CV̈CV̈
-drá	CCV
-dràan	CCVVC
-dràān	CCVVC
-drʌ́ʌdrʌ̏	CCV̈V̈CCV̈
-drʌ́ʌndrʌ̏n	CCV̈V̈CCCV̈C
-drɛ́ɛndrɛ̏n	CCVVCCCVC
-drɛ́ŋdrɛ̏ŋ	CCVCCCCVCC
-drȉiŋ	CCVVCC
-dródhɤ̄	CCVCV̈
-dróŋ	CCVCC
-drɔ́ɔ	CCVV
-drɔ́ɔ bhūȁn	CCVV CVVC
-drɔ́ɔdrɔ̏	CCVVCCV
-drɔ̏ɔn	CCVVC
-drɤ́ŋdrɤ̏ŋ	CCV̈CCCCV̈CC
-drūʌ	CCVV̈
-drùɛ̏ɛ	CCVVV
-drùɛ̏n	CCVVC
-drùuŋ̂bhɛ̏	CCVVCCCV
-drɯ́ʌdrɯ̏ʌ	CCV̈V̈CCV̈V̈
-drɯ̏ŋ	CCV̈CCC
-dȕ	CV
-dȕ	CV
-dú	CV
-dùa	CVV
-dùā	CVV
-dúaandȕan	CVVVCCVVC
-dùākʌ̄pʌ̏	CVVCV̈CV̈
-dùān	CVVC
-dùʌ	CVV̈
-dùʌ	CVV̈
-dūʌ	CVV̈
-dȕʌlúu	CVV̈CVV
-dúdhɤ̄	CVCV̈
-dúeŋdhɤ̄	CVVCCCV̈
-dȕɛ	CVV
-dȕklɔ̄ɔlɯ̏	CVCCVVCV̈
-dȕkwī	CVCwV
-dūn	CVC
-dùŋ	CVCCC
-dúŋ	CVCC
-dúŋ	CVCCC
-dùɤ	CVV̈
-dūɤ	CVV̈
-dȕɤɤ	CVV̈V̈
-dùū	CVV
-dùūdhɤ	CVVCV̈
-dȕun	CVVC
-dɯ̄	CV̈
-dɯ́	CV̈
-dɯ́ʌ	CV̈V̈
-dɯ́ʌ-sɯ́	CV̈V̈ CV̈
-dɯ̄gɔ̏bhɛ̏n	CV̈CVCV
-dɯ́n	CV̈C
-dhȁ	CV
-dhā	CV
-dhā	CV
-dhȁa	CVV
-dháȁ	CVV
-dhȁadhʌ́n	CVVCV̈
-dhȁadhēn	CVVCV
-dhȁan	CVV
--dhȁan	CVV
-dhàān	CVV
-dhȁankʌ̄bhɛ̏n	CVVCV̈CV
-dhàanzʌ̏	CVVCV̈
-dháasí	CVVCV
-dhābhɯ̏ɤ	CVCV̈V̈
-dhāgā	CVCV
-dhāgbláwȍ	CVCCCVwV
-dhākpɤ̄	CVCCV̈
--dhȁn	CV
-dhān	CV
-dhán	CV
-dhán	CV
-dhán và	CV vV
-dhāŋ̏	CVCC
-dhāŋ̏gā	CVCCCV
-dháŋgá	CVCCCV
-dhāŋ̏gɯ́dhɛ̏	CVCCCV̈CV
-dhàŋtàa	CVCCCVV
-dhásígɔ̏bhɛ̏n	CVCVCVCV
-dhāyán	CVCVC
-dhɒ̏ɒn	CVV
-dhɒ̀ɒn	CVV
-dhɒ̀ɒnpʌ̏	CVVCV̈
-dhʌ̏	CV̈
-dhʌ̀	CV̈
-dhʌ̀ʌ̂	CV̈V̈
-dhʌ́ʌdhɤ̄	CV̈V̈CV̈
-dhʌ̀ʌn	CV̈V̈ CV̈
-dhʌ̀ʌn	CV̈V̈
-dhʌ́dhēdhʌ́n	CV̈CVCV̈
-dhʌ́dhēn	CV̈CV
-dhʌ́dhɛ̏nwȕn	CV̈CVwVC
-dhʌ́dhōŋ-dhȕn	CV̈CVCC CV
-dhʌ́n	CV̈
--dhʌ́n	CV̈
-dhʌ́n púu	CV̈ CVV
-dhʌ́n sɛ́ɛ̈n	CV̈ CVVC
-dhʌ́n sɛ́ɛ̈n dhȕn bhȁ blʌ̏ʌ	CV̈ CVVC CV CV CCV̈V̈
-dhʌ́ngɔ̄ɔ̂dhʌ́n	CV̈CVVCCV̈
-dhʌ́ngɔ̄ɔ̂n	CV̈CVVC
-dhʌ́ngɔ̄ɔ̂nzʌ̏	CV̈CVVCCV̈
-dhʌ̀ŋ	CV̈CC
-dhʌ̀ŋ	CV̈CC
-dhʌ̏ŋkúʌ̈dhē	CV̈CCCVV̈CV
-dhʌ̀ŋzʌ̏	CV̈CCCV̈
--dhȅ	CV
-dhē	CV
-dhē	CV
-dhē gbóȍ	CV CCVV
-dhèā	CVV
-dhēbɔ̏	CVCV
-dhēbhɛ̏ndʌ̄	CVCVCV̈
-dhédhéngbȁa	CVCVCCVV
-dhèe	CVV
-dhée	CVV
-dhée	CVV
-dhéepɛ̏n	CVVCVC
-dhéesȕɤ	CVVCVV̈
-dhēglú	CVCCV
-dhēglúdhʌ́dhēn	CVCCVCV̈CV
-dhēglúdhʌ́dhēnzʌ̏	CVCCVCV̈CVCV̈
-dhēglúdhʌ́ngɔ̄ɔ̏n	CVCCVCV̈CVVC
-dhēglúdhʌ́ngɔ̄ɔ̏nzʌ̏	CVCCVCV̈CVVCCV̈
-dhēglúdhēbɔ̏	CVCCVCVCV
-dhēglúdhēzʌ̏	CVCCVCVCV̈
-dhēglúgɔ̄ɔ̏dhʌ́nzʌ̏	CVCCVCVVCCV̈CV̈
-dhēglúgɔ̄ɔ̏n	CVCCVCVVC
-dhēglúgɔ̄ɔ̏nzʌ̏	CVCCVCVVCCV̈
-dhēglúzʌ̏	CVCCVCV̈
-dhēgɔ̄n	CVCVC
-dhèī	CVV
-dhéi	CVV
-dhēklɤ̀ɤ	CVCCV̈V̈
-dhēkpɔ́dhȅ	CVCCVCV
-dhēpʌ̄	CVCV̈
-dhēsɯ́gɔ̄ɔ̏n	CVCV̈CVVC
-dhɛ̏	CV
-dhɛ̏	CV
-dhɛ̏	CV
--dhɛ̏	CV
--dhɛ̏	CV
--dhɛ̏	CV
-dhɛ̀	CV
-dhɛ̄	CV
-dhɛ́	CV
-dhɛ́	CV
-dhɛ̏adhíɤ	CVVCVV̈
-dhɛ̏adhíɤ	CVVCVV̈
-dhɛ̏bíʌ̏dhɛn	CVCVV̈CCV
-dhɛ̏bōsɯ̏	CVCVCV̈
-dhɛ́dhɛ́n	CVCV
-dhɛ́dhɛ́n yúa	CVCV CVV
-dhɛ̀ɛ	CVV
-dhɛ̀ɛ̄	CVV
-dhɛ̀ɛ̄dhɛ̏	CVVCV
-dhɛ́ɛdhɛ̏	CVVCV
-dhɛ̀ɛdhɛ́n	CVVCV
-dhɛ́ɛdhɤ̄	CVVCV̈
-dhɛ̏ɛn	CVV
-dhɛ̀ɛn	CVV
-dhɛ̀ɛ̏n	CVV
-dhɛ̄ɛ̂n	CVV
-dhɛ̄ɛ̂n gɔ̄ŋ	CVV CVCC
-dhɛ̀ɛ̏ngā	CVVCV
-dhɛ́gā	CVCV
-dhɛ̏gȁkɔ̏	CVCVCV
-dhɛ̏gȁyȁn	CVCVCVC
-dhɛ̏glōodhɛ̏	CVCCVVCV
-dhɛ̏gȍpȉʌ	CVCVCVV̈
-dhɛ̏kpɒ̀ɒdhíɤ	CVCCVVCVV̈
-dhɛ̏kpɒ̀ɒyȉ	CVCCVVCV
-dhɛ̏lʌ́ʌ	CVCV̈V̈
-dhɛ̀n	CV
-dhɛ̄n	CV
-dhɛ̂n	CV
-dhɛ̂ngā	CVCV
-dhɛ́ŋ	CVCC
-dhɛ̏pʌ́ʌ̏dhɛ	CVCV̈V̈CV
-dhɛ̏púu	CVCVV
-dhɛ̏tīi	CVCVV
-dhɛ̏tīidhɛ̏	CVCVVCV
-dhɛ̏yàāpʌ̏	CVCVVCV̈
-dhɛ̏yȁbhɛ̏n	CVCVCV
-dhȉ	CV
-dhī	CV
-dhī	CV
-dhí	CV
-dhìa	CVV
-dhìa	CVV
-dhìā	CVV
-dhía	CVV
-dhíȁan	CVVV
-dhīadhīan	CVVCVV
-dhȉan	CVV
-dhìɒɒbhɛ̏n	CVVVCCV
-dhìʌ̄	CVV̈
-dhìʌ̄bhɛ̏n	CVV̈CV
-dhìʌdhíʌn	CVV̈CVV̈
-dhìʌn	CVV̈
-dhìʌ̂n	CVV̈
-dhíʌŋ	CVV̈CC
-dhȉdháa	CVCVV
-dhȉdháakʌ̄bhɛ̏n	CVCVVCV̈CV
-dhídhȁan	CVCVV
-dhídhȁanzʌ̏	CVCVVCV̈
-dhȉdháapʌ̏	CVCVVCV̈
-dhīdhe	CVCV
-dhȉi	CVV
-dhìī	CVV
-dhìībɔ̏{-dhȕ}n	CVVCV {CV}
-dhȉin	CVV
-dhìin	CVV
-dhīin	CVV
-dhȉin kláŋ	CVV CCVCC
-dhȉizʌ̏	CVVCV̈
-dhíkábhɛ̏n	CVCVCCV
-dhȉkúʌdhē	CVCVV̈CV
-dhīŋ	CVCC
-dhȉo	CVV
-dhìɔ̄	CVV
-dhíɔ̈n	CVV?
-dhȉɤ	CVV̈
-dhíɤ	CVV̈
-dhíɤ	CVV̈
-dhíɤ	CVV̈
-dhíɤ̏	CVV̈
-dhíɤ-bɔ̄	CVV̈ CV
-dhíɤ̏dhɛ	CVV̈CV
-dhíɤ-gán	CVV̈ CVC
-dhȉɤɤ	CVV̈V̈
-dhíɤ-sɯ́	CVV̈ CV̈
-dhíɤtó	CVV̈CV
-dhíɤ-tó	CVV̈ CV
-dhíɤtódhɛ̏	CVV̈CVCV
-dhȉɤyí	CVV̈CV
-dhíɤzʌ̏	CVV̈CV̈
-dhó	CV
-dhóʌ̏	CVV̈
-dhódhón	CVCV
-dhȍdhɔ́ɔpíɤsɯ̏zʌ̏	CVCVVCVV̈CV̈CV̈
-dhōɛ́nlɤ̏	CVVCV̈
-dhȍkúʌ̏sɯ̏	CVCVV̈CV̈
-dhóŋbho	CVCCCV
-dhȍŋdho	CVCCCV
-dhōŋzʌ̄bhɛ̏ɛn	CVCCCV̈CVV
-dhòŋ̂	CVCC
-dhòo	CVV
-dhòō	CVV
-dhóo	CVV
-dhóȍ	CVV
-dhòobɔ̏{-dhȕ}n	CVVCV {CV}
-dhōo-dhȕn	CVVCV
-dhɔ̏	CV
-dhɔ́	CV
-dhɔ̏dhɔ̏n	CVCV
-dhɔ́dhɔ́n	CVCV
-dhɔ̏kàā	CVCVV
-dhɔ̀n	CV
-dhɔ̄n	CV
-dhɔ̀ŋ	CVCC
-dhɔ̀ŋ̄	CVCC
-dhɔ̀ŋtrɔ̄ɔ̏	CVCCCCVV
-dhɔ̀ŋtrɔ̄ɔ̏plɤ̀ɤ	CVCCCCVVCCV̈V̈
-dhɔ̀ɔ	CVV
-dhɔ̀ɔ̄	CVV
-dhɔ́ɔ	CVV
-dhɔ́ɔ	CVV
-dhɔ̀ɔ̄bhàa	CVVCVV
-dhɔ̀ɔ̄bhàadhʌ̏n	CVVCVVCV̈
-dhɔ́ɔdɔ̄bhȁn	CVVCVCV
-dhɔ̀ɔdhɔ́	CVVCV
-dhɔ̀ɔdhɔ́n	CVVCV
-dhɔ́ɔgɔ̏	CVVCV
-dhɔ́ɔkóʌ̏dhɤ̄	CVVCVV̈CV̈
-dhɔ̏ɔn	CVV
-dhɔ̀ū	CVV
--dhɤ̄	CV̈
--dhɤ̄	CV̈
-dhɤ́	CV̈
-dhɤ́	CV̈
-dhɤ́	CV̈
-dhɤ́	CV̈
-dhɤ́ʌ̏	CV̈V̈
-dhɤ́n	CV̈
-dhɤ̏ɤ	CV̈V̈
-dhɤ́ɤdhɤ̏	CV̈V̈CV̈
-dhɤ́ɤdhɤɤ	CV̈V̈CV̈V̈
-dhú	CV
-dhú	CV
-dhȕaadhȕaadhɤ̄n	CVVVCVVVCV̈
-dhȕaadhȕaan	CVVVCVVV
-dhȕaadhȕaan	CVVVCVVV
-dhȕaan	CVVV
-dhúadhȕadhɛn	CVVCVVCV
-dhùan	CVV
-dhūænzʌ̏	CVVVCV̈
-dhúʌ̏	CVV̈
-dhūʌ̂n	CVV̈
-dhúʌ̈nbɔ̏	CVV̈CV
-dhùen	CVV
-dhūɛn	CVVV
-dhȕn	CV
-dhūn	CV
-dhūn	CV
-dhȕɤ	CVV̈
-dhūɤ	CVV̈
-dhūɤ	CVV̈
-dhūɤdhe	CVV̈CV
-dhūɤdhe tɤ́ŋ	CVV̈CV CV̈CC
-dhȕtīi	CVCVV
-dhȕu	CVV
-dhùu	CVV
-dhùû	CVV
-dhúu	CVV
-dhúu púu	CVV CVV
-dhúun	CVV
-dhúun	CVV
-dhúuŋ	CVVCC
-dhúuŋgā	CVVCCCV
-dhȕutīi	CVVCVV
-dhȕuzʌ̏	CVVCV̈
-n̄	C
-dh̀n dh́n	C C
-n̄ká	CCV
-Ɗóȍdhɛ	DhVVCV
-è	V
-ɛ̀	V
-ɛ̀	V
-fá	fV
-fȁa	fVV
-fāȁ	fVV
-fáa	fVV
-fáafȁ	fVVfV
-fàān	fVVC
-fáfȁ	fVfV
-fʌ̀ɯ̄fʌ̀ɯ̄dhɤ	fV̈V̈fV̈V̈CV̈
-fɛ́ɛ	fVV
-fɛ́ɛbhɛ̏n	fVVCV
-fɛ̀ɛ̂n	fVVC
-fɛ́ɛzʌ̏	fVVCV̈
-fɛ́fɛ́dhɤ̄	fVfVCV̈
-fɛ̄i	fVV
-fía	fVV
-fíabhɛ̏n	fVVCV
-fíasɯ̏	fVVCV̈
-fìʌ̄	fVV̈
-fȉʌfȉʌdhɤ̄	fVV̈fVV̈CV̈
-fìi	fVV
-fȉn	fVC
-fíŋ	fVCC
-fíŋ	fVCCC
-flá	fCV
-flæ̏æn	fCVVC
-flʌ́ʌ	fCV̈V̈
-flʌ́ʌ̏	fCV̈V̈
-flʌ́ʌflʌ́ʌ	fCV̈V̈fCV̈V̈
-fléȅ	fCVV
-flèŋ	fCVCC
-flèŋdhʌ́	fCVCCCV̈
-flɛ̏ɛn	fCVVC
-flɛ́ŋ	fCVCCC
-flíȉ	fCVV
-flíŋ	fCVCCC
-flɔ́	fCV
-flɤ́	fCV̈
-flū	fCV
-flùflú	fCVfCV
-flùu	fCVV
-flɯ́	fCV̈
-fɔ̏dhɤ̄	fVCV̈
-fɔ̄ŋ	fVCC
-fɤ̏	fV̈
-fɤ̄dhɛ̏	fV̈CV
-fɤ́ŋfɤ̏	fV̈CCfV̈
-fɤ́ɤ̏	fV̈V̈
-fɤ̄ɤdhɛ̏	fV̈V̈CV
-fɤ́ɤfɤ̏	fV̈V̈fV̈
-fɤ̄ɯ	fV̈V̈
-fɤ̄yí	fV̈CV
-fùʌ	fVV̈
-fùû	fVV
-gȁ	CV
-gā	CV
-gā	CV
-gā	CV
-gàan	CVVC
-gàān	CVVC
-gāgā	CVCV
-gȁn	CVC
-gán	CVC
-gán	CVC
-gāzʌ̏	CVCV̈
-gɒ̏ɒ	CVV
-gʌ̄ʌpȉʌklú	CV̈V̈CVV̈CCV
-gʌ̄n	CV̈C
-gʌ̈n	CV̈C
-gʌ̄ɯ	CV̈V̈
-gʌ̄ɯbhɛ̏n	CV̈V̈CV
-gɛ̂	CV
-gɛ̏an	CVVC
-gɛ̀an	CVVC
-gɛ̏dhʌ́ngā	CVCCV̈CV
-gɛ̏dhɛn	CVCCV
-gɛ̏dhɛ́n	CVCCV
-gɛ̏dhɛ́nkwɛ̄ɛdhɛ̏	CVCCVCwVVCV
-gɛ́ɛn	CVVC
-gɛ́iŋ	CVVCC
-gɛ̏n	CVC
-gɛ̏ngȁlɯ́	CVCCVCV̈
-gɛ́ngɛ̏n	CVCCVC
-gɛ̏nkpɤ̄ɯdhɛ̏	CVCCCV̈V̈CV
-gɛ̏nkpɤ̄ɯdhɤ	CVCCCV̈V̈CV̈
-gɛ̏nkwɛ̄ɛdhɛ̏	CVCCwVVCV
-gɛ̏nlȍbhɛ̏n	CVCCVCV
-gɛ́ŋkȍ	CVVCCCV
-gȉ	CV
-gīȁ	CVV
-gīȁgȉa	CVVCVV
-gīȁgȉawō	CVVCVVwV
-gȉan	CVVC
-gīan	CVVC
-gían	CVVC
-gíanzʌ̏	CVVCCV̈
-gídhán	CVCV
-gíȉ	CVV
-gíin	CVVC
-gíinzʌ̏	CVVCCV̈
-gȉkpɛ́	CVCCV
-gíŋ	CVCC
-gȉpȉn	CVCVC
-glá	CCV
-glàȁ	CCVV
-gláaglȁ	CCVVCCV
-glȁan	CCVVC
-gláan	CCVVC
-gládhiɤdhɛ̏	CCVCVV̈CV
-gládhiɤsɯ́bhɛ̏n	CCVCVV̈CV̈CV
-glʌ́ŋglʌ̏ŋ	CCV̈CCCCV̈CC
-glègɔ̏	CCVCV
-glȅŋ	CCVCC
-glȅŋzʌ̏	CCVCCCV̈
-glɛ̏ŋ	CCVCC
-glȉglȉdhɤ̄	CCVCCVCV̈
-glìī	CCVV
-glìî	CCVV
-glìīsɯ̏	CCVVCV̈
-glòo	CCVV
-glòo	CCVV
-glōo	CCVV
-glɔ̄ŋdʌ̄	CCVCCCV̈
-glɔ̀ɔ	CCVV
-glɔ̄ɔ	CCVV
-glɔ́ɔ	CCVV
-glɔ́ɔglɔ̏	CCVVCCV
-glɔ́ɔglɔ̏dhɛ	CCVVCCVCV
-glɔ̀ɔsɯ̏	CCVVCV̈
-glɔ̀ɔsɯ̏	CCVVCV̈
-glɤ̀ɤ	CCV̈V̈
-glɤ̀ɤbɔ̀ɔbhɛ̏n	CCV̈V̈CVVCV
-glȕ	CCV
-glȕ	CCV
-glȕ	CCV
-glú	CCV
-glúʌ̏kwȉ	CCVV̈CwV
-glȕbhadháä	CCVCVCVV
-glȕdʌ̄	CCVCV̈
-glȕdhí	CCVCV
-glúdhī	CCVCV
-glùɛīn	CCVVVC
-glùɛ̄n	CCVVC
-glùɛ̄nzʌ̏	CCVVCCV̈
-glȕgɔ̄bhɛ̏n	CCVCVCCV
-glȕkʌ̄bhɛ̏n	CCVCV̈CV
-glȕkpá	CCVCCV
-glȕpíɤpʌ̏	CCVCVV̈CV̈
-glúsʌ̏	CCVCV̈
-glúu	CCVV
-glùūzʌ̏	CCVVCV̈
-glúyāabhɛ̏n	CCVCVVCV
-glɯ́lɯ̏	CCV̈CV̈
-glɯ̀ɯ̂	CCV̈V̈
-glɯ́ɯzʌ̏	CCV̈V̈CV̈
-gȍ	CV
-gó	CV
-gȍo	CVV
-gòȍ	CVV
-gōo	CVV
-gōô	CVV
-góo	CVV
-góö	CVV
-góo dhòo dɔ̏ɔ	CVV CVV CVV
-gɔ̏	CV
-gɔ̏	CV
-gɔ̏	CV
-gɔ̄	CV
-gɔ́	CV
-gɔ́	CV
-gɔ̂	CV
-gɔ́bhȁn	CVCV
-gɔ̏bhɛ̏n	CVCV
-gɔ̄bhìʌ̄n	CVCVV̈
-gɔ̏dhíɤbhɛ̏n	CVCVV̈CV
-gɔ̏gā	CVCV
-gɔ̏gȁgɯ́dhɛ̏	CVCVCV̈CV
-gɔ̏n	CVC
-gɔ̏n	CVC
-gɔ̀n	CVC
-gɔ̄n	CVC
-gɔ̄ŋgɔ̄ŋ	CVCCCVCC
-gɔ́ɔ	CVV
-gɔ́ɔ̏	CVV
-gɔ́ɔ̏	CVV
-gɔ̄ɔ̏bhɛ̏dhēn	CVVCCVCV
-gɔ̀ɔbhɛ̏n	CVVCCV
-gɔ̏ɔn	CVVC
-gɔ̀ɔn	CVVC
-gɔ̀ɔ̄n	CVVC
-gɔ̄ɔ̏n	CVVC
-gɔ̄ɔ̏ndʌ̄	CVVCCV̈
-gɔ̄ɔ̏ndē	CVVCCV
-gɔ̄ɔ̏ngbóȍ	CVVCCCVV
-gɔ̄ɔ̏nklɤ̀ɤ	CVVCCCV̈V̈
-gɔ́ɔnyùā	CVVCCVV
-gɔ̄ɔpʌ̏	CVVCV̈
-gɔ̏pʌ̏	CVCV̈
-gɔ́ugɔ̏	CVVCV
-gɔ́ugɔ̏	CVVCV
-gɔ̀ɯ̄	CVV̈
-gɤ́ŋ̏	CV̈CC
-gɤ̀ɤ̏	CV̈V̈
-gū	CV
-gú	CV
-gȕa	CVV
-gùʌ̄	CVV̈
-gúɛdúkpȍ	CVVCVCCV
-gúɛfīʌn	CVVfVV̈C
-gúgbɔ̄	CVCCV
-gúlɤ̀tȁ	CVCV̈CV
-gȕŋ	CVCCC
-gùŋzȉʌ	CVCCCVV̈
-gȕɤ	CVV̈
-gùɤ̄	CVV̈
-gȕɤgā	CVV̈CV
-gȕɤgbɔ̄ŋ	CVV̈CCVCC
-gȕɤkpɤ̄	CVV̈CCV̈
-gȕɤpúuyí	CVV̈CVVCV
-gúu	CVV
-gúudʌ̄	CVVCV̈
-gùun	CVVC
-gúun	CVVC
-gɯ́	CV̈
-gɯ́	CV̈
-gɯ́ʌ	CV̈V̈
-gɯ́ʌŋgɯ̏ʌŋ	CV̈V̈CCCV̈V̈CC
-gɯ́-dān	CV̈ CVC
-gɯ́-gā	CV̈ CV
-gɯ́gādhe	CV̈CVCV
-gɯ́glȕdhē	CV̈CCVCV
-gɯ̀ŋ̄	CV̈CC
-gɯ̀ŋ̄zʌ̏	CV̈CCCV̈
-gɯ́ɤ	CV̈V̈
-gɯ́-sìɤ̂	CV̈ CVV̈
-gɯ́sìɤ̂bhɛ̄n	CV̈CVV̈CV
-gɯ́sìɤ̂dhē	CV̈CVV̈CV
-gɯ́sìɤ̂sɯ̏	CV̈CVV̈CV̈
-gɯ́ɯzʌ̏	CV̈V̈CV̈
-gbȁ	CCV
-gbà	CCV
-gbà	CCV
-gbā	CCV
-gbā	CCV
-gbā	CCV
-gbá	CCV
-gbâ	CCV
-gbȁa	CCVV
-gbȁa	CCVV
-gbàā	CCVV
-gbāa	CCVV
-gbāa	CCVV
-gbáa	CCVV
-gbàabóŋ	CCVVCVCC
-gbàādhūn	CCVVCCV
-gbàāgā	CCVVCV
-gbāȁn	CCVVC
-gbàāzɔ̀ŋ̄	CCVVCVCC
-gbȁbhɯɤ	CCVCV̈V̈
-gbȁdhɛn	CCVCCV
-gbágɛ̀īnpʌ̏	CCVCVVCCV̈
-gbāklɯ̄dʌ̄	CCVCCV̈CV̈
-gbȁn	CCVC
-gbàn	CCVC
-gbān	CCVC
-gbán	CCVC
-gbân	CCVC
-gbân	CCVC
-gbántȁ	CCVCCV
-gbāntʌ́ʌ	CCVCCV̈V̈
-gbȁntȉa	CCVCCVV
-gbánzlɤ̀ɤdhɛ̏	CCVCCCV̈V̈CV
-gbáŋklú	CCVCCCCCV
-gbāŋkɔ́	CCVCCCV
-gbāpʌ̏	CCVCV̈
-gbȁvían	CCVvVVC
-gbɒ̄ɒ	CCVV
-gbɒ̀ɒn	CCVVC
-gbɒ̀ɒnsɯ̏	CCVVCCV̈
-gbɒ̄ɒpʌ̏	CCVVCV̈
-gbǣæ̏	CCVV
-gbǣæ̏	CCVV
-gbæ̀æ̂n	CCVVC
-gbʌ́	CCV̈
-gbʌ̄ŋ̏	CCV̈CC
-gbʌ̄ŋ̏bhɯɤ	CCV̈CCCV̈V̈
-gbʌ̄ŋ̏gā	CCV̈CCCV
-gbʌ́ŋgbʌ̏ŋ	CCV̈CCCCV̈CC
-gbʌ̏ɯ	CCV̈V̈
-gbʌ̀ɯ	CCV̈V̈
-gbʌ̏ɯgbʌ̏ɯ	CCV̈V̈CCV̈V̈
-gbēdhēnkȕn	CCVCVCVC
-gbédhiɤbɔ̄pʌ̏	CCVCVV̈CVCV̈
-gbéȅ	CCVV
-gbéegbȅ	CCVVCCV
-gbéëzʌ̏	CCVVCV̈
-gbèī	CCVV
-gbȅŋ	CCVCC
-gbēŋ	CCVCC
-gbēŋbhɛ̏ɛ	CCVCCCVV
-gbēŋgbànlɯ̏	CCVCCCCVCCV̈
-gbēŋgbēŋ	CCVCCCCVCC
-gbɛ̄	CCV
-gbɛ́a	CCVV
-gbɛ́a	CCVV
-gbɛ́ɛdhɤ̄	CCVVCV̈
-gbɛ̀ɛn	CCVVC
-gbɛ̀ɛn	CCVVC
-gbɛ́gbɛ̏	CCVCCV
-gbɛ̄gbɛ̄zʌ̏	CCVCCVCV̈
-gbɛ́ï	CCVV
-gbɛ̀iŋ	CCVVCC
-gbɛ̂n	CCVC
-gbía	CCVV
-gbīidhɤn	CCVVCCV̈
-gbìin	CCVVC
-gbíiŋ̈	CCVVCC
-gbíngbȉn	CCVCCCVC
-gbío	CCVV
-gbȉɤ	CCVV̈
-gblá	CCCV
-gblàā	CCCVV
-gblàȁgblá	CCCVVCCCV
-gblāŋ	CCCVCC
-gbláudhɤ̄	CCCVVCV̈
-gblɒ̏ɒn	CCCVVC
-gblʌ́	CCCV̈
-gblʌ̀ʌ̂	CCCV̈V̈
-gblʌ̏ʌ gú tȁ wɯ̏	CCCV̈V̈ CV CV wV̈
-gblʌ̄ʌ̂n	CCCV̈V̈C
-gblɛ̏ibȉzʌ̏	CCCVVCVCV̈
-gbló	CCCV
-gblōŋ	CCCVCC
-gblȍo	CCCVV
-gblòo	CCCVV
-gblōo	CCCVV
-gblȍo dhʌ́n	CCCVV CV̈
-gblɔ̏dhēslʌ̄n	CCCVCVCCV̈C
-gblɔ̄ɔ	CCCVV
-gblɤ́gblɤ́	CCCV̈CCCV̈
-gblɯ́	CCCV̈
-gblɯ̄ʌ	CCCV̈V̈
-gblɯ̄ʌdhūn	CCCV̈V̈CCV
-gblɯ̏ŋ	CCCV̈CC
-gblɯ̏ɯn	CCCV̈V̈C
-gblɯ́ɯnzʌ̏	CCCV̈V̈CCV̈
-gbȍ	CCV
-gbō	CCV
-gbó	CCV
-gbō kɔ́	CCV CV
-gbȍa	CCVV
-gbōbhɯ̀ɤ	CCVCV̈V̈
-gbōgā	CCVCV
-gbóŋgbó	CCVCCCCV
-gbōŋgbōdhɤ	CCVCCCCVCV̈
-gbóö	CCVV
-gbóödhɛ̏	CCVVCV
-gbɔ̄	CCV
-gbɔ̄	CCV
-gbɔ́	CCV
-gbɔ̀ngbɔ̀nsɯ̏	CCVCCCVCCV̈
-gbɔ̄ŋgbɔ̄	CCVCCCCV
-gbɔ̄ŋgbɔ́	CCVCCCCV
-gbɔ̄ŋgbɔ̄ tȉa	CCVCCCCV CVV
-gbɔ̀ŋ̂	CCVCC
-gbɔ̀ɔ̄	CCVV
-gbɔ̏ɔn	CCVVC
-gbɔ̄ɔ̂n	CCVVC
-gbɔ́ɔtōo	CCVVCVV
-gbɔ̄sɛ́	CCVCV
-gbɔ̏udhɤ̄	CCVVCV̈
-gbɤ̄	CCV̈
-gbɤ̏ŋ	CCV̈CC
-gbȕa	CCVV
-gbúʌ̈ {lɯ́}	CCVV̈ {CV̈}
-gbuɛ	CCVV
-gbūŋ	CCVCC
-gbɯ̄ŋ	CCV̈CC
-gwā	CwV
-gwȁa	CwVV
-gwāâdhɛ̏	CwVVCV
-gwāâdhɤ	CwVVCV̈
-gwāan	CwVVC
-gwāndhē	CwVCCV
-gwàngā	CwVCCV
-gwʌ̏ʌ	CwV̈V̈
-gwɛ̂	CwV
-gwɛ̏ɛ	CwVV
-ì	V
-ìȉ	VV
-īn	VC
-íŋ	VCCC
-kȁ	CV
-kā	CV
-kā	CV
-kā	CV
-ká	CV
-ká	CV
-ká	CV
-ká	CV
-ká	CV
-kä	CV
-kâ	CV
-kàȁ	CVV
-kàā	CVV
-kāa	CVV
-kāȁ	CVV
-kāȁ	CVV
-kāȁ	CVV
-kāȁ	CVV
-kāȁ	CVV
-káa	CVV
-káa	CVV
-kāâgā	CVVCV
-kàān	CVVC
-kàān	CVVC
-kàān	CVVC
-kàân	CVVC
-káän	CVVC
-kȁantȁ	CVVCCV
-kāfé	CVfV
-káfé yí	CVfV CV
-kāflēe	CVfCVV
-kāká	CVCV
-kȁkàō	CVCVV
-kálé	CVCV
-kán	CVC
-kán bhɔ̏	CVC CV
-kȁnsō	CVCCV
-kāŋ̏	CVCC
-káŋbáä	CVCCCVV
-kāŋ{kā}-dhȕn	CVCC {CV} CV
-kɒ̀ɒ	CVV
-kɒ̄ɒ	CVV
-kɒ́ɒ	CVV
-kʌ̄	CV̈
-kʌ̄dhɛ̏	CV̈CV
-kʌ̏ŋ	CV̈CC
-kʌ̏ŋ	CV̈CCC
-kʌ̀ŋ̄	CV̈CC
-kʌ̀ŋ̄	CV̈CCC
-kʌ̄pʌ̏yāa	CV̈CV̈CVV
-kʌ̏ɯ	CV̈V̈
-kʌ́ɯ	CV̈V̈
-kʌ̄wȕn	CV̈wVC
-kê	CV
-kèȅ	CVV
-kée	CVV
-kèȉ	CVV
-kèȉdhɛ	CVVCV
-kèȉdhɤ̄	CVVCV̈
-kɛ̀adhē	CVVCV
-kɛ́ɛ	CVV
-kɛ́ɛ	CVV
-kɛ́ɛ bhɔ̏a	CVV CVV
-kɛ̏i	CVV
-kɛ̏i sȍo	CVV CVV
-kɛ̏i zlɤ̀ɤ	CVV CCV̈V̈
-kɛ̏idhɛ	CVVCV
-kɛ̀n	CVC
-kɛ̀ngā	CVCCV
-kɛ̈npʌ̄	CVCCV̈
-kìā	CVV
-kíakȉa	CVVCVV
-kìān	CVVC
-kìān	CVVC
-kían	CVVC
-kíin	CVVC
-kínzūu	CVCCVV
-kìoŋgbɔ̄	CVVCCCCV
-klȁa	CCVV
-klȁa kpūdhe	CCVV CCVCV
-klȁagā	CCVVCV
-klāan	CCVVC
-klàŋ̄	CCVCC
-kláŋ	CCVCC
-klàŋ̄ dhʌ́n	CCVCC CV̈
-klàŋ̄ kɔ́	CCVCC CV
-klàŋ̄gɔ̏bhɛ̏n	CCVCCCVCV
-klàŋ̄gɔ̏dhe	CCVCCCVCV
-klɒ̄ɒ	CCVV
-klɒ́ŋ̈	CCVVCC
-klʌ̏ʌ	CCV̈V̈
-klʌ́ʌklʌ̏	CCV̈V̈CCV̈
-klʌ́ʌklʌ̏dhɛ	CCV̈V̈CCV̈CV
-klʌ̀ʌn	CCV̈V̈C
-klʌ̀ʌn	CCV̈V̈C
-klʌ́n	CCV̈C
-klʌ̄ŋ	CCV̈CC
-klɛ̄yɔ̈n	CCVCVC
-kló	CCV
-klòâ	CCVV
-klóbhɔ̄dhe	CCVCVCV
-klòȍ	CCVV
-klòô	CCVV
-klɔ́	CCV
-klɔ̀ȁ	CCVV
-klɔ́a	CCVV
-klɔ̏ŋ	CCVCC
-klɔ́ɔklɔ̏	CCVVCCV
-klɔ̀ɔ̏n	CCVVC
-klɤ̏	CCV̈
-klɤ́ŋgbɤ̄	CCV̈CCCCV̈
-klɤ̏ɤ	CCV̈V̈
-klɤ̀ɤ	CCV̈V̈
-klɤ̀ɤ̄	CCV̈V̈
-klɤ̀ɤ̄	CCV̈V̈
-klɤ̀ɤ̄dhɤ	CCV̈V̈CV̈
-klɤ̀ɤ̄klɤ̀ɤ̄	CCV̈V̈ CCV̈V̈
-klɤ̀ɤ̄klɤ̀ɤ̄	CCV̈V̈ CCV̈V̈
-klɤ̀ɤklɤ̀ɤ{-dhȕ}n	CCV̈V̈ CCV̈V̈ {CV}
-klɤ̀ɤ̄zʌ̏	CCV̈V̈CV̈
-klȕ	CCV
-klú	CCV
-klú	CCV
-klȕ kɤ́dhɤ̄ŋgɤ́	CCV CV̈CV̈CCCV̈
-klùʌ̏	CCVV̈
-klūʌ	CCVV̈
-klūʌdhūn	CCVV̈CCV CV̈
-klùū	CCVV
-kȍ	CV
-kō	CV
-kō	CV
-kō	CV
-kó	CV
-kó	CV
-kó	CV
-kö	CV
-kô	CV
-kōʌ	CVV̈
-kōʌ̏	CVV̈
-kōʌ̏	CVV̈
-kóʌ	CVV̈
-kóʌ	CVV̈
-kóʌ̏	CVV̈
-kóʌʌ	CVV̈V̈
-kóʌ̏ʌn	CVV̈V̈C
-kōgȁ	CVCV
-kōká	CVCV
-kòŋ	CVCC
-kōŋ̏	CVCC
-kȍo	CVV
-kósɯ́dhē	CVCV̈CV
-kɔ̏	CV
-kɔ̏	CV
-kɔ̏	CV
-kɔ̏	CV
-kɔ́	CV
-kɔ̏apʌ̄	CVVCV̈
-kɔ́bhádhán	CVCCVCV
-kɔ́bhíŋdhɤ̄	CVCCVCCCV̈
-kɔ̏dhʌ́ngā	CVCV̈CV
-kɔ̏dhʌ́ngā dɔ̄ zīʌn	CVCV̈CV CV CVV̈C
-kɔ̏dhʌ́ngā gɔ̄n	CVCV̈CV CVC
-kɔ̏dhʌ́ngā gbáazʌ̏	CVCV̈CV CCVVCV̈
-kɔ̏dhʌ́ngā vàzʌ̏	CVCV̈CV vVCV̈
-kɔ́dhʌ́ntée	CVCV̈CVV
-kɔ̏dhɛ	CVCV
-kɔ̏dhɛ́	CVCV
-kɔ̏dhɛkwɛ̏ɛ	CVCVCwVV
-kɔ̏dhɛtȁa	CVCVCVV
-kɔ́dhi	CVCV
-kɔ́dhɔ̏ŋdhɔ́	CVCVCCCV
-kɔ̏klʌ̀ {ɛ̀}?	CVCCV̈ {V}?
-kɔ̏kpȉ	CVCCV
-kɔ̏kpɤ̄	CVCCV̈
-kɔ̏kpɤ̄ɤdhɛ̏	CVCCV̈V̈CV
-kɔ̏kwɛ̄ɛ	CVCwVV
-kɔ̏kwɛ̄ɛdhɛ̏	CVCwVVCV
-kɔ̏lɤ̀ɤ	CVCV̈V̈
-kɔ́nkɔ̏n	CVCCVC
-kɔ̄ŋ	CVCC
-kɔ̏ɔ	CVV
-kɔ̏ɔ	CVV
-kɔ̄ɔ	CVV
-kɔ̀ɔbhɛ̏n	CVVCCV
-kɔ̄ɔbhɛ̏n	CVVCV
-kɔ̄ɔdhɛ̏	CVVCV
-kɔ̀ɔngɔ̏ɔn	CVVCCVVC
-kɔ̏tȁa	CVCVV
-kɤ̏	CV̈
-kɤ̄	CV̈
-kɤ́	CV̈
-kɤ̀dhàn kɤ́dhán	CV̈CV CV̈CV
-kɤ́dhánkɤ̏dhȁn	CV̈CVCV̈CV
-kɤ̏pʌ̄	CV̈CV̈
-kú	CV
-kūʌdhūn	CVV̈CCV
-kúbhádhán	CVCVCV
-kȕlȕ	CVCV CV̈
-kùn	CVC
-kùn	CVC
-kūn	CVC
-kún	CVC
-kùŋ̂	CVCC
-kùɤ̏	CVV̈
-kȕɤgā	CVV̈CV
-kȕu	CVV
-kɯ̄ʌkɯ̄ʌ	CV̈V̈CV̈V̈
-kpȁ	CCV
-kpȁ	CCV
-kpā	CCV
-kpá	CCV
-kpá	CCV
-kpȁa	CCVV
-kpàa	CCVV
-kpáä	CCVV
-kpàadhɛ̏n	CCVVCCV
-kpàakpá	CCVVCCV
-kpáakpȁ	CCVVCCV
-kpáakpȁdhɛ	CCVVCCVCV
-kpáan	CCVVC
-kpàanzʌ̏	CCVVCCV̈
-kpâbhɔ̏n	CCVCCV
-kpádhɤ̄	CCVCV̈
-kpȁkpȁdhɤ̄	CCVCCVCV̈
-kpákpádhɤ̄	CCVCCVCV̈
-kpān	CCVC
-kpán	CCVC
-kpán	CCVC
-kpanklù	CCVCCCV
-kpāsɛ̄n	CCVCVC
-kpàɯ̏	CCVV̈
-kpɒ̀ɒ̄	CCVV
-kpɒ̀ɒ̄	CCVV
-kpɒ̀ɒ̄zʌ̏	CCVVCV̈
-kpæ̀ǣ	CCVV
-kpǽæ	CCVV
-kpʌ̀	CCV̈
-kpʌ̄	CCV̈
-kpʌ́dhɤ̄	CCV̈CV̈
-kpʌ̏n	CCV̈C
-kpʌ̀ŋ	CCV̈CC
-kpʌ̀ŋ	CCV̈CCC CV̈
-kpʌ́ŋ	CCV̈CCC
-kpʌ́ŋ̈	CCV̈CCC
-kpʌ́ŋ̈zʌ̏	CCV̈CCCCV̈
-kpʌ̀ɯ	CCV̈V̈
-kpʌ̀ɯ̄	CCV̈V̈
-kpédhán	CCVCV
-kpée	CCVV
-kpée	CCVV
-kpéŋ	CCVCC
-kpéŋ sīɔgā	CCVCC CVVCV
-kpēŋdhɤ	CCVCCCV̈
-kpɛ́ȁnkpɛ́ȁdhɤ̄n	CCVVCCCVVCCV̈
-kpɛ́ɛdhɤ̄	CCVVCV̈
-kpɛ́ɛkpɛ́	CCVVCCV
-kpɛ̄ɛn	CCVVC
-kpɛ́i	CCVV
-kpɛ́kpɛ́	CCVCCV
-kpɛ̄ŋ	CCVCC
-kpɛ̄ŋdhɤ	CCVCCCCV̈
-kpɛ̄ŋdhɤ	CCVCCCCV̈
-kpɛ̏zʌ̏	CCVCV̈
-kpìādhɤn	CCVVCCV̈
-kpíänkpíädhɤ̄n	CCVVCCCVVCCV̈
-kpíankpȉan	CCVVCCCVVC
-kpíʌkpȉʌ	CCVV̈CCVV̈
-kpíï	CCVV
-kpīidhɤn	CCVVCCV̈
-kpȉin	CCVVC
-kpȉiŋ	CCVVCC
-kpȉiŋgā	CCVVCCCV
-kpíïzʌ̏	CCVVCV̈
-kpíkpȉ	CCVCCV
-kpȉŋ	CCVCC
-kpȉŋ	CCVCC
-kpȉŋ	CCVCCC
-kpīŋdhɤ	CCVCCCV̈
-kpȉŋgā	CCVCCCV
-kpȉŋgā	CCVCCCCV
-kplȁ	CCCV
-kplá	CCCV
-kpláakplȁ	CCCVVCCCV
-kpláakplȁdhɛ	CCCVVCCCVCV
-kplán	CCCVC
-kplȁwō	CCCVwV
-kplɒ̏ɒ	CCCVV
-kplʌ̀ʌ	CCCV̈V̈
-kplʌ́n	CCCV̈C
-kplɛ̏	CCCV
-kplɛ̏kplɛ́	CCCVCCCV
-kpló	CCCV
-kplóŋ	CCCVCC
-kplòo	CCCVV
-kplōo	CCCVV
-kplɔ̄	CCCV
-kplɔ̏ŋgȅ	CCCVCCCV
-kplɔ́ŋkplɔ̏ŋ	CCCVCCCCCVCC
-kplɔ̀ɔ̄	CCCVV
-kplɔ̄ɔn	CCCVVC
-kplɔ̄ɔngā	CCCVVCCV
-kplɤ́	CCCV̈
-kplɤ̄ɤ̂	CCCV̈V̈
-kplɤ́zȕɤbhɛ̏n	CCCV̈CVV̈CV
-kplūʌn	CCCVV̈C
-kplùū	CCCVV
-kplɯ̀ʌ̄kplɯ̏ʌkplɯ̀ʌ̄dhɤ	CCCV̈V̈CCCV̈V̈CCCV̈V̈CV̈
-kplɯ̄ŋ	CCCV̈CC
-kplɯ̄ŋzʌ̏	CCCV̈CCCV̈
-kpȍ	CCV
-kpó	CCV
-kpódha	CCVCV
-kpódhazʌ̏	CCVCVCV̈
-kpódhɤ̄	CCVCV̈
-kpókpódhɤ̄	CCVCCVCV̈
-kpȍlɯ́	CCVCV̈
-kpȍŋ	CCVCC
-kpōŋ	CCVCC
-kpōŋ	CCVCC
-kpóŋ	CCVCC
-kpòŋdhēe	CCVCCCVV
-kpòŋdhēe	CCVCCCVV
-kpóŋtàa	CCVCCCVV
-kpóŋtàadhɛ̏	CCVCCCVVCV
-kpòō	CCVV
-kpōo	CCVV
-kpòōdhɛ̏	CCVVCV
-kpɔ́	CCV
-kpɔ̄a	CCVV
-kpɔ́bhɛ̏n	CCVCV
-kpɔ̄n	CCVC
-kpɔ̄ngɔ̏	CCVCCV
-kpɔ̄ŋ	CCVCC
-kpɔ̏ɔ	CCVV
-kpɔ̀ɔ̏	CCVV
-kpɔ̏ɔ kpɤ̄	CCVV CCV̈
-kpɔ̀ɔ yīʌ	CCVV CVV̈
-kpɔ̏ɔn	CCVVC
-kpɤ̄	CCV̈
-kpɤ̄nglɤ̄ɤ	CCV̈CCCV̈V̈
-kpɤ̄ɤ	CCV̈V̈
-kpɤ́ɤ	CCV̈V̈
-kpɤ́ɤ̈kpȁŋgȍ	CCV̈V̈CCVCCCV
-kpɤ́ɯ	CCV̈V̈
-kpū	CCV
-kpȕa	CCVV
-kpȕa	CCVV
-kpūan	CCVVC
-kpúʌ	CCVV̈
-kpúdhɤ̄	CCVCV̈
-kpúkpúdhɤ̄	CCVCCVCV̈
-kpūŋ	CCVCC
-kpɯ́dhɤ̄	CCV̈CV̈
-kwȁ	CwV
-kwā	CwV
-kwā	CwV
-kwā	CwV
-kwá	CwV
-kwá	CwV
-kwá	CwV
-kwä	CwV
-kwâ	CwV
-kwàȁ	CwVV
-kwàâ	CwVV
-kwāa	CwVV
-kwāȁ	CwVV
-kwāȁ	CwVV
-kwáa	CwVV
-kwáä	CwVV
-kwàabhɛ̏n	CwVVCCV
-kwàan	CwVVC
-kwáän	CwVVC
-kwàanglȕdȁbhɛ̏n	CwVVCCCVCVCV
-kwàansɯ̏	CwVVCCV̈
-kwāâzʌ̏	CwVVCV̈
-kwāká	CwVCV
-kwán	CwVC
-kwāŋ̏	CwVCC
-kwæ̀æ	CwVV
-kwǽæ	CwVV
-kwǽæ̏dhɛn	CwVVCCV
-kwǽæ̏dhɤ̄n	CwVVCCV̈
-kwǽæ̏n	CwVVC
-kwʌ̄ʌ̏	CwV̈V̈
-kwēe	CwVV
-kwēezʌ̏	CwVVCV̈
-kwēezɤ̄	CwVVCV̈
-kwɛ̏	CwV
-kwɛ̄	CwV
-kwɛ̀ɛ̏	CwVV
-kwɛ̀ɛ̏	CwVV
-kwɛ̀ɛ̄	CwVV
-kwɛ̀ɛ̄	CwVV
-kwɛ̄ɛ	CwVV
-kwɛ́ɛ	CwVV
-kwɛ̄ɛdhɛ̏	CwVVCV
-kwɛ́ɛ̈dhɛ̏n	CwVVCCV
-kwɛ̄ɛ̂zʌ̏	CwVVCV̈
-kwɛ́i	CwVV
-kwɛ́n yȁn	CwVC CVC
-kwī	CwV
-kwí	CwV
-kwí plɤ̀ɤ	CwV CCV̈V̈
-kwí plɤ̀ɤ dhɛ̏	CwV CCV̈V̈ CV
-kwí pɤ̂ và	CwV CV̈ vV
-kwí tɔ̏	CwV CV
-kwíä bhɔ̏n	CwVV CV
-kwíʌ̈dhóo	CwVV̈CVV
-kwīgā	CwVCV
-kwīgā kʌ̄ bhɛ̏n	CwVCV CV̈ CV
-kwīgā kɔ̀ɔn bhɛ̏n	CwVCV CVVC CV
-kwlá	CwCV
-kwlá téezʌ̏	CwCV CVVCV̈
-kwlàȁ	CwCVV
-Kwlæ̀ǣdhɤn	KwCVVCCV̈
-kwlɛ̀ɛ̏	CwCVV
-là	CV
-làā	CVV
-làbáŋ̈	CVCVCC
-lagīdhēn	CVCVCV
-làkédhe	CVCVCV
-lȁn	CVC
-làn	CVC
-lân	CVC
-lân kɔ́	CVC CV
-lantra	CVCCCV
-làŋbáä	CVCCCVV
-lāŋ̂	CVCC
-lāsó	CVCV
-lɒ̄ɒn	CVVC
-lǽængǽæ̏n	CVVCCVV
-lʌ̂	CV̈
-lʌ̂	CV̈
-lʌ̏ʌdhɤ̄	CV̈V̈CV̈
-lʌ́ʌ̈lʌ̄	CV̈V̈CV̈
-lʌ́ʌ̈nzʌ̏	CV̈V̈CCV̈
-lʌ̂kʌ̄dhʌ̏n	CV̈CV̈CCV̈
-lʌ̂kʌ̄dhʌ̏ngā	CV̈CV̈CCV̈CV
-lʌ̏n	CV̈C
-lʌ̄ŋ	CV̈CC
-lʌ̄ŋgɯ́dhɛ̏	CV̈CCCV̈CV
-lʌ̄ŋlʌ̄ŋ	CV̈CCCV̈CC
-lʌ̄ŋ̂	CV̈CCC
-lʌ́ŋ̈	CV̈CC
-lʌ́ŋ̈dhɛ̏	CV̈CCCV
-lʌ̂zʌ̏	CV̈CV̈
-lɛ́ɛlɛ̏	CVVCV
-lɛ́lɛ́	CVCV
-lɛ́ŋlɛ̏ŋ	CVCCCVCC
-lȍ	CV
-lȍ	CV
-lòkö	CVCV
-lóŋ	CVCC
-lȍo	CVV
-lōo	CVV
-lɔ̀ŋ	CVCCC
-lɔ̀ŋ̏	CVCC
-lɔ́ɔ̈	CVV
-lɔ́ɔ̈fìʌ̄	CVVfVV̈
-lɔ́ɔn	CVVC
-lɔ̄ɔn lɯ̏	CVVC CV̈
-lɔ̄ɔngā	CVVCCV
-lɔ̀ɔzʌ̏	CVVCV̈
-lɤ̏	CV̈
-lɤ̏	CV̈
-lɤ́	CV̈
-lɤ́	CV̈
-lɤ̀ɤ	CV̈V̈
-lɤ̀ɤ	CV̈V̈
-lɤ́ɤ	CV̈V̈
-lɤ́ɤdhɤ̄	CV̈V̈CV̈
-lɤ̏sɔ̏	CV̈CV
-lɤ́ɯlɤ̏	CV̈V̈CV̈
-lùû	CVV
-lúu	CVV
-lúu kpá	CVV CCV
-lúulȕ	CVVCV
-lɯ̏	CV̈
-lɯ́	CV̈
-lɯ́ kpǽæ	CV̈ CCVV
-lɯ́dhʌ́n	CV̈CV̈
-lɯ́dhɛ̀ɛ̄dhɤ	CV̈CVVCV̈
-lɯ́gɔ̏kpɤ̄	CV̈CVCCV̈
-lɯ́gúŋpā	CV̈ CVCCCV
-lɯ́kìā	CV̈CVV
-lɯ́kɔ̏dhʌ́n	CV̈CVCV̈
-lɯ́kɔ̏ɔ	CV̈CVV
-lɯ́ɯdhɤ̄	CV̈V̈CV̈
-lɯ́ɯdhɤ̄	CV̈V̈CV̈
-Máadhɤ̄	MVVCCV̈
-ō	V
-ōo	VV
-ɔ̏	V
-ɤ̏	V̈
-ɤ̏	V̈
-ɤ̏	V̈
-ɤ̄	V̈
-ɤ̄	V̈
-ɤ́	V̈
-ɤ́	V̈
-ɤ̈	V̈
-pā	CV
-pā	CV
-pā	CV
-pá	CV
-pàâ	CVV
-páa	CVV
-pāafɛ̈n	CVVfVC
-pāâgɔ́bhɛ̏n	CVVCVCV
-páan	CVVC
-pádhe	CVCV
-pāŋ	CVCC
-pápá	CVCV
-pápádhɤ̄	CVCVCV̈
-pāyɛ́ɛ̈n	CVCVVC
-pɒ́ɒ	CVV
-pɒ́ɒgā	CVVCV
-pæ̀ǣ	CVV
-pʌ̄	CV̈
-pʌ̄	CV̈
-pʌ́	CV̈
-pʌ̄ dhíɤ̈	CV̈ CVV̈
-pʌ̄ kpɤ̄	CV̈ CCV̈
-pʌ́ʌ̈	CV̈V̈
-pʌ́ʌpʌ̏	CV̈V̈CV̈
-pʌ̄bȉdhɛn	CV̈CVCCV
-pʌ̄bhlé	CV̈CCV
-pʌ̄gā	CV̈CV
-pʌ̄kàāpʌ̏	CV̈CVVCV̈
-pʌ̏-kʌ̄	CV̈ CV̈
-pʌ̄kpȁbhɛ̏n	CV̈CCVCV
-pʌ̄kpȁdhɛ	CV̈CCVCV
-pʌ̄tée	CV̈CVV
-pȅ	CV
-pȅ	CV
-pēdhēn	CVCV
-pēdhēngā	CVCVCV
-pēe	CVV
-pȅedʌ̄	CVVCV̈
-pēedhɛ̀n	CVVCV
-pɛ́	CV
-pɛ̀ɛ̂	CVV
-pɛ̀ɛ̄sɯ̏	CVVCV̈
-pɛ̏n	CVC
-pɛ̏n	CVC
-pɛ́n	CVC
-pɛ̂n	CVC
-pɛ̏n yùā	CVC CVV
-pɛ̄ŋ	CVCCC
-pɛ̄ŋgā	CVCCC CV
-pȉa	CVV CV̈
-pīan	CVVC
-pían	CVVC
-pían	CVVC
-pȉʌ	CVV̈
-pȉʌn	CVV̈C
-pīʌn	CVV̈C
-píʌnpíʌn	CVV̈CCVV̈C
-píi	CVV
-pīidhɤn	CVVCCV̈
-píigɯ́dhɛ̏	CVVCV̈CV
-píigbéëdhɛ̏	CVVCCVVCV
-pȉikɔ́	CVVCV
-pȉiŋdhɤ̄	CVVCCCV̈
-píitàa	CVVCVV
-píitàadhɛ̏	CVVCVVCV
-pīn	CVC
-pìô	CVV
-píɔnpȉɔn	CVVCCVVC
-píɔŋpȉɔŋ	CVVCCCVVCC
-pȉɤ	CVV̈
-pȉɤ	CVV̈
-pìɤ̄	CVV̈
-píɤ	CVV̈
-pȉɤbhȁn	CVV̈CV
-pȉɤgā	CVV̈CV
-pìɤ̄gā	CVV̈CV
-pȉɤgbɔ̄	CVV̈CCV
-píɤklɤ̀ɤ̂zʌ̏	CVV̈CCV̈V̈CV̈
-pīɤŋdhɤ	CVV̈CCCV̈
-pȉɤsáŋ	CVV̈CVCC
-pȉɤsòo	CVV̈CVV
-pȉɤsɯ́	CVV̈CV̈
-plȁ	CCV
-plȁadhɛ	CCVVCV
-plāan	CCVVC
-plàkàī	CCVCVV
-plàŋ̂	CCVCC
-plʌ̀ʌn	CCV̈V̈C
-plʌ́ʌplʌ̏	CCV̈V̈CCV̈
-plʌ̀ʌplʌ́zʌ̏	CCV̈V̈CCV̈CV̈
-plʌ̀ʌ̂zʌ̏	CCV̈V̈CV̈
-plʌ́ŋ	CCV̈CC
-plɛ̀	CCV
-plɛ̀	CCV
-plɛ́	CCV
-plɛ́ŋplɛ̏ŋ	CCVCCCCVCC
-plɛ̀ŋ̄zʌ̏	CCVCCCV̈
-plȍo	CCVV
-plòô	CCVV
-plɔ̏	CCV
-plɔ̏gā	CCVCV
-plɔ̏ŋ	CCVCC
-plɔ̏ɔ	CCVV
-plɔ́ɔ	CCVV
-plɤ̀ɤ	CCV̈V̈
-plɤ̄ɤ	CCV̈V̈
-plɤ̄ɤdhɛ̏	CCV̈V̈CV
-plɤ́ɤnplɤ̏	CCV̈V̈CCCV̈
-plɯ́ŋ	CCV̈CC
-plɯ́plɯ̏	CCV̈CCV̈
-pó	CV
-póŋ	CVCC
-pōo	CVV
-pōo kùn	CVV CVC
-pȍtàāsɯ̏	CVCVVCV̈
-pȍtàāsɯ̏	CVCVVCV̈
-póɯ̈	CVV̈
-pɔ́dhɤ̄	CVCV̈
-pɔ́n	CVC
-pɔ̄ɔ̂	CVV
-pɔ́ɔ̈	CVV
-pɔ́ɔn	CVVC
-pɤ̄	CV̈
-pɤ́	CV̈
-pɤ̂	CV̈
-pɤ̂dhɛ̏	CV̈CV
-pɤ̀ɯ̄	CV̈V̈
-pùʌn	CVV̈C
-púʌŋpȕʌŋ	CVV̈CCCVV̈CC
-púɛ̈ {yùā}	CVV {CVV}
-pún	CVC
-púpú{-dhȕ}n	CVCV {CV}
-pùū	CVV
-púu	CVV
-pɯ̏ɤ	CV̈V̈
-pɯ́ɯ	CV̈V̈
-sā	CV
-sá	CV
-sȁa	CVV
-sàa	CVV
-sāâ	CVV
-sáa	CVV
-sàa kɔ́	CVV CV
-sàadhē	CVVCV
-sàādhen	CVVCCV
-sàādhenkʌ̄bhɛ̏n	CVVCCVCV̈CV
-sáadhɤ̄	CVVCV̈
-sȁan	CVVC
-sàān	CVVC
-sáan	CVVC
-sȁangā	CVVCCV
-säblà	CVCCV
-sȁdhen	CVCCV
-sákásákádhɤ̄	CVCVCVCVCV̈
-sȁkpá	CVCCV
-sȁn	CVC
-sān	CVC
-sán	CVC
-sán	CVC
-sángó dhɤ̀ɤ dhɤ́	CVCCV CV̈V̈ CV̈
-sȁnzʌ̄dhe	CVCCV̈CV
-sɒ̄ɒ	CVV
-sɒ́ɒ	CVV
-sɒ̏ɒn	CVVC
-sʌ̏	CV̈
-sʌ̏	CV̈
-sʌ̀ʌ̄	CV̈V̈
-sʌ̀ʌ̂	CV̈V̈
-sʌ́ʌ	CV̈V̈
-sʌ́ʌ̈	CV̈V̈
-sʌ́ʌ̈	CV̈V̈
-sʌ̏ʌdhʌ́n	CV̈V̈CV̈
-sʌ́ʌdhɛ̄	CV̈V̈CV
-sʌ́ʌdhɛ̏bȅ	CV̈V̈CVCV
-sʌ́ʌdhɛkɔ́	CV̈V̈CVCV
-sʌ̏ʌzʌ̏	CV̈V̈CV̈
-sʌ̏bhɛ̏n	CV̈CV
-sʌ̏dhɛ	CV̈CV
-sʌ́nsʌ́dhɤ̄n	CV̈CCV̈CCV̈
-sʌ̄ŋ	CV̈CCC
-sʌ́ŋ	CV̈CCC
-sʌ̄ŋgbʌ̄	CV̈CCCCV̈
-sʌ́ŋsʌ̏	CV̈CCCV̈
-sé	CV
-sèê	CVV
-sēi	CVV
-séŋdhɤ̄	CVCCCV̈
-séŋséŋdhɤ̄	CVCCCVCCCV̈
-sɛ́	CV
-sɛ̄ȁ	CVV
-sɛ̄ȁbɛ̏n	CVVCVC
-sɛ̄ȁzȉan	CVVCVVC
-sɛ́dʌ̄	CVCV̈
-sɛ́dhɛ́n	CVCV
-sɛ̏ɛ	CVV
-sɛ̀ɛ̏	CVV
-sɛ̀ɛ̄	CVV
-sɛ̀ɛ̂	CVV
-sɛ́ɛ	CVV
-sɛ̏ɛbɔ̏	CVVCV
-sɛ̀ɛ̄dhɛ̏	CVVCV
-sɛ́ɛgā	CVVCV
-sɛ́ɛlɯ́	CVVCV̈
-sɛ̀ɛ̏n	CVVC
-sɛ́ɛ̈n	CVVC
-sɛ́ɛ̈n	CVVC
-sɛ́gɔ̏	CVCV
-sɛ́gɯ́bhɛ̏n	CVCV̈CV
-sɛ́i	CVV
-sɛ́i bhɛ̏ɛn	CVV CVV
-sɛ́idhɤ̄	CVVCV̈
-sɛ́ipʌ̀ŋdhɛ̏	CVVCV̈CCCV
-sɛ́isīʌ	CVVCVV̈
-sɛ́kɛ́	CVCV
-sɛ́kɔ́	CVCV
-sɛ̀n	CVC
-sɛ́n	CVC
-sɛ̏nsɛ̏dhɤ̄n	CVCCVCCV̈
-sɛ́nsɛ́n-dhȕn	CVC CVC CV
-sɛ́ntȁdhɛ	CVCCVCV
-sɛ̄ŋ	CVCCC
-sɛ́pían	CVCVVC
-sɛ́pɔ́dhɛ̏n	CVCVCCV
-sɛ̏sȉɤbhɛ̏n	CVCVV̈CV
-sɛ́tɔ̏n	CVCVC
-sí	CV
-sí	CV
-sìa	CVV
-sīȁ	CVV
-sīȁ	CVV
-sīân	CVVC
-sían	CVVC
-sían	CVVC
-sìʌ̂	CVV̈
-sīʌ̂	CVV̈
-sīʌ̂n	CVV̈C
-sīi	CVV
-sìisí	CVVCV
-sìō	CVV
-sīoo	CVVV
-síɔn	CVVC
-sȉɤ	CVV̈
-sȉɤ	CVV̈
-sȉɤ	CVV̈
-sìɤ̂	CVV̈
-síɤ	CVV̈
-síɤ̈	CVV̈
-síɤ̈	CVV̈
-síɤ bhɤ̀ɯ̏	CVV̈ CV̈V̈
-síɤ̈dhɤ̄	CVV̈CV̈
-sȉɤgā	CVV̈CV
-síɤkɔ́	CVV̈CV
-síɤkɔ́gā	CVV̈CVCV
-síɤɤzʌ̏	CVV̈V̈CV̈
-síɤsīɤ	CVV̈CVV̈
-síɤsíɤzʌ̏	CVV̈CVV̈CV̈
-sȉɤsɯ̏	CVV̈CV̈
-síɤtʌ́ʌ	CVV̈CV̈V̈
-sȉɤzʌ̏	CVV̈CV̈
-síɤ̈zʌ̏	CVV̈CV̈
-sísúŋgā	CVCVCCCV
-slȁ	CCV
-slâ	CCV
-slàâ	CCVV
-slāan	CCVVC
-slàaŋsláa	CCVVCCCCVV
-sládō	CCVCV
-slȁn	CCVC
-släplɛ̀	CCVCCV
-slǽægā	CCVVCV
-slʌ̏	CCV̈
-slʌ̄	CCV̈
-slʌ́	CCV̈
-slʌ́a	CCV̈V
-slʌ̏ʌ	CCV̈V̈
-slʌ̀ʌ̂	CCV̈V̈
-slʌ̏ʌdhɤ̄	CCV̈V̈CV̈
-slʌ́ʌdhɤ̄	CCV̈V̈CV̈
-slʌ́ʌnslʌ̏n	CCV̈V̈CCCV̈C
-slʌ̏ʌslʌ̏dhɤ̄	CCV̈V̈CCV̈CV̈
-slòô	CCVV
-slóo	CCVV
-slóodhɤ̄	CCVVCV̈
-slɔ́aslɔ̏a	CCVVCCVV
-slɔ́ŋ	CCVCC
-slɔ́ŋ	CCVCC
-slɔ̀ɔ	CCVV
-slɔ́ɔ	CCVV
-slɤ̏	CCV̈
-slɤ́	CCV̈
-slɤ̏ɤ	CCV̈V̈
-slɤ̀ɤ̄	CCV̈V̈
-slɤ̄ɤdhɤ	CCV̈V̈CV̈
-slɤ́ɤslɤ̏	CCV̈V̈CCV̈
-slɤ̀ɤ̄zʌ̄bhɛ̏n	CCV̈V̈CV̈CV
-slúbhɔ̏n	CCVCCV
-slúun	CCVVC
-slɯ́	CCV̈
-slɯ̀ɯ̂	CCV̈V̈
-slɯ́ɯ	CCV̈V̈
-sȍ	CV
-sȍ	CV
-sō	CV
-sòa	CVV
-sōbhɛ̏n	CVCV
-sōŋ	CVCC
-sōŋdhɤ	CVCCCV̈
-sóŋgòzʌ̏	CVCCCVCV̈
-sóŋgō{lɯ̏}	CVCCCV{CV̈}
-sòo	CVV
-sòo	CVV
-sòo	CVV
-sòofàŋ̄	CVVfVCC
-sòogā	CVVCV
-sòosōŋdhɛ̏	CVVCVCCCV
-sɔ̄	CV
-sɔ́	CV
-sɔ́	CV
-sɔ̀a	CVV
-sɔ̄dhʌ́n	CVCV̈
-sɔ́gā	CVCV
-sɔ̀n	CVC
-sɔ́n	CVC
-sɔ́n	CVC
-sɔ́ngā	CVCCV
-sɔ́nkɔ́	CVCCV
-sɔ́nkpɛ̄ŋ	CVCCCVCC
-sɔ̀ŋ̄	CVCC
-sɔ́ŋ	CVCC
-sɔ̀ɔ̏	CVV
-sɔ̀ɔ̂	CVV
-sɔ́ɔ	CVV
-sɔ́ɔ	CVV
-sɔ́ɔdhu	CVVCV
-sɔ̀ɔn	CVVC
-sɔ̀ɔ̄n	CVVC
-sɔ̄ɔn	CVVC
-sɔ̀ɔsɔ́	CVVCV
-sɔ́ɔsɔ̏	CVVCV
-sɤ̏	CV̈
-sɤ̏	CV̈
-sɤ̄	CV̈
-sɤ̏bhɔkw̄̀̄	CV̈CVCwVV
-sɤ̏gā	CV̈CV
-sɤ̄i	CV̈V
-sɤ̄kpʌ̀	CV̈CCV̈
-sɤ̀ŋ	CV̈CC
-sɤ́ŋgɤ́sɤ̏ŋgɤ̏	CV̈CCCV̈CV̈CCCV̈
-sɤ̄sɔ̀ɔ	CV̈CVV
-sū	CV
-sú	CV
-sùa	CVV
-sȕadhɤ̄	CVVCV̈
-sùakʌ̄bhɛ̏n	CVVCV̈CV
-súän	CVVC
-súbhádhángā	CVCVCVCV
-súbhōyɛ̏abha	CVCVCVVCV
-súbhɯsɯ̏	CVCV̈CV̈
-súdʌ̏ɯ	CVCV̈V̈
-súglɤ̀ɤ	CVCCV̈V̈
-súgbɔ̏	CVCCV
-sūŋ	CVCCC
-súɤ	CVV̈
-súɤ	CVV̈
-súɤgādhʌ	CVV̈CVCV̈
-súpɛ́n	CVCVC
-súsōŋ	CVCVCC
-súsōŋgā	CVCVCCCV
-sùû	CVV
-sùûgɯ́dhʌ́n	CVVCV̈CV̈
-sùûyāabhɛ̏n	CVVCVVCV
--sɯ̏	CV̈
--sɯ̏	CV̈
-sɯ́	CV̈
-sɯ́ʌsɯ̏ʌ	CV̈V̈CV̈V̈
-sɯ̏ʌtȁ	CV̈V̈CV
-sɯ̏-dhú	CV̈ CV
-tȁ	CV
-tȁ	CV
-tā	CV
-tá	CV
-tá	CV
-tàa	CVV
-tàa	CVV
-tàa	CVV
-táä	CVV
-tàadhɛ̏	CVVCV
-táägbɔ̄lɯ́	CVVCCVCV̈
-tȁalɯ̏	CVVCV̈
-tàān	CVVC
-tàāngā	CVVCCV
-táblʌ̏	CVCCV̈
-tȁbhābhɛ̏n	CVCVCV
-tȁdhɛ	CVCV
-tȁdhūɤ	CVCVV̈
-tȁdhūɤ	CVCVV̈
-tȁ-gā	CV CV
-tȁ-kɔ̀ɔ̄	CV CVV
-tȁ-kún	CV CVC
-tȁ-kpȁ	CV CCV
-tán	CVC
-tántádhɤ̄n	CVCCVCCV̈
-tāpʌ̏	CVCV̈
-tāpʌ̏dhɛ	CVCV̈CV
-táɯ̈	CVV̈
-tȁ-yɤ̄	CV CV̈
-tȁzɔ̏dhēn	CVCVCCV
-tɒ̏ɒ	CVV
-tɒ̀ɒ̄	CVV
-tɒ̀ɒ̄	CVV
-tʌ̏	CV̈
-tʌ́	CV̈
-tʌ́ʌ	CV̈V̈
-tʌ́ʌ	CV̈V̈
-tʌ́ʌbɔ̀āgɯ́	CV̈V̈CVVCV̈
-tʌ́ʌgɔ̄n	CV̈V̈CVC
-tʌ́ʌtʌ̏	CV̈V̈CV̈
-tʌ́dhɛ̏	CV̈CV
-tʌ̏n	CV̈C
-tʌ̄n	CV̈C
-tʌ́n	CV̈C
-tʌ̏ngʌ̏	CV̈CCV̈
-tʌ̀ŋ	CV̈CC
-tʌ̄ŋ	CV̈CC
-tʌ̏ŋgʌ̏	CV̈CCCV̈
-tʌ́pʌ̄	CV̈CV̈
-tʌ́sɯ̏	CV̈CV̈
-tʌ̄ɯ	CV̈V̈
-tʌ̀ɯ̄dhʌ́n	CV̈V̈CV̈
-tȅ	CV
-tē	CV
-té	CV
-té	CV
-tȅdhʌ́n	CVCV̈
-tée	CVV
-tée	CVV
-téetȅ	CVVCV
-téezʌ̏	CVVCV̈
-téŋtéŋdhɤ̄	CVCCCVCCCV̈
-tété	CVCV
-tétúnsɯ̏	CVCVCCV̈
-tëyí	CVCV
-tɛ̀dhɛ̂n	CVCV
-tɛ̄dhɔ́ɔnyī	CVCCVVCV
-tɛ́ɛ	CVV
-tɛ́ɛn	CVVC
-tɛ́ɛpā	CVVCV
-tɛ̀ī	CVV
-tɛ̏idhɤ̄	CVVCV̈
-tɛ̄nyī	CVCCV
-tɛ́tɛ̏	CVCV
-tíä	CVV
-tȉadhɤ̄bhɛ̏n	CVVCCV̈CV
-tìān	CVVC
-tīan	CVVC
-tíaŋtȉaŋ	CVVCCCVVCC
-tīi	CVV
-tíibhɛ̏n	CVVCCV
-tíin	CVVC
-tīizʌ̏	CVVCV̈
-tíŋ	CVCC
-tȉɔn	CVVC
-tíɔŋtȉɔŋ	CVVCCCVVCC
-tíɤŋtȉɤŋ	CVV̈CCCVV̈CC
-tītī{-dhȕ}n	CVCV {CV}
-tȍ	CV
-tó	CV
-tó	CV
-tòbhāntɤ̄	CVCVCV̈
-tȍbhɛ̄ngɔ̏pʌ̏	CVCVCVCV̈
-tódhʌ́ngā	CVCV̈CV
-tódhɛ	CVCV
-tódhiɤ	CVCVV̈
-tókpɤ̄ɯdhɛ̏	CVCCV̈V̈CV
-tòo	CVV
-tōo	CVV
-tóo	CVV
-tóobhɛ̄	CVVCV
-tóodhɛ̀ɛ̄dhɛ̏	CVVCVVCV
-tóodhɛ̀ɛ̄dhɤ	CVVCVVCV̈
-tóogbéëkʌ̄sɯ̏	CVVCCVVCV̈CV̈
-tōokɔ̏	CVVCV
-tóoyí	CVVCV
-tótābhɛ̏n	CVCVCV
-tɔ̏	CV
-tɔ́	CV
-tɔ́	CV
-tɔ́bhán	CVCV
-tɔ̏bhangbɛ̂n	CVCCVCCVC
-tɔ́bhɔ̄dhe	CVCVCV
-tɔ́bhɔ́dhiɤdhɛ̏n	CVCVCVV̈CV
-tɔ́bhɔ́dhiɤnyɛ̏klúʌ̈dhɛ̏	CVCVCVV̈CVCCVV̈CV
-tɔ̏dhē	CVCV
-tɔ̏gɔ̀n	CVCVC
-tɔ̏n	CVC
-tɔ̄ŋ	CVCC
-tɔ̀ɔ	CVV
-tɔ̀ɔ	CVV
-tɔ̄ɔ	CVV
-tɔ̄ɔ	CVV
-tɔ́ɔ̈	CVV
-tɔ́ɔbhán	CVVCV
-tɔ́ɔtɔ̏	CVVCV
-tɔ́-sȉɤ	CVCVV̈
-tɔ́tɔ̏	CVCV
-tɤ̀dhɤ̀n	CV̈CV̈
-tɤ́ŋ	CV̈CC
-tɤ̄ŋgá	CV̈CCCV
-tɤ̏ŋgbɤ̏	CV̈CCCCV̈
-tɤ̀ɯ̄	CV̈V̈
-tɤ́ɯ̈	CV̈V̈
-tɤ́ɯ̈dhɤ̄	CV̈V̈CV̈
-trȁtrȁdhɤ̄	CCVCCVCV̈
-trʌ̀ʌ̂	CCV̈V̈
-trʌ̏ʌdhɤ̄	CCV̈V̈CV̈
-trʌ́ʌtrʌ̏	CCV̈V̈CCV̈
-trʌ́ŋ	CCV̈CC
-trʌ̏ŋtrʌ̏ŋdhɤ̄	CCV̈CCCCV̈CCCV̈
-trɛ̀īn	CCVVC
-tròō	CCVV
-trōô	CCVV
-tróo	CCVV
-tròōkàāpʌ̏	CCVVCVVCV̈
-tròōkʌ̄bhɛ̏n	CCVVCV̈CV
-trɔ̄ŋ	CCVCC
-trɔ̄ɔ̂	CCVV
-trɔ̀ɔdhɤ̄n	CCVVCCV̈
-trɔ̄ɔdhɤn	CCVVCCV̈
-trɔ́ɔ̈n	CCVVC
-trɤ̄	CCV̈
-trɤ́ŋtrɤ̏ŋ	CCV̈CCCCV̈CC
-trùʌn	CCVV̈C
-trȕu	CCVV
-trúu	CCVV
-trɯ́ʌtrɯ̏ʌ	CCV̈V̈CCV̈V̈
-trɯ́ŋ	CCV̈CC
-tú	CV
-tȕʌ	CVV̈
-túʌŋtúʌŋ̏	CVV̈CCCVV̈CC
-túɛyɔ́n	CVVCVC
-tùn	CVC
-tūɤ	CVV̈
-tùū tùū	CVV CVV
-túubhɛ̏n	CVVCCV
-tūudhɤ	CVVCV̈
-tùūn	CVVC
-tùûn	CVVC
-túun	CVVC
-tùuntún	CVVCCVC
-tùunzʌ̏	CVVCCV̈
-ɯ̄	V̈
-ɯ̄	V̈
-ɯ́	V̈
-ɯ́	V̈
-ɯ̈	V̈
-ɯ̂	V̈
-ɯ́ʌ̈n	V̈V̈C
-ɯ̄ká	V̈CV
-và	vV
-và	vV
-vá	vV
-vȁa	vVV
-váa	vVV
-váa	vVV
-vȁagā	vVVCV
-vȁagāyȉʌkɔ̏dhʌ́ngā	vVVCVCVV̈CVCV̈CV
-váan	vVVC
-váanvȁdhɛn	vVVCvVCCV
-vàanván	vVVCvVC
-vàāvàā	vVVvVV
-vàȁzʌ̏	vVVCV̈
-vádhɤ̄	vVCV̈
-vàvà	vVvV
-vávádhɤ̄	vVvVCV̈
-vɒ̄ɒnvɒ̄ɒdhɤn	vVVCvVVCCV̈
-vʌ̏	vV̈
-vʌ́ɯvʌ̏ɯ	vV̈V̈vV̈V̈
-vʌ̀ɯ̄vʌ̀ɯ̄dhɤ	vV̈V̈vV̈V̈CV̈
-vé	vV
-véaavȅa	vVVVvVV
-véë	vVV
-végā	vVCV
-vɛ̄	vV
-vɛ̄ɛdhɛ̏	vVVCV
-vɛ̄ɛdhɤ	vVVCV̈
-vɛ̄ɛdhɤ	vVVCV̈
-vɛ̏i	vVV
-vɛ̄idhɛ̏	vVVCV
-vɛ̏ŋdhɤ̄	vVCCCCV̈
-vìānvìādhɤn	vVVCvVVCCV̈
-víavȉa	vVVvVV
-víʌʌ	vVV̈V̈
-víʌvȉʌ	vVV̈vVV̈
-vīi	vVV
-vīn	vVC
-vȉŋ	vVCCC
-víɔ̈n	vVVC
-vlā	vCV
-vlā	vCV
-vlàa	vCVV
-vláanvlȁn	vCVVCvCVC
-vlānkāadhɤn	vCVCCVVCCV̈
-vlānvlànvlādhɤn	vCVCvCVCvCVCCV̈
-vlānvlànvlān	vCVCvCVCvCVC
-vlʌ́ŋvlʌ̏ŋ	vCV̈CCvCV̈CC
-vlɛ̄î	vCVV
-vlɛ́ŋvlɛ̏ŋ	vCVCCvCVCC
-vló	vCV
-vlōo	vCVV
-vlɤ̄dhɤ	vCV̈CV̈
-vlùazʌ̏	vCVVCV̈
-vlɯ̄	vCV̈
-vlɯ́ŋ	vCV̈CC
-vlɯ́ɯn	vCV̈V̈C
-vlɯ́vlɯ́dhɤ̄	vCV̈vCV̈CV̈
-vòkāâ	vVCVV
-vōodhɤ	vVVCV̈
-vɔ́	vV
-vɔ̄ŋ	vVCC
-vɔ̏ɔ	vVV
-vɔ̏ɔgā	vVVCV
-vɤ̄	vV̈
-vɤ́ɯ	vV̈V̈
-vɤ́ɯzʌ̏	vV̈V̈CV̈
-vùʌ̄n	vVV̈C
-vùʌ̄nvùʌ̄dhɤn	vVV̈CvVV̈CCV̈
-vúʌvȕʌ	vVV̈vVV̈
-vúu	vVV
-vȕudō	vVVCV
-vɯ̈	vV̈
-wȁ	wV
-wȁ	wV
-wà	wV
-wà	wV
-wā	wV
-wá	wV
-wȁa	wVV
-wàa	wVV
-wàâ	wVV
-wāa	wVV
-wāa	wVV
-wāȁ	wVV
-wāȁ	wVV
-wāȁ	wVV
-wáa	wVV
-wáa	wVV
-wáä	wVV
-wȁabhȁanyȉ	wVVCVVCV
-wáadhɛ̏	wVVCV
-wȁadhɤ̄	wVVCV̈
-wàādhūn	wVVCCV CV̈
-wāadhūn	wVVCV
-wȁan	wVVC
-wàān	wVVC
-wáan	wVVC
-wáän	wVVC
-wáanwȁn	wVVCwVC
-wàawá	wVVwV
-wáawá	wVVwV
-wáawá	wVVwV
-wāgɔ̄n	wVCVC
-wāŋ	wVCC
-wɒ̀ɒ	wVV CV̈
-Wɒ̀ɒ̏dhɤ̄	WVVCV̈
-wæ̀ǣ	wVV
-wʌ́ɯ̈	wV̈V̈
-wʌ́ɯ̈dhɛ́	wV̈V̈CV
-wʌ́ɯ̈gā	wV̈V̈CV
-wʌ́ɯ̈sɛ́ɛ̈n	wV̈V̈CVVC
-wʌ̏ɯzʌ̏	wV̈V̈CV̈
-wé	wV
-wéʌ̈	wVV̈ CV̈
-wèe	wVV
-wèe	wVV
-wēe	wVV
-wēekɔ́	wVVCV
-wèepākɔ̏dhʌ́ngā	wVVCVCVCV̈CV
-wèeyȉ	wVVCV
-wégā	wVCV
-wēi	wVV
-wēiyí	wVVCV
-wēŋ	wVCC
-wéŋ	wVCC
-wɛ̏ɛ	wVV
-wɛ̏ɛbhōdhe	wVVCVCV
-wɛ̏ɛdhɤ̄n	wVVCCV̈
-wɛ̏i	wVV
-wɛ̄n	wVC
-wɛ́ŋsɔ̄dhʌ́n	wVCCCVCV̈
-wìan	wVVC
-wìangā	wVVCCV
-wíanwȉan	wVVCwVVC
-wíʌ	wVV̈
-wīɤ	wVV̈
-wísá	wVCV
-wlā	wCV
-wláan	wCVVC
-wláän	wCVVC
-wlàawlá	wCVVwCV
-wlȁdhɤ̄	wCVCV̈
-wlán	wCVC
-wlȁwlȁdhɤ̄	wCVwCVCV̈
-wlǽæ̏	wCVV
-wlæ̏æzʌ̏	wCVVCV̈
-wlʌ̀ʌ̄	wCV̈V̈
-wlʌ́ʌnwlʌ̏n	wCV̈V̈CwCV̈C
-wlʌ̄ɯ	wCV̈V̈
-wlɛ̏ɛdhɤ̄	wCVVCV̈
-wlōo	wCVV
-wlɤ̄wlɤ̄zʌ̏	wCV̈wCV̈CV̈
-wȍ	wV
-wȍ	wV
-wȍ	wV
-wȍ	wV
-wȍ	wV
-wȍ	wV
-wò	wV
-wō	wV
-wō	wV
-wō	wV
-wō	wV
-wó	wV
-wó	wV
-wö	wV
-wōʌ̏	wVV̈
-wȍdȁplɛ̀bhɛ̏n	wVCVCCVCV
-wȍdhíɤlȍbhɛ̏n	wVCVV̈CVCV
-wȍdhíɤsɯ́bhɛ̏n	wVCVV̈CV̈CV
-wȍgbíŋ̈dhɛ̏	wVCCVCCCCV
-wȍká	wVCV
-wōká	wV CV
-wòŋ	wVCC
-wōŋ̏	wVCC
-wóŋ̈	wVCC
-wōŋ{wō}-dhȕn	wVCC {wV} CV
-wòō	wVV
-wɔ̏	wV
-wɔ̄	wV
-wɔ̄	wV
-wɔ̄	wV
-wɔ́	wV
-wɔ̄dhɛ̏	wVCV
-wɔ́dhɤ̄	wVCV̈
-wɔ̄kɔ̏	wVCV
-wɔ́ŋwɔ̏ŋ	wVCCCwVCCC
-wɔ̀ɔ̏	wVV
-wɔ́ɔnwɔ̏n	wVVCwVC
-wɔ̀ūglōʌ̂bhȁn	wVVCCVV̈CV
-wɔ́yɛ́lân	wVCVCVC
-wɔ́zʌ̏	wVCV̈
-wɤ̄	wV̈
-wɤ̀ŋ̄	wV̈CC
-wɤ̄ɤ	wV̈V̈
-wɤ̄ɤdhɛ̏	wV̈V̈CV
-wɤ̄ɯdhɤ	wV̈V̈CV̈
-wúdhɤ̄nkʌ̄dhíɤblɛ̀ɛ̄bhɛ̏n	wVCCV̈CV̈CVV̈CCVVCV
-wūn	wVC
-wún	wVC
-wúnblʌ́	wVCCCV̈
-wúndánpɤ̄bhɛ̏n	wVCCVCCV̈CV
-wúndɔ̏a	wVCCVV
-wúndɔ̄bhɛ̏n	wVCCVCV
-wúndɔ̄dhe	wVCCVCV
-wúndȕadhē	wVCCVVCV
-wūngā	wVCCV
-wúngīâ	wVCCVV
-wúngɔ̏	wVCCV
-wúngɔ̏dhíɤbhɛ̏n	wVCCVCVV̈CV
-wúntȁyɔ́bhɛ̏n	wVCCVCVCV
-wúnyɤ̏yāansɯ̏	wVCCV̈CVVCCV̈
-wúnzàāsɯ̏	wVCCVVCV̈
-wúu	wVV
-wɯ̄	wV̈
-wɯ́	wV̈
-wɯ́	wV̈
-wɯ́dhɛ̏	wV̈CV
-wɯ̄kwī	wV̈CwV
-wɯ̀ɯ̂	wV̈V̈
-yȁ	CV
-yȁ	CV
-yà	CV
-yā	CV
-yā	CV
-yá	CV
-yá	CV
-yȁa	CVV
-yāa	CVV
-yāa	CVV
-yáa	CVV
-yáä	CVV
-yāadhɛ̏	CVVCV
-yáadhɛn	CVVCCV
-yàādhūn	CVVCV
-yàādhūn	CVVCCV CV̈
-yȁagā	CVVCV
-yāagɯ́bhɛ̏n	CVVCV̈CV
-yȁan	CVVC
-yȁan	CVVC
-yàȁn	CVVC
-yáan	CVVC
-yáan	CVVC
-yáän	CVVC
-yáanló	CVVCCV
-yȁantédhē	CVVCCVCV
-yȁatȁgblȍo	CVVCVCCCVV
-yāazʌ̏	CVVCV̈
-yádhʌ́n	CVCCV̈
-yȁdhɛ	CVCV
-yádhɛ̏nyɤ̄bhɛ̏n	CVCCVCV̈CV
-yákȍ	CVCV
-yȁkúʌ̈dhē	CVCVV̈CV
-yȁn	CVC
-yán	CVC
-yán	CVC
-yȁnbɔ̄dhɛ̏	CVCCVCV
-yángā	CVCCV
-yȁngādō	CVCCVCV
-yángādōzʌ̏	CVCCVCVCV̈
-yánkpȍŋtȁ	CVCCCVCCCV
-yánpíɤpʌ̏	CVCCVV̈CV̈
-yánpúu	CVCCVV
-yántīi	CVCCVV
-yántóȁgɔ̏pʌ̏	CVCCVVCVCV̈
-yánzìɤ̄	CVCCVV̈
-yáŋ̈	CVCC
-yásá	CVCV
-yàɯ	CVV̈
-yāyā{-dhȕ}n	CVCV {CV}
-yȁyɔ́ɔ	CVCVV
-yɒ̏ɒ	CVV
-yɒ̀ɒbhāa	CVVCVV
-yɒ̀ɒ̂n	CVVC
-yǽæ	CVV
-yʌ̄n	CV̈C
-yʌ̀ŋ	CV̈CCC
-yʌ̀ŋ	CV̈CCC
-yʌ́ŋ	CV̈CC
-yʌ́ŋ	CV̈CC
-yʌ́ŋ	CV̈CC
-yʌ́ŋ	CV̈CCC
-yʌ́ŋ	CV̈CCC
-yʌ́ŋdhɛ̏	CV̈CCCV
-yʌ́ŋgbló	CV̈CCCCCV
-yʌ́ŋtàa	CV̈CCCCVV
-yʌ́ŋtàadhɛ̏	CV̈CCCCVVCV
-yʌ́ŋtīibhɛ̏n	CV̈CCCCVVCV
-yʌ́ŋyʌ̏	CV̈CCCV̈
-yédhábhɛ̏n	CVCVCV
-yédhán	CVCV
-yédhánzʌ̏	CVCVCV̈
-yédhén	CVCV
-yèê	CVV
-yée	CVV
-yéë	CVV
-yèêdhȉ	CVVCV
-yèêgā	CVVCV
-yéegblɯ̄ŋ	CVVCCCV̈CC
-yéi	CVV
-yéizʌ̏	CVVCV̈
-yɛ̏	CV
-yɛ́	CV
-yɛ̄an	CVVC
-yɛ̀ɛ̂	CVV
-yɛ̏ɛdhɤ̄	CVVCV̈
-yɛ̄ɛn	CVVC
-yɛ̄ɛntàabhȁ	CVVCCVVCV
-yɛ́in	CVVC
-yɛ̏iŋzʌ̏	CVVCCCV̈
-yɛ́lɯ́	CVCV̈
-yɛ́sɯ̏	CVCV̈
-yɛ́tȁdhɛ	CVCVCV
-yɛ̏tȁwɔ̀ɔ̏	CVCVwVV
-yɛ̀ɯ	CVV̈
-yī	CV
-yī	CV
-yī	CV
-yī	CV
-yī	CV
-yí	CV
-yí	CV
-yí	CV
-yï	CV
-yî	CV
-yìʌ̄	CVV̈
-yìʌ̂	CVV̈
-yīʌ	CVV̈
-yīʌ	CVV̈
-yīʌ̏	CVV̈
-yīʌ̏	CVV̈
-yīʌ̏	CVV̈
-yíʌ	CVV̈
-yíʌ̏	‘CVV̈
-yíʌ̏	CVV̈
-yíʌʌ	CVV̈V̈
-yíʌ̏ʌn	CVV̈V̈C
-yíʌ̈bīɤ	CVV̈CVV̈
-yíʌ̈bhȁn	CVV̈CV
-yíʌ̈bhɒ̀ɒ̄	CVV̈CVV
-yíʌ̈pȁ	CVV̈CV
-yíblɯ̏bhɛ̏n	CVCCV̈CV
-yíbhlétée	CVCCVCVV
-yíbhɯ̄nkɔ̏ɔ	CVCV̈CVV
-yíbhɯ̄nvɛ́dhɛ̏	CVCV̈vVCV
-yídō	CVCV
-yīdōʌ	CVCVV̈
-yídhʌ́ngā	CVCV̈CV
-yídhē	CVCV
-yídhìān	CVCVV
-yīɛn	CVVC
-yīɛn	CVVC
-yígā	CVCV
-yíglōopíɤdhɛ̏	CVCCVVCVV̈CV
-yíglȕ	CVCCV
-yígɔ̏	CVCV
-yígɔ̏	CVCV
-yígbā	CVCCV
-yīgbȁnwȍ	CVCCVCwV
-yȉisīʌ	CVVCVV̈
-yīká	CVCV
-yíkȁbhɛ̄dhʌ̏nwȕn	CVCVCCVCV̈wVC
-yíkɔ̏dhʌ́n	CVCVCV̈
-yíkpóŋ	CVCCVCC
-yíkpóŋdhiɤ	CVCCVCCCVV̈
-yíkpɤ̄	CVCCV̈
-yīŋ̏	CVCC
-yīŋ{yī}-dhȕn	CVCC {CV} CV
-yīɤ	CVV̈
-yīɤ	CVV̈
-yīɤ	CVV̈
-yípíɤ	CVCVV̈
-yípíɤbhȁn	CVCVV̈CV
-yípúʌ	CVCVV̈
-yípúu	CVCVV
-yísɛ́ɛ̈n	CVCVVC
-yítȁ	CVCV
-yítée	CVCVV
-yítɔ́ɔ̈bhàadhɛ̏	CVCVVCVVCV
-yítɔ́ɯ̈	CVCVV̈
-yívà	CVvV
-yízīʌnsɛ́gɔ̏	CVCVV̈CCVCV
-yízȕɤdhɛ	CVCVV̈CV
-yȍŋ	CVCC
-yóo	CVV
-yóo	CVV
-yóo	CVV
-yɔ̏	CV
-yɔ̄	CV
-yɔ́	CV
-yɔ̄âkʌ̏bhɛ̏n	CVVCV̈CV
-yɔ́n	CVC
-yɔ́n	CVC
-yɔ́ngā	CVCCV
-yɔ́ngɔ̏	CVCCV
-yɔ́ŋ	CVCC
-yɔ̀ɔ̄	CVV
-yɔ̀ɔ̂	CVV
-yɔ́ɔ	CVV
-yɔ́ɔ	CVV
-yɔ̏ɔbhɛ̄ân	CVVCCVV
-yɔ̀ɔ̄dhɛ̏	CVVCV
-yɔ̀ɔn	CVVC
-yɔ̀ɔn	CVVC
-yɔ́ɔ̈n	CVVC
-yɔ́sɯ̏	CVCV̈
-yɔ́sɯ̏zʌ̏	CVCV̈CV̈
-yɔ̄zlȁ	CVCCV
-yɤ̏	CV̈
-yɤ̏	CV̈
-yɤ̏	CV̈
-yɤ̀	CV̈
-yɤ̄	CV̈
-yɤ̄	CV̈
-yɤ̄	CV̈
-yɤ́	CV̈
-yɤ́	CV̈
-yɤ̈	CV̈
-yɤ̏ká	CV̈CV
-yɤ̄ká	CV̈CV
-yɤ̏kóʌdhɛ̏	CV̈CVV̈CV
-yɤ̏sōŋkʌ̄bhɛ̏n	CV̈CVCCCV̈CV
-yɤ̏zlūdhʌdhíɤ	CV̈CCVCV̈CVV̈
-yúa	CVV
-yúadhɛ	CVVCV
-yúadhɛ̏n	CVVCCV
-yūan	CVVC
-yúazʌ̏	CVVCV̈
-yuʌn	CVV̈C
-yúʌnyȕʌn	CVV̈CCVV̈C
-yūn	CVC
-yūn	CVC
-yūngɔ̄n	CVCCVC
-yūngbɔ̄	CVCCCV
-yúŋ̈	CVCC
-yúŋ̈	CVCCC
-yùɤ	CVV̈
-yūɤ	CVV̈
-yúɤ̈	CVV̈
-yúɤ̈	CVV̈
-yúɤgā	CVV̈CV
-Yúu	YVV
-yúü	CVV
-yūun	CVVC
-yúün	CVVC
-yūungā	CVVCCV
-zȁ	CV
-zā	CV
-zàā	CVV
-zāâ	CVV
-záa	CVV
-zȁan	CVVC
-zȁan	CVVC
-zàanzán	CVVCCVC
-zádhɤ̄	CVCV̈
-zàgā	CVCV
-zán	CVC
-zàŋ	CVCC
-záŋ	CVCC
-zázádhɤ̄	CVCVCV̈
-zɒ́ɒ	CVV
-zɒ̄ɒdhe	CVVCV
-zɒ̏ɒdhɤ̄n	CVVCCV̈
--zʌ̏	CV̈
--zʌ̏	CV̈
-zʌ̄	CV̈
-zʌ̄ʌ	CV̈V̈
-zʌ́ʌdhē	CV̈V̈CV
-zʌ̄n	CV̈C
-zʌ̄ngā	CV̈CCV
-zʌ̄ngā	CV̈CCV
-zʌ̄nzʌ̏	CV̈CCV̈
-zʌ̄nzʌ̄nzʌ̏	CV̈CCV̈CCV̈
-zʌ̄ŋgʌ̄	CV̈CCCV̈
-zʌ̄ŋgbʌ̄	CV̈CCCCV̈
-zʌ́ŋzʌ̏	CV̈CCCV̈
-zʌ́ŋzʌ̏	CV̈CCCV̈
-zʌ̄ɯ	CV̈V̈
-zʌ̄ɯ	CV̈V̈
-zē	CV
-zéëwɔ́yɛ́gbàāngɯ́	CVVwVCVCCVVCCV̈
-zēlɯ̏	CVCV̈
-zȅŋgbȅkɔ̏dɔ̄dhagɔ̏	CVCCCCVCVCVCVCV
-zètūbhādhen	CVCVCCVCV
-zètūbhādhengā	CVCVCCVCVCV
-zɛ̀	CV
-zɛ́	CV
-zɛ̄ɛ̂n	CVVC
-zɛ̀gā	CVCV
-zɛ̀ī	CVV
-zɛ̄n	CVC
-zɛ̄npʌ̄	CVCCV̈
-zɛ́nzɛ̏n	CVCCVC
-zíaa	CVVV
-zīâdhɤn	CVVCCV̈
-zȉan	CVVC
-zìān	CVVC
-zīan	CVVC
-zīangā	CVVCCV
-zīangblȍo	CVVCCCCVV
-zīangblȍogā	CVVCCCCVVCV
-zìʌ̄	CVV̈
-zīʌ	CVV̈
-zīʌ và	CVV̈ vV
-zīʌn	CVV̈C
-zīʌn	CVV̈C
-zȉgā	CVCV
-zȉi	CVV
-zìi	CVV
-zīi	CVV
-zíi	CVV
-zȉiŋ dhā	CVVCC CV
-zȉisɯ̏	CVVCV̈
-zȉizʌ̏	CVVCV̈
-zīizīi{dhȕ}n	CVVCVV {CV}
-zīnpʌ̄	CVCCV̈
-zȉoo	CVVV
-zȉozʌ̄bhɛ̏n	CVVCV̈CV
-zȉɔlógɔ̀ɔ̄	CVVCVCVV
-zīɔn	CVVC
-zīɤ	CVV̈
-zíɤ̏	CVV̈
-zíɤ̈ và	CVV̈ vV
-zíɤ̏zʌ̏-dhȕn	CVV̈CV̈ CV
-zȉɤzíɤ	CVV̈CVV̈
-zīzī{dhȕ}n	CVCV {CV}
-zláä	CCVV
-zláädhʌ́dhēn	CCVVCV̈CV
-zláädhʌ́dhēnzʌ̏	CCVVCV̈CVCV̈
-zláädhēzʌ̏	CCVVCVCV̈
-zláägɔ̄ɔ̂nzʌ̏	CCVVCVVCCV̈
-zlȁbhɔnyāa	CCVCCVCVV
-zlȁkpɔ̀ɔ	CCVCCVV
-Zlȁn	ZCVC
-zlȁnwȍpɤ̄bhɛ̏n	CCVCwVCV̈CV
-zlɒ̀ɒ	CCVV
-zlòa	CCVV
-zlȍo	CCVV
-zlòo	CCVV
-zlòô	CCVV
-zlɔ̀a	CCVV CV̈
-zlɔ̄a	CCVV
-zlɔ̀azʌ̏	CCVVCV̈
-zlɔ̏ɔ	CCVV
-zlɤ̀ɤ	CCV̈V̈
-zlɤ̄ɤ	CCV̈V̈
-zlɤ̀ɤdhɛ̏	CCV̈V̈CV
-zlɤ̀ɤdhɛ̏	CCV̈V̈CV
-zlū	CCV
-zlú	CCV
-zlùa	CCVV CV̈
-zlūa	CCVV
-zlūa	CCVV
-zlūɛî	CCVVV
-zlúsɔ̄	CCVCV
-zlùu	CCVV
-zȍ	CV
-zō	CV
-zō	CV
-zòʌ̄kpʌ́ɯbȉzʌ̏	CVV̈CCV̈V̈CVCV̈
-zȍdhɛ	CVCV
-zódhɤ̄	CVCV̈
-zȍgɔ́dhēn	CVCVCCV
-zȍgbȁdhēn	CVCCVCCV
-zȍgbéëdhɛ̏	CVCCVVCV
-zòŋ̂	CVCC
-zȍo	CVV
-zòō	CVV
-zóo	CVV
-zóoyǣæn	CVVCVVC
-zȍtádhē	CVCVCV
-zózódhɤ̄	CVCVCV̈
-zōzōzʌ̏	CVCVCV̈
-zɔ̄	CV
-zɔ́	CV
-zɔ́	CV
-zɔ̀ān	CVVC
-zɔ̀ān	CVVC
-zɔ́gā	CVCV
-zɔ̏n	CVC
-zɔ̏n	CVC
-zɔ̄n	CVC
-zɔ̀ŋgā	CVCCCCV
-zɔ̏ɔ	CVV
-zɔ̀ɔ	CVV
-zɔ̄ɔ	CVV
-zɔ́ɔ̈	CVV
-zɔ̏ɔdhɤ̄n	CVVCCV̈
-zɔ̀ɔn	CVVC
-zɔ̀ɔngā	CVVCCV
-zɔ́ü	CVV
-zɤ̄	CV̈
-zɤ̀ŋ̄	CV̈CC
-zɤ̀ŋ̄ bɛ̏n	CV̈CC CVC
-zɤ́ɯ	CV̈V̈
-zūʌn	CVV̈C
-zúɛdhɤ̄	CVVCV̈
-zȕgā	CVCV
-zūngblʌ̀ʌ̄	CVCCCCV̈V̈
-zȕɤ	CVV̈
-zȕɤ	CVV̈
-zùɤ̄	CVV̈
-zūɤ	CVV̈
-zùɤ̄bȅ	CVV̈CV
-zȕɤdɔ̄bhɛ̏n	CVV̈CVCV
-zùɤ̄gā	CVV̈CV
-zùɤ̄gʌ̄n	CVV̈CV̈C
-zùɤ̄glúdhī	CVV̈CCVCV
-zùɤ̄kȕnsīâdhe	CVV̈CVCCVVCV
-zùɤ̄píɤyāabhɛ̏n	CVV̈CVV̈CVVCV
-zùɤ̄púudhɛ̏	CVV̈CVVCV
-zùɤ̄síɤ̈dhɛ̏	CVV̈CVV̈CV
-zùɤtȍzlɤ̀ɤdhē	CVV̈CVCCV̈V̈CV
-zùɤ̄vɔ̄ŋ	CVV̈vVCC
-zùɤ̄wàādhūdhen	CVV̈wVVCCVCV
-zùɤ̄yāabhɛ̏n	CVV̈CVVCV
-zùɤ̄yȁglúu	CVV̈CVCCVV
-zúsɯ̏	CVCV̈
-zȕu	CVV
-zȕugā	CVVCV
-zúuzȕ	CVVCV
-zúzáa	CVCVV
-zɯ̏	CV̈
-zɯ̄	CV̈
-zɯ́	CV̈
-zɯ̄dhí	CV̈CV
-zɯ̄gȍo	CV̈CVV
-zɯ̄kpɤ̄	CV̈CCV̈
-zɯ̏tódhɛ̏	CV̈CVCV
-zɯ̄ɯ	CV̈V̈
+lex	Str	vowels
+		None
+-`		
+-\	\	\
+-\	\	\
+-\	\	\
+ȁ	V	a
+à	V	a
+ā	V	a
+á	V	a
+á	V	a
+á	V	a
+ä	V	a
+â	V	a
+āa	VV	aa
+áaàân	VVCVVC	aaaa
+áan	VVC	aa
+áän	VVC	aa
+àbí	VCV	ai
+ȁ-bhȁn	VCV	aa
+ȁn	VC	a
+àn	VC	a
+àō	VV	ao
+bȁ	CV	a
+bá	CV	a
+bá	CV	a
+bàâ	CVV	aa
+báa	CVV	aa
+báabȁ	CVVCV	aaa
+bàādhèen	CVVCCVV	aaee
+báȁn	CVVC	aa
+bàāpʌ̏	CVVCV̈	aaë
+bádhɤ̄	CVCV̈	aö
+bālōn	CVCVC	ao
+bān	CVC	a
+bán	CVC	a
+báudhɤ̄	CVVCV̈	auö
+bæ̏æn	CVVC	ɛa
+bʌ́	CV̈	ë
+bʌ́ʌ̏	CV̈V̈	ëë
+bʌ́dhɤ̄	CV̈CV̈	ëö
+bʌ̏ŋbʌ̏ŋdhɤ̄	CV̈CCCV̈CCCV̈	ëëö
+bʌ̀ŋ̄bʌ̀ŋ̄dhɤ	CV̈CCCV̈CCCV̈	ëëö
+bȅ	CV	e
+bȅ	CV	e
+bèê	CVV	ee
+bèê gīŋ	CVV CVCC	ee i
+bèê kpá	CVV CCV	ee a
+bèêdhɛ́yí	CVVCVCV	eeɛi
+bèêdhɛ́yízʌ̏	CVVCVCVCV̈	eeɛië
+bèêgā	CVVCV	eea
+bèŋ̄bèŋ̄dhɤ	CVCCCVCCCV̈	eeö
+bȅzʌ̏	CVCV̈	eë
+bɛ̄a	CVV	ɛa
+bɛ̏ankȁa	CVVCCVV	ɛaaa
+bɛ̏ɛ	CVV	ɛɛ
+bɛ̀ɛ̂n	CVVC	ɛɛ
+bɛ́i	CVV	ɛi
+bɛ̏n	CVC	ɛ
+bɛ̏n gbɔ̄	CVC CCV	ɛ ɔ
+bȉ	CV	i
+bīa	CVV	ia
+Bīȁ	BVV	Bia
+bìʌn	CVV̈C	ië
+bȉbȉdhɤ̄	CVCVCV̈	iiö
+bídhɤ̄	CVCV̈	iö
+bȉn	CVC	i
+bín	CVC	i
+bín	CVC	i
+bín	CVC	i
+bíngātīi	CVCCVCVV	iaii
+bìŋ̄bìŋ̄dhɤ	CVCCCVCCCV̈	iiö
+bìo	CVV	io
+bíɔ	CVV	iɔ
+bíɔnbȉɔn	CVVCCVVC	iɔiɔ
+bíɔnbȉɔnzʌ̏	CVVCCVVCCV̈	iɔiɔë
+bíɔŋbȉɔŋ	CVVCCCVVCC	iɔiɔ
+bīɤ	CVV̈	iö
+bīɤ lɯ̏	CVV̈ CV̈	iö ü
+blȁ	CCV	a
+blàā	CCVV	aa
+blàāblàā	CCVVCCVV	aaaa
+blȁan	CCVVC	aa
+blábládhɤ̄	CCVCCVCV̈	aaö
+bládhɤ̄	CCVCV̈	aö
+blákpɔ́	CCVCCV	aɔ
+blʌ́	CCV̈	ë
+blʌ̏ʌ	CCV̈V̈	ëë
+blʌ̀ʌ̄	CCV̈V̈	ëë
+blʌ̀ʌ̂	CCV̈V̈	ëë
+blʌ̀ʌ̄dhɛ́	CCV̈V̈CV	ëëɛ
+blʌ́dhɛ̏	CCV̈CV	ëɛ
+blʌ̀ŋ	CCV̈CC	ë
+blʌ́ŋ	CCV̈CC	ë
+bléedhɛ̏	CCVVCV	eeɛ
+bléedhɤ̄	CCVVCV̈	eeö
+blēŋdhɤ	CCVCCCV̈	eö
+blɛ̀ɛ̂	CCVV	ɛɛ
+blɛ̀ɛ̄dhe	CCVVCV	ɛɛe
+blɛ̀ɛ̄dhɛ́	CCVVCV	ɛɛɛ
+blɛ̏ɛzʌ̏	CCVVCV̈	ɛɛë
+blɛ́ŋblɛ̏ŋ	CCVCCCCVCC	ɛɛ
+blīi	CCVV	ii
+blíkɤ́	CCVCV̈	iö
+blìŋ̄blìŋ̄dhɤ	CCVCCCCVCCCV̈	iiö
+Blòŋ̄dhɛ̏	BCVCCCV	Boɛ
+Blōȍdhɛ	BCVVCV	Booɛ
+blɔ̄	CCV	ɔ
+blɔ́ɔ	CCVV	ɔɔ
+blɔ́ɔ̏bhɛ̏n	CCVVCCV	ɔɔɛ
+blɔ̄ɔ̏n	CCVVC	ɔɔ
+blɔ̄ɔ̏n	CCVVC	ɔɔ
+blɔ́ɔ̏n	CCVVC	ɔɔ
+blɔ̄ɔ̏ntàadhɛ̏	CCVVCCVVCV	ɔɔaaɛ
+blɔ́ɔ̏nzʌ̏	CCVVCCV̈	ɔɔë
+blɤ̄ɤ	CCV̈V̈	öö
+blȕ	CCV	u
+blȕgbɔ̄ŋ	CCVCCVCC	uɔ
+blùû	CCVV	uu
+blúȕbȉ	CCVVCV	uui
+blȕudhɤ̄	CCVVCV̈	uuö
+blɯ̏	CCV̈	ü
+blɯ́	CCV̈	ü
+blɯ̏ʌ{yīʌ}	CCV̈V̈ {CVV̈}	üë {ië}
+blɯ́blɯ́	CCV̈CCV̈	üü
+blɯ́blɯ́dhɤ̄	CCV̈CCV̈CV̈	üüö
+blɯ́bhɔ̏	CCV̈CV	üɔ
+blɯ́dȕ	CCV̈CV	üu
+blɯ́dhɛyí	CCV̈CVCV	üɛi
+blɯ́dhɛyízʌ̏	CCV̈CVCVCV̈	üɛië
+blɯ́dhīin	CCV̈CVV	üii
+blɯ́gȁn	CCV̈CVC	üa
+blɯ́gbɔ̏ɔn	CCV̈CCVVC	üɔɔ
+blɯ́kɒ̄ɒ	CCV̈CVV	üaɔ
+blɯ́kʌ̄bhɛ̏n	CCV̈CV̈CV	üëɛ
+blɯ́ŋ	CCV̈CC	ü
+blɯ̏pʌ̏	CCV̈CV̈	üë
+blɯ̀ɯ̂	CCV̈V̈	üü
+blɯ́ɯ	CCV̈V̈	üü
+blɯ́ɯdȕ	CCV̈V̈CV	üüu
+blɯ́ɯn yùā	CCV̈V̈C CVV	üü ua
+blɯ́ɯŋ	CCV̈V̈CC	üü
+blɯ́yɒ̏ɒn	CCV̈CVVC	üaɔ
+bȍ	CV	o
+bō	CV	o
+bòʌ̄	CVV̈	oë
+bòī	CVVV	uei
+bɔ̄	CV	ɔ
+bɔ́	CV	ɔ
+bɔ́asíɤ	CVVCVV̈	ɔaiö
+bɔ̄bhɛ̏n	CVCV	ɔɛ
+bɔ́n	CVC	ɔ
+bɔ́nkánpʌ̏	CVCCVCCV̈	ɔaë
+bɔ́ŋ	CVCC	ɔ
+bɔ́ŋbɔ̏ŋ	CVCCCVCC	ɔɔ
+bɔ̀ɔ̄	CVV	ɔɔ
+bɔ̄ɔ	CVV	ɔɔ
+bɔ̏tóu	CVCVV	ɔou
+bɤ́	CV̈	ö
+bɤ̄ɯ̏	CV̈V̈	öü
+bɤ́ɯ	CV̈V̈	öü
+bɤ́ɯdhɤ̄	CV̈V̈CV̈	öüö
+bɤ̄ɯ̏gɯ́	CV̈V̈CV̈	öüü
+bɤ̄ɯ̏gɯ́dhɛ̏	CV̈V̈CV̈CV	öüüɛ
+bɤ̄ɯ̏kpɤ̄	CV̈V̈CCV̈	öüö
+bɤ̄ɯ̏zʌ̏	CV̈V̈CV̈	öüë
+bɤ́ɯzʌ̏	CV̈V̈CV̈	öüë
+bū	CV	u
+bú	CV	u
+bȕadhɤ̄	CVVCV̈	uaö
+būʌ̏dhɤ̄n	CVV̈CCV̈	uëö
+būʌ̏npʌ̏	CVV̈CCV̈	uëë
+būdhazʌ̏	CVCVCV̈	uaë
+búdhɤ̄	CVCV̈	uö
+bùeî	CVVV	uei
+būgā	CVCV	ua
+búlá	CVCV	ua
+búlázʌ̏	CVCVCV̈	uaë
+būn	CVC	u
+būn	CVC	u
+búsɯ̏	CVCV̈	uü
+bȕu	CVV	uu
+búu	CVV	uu
+búȕ	CVV	uu
+būudhɤ	CVVCV̈	uuö
+bɯ́ʌŋbɯ̏ʌŋ	CV̈V̈CCCV̈V̈CC	üëüë
+bɯ̄ʌŋbɯ̄ʌŋdhɤ	CV̈V̈CCCV̈V̈CCCV̈	üëüëö
+bɯ̏dhɤ̄	CV̈CV̈	üö
+bɯ́dhɤ̄	CV̈CV̈	üö
+bɯ̏ŋ	CV̈CCC	ü
+bɯ̏ɤ	CV̈V̈	üö
+bɯ̏ɤ	CV̈V̈	üö
+bɯ̏ɤ	CV̈V̈	üö
+bɯ̏ɤbȉ	CV̈V̈CV	üöi
+bhȁ	CV	a
+bhȁ	CV	a
+bhȁ	CV	a
+bhā	CV	a
+bhá	CV	a
+bhá	CV	a
+bhä	CV	a
+bhàa	CVV	aa
+bhāa	CVV	aa
+bháa	CVV	aa
+bháa	CVV	aa
+bháa	CVV	aa
+bháa	CVV	aa
+bháȁ	CVV	aa
+bhàabhán	CVVCV	aaa
+bhàân	CVV	aa
+bhāân	CVV	aa
+bháan	CVV	aa
+bhȁan kʌ̄	CVV CV̈	aa ë
+bhȁazʌ̏	CVVCV̈	aaë
+bhȁbha	CVCV	aa
+bhábhɛ̏n	CVCV	aɛ
+bhȁdʌ̄	CVCV̈	aë
+bhȁdhʌ́n	CVCV̈	aë
+bhádhȅ	CVCV	ae
+bhádhɛ̏	CVCV	aɛ
+bhȁn	CV	a
+bhȁn	CV	a
+bhȁn	CV	a
+bhān	CV	a
+bhān	CV	a
+bhān	CV	a
+bhān	CV	a
+bhán	CV	a
+bhán	CV	a
+bhän	CV	a
+bhȁnkún	CVCVC	au
+bhȁnwȕn	CVwVC	awu
+bhānzīgā	CVCVCV	aia
+bhàŋ	CVCC	a
+bhàŋ̄	CVCC	a
+bhàŋbhá	CVCCCV	aa
+bháŋgló	CVCCCCV	ao
+bhȁŋgɤ̏	CVCCCV̈	aö
+bhàŋ̄zʌ̏{dhȕ}n	CVCCCV̈ {CV}	aë {u}
+bhȁwȕn	CVwVC	awu
+bházʌ̏	CVCV̈	aë
+bházʌ̏	CVCV̈	aë
+bhɒ̀ɒ̄	CVV	aɔ
+bhɒ̄ɒ	CVV	aɔ
+bhɒ́ɒdhɤ̄	CVVCV̈	aɔö
+bhɒ́ɒ-dhȕn	CVV CV	aɔ u
+bhɒ̄ɒgā	CVVCV	aɔa
+bhɒ́ɒŋ̏	CVVCC	aɔ
+bhɒ́ɒŋ̏{zʌ̏}-dhȕn	CVVCC {CV̈} CV	aɔ {ë} u
+bhæ̏æ	CVV	ɛa
+bhæ̀æ̂	CVV	ɛa
+bhæ̏æn	CVV	ɛa
+bhæ̏ængā	CVVCV̄	ɛaā
+bhʌ̄	CV̈	ë
+bhʌ̄	CV̈	ë
+bhʌ́ʌ	CV̈V̈	ëë
+bhʌ̄ʌn yɔ̏n	CV̈V̈ CVC	ëë ɔ
+bhʌ̏bhɛ̄npíɤdhē	CV̈CVCVV̈CV	ëɛiöe
+bhʌ̏n	CV̈	ë
+bhʌ́n	CV̈	ë
+bhʌ́n	CV̈	ë
+bhʌ̄ŋ	CV̈CC	ë
+bhʌ́ŋ	CV̈CC	ë
+bhē	CV	e
+bhé	CV	e
+bhèā	CVV CV̈	ea ü
+bhéȉ	CVV	ei
+bhéȉzʌ̏	CVVCV̈	eië
+bhēŋ	CVCC	e
+bhɛ̄	CV	ɛ
+bhɛ́bhán	CVCV	ɛa
+bhɛ́ɛbhɛ̏	CVVCV	ɛɛɛ
+bhɛ̏ɛn	CVV	ɛɛ
+bhɛ̀ɛn	CVV	ɛɛ
+bhɛ̀ɛ̂n	CVV	ɛɛ
+bhɛ̄ɛn	CVV	ɛɛ
+bhɛ̄ɛ̂n	CVV	ɛɛ
+bhɛ̏ɛnzʌ̏	CVVCV̈	ɛɛë
+bhɛ̄gɯ́dhɛ̏	CVCV̈CV	ɛüɛ
+bhɛ́i	CVV	ɛi
+bhɛ́lɛ́bhɛ̏lɛ̏	CVCVCVCV	ɛɛɛɛ
+bhɛ̏n	CV	ɛ
+-bhɛ̏n	CV	ɛ
+bhɛ̄n	CV	ɛ
+bhɛ̄n	CV	ɛ
+bhɛ̄n tīi sɛ̏	CV CVV CV	ɛ ii ɛ
+bhɛ̄nsʌ̏	CVCV̈	ɛë
+bhɛ̄ŋ	CVCC	ɛ
+bhī	CV	i
+bhī	CV	i
+bhían	CVV	ia
+bhīɒŋ	CVVVCC	iaɔ
+bhīɒŋ	CVVVCC	iaɔ
+bhīɒŋgā	CVVVCCCV	iaɔa
+bhìʌ̄n	CVV̈	ië
+bhīdhīntɤ̄	CVCVCV̈	iiö
+bhīi	CVV	ii
+bhìibhín	CVVCV	iii
+bhīin yɔ̏n	CVV CVC	ii ɔ
+bhīingā	CVVCV	iia
+bhīiŋ	CVVCC	ii
+bhīn	CV	i
+bhȉŋ	CVCC	i
+bhīŋ	CVCC	i
+bhīŋ	CVCC	i
+bhíŋ	CVCC	i
+bhīŋbhiŋdhɤ	CVCCCVCCCV̈	iiö
+bhīŋgā	CVCCCV	ia
+bhīɤ̏fǽædʌ̄	CVV̈fVVCV̈	iöfɛaë
+bhlȁ	CCV	a
+bhlȁ	CCV	a
+bhlà	CCV	a
+bhlá	CCV	a
+bhlāȁ	CCVV	aa
+bhláa	CCVV	aa
+bhláabhlȁ	CCVVCCV	aaa
+bhlʌ̀	CCV̈	ë
+bhlʌ́	CCV̈	ë
+bhlʌ̀kʌ̄pʌ̏	CCV̈CV̈CV̈	ëëë
+bhlʌ̀kpɔ́dhē	CCV̈CCVCV	ëɔe
+bhlʌ̀ŋ̂	CCV̈CC	ë
+bhlʌ̀zʌ̏	CCV̈CV̈	ëë
+bhlé	CCV	e
+bhlɛ́ɛbhlɛ̏	CCVVCCV	ɛɛɛ
+bhlɛ̀ȉ	CCVV	ɛi
+bhlɛ́ŋbhlɛ̏ŋ	CCVCCCCVCC	ɛɛ
+bhlō	CCV	o
+bhlòô	CCVV	oo
+bhlɔ̄	CCV	ɔ
+bhlɔ̈bhlɔ̂	CCVCCV	ɔɔ
+bhlɔ̏lɯ̏	CCVCV̈	ɔü
+bhlɤ̂	CCV̈	ö
+bhlɤ̂dhɛ̏	CCV̈CV	öɛ
+bhlɤ́ŋbhlɤ̏	CCV̈CCCCV̈	öö
+bhlɤ̀ɤ̏	CCV̈V̈	öö
+bhlɤ̀ɤ̄gbȁa	CCV̈V̈ CCVV	öö aa
+bhlȕ	CCV	u
+bhlú	CCV	u
+bhlúubhlȕzʌ̏	CCVVCCVCV̈	uuuë
+bhlɯ̀	CCV̈	ü
+bhnlā	CCV	a
+bhnlàa	CCVV	aa
+bhnlàa gɔ̄ɔ̂n	CCVV CVVC	aa ɔɔ
+bhnlàȁbɔ̏	CCVVCV	aaɔ
+bhnlàabɔ̏ bhɛ̀ɛ̂bhɛ̏n	CCVVCV CVVCV	aaɔ ɛɛɛ
+bhnlʌ̏	CCV̈	ë
+bhnlʌ̀ʌ	CCV̈V̈	ëë
+bhnlʌ̀ʌ yùā	CCV̈V̈ CVV	ëë ua
+bhnlʌ̄ʌzʌ̏	CCV̈V̈CV̈	ëëë
+bhnlɛ́ŋbhlɛ̏ŋ	CCVCCCCVCC	ɛɛ
+bhnlìi	CCVV	ii
+bhnlɔ̏ɔ	CCVV	ɔɔ
+bhnlɔ́ɔbhnlɔ̏	CCVVCCV	ɔɔɔ
+bhnlūʌ	CCVV̈	uë
+bhnlɯ̏	CCV̈	ü
+bhȍ	CV	o
+bhō	CV	o
+bhóŋ	CVCC	o
+bhōo	CVV	oo
+bhòodhʌ́n	CVVCV̈	ooë
+bhɔ̏	CV	ɔ
+bhɔ̄	CV	ɔ
+bhɔ̄	CV	ɔ
+bhɔ́	CV	ɔ
+bhɔ̏adhʌ	CVVCV̈	ɔaë
+bhɔ̏an	CVV	ɔa
+bhɔ̄ân	CVV	ɔa
+bhɔ́ʌ̏	CVV̈	ɔë
+bhɔ́bhnlí	CVCCV	ɔi
+bhɔ̏dhɛn	CVCV	ɔɛ
+bhɔ̏kúʌ̏	CVCVV̈	ɔuë
+bhɔ̏n	CV	ɔ
+bhɔ̏n	CV	ɔ
+bhɔ̏n	CV	ɔ
+bhɔ́ntrʌ̏	CVCCV̈	ɔë
+bhɔ̏ŋ	CVCC	ɔ
+bhɔ̄ŋ	CVCC	ɔ
+bhɔ̄ŋ	CVCC	ɔ
+bhɔ́ŋ zɔ̏	CVCC CV	ɔ ɔ
+bhɔ̄ŋdhɛ̏	CVCCCV	ɔɛ
+bhɔ̀ɔ̄	CVV	ɔɔ
+bhɔ̄ɔ̏	CVV	ɔɔ
+bhɔ́ɔ̏	CVV	ɔɔ
+bhɔ̀ɔ̄bhɛ̏n	CVVCV	ɔɔɛ
+bhɔ́ɔ̏kpʌ̀	CVVCCV̈	ɔɔë
+bhɔ́ɔ̈n	CVV	ɔɔ
+bhɔ̀ɔ̄pʌ̏	CVVCV̈	ɔɔë
+bhɔ̀ɔ̄zʌ̏	CVVCV̈	ɔɔë
+bhɔ́ɔzɔ̏	CVVCV	ɔɔɔ
+bhɤ̏	CV̈	ö
+bhɤ̏	CV̈	ö
+bhɤ̏pʌ̏	CV̈CV̈	öë
+bhɤ̀ɯ̏	CV̈V̈	öü
+bhɤ̀ɯ̂	CV̈V̈	öü
+bhɤ̏yíʌ	CV̈CVV̈	öië
+bhȕaadhʌ	CVVVCV̈	uaaë
+bhúabhȕan	CVVCVV	uaua
+bhùān	CVV	ua
+bhúʌ̏	CVV̈	uë
+bhūn	CV	u
+bhūŋbhuŋdhɤ	CVCCCVCCCV̈	uuö
+bhūȕ	CVV	uu
+bhúu	CVV	uu
+bhūu gȁn	CVV CVC	uu a
+bhūȕdhɤ̄	CVVCV̈	uuö
+bhūun	CVV	uu
+bhūȕn	CVV	uu
+bhúun	CVV	uu
+bhɯ́	CV̈	ü
+bhɯ́	CV̈	ü
+bhɯ́ʌŋbhɯ̏ʌŋ	CV̈V̈CCCV̈V̈CC	üëüë
+bhɯ̏n	CV̈	ü
+bhɯ̄n	CV̈	ü
+bhɯ̄n	CV̈	ü
+bhɯ̄ŋ	CV̈CC	ü
+bhɯ̏ɤ	CV̈V̈	üö
+bhɯ̏ɤ	CV̈V̈	üö
+bhɯ̀ɤ̄	CV̈V̈	üö
+bhɯ̄ɤ	CV̈V̈	üö
+bhɯ́ɤ	CV̈V̈	üö
+bhɯ́ɤ̏	CV̈V̈	üö
+bhɯ̀ɤ̄dhʌ́n	CV̈V̈CV̈	üöë
+bhɯ́ɤdhȅ	CV̈V̈CV	üöe
+bhɯ̀ɤ̄gā	CV̈V̈CV	üöa
+bhɯ̀ɤ̄gblōogā	CV̈V̈CCCVVCV	üöooa
+bhɯ́sɯ̏	CV̈CV̈	üü
+bhɯ́zʌ̏	CV̈CV̈	üë
+dȁ	CV	a
+dà	CV	a
+dȁa	CVV	aa
+dāa	CVV	aa
+Dàādhɛ̏n	DVVCCV	Daaɛ
+dàādhɛ̏n	CVVCCV	aaɛ
+Dàān	DVVC	Daa
+dàān	CVVC	aa
+dàān	CVVC	aa
+dàān dhɔ́ɔ yī	CVVC CVV CV	aa ɔɔ i
+dàānwȍ	CVVCwV	aawo
+dáawō	CVVwV	aawo
+dȁdhʌ́ɯ	CVCV̈V̈	aëü
+dȁdhʌ́ɯ	CVCV̈V̈	aëü
+dān	CVC	a
+dànsȅe	CVCCVV	aee
+dàŋdá	CVCCCV	aa
+dáŋdȁŋdáŋdhɤ̄	CVCCCVCCCVCCCV̈	aaaö
+dȁplɤ̄ɤdhɛ̏	CVCCV̈V̈CV	aööɛ
+dȁsɔ̏	CVCV	aɔ
+dɒ̀ɒn	CVVC	aɔ
+dɒ̄ɒn	CVVC	aɔ
+dɒ́ɒn	CVVC	aɔ
+dʌ̄	CV̈	ë
+dʌ́ʌ̏	CV̈V̈	ëë
+dʌ̄bhɛ̄n	CV̈CV	ëɛ
+dʌ̄glúdhɛ̏	CV̈CCVCV	ëuɛ
+dʌ̄kpɔ́dʌ̏	CV̈CCVCV̈	ëɔë
+dʌ̏ɯ	CV̈V̈	ëü
+dʌ̏ɯdʌ̏ɯ	CV̈V̈CV̈V̈	ëüëü
+dʌ̏ɯdʌ̏ɯ	CV̈V̈CV̈V̈	ëüëü
+dʌ̏ɯwō	CV̈V̈wV	ëüwo
+dȅ	CV	e
+dȅ	CV	e
+dȅ	CV	e
+dȅbɔ̏	CVCV	eɔ
+dȅe	CVV	ee
+dȅe	CVV	ee
+dèŋ̄dȅ	CVCCCV	ee
+dēpītē	CVCVCV	eie
+dɛ̏	CV	ɛ
+dɛ̏bhɛ̏n	CVCCV	ɛɛ
+dɛ̏bhnlɔ̄ɔdʌ̄	CVCCVVCV̈	ɛɔɔë
+dɛ́dɛ̏	CVCV	ɛɛ
+dɛ̀ɛ	CVV	ɛɛ
+dɛ̄ɛ̏n	CVVC	ɛɛ
+dɛ̄ɛ̏n	CVVC	ɛɛ
+dɛ̀ī	CVV	ɛi
+dɛ̀īdȁbhɛ̏n	CVVCVCV	ɛiaɛ
+dɛ̄n	CVC	ɛ
+dȉan	CVVC	ia
+dȉan	CVVC	ia
+dìan	CVVC	ia
+dȉʌ	CVV̈	ië
+dìbhānsɯ̏	CVCVCV̈	iaü
+dīȉ	CVV	ii
+dīidhɤn	CVVCCV̈	iiö
+dīin	CVVC	ii
+dȉiŋ	CVVCC	ii
+dȉn	CVC	i
+dīn	CVC	i
+dīn	CVC	i
+dín	CVC	i
+dín	CVC	i
+dȉŋ	CVCC	i
+dȉŋ	CVCC	i
+dīɔŋ	CVVCC	iɔ
+díɤŋ	CVV̈CC	iö
+dō	CV	o
+dō	CV	o
+dōdō	CVCV	oo
+dōdō	CVCV	oo
+dòŋ	CVCC	o
+dóŋdó	CVCCCV	oo
+dȍo	CVV	oo
+dōsɛ̄n	CVCVC	oɛ
+dɔ̄	CV	ɔ
+dɔ̄	CV	ɔ
+dɔ̀ā	CVV	ɔa
+dɔ̀ā	CVV	ɔa
+dɔ̀ā	CVV	ɔa
+dɔ̏dhɛ	CVCV	ɔɛ
+dɔ̏n	CVC	ɔ
+dɔ̏n	CVC	ɔ
+dɔ̏n	CVC	ɔ
+dɔ̄n	CVC	ɔ
+dɔ́n	CVC	ɔ
+dɔ́n	CVC	ɔ
+dɔ́ŋdɔ̏n	CVCCCVC	ɔɔ
+dɔ̀ɔ̄	CVV	ɔɔ
+dɔ́ɔ	CVV	ɔɔ
+dɔ̀ɔn	CVVC	ɔɔ
+dɔ̏pɤ́ʌ̏	CVCV̈V̈	ɔöë
+dɔ̏sɔ̄tȁ	CVCVCV	ɔɔa
+dɔ̀ū	CVV	ɔu
+dɔ̀ū lɯ̏	CVV CV̈	ɔu ü
+dɤ̄	CV̈	ö
+dɤ̀ŋ	CV̈CC	ö
+dɤ̏ŋdhɤ	CV̈CCCV̈	öö
+dɤ̀ŋ̄gā	CV̈CCCV	öa
+dɤ́ŋgɤ́dɤ̏ŋgɤ̏	CV̈CC CV̈CC	ö ö
+dɤ̄zʌ̏	CV̈CV̈	öë
+drá	CCV	a
+dràan	CCVVC	aa
+dràān	CCVVC	aa
+drʌ́ʌdrʌ̏	CCV̈V̈CCV̈	ëëë
+drʌ́ʌndrʌ̏n	CCV̈V̈CCCV̈C	ëëë
+drɛ́ɛndrɛ̏n	CCVVCCCVC	ɛɛɛ
+drɛ́ŋdrɛ̏ŋ	CCVCCCCVCC	ɛɛ
+drȉiŋ	CCVVCC	ii
+dródhɤ̄	CCVCV̈	oö
+dróŋ	CCVCC	o
+drɔ́ɔ	CCVV	ɔɔ
+drɔ́ɔ bhūȁn	CCVV CVVC	ɔɔ ua
+drɔ́ɔdrɔ̏	CCVVCCV	ɔɔɔ
+drɔ̏ɔn	CCVVC	ɔɔ
+drɤ́ŋdrɤ̏ŋ	CCV̈CCCCV̈CC	öö
+drūʌ	CCVV̈	uë
+drùɛ̏ɛ	CCVVV	uɛɛ
+drùɛ̏n	CCVVC	uɛ
+drùuŋ̂bhɛ̏	CCVVCCCV	uuɛ
+drɯ́ʌdrɯ̏ʌ	CCV̈V̈CCV̈V̈	üëüë
+drɯ̏ŋ	CCV̈CCC	ü
+dȕ	CV	u
+dȕ	CV	u
+dú	CV	u
+dùa	CVV	ua
+dùā	CVV	ua
+dúaandȕan	CVVVCCVVC	uaaua
+dùākʌ̄pʌ̏	CVVCV̈CV̈	uaëë
+dùān	CVVC	ua
+dùʌ	CVV̈	uë
+dùʌ	CVV̈	uë
+dūʌ	CVV̈	uë
+dȕʌlúu	CVV̈CVV	uëuu
+dúdhɤ̄	CVCV̈	uö
+dúeŋdhɤ̄	CVVCCCV̈	ueö
+dȕɛ	CVV	uɛ
+dȕklɔ̄ɔlɯ̏	CVCCVVCV̈	uɔɔü
+dȕkwī	CVCwV	uwi
+dūn	CVC	u
+dùŋ	CVCCC	u
+dúŋ	CVCC	u
+dúŋ	CVCCC	u
+dùɤ	CVV̈	uö
+dūɤ	CVV̈	uö
+dȕɤɤ	CVV̈V̈	uöö
+dùū	CVV	uu
+dùūdhɤ	CVVCV̈	uuö
+dȕun	CVVC	uu
+dɯ̄	CV̈	ü
+dɯ́	CV̈	ü
+dɯ́ʌ	CV̈V̈	üë
+dɯ́ʌ-sɯ́	CV̈V̈ CV̈	üë ü
+dɯ̄gɔ̏bhɛ̏n	CV̈CVCV	üɔɛ
+dɯ́n	CV̈C	ü
+dhȁ	CV	a
+dhā	CV	a
+dhā	CV	a
+dhȁa	CVV	aa
+dháȁ	CVV	aa
+dhȁadhʌ́n	CVVCV̈	aaë
+dhȁadhēn	CVVCV	aae
+dhȁan	CVV	aa
+-dhȁan	CVV	aa
+dhàān	CVV	aa
+dhȁankʌ̄bhɛ̏n	CVVCV̈CV	aaëɛ
+dhàanzʌ̏	CVVCV̈	aaë
+dháasí	CVVCV	aai
+dhābhɯ̏ɤ	CVCV̈V̈	aüö
+dhāgā	CVCV	aa
+dhāgbláwȍ	CVCCCVwV	aawo
+dhākpɤ̄	CVCCV̈	aö
+-dhȁn	CV	a
+dhān	CV	a
+dhán	CV	a
+dhán	CV	a
+dhán và	CV vV	a va
+dhāŋ̏	CVCC	a
+dhāŋ̏gā	CVCCCV	aa
+dháŋgá	CVCCCV	aa
+dhāŋ̏gɯ́dhɛ̏	CVCCCV̈CV	aüɛ
+dhàŋtàa	CVCCCVV	aaa
+dhásígɔ̏bhɛ̏n	CVCVCVCV	aiɔɛ
+dhāyán	CVCVC	aa
+dhɒ̏ɒn	CVV	aɔ
+dhɒ̀ɒn	CVV	aɔ
+dhɒ̀ɒnpʌ̏	CVVCV̈	aɔë
+dhʌ̏	CV̈	ë
+dhʌ̀	CV̈	ë
+dhʌ̀ʌ̂	CV̈V̈	ëë
+dhʌ́ʌdhɤ̄	CV̈V̈CV̈	ëëö
+dhʌ̀ʌn	CV̈V̈ CV̈	ëë ü
+dhʌ̀ʌn	CV̈V̈	ëë
+dhʌ́dhēdhʌ́n	CV̈CVCV̈	ëeë
+dhʌ́dhēn	CV̈CV	ëe
+dhʌ́dhɛ̏nwȕn	CV̈CVwVC	ëɛwu
+dhʌ́dhōŋ-dhȕn	CV̈CVCC CV	ëo u
+dhʌ́n	CV̈	ë
+-dhʌ́n	CV̈	ë
+dhʌ́n púu	CV̈ CVV	ë uu
+dhʌ́n sɛ́ɛ̈n	CV̈ CVVC	ë ɛɛ
+dhʌ́n sɛ́ɛ̈n dhȕn bhȁ blʌ̏ʌ	CV̈ CVVC CV CV CCV̈V̈	ë ɛɛ u a ëë
+dhʌ́ngɔ̄ɔ̂dhʌ́n	CV̈CVVCCV̈	ëɔɔë
+dhʌ́ngɔ̄ɔ̂n	CV̈CVVC	ëɔɔ
+dhʌ́ngɔ̄ɔ̂nzʌ̏	CV̈CVVCCV̈	ëɔɔë
+dhʌ̀ŋ	CV̈CC	ë
+dhʌ̀ŋ	CV̈CC	ë
+dhʌ̏ŋkúʌ̈dhē	CV̈CCCVV̈CV	ëuëe
+dhʌ̀ŋzʌ̏	CV̈CCCV̈	ëë
+-dhȅ	CV	e
+dhē	CV	e
+dhē	CV	e
+dhē gbóȍ	CV CCVV	e oo
+dhèā	CVV	ea
+dhēbɔ̏	CVCV	eɔ
+dhēbhɛ̏ndʌ̄	CVCVCV̈	eɛë
+dhédhéngbȁa	CVCVCCVV	eeaa
+dhèe	CVV	ee
+dhée	CVV	ee
+dhée	CVV	ee
+dhéepɛ̏n	CVVCVC	eeɛ
+dhéesȕɤ	CVVCVV̈	eeuö
+dhēglú	CVCCV	eu
+dhēglúdhʌ́dhēn	CVCCVCV̈CV	euëe
+dhēglúdhʌ́dhēnzʌ̏	CVCCVCV̈CVCV̈	euëeë
+dhēglúdhʌ́ngɔ̄ɔ̏n	CVCCVCV̈CVVC	euëɔɔ
+dhēglúdhʌ́ngɔ̄ɔ̏nzʌ̏	CVCCVCV̈CVVCCV̈	euëɔɔë
+dhēglúdhēbɔ̏	CVCCVCVCV	eueɔ
+dhēglúdhēzʌ̏	CVCCVCVCV̈	eueë
+dhēglúgɔ̄ɔ̏dhʌ́nzʌ̏	CVCCVCVVCCV̈CV̈	euɔɔëë
+dhēglúgɔ̄ɔ̏n	CVCCVCVVC	euɔɔ
+dhēglúgɔ̄ɔ̏nzʌ̏	CVCCVCVVCCV̈	euɔɔë
+dhēglúzʌ̏	CVCCVCV̈	euë
+dhēgɔ̄n	CVCVC	eɔ
+dhèī	CVV	ei
+dhéi	CVV	ei
+dhēklɤ̀ɤ	CVCCV̈V̈	eöö
+dhēkpɔ́dhȅ	CVCCVCV	eɔe
+dhēpʌ̄	CVCV̈	eë
+dhēsɯ́gɔ̄ɔ̏n	CVCV̈CVVC	eüɔɔ
+dhɛ̏	CV	ɛ
+dhɛ̏	CV	ɛ
+dhɛ̏	CV	ɛ
+-dhɛ̏	CV	ɛ
+-dhɛ̏	CV	ɛ
+-dhɛ̏	CV	ɛ
+dhɛ̀	CV	ɛ
+dhɛ̄	CV	ɛ
+dhɛ́	CV	ɛ
+dhɛ́	CV	ɛ
+dhɛ̏adhíɤ	CVVCVV̈	ɛaiö
+dhɛ̏adhíɤ	CVVCVV̈	ɛaiö
+dhɛ̏bíʌ̏dhɛn	CVCVV̈CCV	ɛiëɛ
+dhɛ̏bōsɯ̏	CVCVCV̈	ɛoü
+dhɛ́dhɛ́n	CVCV	ɛɛ
+dhɛ́dhɛ́n yúa	CVCV CVV	ɛɛ ua
+dhɛ̀ɛ	CVV	ɛɛ
+dhɛ̀ɛ̄	CVV	ɛɛ
+dhɛ̀ɛ̄dhɛ̏	CVVCV	ɛɛɛ
+dhɛ́ɛdhɛ̏	CVVCV	ɛɛɛ
+dhɛ̀ɛdhɛ́n	CVVCV	ɛɛɛ
+dhɛ́ɛdhɤ̄	CVVCV̈	ɛɛö
+dhɛ̏ɛn	CVV	ɛɛ
+dhɛ̀ɛn	CVV	ɛɛ
+dhɛ̀ɛ̏n	CVV	ɛɛ
+dhɛ̄ɛ̂n	CVV	ɛɛ
+dhɛ̄ɛ̂n gɔ̄ŋ	CVV CVCC	ɛɛ ɔ
+dhɛ̀ɛ̏ngā	CVVCV	ɛɛa
+dhɛ́gā	CVCV	ɛa
+dhɛ̏gȁkɔ̏	CVCVCV	ɛaɔ
+dhɛ̏gȁyȁn	CVCVCVC	ɛaa
+dhɛ̏glōodhɛ̏	CVCCVVCV	ɛooɛ
+dhɛ̏gȍpȉʌ	CVCVCVV̈	ɛoië
+dhɛ̏kpɒ̀ɒdhíɤ	CVCCVVCVV̈	ɛaɔiö
+dhɛ̏kpɒ̀ɒyȉ	CVCCVVCV	ɛaɔi
+dhɛ̏lʌ́ʌ	CVCV̈V̈	ɛëë
+dhɛ̀n	CV	ɛ
+dhɛ̄n	CV	ɛ
+dhɛ̂n	CV	ɛ
+dhɛ̂ngā	CVCV	ɛa
+dhɛ́ŋ	CVCC	ɛ
+dhɛ̏pʌ́ʌ̏dhɛ	CVCV̈V̈CV	ɛëëɛ
+dhɛ̏púu	CVCVV	ɛuu
+dhɛ̏tīi	CVCVV	ɛii
+dhɛ̏tīidhɛ̏	CVCVVCV	ɛiiɛ
+dhɛ̏yàāpʌ̏	CVCVVCV̈	ɛaaë
+dhɛ̏yȁbhɛ̏n	CVCVCV	ɛaɛ
+dhȉ	CV	i
+dhī	CV	i
+dhī	CV	i
+dhí	CV	i
+dhìa	CVV	ia
+dhìa	CVV	ia
+dhìā	CVV	ia
+dhía	CVV	ia
+dhíȁan	CVVV	iaa
+dhīadhīan	CVVCVV	iaia
+dhȉan	CVV	ia
+dhìɒɒbhɛ̏n	CVVVCCV	iaɔɛ
+dhìʌ̄	CVV̈	ië
+dhìʌ̄bhɛ̏n	CVV̈CV	iëɛ
+dhìʌdhíʌn	CVV̈CVV̈	iëië
+dhìʌn	CVV̈	ië
+dhìʌ̂n	CVV̈	ië
+dhíʌŋ	CVV̈CC	ië
+dhȉdháa	CVCVV	iaa
+dhȉdháakʌ̄bhɛ̏n	CVCVVCV̈CV	iaaëɛ
+dhídhȁan	CVCVV	iaa
+dhídhȁanzʌ̏	CVCVVCV̈	iaaë
+dhȉdháapʌ̏	CVCVVCV̈	iaaë
+dhīdhe	CVCV	ie
+dhȉi	CVV	ii
+dhìī	CVV	ii
+dhìībɔ̏{-dhȕ}n	CVVCV {CV}	iiɔ {u}
+dhȉin	CVV	ii
+dhìin	CVV	ii
+dhīin	CVV	ii
+dhȉin kláŋ	CVV CCVCC	ii a
+dhȉizʌ̏	CVVCV̈	iië
+dhíkábhɛ̏n	CVCVCCV	iaɛ
+dhȉkúʌdhē	CVCVV̈CV	iuëe
+dhīŋ	CVCC	i
+dhȉo	CVV	io
+dhìɔ̄	CVV	iɔ
+dhíɔ̈n	CVV?	iɔ?
+dhȉɤ	CVV̈	iö
+dhíɤ	CVV̈	iö
+dhíɤ	CVV̈	iö
+dhíɤ	CVV̈	iö
+dhíɤ̏	CVV̈	iö
+dhíɤ-bɔ̄	CVV̈ CV	iö ɔ
+dhíɤ̏dhɛ	CVV̈CV	iöɛ
+dhíɤ-gán	CVV̈ CVC	iö a
+dhȉɤɤ	CVV̈V̈	iöö
+dhíɤ-sɯ́	CVV̈ CV̈	iö ü
+dhíɤtó	CVV̈CV	iöo
+dhíɤ-tó	CVV̈ CV	iö o
+dhíɤtódhɛ̏	CVV̈CVCV	iöoɛ
+dhȉɤyí	CVV̈CV	iöi
+dhíɤzʌ̏	CVV̈CV̈	iöë
+dhó	CV	o
+dhóʌ̏	CVV̈	oë
+dhódhón	CVCV	oo
+dhȍdhɔ́ɔpíɤsɯ̏zʌ̏	CVCVVCVV̈CV̈CV̈	oɔɔiöüë
+dhōɛ́nlɤ̏	CVVCV̈	oɛö
+dhȍkúʌ̏sɯ̏	CVCVV̈CV̈	ouëü
+dhóŋbho	CVCCCV	oo
+dhȍŋdho	CVCCCV	oo
+dhōŋzʌ̄bhɛ̏ɛn	CVCCCV̈CVV	oëɛɛ
+dhòŋ̂	CVCC	o
+dhòo	CVV	oo
+dhòō	CVV	oo
+dhóo	CVV	oo
+dhóȍ	CVV	oo
+dhòobɔ̏{-dhȕ}n	CVVCV {CV}	ooɔ {u}
+dhōo-dhȕn	CVVCV	oou
+dhɔ̏	CV	ɔ
+dhɔ́	CV	ɔ
+dhɔ̏dhɔ̏n	CVCV	ɔɔ
+dhɔ́dhɔ́n	CVCV	ɔɔ
+dhɔ̏kàā	CVCVV	ɔaa
+dhɔ̀n	CV	ɔ
+dhɔ̄n	CV	ɔ
+dhɔ̀ŋ	CVCC	ɔ
+dhɔ̀ŋ̄	CVCC	ɔ
+dhɔ̀ŋtrɔ̄ɔ̏	CVCCCCVV	ɔɔɔ
+dhɔ̀ŋtrɔ̄ɔ̏plɤ̀ɤ	CVCCCCVVCCV̈V̈	ɔɔɔöö
+dhɔ̀ɔ	CVV	ɔɔ
+dhɔ̀ɔ̄	CVV	ɔɔ
+dhɔ́ɔ	CVV	ɔɔ
+dhɔ́ɔ	CVV	ɔɔ
+dhɔ̀ɔ̄bhàa	CVVCVV	ɔɔaa
+dhɔ̀ɔ̄bhàadhʌ̏n	CVVCVVCV̈	ɔɔaaë
+dhɔ́ɔdɔ̄bhȁn	CVVCVCV	ɔɔɔa
+dhɔ̀ɔdhɔ́	CVVCV	ɔɔɔ
+dhɔ̀ɔdhɔ́n	CVVCV	ɔɔɔ
+dhɔ́ɔgɔ̏	CVVCV	ɔɔɔ
+dhɔ́ɔkóʌ̏dhɤ̄	CVVCVV̈CV̈	ɔɔoëö
+dhɔ̏ɔn	CVV	ɔɔ
+dhɔ̀ū	CVV	ɔu
+-dhɤ̄	CV̈	ö
+-dhɤ̄	CV̈	ö
+dhɤ́	CV̈	ö
+dhɤ́	CV̈	ö
+dhɤ́	CV̈	ö
+dhɤ́	CV̈	ö
+dhɤ́ʌ̏	CV̈V̈	öë
+dhɤ́n	CV̈	ö
+dhɤ̏ɤ	CV̈V̈	öö
+dhɤ́ɤdhɤ̏	CV̈V̈CV̈	ööö
+dhɤ́ɤdhɤɤ	CV̈V̈CV̈V̈	öööö
+dhú	CV	u
+dhú	CV	u
+dhȕaadhȕaadhɤ̄n	CVVVCVVVCV̈	uaauaaö
+dhȕaadhȕaan	CVVVCVVV	uaauaa
+dhȕaadhȕaan	CVVVCVVV	uaauaa
+dhȕaan	CVVV	uaa
+dhúadhȕadhɛn	CVVCVVCV	uauaɛ
+dhùan	CVV	ua
+dhūænzʌ̏	CVVVCV̈	uɛaë
+dhúʌ̏	CVV̈	uë
+dhūʌ̂n	CVV̈	uë
+dhúʌ̈nbɔ̏	CVV̈CV	uëɔ
+dhùen	CVV	ue
+dhūɛn	CVVV	uɛa
+dhȕn	CV	u
+dhūn	CV	u
+dhūn	CV	u
+dhȕɤ	CVV̈	uö
+dhūɤ	CVV̈	uö
+dhūɤ	CVV̈	uö
+dhūɤdhe	CVV̈CV	uöe
+dhūɤdhe tɤ́ŋ	CVV̈CV CV̈CC	uöe ö
+dhȕtīi	CVCVV	uii
+dhȕu	CVV	uu
+dhùu	CVV	uu
+dhùû	CVV	uu
+dhúu	CVV	uu
+dhúu púu	CVV CVV	uu uu
+dhúun	CVV	uu
+dhúun	CVV	uu
+dhúuŋ	CVVCC	uu
+dhúuŋgā	CVVCCCV	uua
+dhȕutīi	CVVCVV	uuii
+dhȕuzʌ̏	CVVCV̈	uuë
+n̄	C	
+dh̀n dh́n	C C	 
+n̄ká	CCV	a
+Ɗóȍdhɛ	DhVVCV	Dooɛ
+è	V	e
+ɛ̀	V	ɛ
+ɛ̀	V	ɛ
+fá	fV	fa
+fȁa	fVV	faa
+fāȁ	fVV	faa
+fáa	fVV	faa
+fáafȁ	fVVfV	faafa
+fàān	fVVC	faa
+fáfȁ	fVfV	fafa
+fʌ̀ɯ̄fʌ̀ɯ̄dhɤ	fV̈V̈fV̈V̈CV̈	fëüfëüö
+fɛ́ɛ	fVV	fɛɛ
+fɛ́ɛbhɛ̏n	fVVCV	fɛɛɛ
+fɛ̀ɛ̂n	fVVC	fɛɛ
+fɛ́ɛzʌ̏	fVVCV̈	fɛɛë
+fɛ́fɛ́dhɤ̄	fVfVCV̈	fɛfɛö
+fɛ̄i	fVV	fɛi
+fía	fVV	fia
+fíabhɛ̏n	fVVCV	fiaɛ
+fíasɯ̏	fVVCV̈	fiaü
+fìʌ̄	fVV̈	fië
+fȉʌfȉʌdhɤ̄	fVV̈fVV̈CV̈	fiëfiëö
+fìi	fVV	fii
+fȉn	fVC	fi
+fíŋ	fVCC	fi
+fíŋ	fVCCC	fi
+flá	fCV	fa
+flæ̏æn	fCVVC	fɛa
+flʌ́ʌ	fCV̈V̈	fëë
+flʌ́ʌ̏	fCV̈V̈	fëë
+flʌ́ʌflʌ́ʌ	fCV̈V̈fCV̈V̈	fëëfëë
+fléȅ	fCVV	fee
+flèŋ	fCVCC	fe
+flèŋdhʌ́	fCVCCCV̈	feë
+flɛ̏ɛn	fCVVC	fɛɛ
+flɛ́ŋ	fCVCCC	fɛ
+flíȉ	fCVV	fii
+flíŋ	fCVCCC	fi
+flɔ́	fCV	fɔ
+flɤ́	fCV̈	fö
+flū	fCV	fu
+flùflú	fCVfCV	fufu
+flùu	fCVV	fuu
+flɯ́	fCV̈	fü
+fɔ̏dhɤ̄	fVCV̈	fɔö
+fɔ̄ŋ	fVCC	fɔ
+fɤ̏	fV̈	fö
+fɤ̄dhɛ̏	fV̈CV	föɛ
+fɤ́ŋfɤ̏	fV̈CCfV̈	föfö
+fɤ́ɤ̏	fV̈V̈	föö
+fɤ̄ɤdhɛ̏	fV̈V̈CV	fööɛ
+fɤ́ɤfɤ̏	fV̈V̈fV̈	fööfö
+fɤ̄ɯ	fV̈V̈	föü
+fɤ̄yí	fV̈CV	föi
+fùʌ	fVV̈	fuë
+fùû	fVV	fuu
+gȁ	CV	a
+gā	CV	a
+gā	CV	a
+gā	CV	a
+gàan	CVVC	aa
+gàān	CVVC	aa
+gāgā	CVCV	aa
+gȁn	CVC	a
+gán	CVC	a
+gán	CVC	a
+gāzʌ̏	CVCV̈	aë
+gɒ̏ɒ	CVV	aɔ
+gʌ̄ʌpȉʌklú	CV̈V̈CVV̈CCV	ëëiëu
+gʌ̄n	CV̈C	ë
+gʌ̈n	CV̈C	ë
+gʌ̄ɯ	CV̈V̈	ëü
+gʌ̄ɯbhɛ̏n	CV̈V̈CV	ëüɛ
+gɛ̂	CV	ɛ
+gɛ̏an	CVVC	ɛa
+gɛ̀an	CVVC	ɛa
+gɛ̏dhʌ́ngā	CVCCV̈CV	ɛëa
+gɛ̏dhɛn	CVCCV	ɛɛ
+gɛ̏dhɛ́n	CVCCV	ɛɛ
+gɛ̏dhɛ́nkwɛ̄ɛdhɛ̏	CVCCVCwVVCV	ɛɛwɛɛɛ
+gɛ́ɛn	CVVC	ɛɛ
+gɛ́iŋ	CVVCC	ɛi
+gɛ̏n	CVC	ɛ
+gɛ̏ngȁlɯ́	CVCCVCV̈	ɛaü
+gɛ́ngɛ̏n	CVCCVC	ɛɛ
+gɛ̏nkpɤ̄ɯdhɛ̏	CVCCCV̈V̈CV	ɛöüɛ
+gɛ̏nkpɤ̄ɯdhɤ	CVCCCV̈V̈CV̈	ɛöüö
+gɛ̏nkwɛ̄ɛdhɛ̏	CVCCwVVCV	ɛwɛɛɛ
+gɛ̏nlȍbhɛ̏n	CVCCVCV	ɛoɛ
+gɛ́ŋkȍ	CVVCCCV	ɛio
+gȉ	CV	i
+gīȁ	CVV	ia
+gīȁgȉa	CVVCVV	iaia
+gīȁgȉawō	CVVCVVwV	iaiawo
+gȉan	CVVC	ia
+gīan	CVVC	ia
+gían	CVVC	ia
+gíanzʌ̏	CVVCCV̈	iaë
+gídhán	CVCV	ia
+gíȉ	CVV	ii
+gíin	CVVC	ii
+gíinzʌ̏	CVVCCV̈	iië
+gȉkpɛ́	CVCCV	iɛ
+gíŋ	CVCC	i
+gȉpȉn	CVCVC	ii
+glá	CCV	a
+glàȁ	CCVV	aa
+gláaglȁ	CCVVCCV	aaa
+glȁan	CCVVC	aa
+gláan	CCVVC	aa
+gládhiɤdhɛ̏	CCVCVV̈CV	aiöɛ
+gládhiɤsɯ́bhɛ̏n	CCVCVV̈CV̈CV	aiöüɛ
+glʌ́ŋglʌ̏ŋ	CCV̈CCCCV̈CC	ëë
+glègɔ̏	CCVCV	eɔ
+glȅŋ	CCVCC	e
+glȅŋzʌ̏	CCVCCCV̈	eë
+glɛ̏ŋ	CCVCC	ɛ
+glȉglȉdhɤ̄	CCVCCVCV̈	iiö
+glìī	CCVV	ii
+glìî	CCVV	ii
+glìīsɯ̏	CCVVCV̈	iiü
+glòo	CCVV	oo
+glòo	CCVV	oo
+glōo	CCVV	oo
+glɔ̄ŋdʌ̄	CCVCCCV̈	ɔë
+glɔ̀ɔ	CCVV	ɔɔ
+glɔ̄ɔ	CCVV	ɔɔ
+glɔ́ɔ	CCVV	ɔɔ
+glɔ́ɔglɔ̏	CCVVCCV	ɔɔɔ
+glɔ́ɔglɔ̏dhɛ	CCVVCCVCV	ɔɔɔɛ
+glɔ̀ɔsɯ̏	CCVVCV̈	ɔɔü
+glɔ̀ɔsɯ̏	CCVVCV̈	ɔɔü
+glɤ̀ɤ	CCV̈V̈	öö
+glɤ̀ɤbɔ̀ɔbhɛ̏n	CCV̈V̈CVVCV	ööɔɔɛ
+glȕ	CCV	u
+glȕ	CCV	u
+glȕ	CCV	u
+glú	CCV	u
+glúʌ̏kwȉ	CCVV̈CwV	uëwi
+glȕbhadháä	CCVCVCVV	uaaa
+glȕdʌ̄	CCVCV̈	uë
+glȕdhí	CCVCV	ui
+glúdhī	CCVCV	ui
+glùɛīn	CCVVVC	uɛi
+glùɛ̄n	CCVVC	uɛ
+glùɛ̄nzʌ̏	CCVVCCV̈	uɛë
+glȕgɔ̄bhɛ̏n	CCVCVCCV	uɔɛ
+glȕkʌ̄bhɛ̏n	CCVCV̈CV	uëɛ
+glȕkpá	CCVCCV	ua
+glȕpíɤpʌ̏	CCVCVV̈CV̈	uiöë
+glúsʌ̏	CCVCV̈	uë
+glúu	CCVV	uu
+glùūzʌ̏	CCVVCV̈	uuë
+glúyāabhɛ̏n	CCVCVVCV	uaaɛ
+glɯ́lɯ̏	CCV̈CV̈	üü
+glɯ̀ɯ̂	CCV̈V̈	üü
+glɯ́ɯzʌ̏	CCV̈V̈CV̈	üüë
+gȍ	CV	o
+gó	CV	o
+gȍo	CVV	oo
+gòȍ	CVV	oo
+gōo	CVV	oo
+gōô	CVV	oo
+góo	CVV	oo
+góö	CVV	oo
+góo dhòo dɔ̏ɔ	CVV CVV CVV	oo oo ɔɔ
+gɔ̏	CV	ɔ
+gɔ̏	CV	ɔ
+gɔ̏	CV	ɔ
+gɔ̄	CV	ɔ
+gɔ́	CV	ɔ
+gɔ́	CV	ɔ
+gɔ̂	CV	ɔ
+gɔ́bhȁn	CVCV	ɔa
+gɔ̏bhɛ̏n	CVCV	ɔɛ
+gɔ̄bhìʌ̄n	CVCVV̈	ɔië
+gɔ̏dhíɤbhɛ̏n	CVCVV̈CV	ɔiöɛ
+gɔ̏gā	CVCV	ɔa
+gɔ̏gȁgɯ́dhɛ̏	CVCVCV̈CV	ɔaüɛ
+gɔ̏n	CVC	ɔ
+gɔ̏n	CVC	ɔ
+gɔ̀n	CVC	ɔ
+gɔ̄n	CVC	ɔ
+gɔ̄ŋgɔ̄ŋ	CVCCCVCC	ɔɔ
+gɔ́ɔ	CVV	ɔɔ
+gɔ́ɔ̏	CVV	ɔɔ
+gɔ́ɔ̏	CVV	ɔɔ
+gɔ̄ɔ̏bhɛ̏dhēn	CVVCCVCV	ɔɔɛe
+gɔ̀ɔbhɛ̏n	CVVCCV	ɔɔɛ
+gɔ̏ɔn	CVVC	ɔɔ
+gɔ̀ɔn	CVVC	ɔɔ
+gɔ̀ɔ̄n	CVVC	ɔɔ
+gɔ̄ɔ̏n	CVVC	ɔɔ
+gɔ̄ɔ̏ndʌ̄	CVVCCV̈	ɔɔë
+gɔ̄ɔ̏ndē	CVVCCV	ɔɔe
+gɔ̄ɔ̏ngbóȍ	CVVCCCVV	ɔɔoo
+gɔ̄ɔ̏nklɤ̀ɤ	CVVCCCV̈V̈	ɔɔöö
+gɔ́ɔnyùā	CVVCCVV	ɔɔua
+gɔ̄ɔpʌ̏	CVVCV̈	ɔɔë
+gɔ̏pʌ̏	CVCV̈	ɔë
+gɔ́ugɔ̏	CVVCV	ɔuɔ
+gɔ́ugɔ̏	CVVCV	ɔuɔ
+gɔ̀ɯ̄	CVV̈	ɔü
+gɤ́ŋ̏	CV̈CC	ö
+gɤ̀ɤ̏	CV̈V̈	öö
+gū	CV	u
+gú	CV	u
+gȕa	CVV	ua
+gùʌ̄	CVV̈	uë
+gúɛdúkpȍ	CVVCVCCV	uɛuo
+gúɛfīʌn	CVVfVV̈C	uɛfië
+gúgbɔ̄	CVCCV	uɔ
+gúlɤ̀tȁ	CVCV̈CV	uöa
+gȕŋ	CVCCC	u
+gùŋzȉʌ	CVCCCVV̈	uië
+gȕɤ	CVV̈	uö
+gùɤ̄	CVV̈	uö
+gȕɤgā	CVV̈CV	uöa
+gȕɤgbɔ̄ŋ	CVV̈CCVCC	uöɔ
+gȕɤkpɤ̄	CVV̈CCV̈	uöö
+gȕɤpúuyí	CVV̈CVVCV	uöuui
+gúu	CVV	uu
+gúudʌ̄	CVVCV̈	uuë
+gùun	CVVC	uu
+gúun	CVVC	uu
+gɯ́	CV̈	ü
+gɯ́	CV̈	ü
+gɯ́ʌ	CV̈V̈	üë
+gɯ́ʌŋgɯ̏ʌŋ	CV̈V̈CCCV̈V̈CC	üëüë
+gɯ́-dān	CV̈ CVC	ü a
+gɯ́-gā	CV̈ CV	ü a
+gɯ́gādhe	CV̈CVCV	üae
+gɯ́glȕdhē	CV̈CCVCV	üue
+gɯ̀ŋ̄	CV̈CC	ü
+gɯ̀ŋ̄zʌ̏	CV̈CCCV̈	üë
+gɯ́ɤ	CV̈V̈	üö
+gɯ́-sìɤ̂	CV̈ CVV̈	ü iö
+gɯ́sìɤ̂bhɛ̄n	CV̈CVV̈CV	üiöɛ
+gɯ́sìɤ̂dhē	CV̈CVV̈CV	üiöe
+gɯ́sìɤ̂sɯ̏	CV̈CVV̈CV̈	üiöü
+gɯ́ɯzʌ̏	CV̈V̈CV̈	üüë
+gbȁ	CCV	a
+gbà	CCV	a
+gbà	CCV	a
+gbā	CCV	a
+gbā	CCV	a
+gbā	CCV	a
+gbá	CCV	a
+gbâ	CCV	a
+gbȁa	CCVV	aa
+gbȁa	CCVV	aa
+gbàā	CCVV	aa
+gbāa	CCVV	aa
+gbāa	CCVV	aa
+gbáa	CCVV	aa
+gbàabóŋ	CCVVCVCC	aao
+gbàādhūn	CCVVCCV	aau
+gbàāgā	CCVVCV	aaa
+gbāȁn	CCVVC	aa
+gbàāzɔ̀ŋ̄	CCVVCVCC	aaɔ
+gbȁbhɯɤ	CCVCV̈V̈	aüö
+gbȁdhɛn	CCVCCV	aɛ
+gbágɛ̀īnpʌ̏	CCVCVVCCV̈	aɛië
+gbāklɯ̄dʌ̄	CCVCCV̈CV̈	aüë
+gbȁn	CCVC	a
+gbàn	CCVC	a
+gbān	CCVC	a
+gbán	CCVC	a
+gbân	CCVC	a
+gbân	CCVC	a
+gbántȁ	CCVCCV	aa
+gbāntʌ́ʌ	CCVCCV̈V̈	aëë
+gbȁntȉa	CCVCCVV	aia
+gbánzlɤ̀ɤdhɛ̏	CCVCCCV̈V̈CV	aööɛ
+gbáŋklú	CCVCCCCCV	au
+gbāŋkɔ́	CCVCCCV	aɔ
+gbāpʌ̏	CCVCV̈	aë
+gbȁvían	CCVvVVC	avia
+gbɒ̄ɒ	CCVV	aɔ
+gbɒ̀ɒn	CCVVC	aɔ
+gbɒ̀ɒnsɯ̏	CCVVCCV̈	aɔü
+gbɒ̄ɒpʌ̏	CCVVCV̈	aɔë
+gbǣæ̏	CCVV	ɛa
+gbǣæ̏	CCVV	ɛa
+gbæ̀æ̂n	CCVVC	ɛa
+gbʌ́	CCV̈	ë
+gbʌ̄ŋ̏	CCV̈CC	ë
+gbʌ̄ŋ̏bhɯɤ	CCV̈CCCV̈V̈	ëüö
+gbʌ̄ŋ̏gā	CCV̈CCCV	ëa
+gbʌ́ŋgbʌ̏ŋ	CCV̈CCCCV̈CC	ëë
+gbʌ̏ɯ	CCV̈V̈	ëü
+gbʌ̀ɯ	CCV̈V̈	ëü
+gbʌ̏ɯgbʌ̏ɯ	CCV̈V̈CCV̈V̈	ëüëü
+gbēdhēnkȕn	CCVCVCVC	eeu
+gbédhiɤbɔ̄pʌ̏	CCVCVV̈CVCV̈	eiöɔë
+gbéȅ	CCVV	ee
+gbéegbȅ	CCVVCCV	eee
+gbéëzʌ̏	CCVVCV̈	eeë
+gbèī	CCVV	ei
+gbȅŋ	CCVCC	e
+gbēŋ	CCVCC	e
+gbēŋbhɛ̏ɛ	CCVCCCVV	eɛɛ
+gbēŋgbànlɯ̏	CCVCCCCVCCV̈	eaü
+gbēŋgbēŋ	CCVCCCCVCC	ee
+gbɛ̄	CCV	ɛ
+gbɛ́a	CCVV	ɛa
+gbɛ́a	CCVV	ɛa
+gbɛ́ɛdhɤ̄	CCVVCV̈	ɛɛö
+gbɛ̀ɛn	CCVVC	ɛɛ
+gbɛ̀ɛn	CCVVC	ɛɛ
+gbɛ́gbɛ̏	CCVCCV	ɛɛ
+gbɛ̄gbɛ̄zʌ̏	CCVCCVCV̈	ɛɛë
+gbɛ́ï	CCVV	ɛi
+gbɛ̀iŋ	CCVVCC	ɛi
+gbɛ̂n	CCVC	ɛ
+gbía	CCVV	ia
+gbīidhɤn	CCVVCCV̈	iiö
+gbìin	CCVVC	ii
+gbíiŋ̈	CCVVCC	ii
+gbíngbȉn	CCVCCCVC	ii
+gbío	CCVV	io
+gbȉɤ	CCVV̈	iö
+gblá	CCCV	a
+gblàā	CCCVV	aa
+gblàȁgblá	CCCVVCCCV	aaa
+gblāŋ	CCCVCC	a
+gbláudhɤ̄	CCCVVCV̈	auö
+gblɒ̏ɒn	CCCVVC	aɔ
+gblʌ́	CCCV̈	ë
+gblʌ̀ʌ̂	CCCV̈V̈	ëë
+gblʌ̏ʌ gú tȁ wɯ̏	CCCV̈V̈ CV CV wV̈	ëë u a wü
+gblʌ̄ʌ̂n	CCCV̈V̈C	ëë
+gblɛ̏ibȉzʌ̏	CCCVVCVCV̈	ɛiië
+gbló	CCCV	o
+gblōŋ	CCCVCC	o
+gblȍo	CCCVV	oo
+gblòo	CCCVV	oo
+gblōo	CCCVV	oo
+gblȍo dhʌ́n	CCCVV CV̈	oo ë
+gblɔ̏dhēslʌ̄n	CCCVCVCCV̈C	ɔeë
+gblɔ̄ɔ	CCCVV	ɔɔ
+gblɤ́gblɤ́	CCCV̈CCCV̈	öö
+gblɯ́	CCCV̈	ü
+gblɯ̄ʌ	CCCV̈V̈	üë
+gblɯ̄ʌdhūn	CCCV̈V̈CCV	üëu
+gblɯ̏ŋ	CCCV̈CC	ü
+gblɯ̏ɯn	CCCV̈V̈C	üü
+gblɯ́ɯnzʌ̏	CCCV̈V̈CCV̈	üüë
+gbȍ	CCV	o
+gbō	CCV	o
+gbó	CCV	o
+gbō kɔ́	CCV CV	o ɔ
+gbȍa	CCVV	oa
+gbōbhɯ̀ɤ	CCVCV̈V̈	oüö
+gbōgā	CCVCV	oa
+gbóŋgbó	CCVCCCCV	oo
+gbōŋgbōdhɤ	CCVCCCCVCV̈	ooö
+gbóö	CCVV	oo
+gbóödhɛ̏	CCVVCV	ooɛ
+gbɔ̄	CCV	ɔ
+gbɔ̄	CCV	ɔ
+gbɔ́	CCV	ɔ
+gbɔ̀ngbɔ̀nsɯ̏	CCVCCCVCCV̈	ɔɔü
+gbɔ̄ŋgbɔ̄	CCVCCCCV	ɔɔ
+gbɔ̄ŋgbɔ́	CCVCCCCV	ɔɔ
+gbɔ̄ŋgbɔ̄ tȉa	CCVCCCCV CVV	ɔɔ ia
+gbɔ̀ŋ̂	CCVCC	ɔ
+gbɔ̀ɔ̄	CCVV	ɔɔ
+gbɔ̏ɔn	CCVVC	ɔɔ
+gbɔ̄ɔ̂n	CCVVC	ɔɔ
+gbɔ́ɔtōo	CCVVCVV	ɔɔoo
+gbɔ̄sɛ́	CCVCV	ɔɛ
+gbɔ̏udhɤ̄	CCVVCV̈	ɔuö
+gbɤ̄	CCV̈	ö
+gbɤ̏ŋ	CCV̈CC	ö
+gbȕa	CCVV	ua
+gbúʌ̈ {lɯ́}	CCVV̈ {CV̈}	uë {ü}
+gbuɛ	CCVV	uɛ
+gbūŋ	CCVCC	u
+gbɯ̄ŋ	CCV̈CC	ü
+gwā	CwV	wa
+gwȁa	CwVV	waa
+gwāâdhɛ̏	CwVVCV	waaɛ
+gwāâdhɤ	CwVVCV̈	waaö
+gwāan	CwVVC	waa
+gwāndhē	CwVCCV	wae
+gwàngā	CwVCCV	waa
+gwʌ̏ʌ	CwV̈V̈	wëë
+gwɛ̂	CwV	wɛ
+gwɛ̏ɛ	CwVV	wɛɛ
+ì	V	i
+ìȉ	VV	ii
+īn	VC	i
+íŋ	VCCC	i
+kȁ	CV	a
+kā	CV	a
+kā	CV	a
+kā	CV	a
+ká	CV	a
+ká	CV	a
+ká	CV	a
+ká	CV	a
+ká	CV	a
+kä	CV	a
+kâ	CV	a
+kàȁ	CVV	aa
+kàā	CVV	aa
+kāa	CVV	aa
+kāȁ	CVV	aa
+kāȁ	CVV	aa
+kāȁ	CVV	aa
+kāȁ	CVV	aa
+kāȁ	CVV	aa
+káa	CVV	aa
+káa	CVV	aa
+kāâgā	CVVCV	aaa
+kàān	CVVC	aa
+kàān	CVVC	aa
+kàān	CVVC	aa
+kàân	CVVC	aa
+káän	CVVC	aa
+kȁantȁ	CVVCCV	aaa
+kāfé	CVfV	afe
+káfé yí	CVfV CV	afe i
+kāflēe	CVfCVV	afee
+kāká	CVCV	aa
+kȁkàō	CVCVV	aao
+kálé	CVCV	ae
+kán	CVC	a
+kán bhɔ̏	CVC CV	a ɔ
+kȁnsō	CVCCV	ao
+kāŋ̏	CVCC	a
+káŋbáä	CVCCCVV	aaa
+kāŋ{kā}-dhȕn	CVCC {CV} CV	a {a} u
+kɒ̀ɒ	CVV	aɔ
+kɒ̄ɒ	CVV	aɔ
+kɒ́ɒ	CVV	aɔ
+kʌ̄	CV̈	ë
+kʌ̄dhɛ̏	CV̈CV	ëɛ
+kʌ̏ŋ	CV̈CC	ë
+kʌ̏ŋ	CV̈CCC	ë
+kʌ̀ŋ̄	CV̈CC	ë
+kʌ̀ŋ̄	CV̈CCC	ë
+kʌ̄pʌ̏yāa	CV̈CV̈CVV	ëëaa
+kʌ̏ɯ	CV̈V̈	ëü
+kʌ́ɯ	CV̈V̈	ëü
+kʌ̄wȕn	CV̈wVC	ëwu
+kê	CV	e
+kèȅ	CVV	ee
+kée	CVV	ee
+kèȉ	CVV	ei
+kèȉdhɛ	CVVCV	eiɛ
+kèȉdhɤ̄	CVVCV̈	eiö
+kɛ̀adhē	CVVCV	ɛae
+kɛ́ɛ	CVV	ɛɛ
+kɛ́ɛ	CVV	ɛɛ
+kɛ́ɛ bhɔ̏a	CVV CVV	ɛɛ ɔa
+kɛ̏i	CVV	ɛi
+kɛ̏i sȍo	CVV CVV	ɛi oo
+kɛ̏i zlɤ̀ɤ	CVV CCV̈V̈	ɛi öö
+kɛ̏idhɛ	CVVCV	ɛiɛ
+kɛ̀n	CVC	ɛ
+kɛ̀ngā	CVCCV	ɛa
+kɛ̈npʌ̄	CVCCV̈	ɛë
+kìā	CVV	ia
+kíakȉa	CVVCVV	iaia
+kìān	CVVC	ia
+kìān	CVVC	ia
+kían	CVVC	ia
+kíin	CVVC	ii
+kínzūu	CVCCVV	iuu
+kìoŋgbɔ̄	CVVCCCCV	ioɔ
+klȁa	CCVV	aa
+klȁa kpūdhe	CCVV CCVCV	aa ue
+klȁagā	CCVVCV	aaa
+klāan	CCVVC	aa
+klàŋ̄	CCVCC	a
+kláŋ	CCVCC	a
+klàŋ̄ dhʌ́n	CCVCC CV̈	a ë
+klàŋ̄ kɔ́	CCVCC CV	a ɔ
+klàŋ̄gɔ̏bhɛ̏n	CCVCCCVCV	aɔɛ
+klàŋ̄gɔ̏dhe	CCVCCCVCV	aɔe
+klɒ̄ɒ	CCVV	aɔ
+klɒ́ŋ̈	CCVVCC	aɔ
+klʌ̏ʌ	CCV̈V̈	ëë
+klʌ́ʌklʌ̏	CCV̈V̈CCV̈	ëëë
+klʌ́ʌklʌ̏dhɛ	CCV̈V̈CCV̈CV	ëëëɛ
+klʌ̀ʌn	CCV̈V̈C	ëë
+klʌ̀ʌn	CCV̈V̈C	ëë
+klʌ́n	CCV̈C	ë
+klʌ̄ŋ	CCV̈CC	ë
+klɛ̄yɔ̈n	CCVCVC	ɛɔ
+kló	CCV	o
+klòâ	CCVV	oa
+klóbhɔ̄dhe	CCVCVCV	oɔe
+klòȍ	CCVV	oo
+klòô	CCVV	oo
+klɔ́	CCV	ɔ
+klɔ̀ȁ	CCVV	ɔa
+klɔ́a	CCVV	ɔa
+klɔ̏ŋ	CCVCC	ɔ
+klɔ́ɔklɔ̏	CCVVCCV	ɔɔɔ
+klɔ̀ɔ̏n	CCVVC	ɔɔ
+klɤ̏	CCV̈	ö
+klɤ́ŋgbɤ̄	CCV̈CCCCV̈	öö
+klɤ̏ɤ	CCV̈V̈	öö
+klɤ̀ɤ	CCV̈V̈	öö
+klɤ̀ɤ̄	CCV̈V̈	öö
+klɤ̀ɤ̄	CCV̈V̈	öö
+klɤ̀ɤ̄dhɤ	CCV̈V̈CV̈	ööö
+klɤ̀ɤ̄klɤ̀ɤ̄	CCV̈V̈ CCV̈V̈	öö öö
+klɤ̀ɤ̄klɤ̀ɤ̄	CCV̈V̈ CCV̈V̈	öö öö
+klɤ̀ɤklɤ̀ɤ{-dhȕ}n	CCV̈V̈ CCV̈V̈ {CV}	öö öö {u}
+klɤ̀ɤ̄zʌ̏	CCV̈V̈CV̈	ööë
+klȕ	CCV	u
+klú	CCV	u
+klú	CCV	u
+klȕ kɤ́dhɤ̄ŋgɤ́	CCV CV̈CV̈CCCV̈	u ööö
+klùʌ̏	CCVV̈	uë
+klūʌ	CCVV̈	uë
+klūʌdhūn	CCVV̈CCV CV̈	uëu ü
+klùū	CCVV	uu
+kȍ	CV	o
+kō	CV	o
+kō	CV	o
+kō	CV	o
+kó	CV	o
+kó	CV	o
+kó	CV	o
+kö	CV	o
+kô	CV	o
+kōʌ	CVV̈	oë
+kōʌ̏	CVV̈	oë
+kōʌ̏	CVV̈	oë
+kóʌ	CVV̈	oë
+kóʌ	CVV̈	oë
+kóʌ̏	CVV̈	oë
+kóʌʌ	CVV̈V̈	oëë
+kóʌ̏ʌn	CVV̈V̈C	oëë
+kōgȁ	CVCV	oa
+kōká	CVCV	oa
+kòŋ	CVCC	o
+kōŋ̏	CVCC	o
+kȍo	CVV	oo
+kósɯ́dhē	CVCV̈CV	oüe
+kɔ̏	CV	ɔ
+kɔ̏	CV	ɔ
+kɔ̏	CV	ɔ
+kɔ̏	CV	ɔ
+kɔ́	CV	ɔ
+kɔ̏apʌ̄	CVVCV̈	ɔaë
+kɔ́bhádhán	CVCCVCV	ɔaa
+kɔ́bhíŋdhɤ̄	CVCCVCCCV̈	ɔiö
+kɔ̏dhʌ́ngā	CVCV̈CV	ɔëa
+kɔ̏dhʌ́ngā dɔ̄ zīʌn	CVCV̈CV CV CVV̈C	ɔëa ɔ ië
+kɔ̏dhʌ́ngā gɔ̄n	CVCV̈CV CVC	ɔëa ɔ
+kɔ̏dhʌ́ngā gbáazʌ̏	CVCV̈CV CCVVCV̈	ɔëa aaë
+kɔ̏dhʌ́ngā vàzʌ̏	CVCV̈CV vVCV̈	ɔëa vaë
+kɔ́dhʌ́ntée	CVCV̈CVV	ɔëee
+kɔ̏dhɛ	CVCV	ɔɛ
+kɔ̏dhɛ́	CVCV	ɔɛ
+kɔ̏dhɛkwɛ̏ɛ	CVCVCwVV	ɔɛwɛɛ
+kɔ̏dhɛtȁa	CVCVCVV	ɔɛaa
+kɔ́dhi	CVCV	ɔi
+kɔ́dhɔ̏ŋdhɔ́	CVCVCCCV	ɔɔɔ
+kɔ̏klʌ̀ {ɛ̀}?	CVCCV̈ {V}?	ɔë {ɛ}?
+kɔ̏kpȉ	CVCCV	ɔi
+kɔ̏kpɤ̄	CVCCV̈	ɔö
+kɔ̏kpɤ̄ɤdhɛ̏	CVCCV̈V̈CV	ɔööɛ
+kɔ̏kwɛ̄ɛ	CVCwVV	ɔwɛɛ
+kɔ̏kwɛ̄ɛdhɛ̏	CVCwVVCV	ɔwɛɛɛ
+kɔ̏lɤ̀ɤ	CVCV̈V̈	ɔöö
+kɔ́nkɔ̏n	CVCCVC	ɔɔ
+kɔ̄ŋ	CVCC	ɔ
+kɔ̏ɔ	CVV	ɔɔ
+kɔ̏ɔ	CVV	ɔɔ
+kɔ̄ɔ	CVV	ɔɔ
+kɔ̀ɔbhɛ̏n	CVVCCV	ɔɔɛ
+kɔ̄ɔbhɛ̏n	CVVCV	ɔɔɛ
+kɔ̄ɔdhɛ̏	CVVCV	ɔɔɛ
+kɔ̀ɔngɔ̏ɔn	CVVCCVVC	ɔɔɔɔ
+kɔ̏tȁa	CVCVV	ɔaa
+kɤ̏	CV̈	ö
+kɤ̄	CV̈	ö
+kɤ́	CV̈	ö
+kɤ̀dhàn kɤ́dhán	CV̈CV CV̈CV	öa öa
+kɤ́dhánkɤ̏dhȁn	CV̈CVCV̈CV	öaöa
+kɤ̏pʌ̄	CV̈CV̈	öë
+kú	CV	u
+kūʌdhūn	CVV̈CCV	uëu
+kúbhádhán	CVCVCV	uaa
+kȕlȕ	CVCV CV̈	uu ü
+kùn	CVC	u
+kùn	CVC	u
+kūn	CVC	u
+kún	CVC	u
+kùŋ̂	CVCC	u
+kùɤ̏	CVV̈	uö
+kȕɤgā	CVV̈CV	uöa
+kȕu	CVV	uu
+kɯ̄ʌkɯ̄ʌ	CV̈V̈CV̈V̈	üëüë
+kpȁ	CCV	a
+kpȁ	CCV	a
+kpā	CCV	a
+kpá	CCV	a
+kpá	CCV	a
+kpȁa	CCVV	aa
+kpàa	CCVV	aa
+kpáä	CCVV	aa
+kpàadhɛ̏n	CCVVCCV	aaɛ
+kpàakpá	CCVVCCV	aaa
+kpáakpȁ	CCVVCCV	aaa
+kpáakpȁdhɛ	CCVVCCVCV	aaaɛ
+kpáan	CCVVC	aa
+kpàanzʌ̏	CCVVCCV̈	aaë
+kpâbhɔ̏n	CCVCCV	aɔ
+kpádhɤ̄	CCVCV̈	aö
+kpȁkpȁdhɤ̄	CCVCCVCV̈	aaö
+kpákpádhɤ̄	CCVCCVCV̈	aaö
+kpān	CCVC	a
+kpán	CCVC	a
+kpán	CCVC	a
+kpanklù	CCVCCCV	au
+kpāsɛ̄n	CCVCVC	aɛ
+kpàɯ̏	CCVV̈	aü
+kpɒ̀ɒ̄	CCVV	aɔ
+kpɒ̀ɒ̄	CCVV	aɔ
+kpɒ̀ɒ̄zʌ̏	CCVVCV̈	aɔë
+kpæ̀ǣ	CCVV	ɛa
+kpǽæ	CCVV	ɛa
+kpʌ̀	CCV̈	ë
+kpʌ̄	CCV̈	ë
+kpʌ́dhɤ̄	CCV̈CV̈	ëö
+kpʌ̏n	CCV̈C	ë
+kpʌ̀ŋ	CCV̈CC	ë
+kpʌ̀ŋ	CCV̈CCC CV̈	ë ü
+kpʌ́ŋ	CCV̈CCC	ë
+kpʌ́ŋ̈	CCV̈CCC	ë
+kpʌ́ŋ̈zʌ̏	CCV̈CCCCV̈	ëë
+kpʌ̀ɯ	CCV̈V̈	ëü
+kpʌ̀ɯ̄	CCV̈V̈	ëü
+kpédhán	CCVCV	ea
+kpée	CCVV	ee
+kpée	CCVV	ee
+kpéŋ	CCVCC	e
+kpéŋ sīɔgā	CCVCC CVVCV	e iɔa
+kpēŋdhɤ	CCVCCCV̈	eö
+kpɛ́ȁnkpɛ́ȁdhɤ̄n	CCVVCCCVVCCV̈	ɛaɛaö
+kpɛ́ɛdhɤ̄	CCVVCV̈	ɛɛö
+kpɛ́ɛkpɛ́	CCVVCCV	ɛɛɛ
+kpɛ̄ɛn	CCVVC	ɛɛ
+kpɛ́i	CCVV	ɛi
+kpɛ́kpɛ́	CCVCCV	ɛɛ
+kpɛ̄ŋ	CCVCC	ɛ
+kpɛ̄ŋdhɤ	CCVCCCCV̈	ɛö
+kpɛ̄ŋdhɤ	CCVCCCCV̈	ɛö
+kpɛ̏zʌ̏	CCVCV̈	ɛë
+kpìādhɤn	CCVVCCV̈	iaö
+kpíänkpíädhɤ̄n	CCVVCCCVVCCV̈	iaiaö
+kpíankpȉan	CCVVCCCVVC	iaia
+kpíʌkpȉʌ	CCVV̈CCVV̈	iëië
+kpíï	CCVV	ii
+kpīidhɤn	CCVVCCV̈	iiö
+kpȉin	CCVVC	ii
+kpȉiŋ	CCVVCC	ii
+kpȉiŋgā	CCVVCCCV	iia
+kpíïzʌ̏	CCVVCV̈	iië
+kpíkpȉ	CCVCCV	ii
+kpȉŋ	CCVCC	i
+kpȉŋ	CCVCC	i
+kpȉŋ	CCVCCC	i
+kpīŋdhɤ	CCVCCCV̈	iö
+kpȉŋgā	CCVCCCV	ia
+kpȉŋgā	CCVCCCCV	ia
+kplȁ	CCCV	a
+kplá	CCCV	a
+kpláakplȁ	CCCVVCCCV	aaa
+kpláakplȁdhɛ	CCCVVCCCVCV	aaaɛ
+kplán	CCCVC	a
+kplȁwō	CCCVwV	awo
+kplɒ̏ɒ	CCCVV	aɔ
+kplʌ̀ʌ	CCCV̈V̈	ëë
+kplʌ́n	CCCV̈C	ë
+kplɛ̏	CCCV	ɛ
+kplɛ̏kplɛ́	CCCVCCCV	ɛɛ
+kpló	CCCV	o
+kplóŋ	CCCVCC	o
+kplòo	CCCVV	oo
+kplōo	CCCVV	oo
+kplɔ̄	CCCV	ɔ
+kplɔ̏ŋgȅ	CCCVCCCV	ɔe
+kplɔ́ŋkplɔ̏ŋ	CCCVCCCCCVCC	ɔɔ
+kplɔ̀ɔ̄	CCCVV	ɔɔ
+kplɔ̄ɔn	CCCVVC	ɔɔ
+kplɔ̄ɔngā	CCCVVCCV	ɔɔa
+kplɤ́	CCCV̈	ö
+kplɤ̄ɤ̂	CCCV̈V̈	öö
+kplɤ́zȕɤbhɛ̏n	CCCV̈CVV̈CV	öuöɛ
+kplūʌn	CCCVV̈C	uë
+kplùū	CCCVV	uu
+kplɯ̀ʌ̄kplɯ̏ʌkplɯ̀ʌ̄dhɤ	CCCV̈V̈CCCV̈V̈CCCV̈V̈CV̈	üëüëüëö
+kplɯ̄ŋ	CCCV̈CC	ü
+kplɯ̄ŋzʌ̏	CCCV̈CCCV̈	üë
+kpȍ	CCV	o
+kpó	CCV	o
+kpódha	CCVCV	oa
+kpódhazʌ̏	CCVCVCV̈	oaë
+kpódhɤ̄	CCVCV̈	oö
+kpókpódhɤ̄	CCVCCVCV̈	ooö
+kpȍlɯ́	CCVCV̈	oü
+kpȍŋ	CCVCC	o
+kpōŋ	CCVCC	o
+kpōŋ	CCVCC	o
+kpóŋ	CCVCC	o
+kpòŋdhēe	CCVCCCVV	oee
+kpòŋdhēe	CCVCCCVV	oee
+kpóŋtàa	CCVCCCVV	oaa
+kpóŋtàadhɛ̏	CCVCCCVVCV	oaaɛ
+kpòō	CCVV	oo
+kpōo	CCVV	oo
+kpòōdhɛ̏	CCVVCV	ooɛ
+kpɔ́	CCV	ɔ
+kpɔ̄a	CCVV	ɔa
+kpɔ́bhɛ̏n	CCVCV	ɔɛ
+kpɔ̄n	CCVC	ɔ
+kpɔ̄ngɔ̏	CCVCCV	ɔɔ
+kpɔ̄ŋ	CCVCC	ɔ
+kpɔ̏ɔ	CCVV	ɔɔ
+kpɔ̀ɔ̏	CCVV	ɔɔ
+kpɔ̏ɔ kpɤ̄	CCVV CCV̈	ɔɔ ö
+kpɔ̀ɔ yīʌ	CCVV CVV̈	ɔɔ ië
+kpɔ̏ɔn	CCVVC	ɔɔ
+kpɤ̄	CCV̈	ö
+kpɤ̄nglɤ̄ɤ	CCV̈CCCV̈V̈	ööö
+kpɤ̄ɤ	CCV̈V̈	öö
+kpɤ́ɤ	CCV̈V̈	öö
+kpɤ́ɤ̈kpȁŋgȍ	CCV̈V̈CCVCCCV	ööao
+kpɤ́ɯ	CCV̈V̈	öü
+kpū	CCV	u
+kpȕa	CCVV	ua
+kpȕa	CCVV	ua
+kpūan	CCVVC	ua
+kpúʌ	CCVV̈	uë
+kpúdhɤ̄	CCVCV̈	uö
+kpúkpúdhɤ̄	CCVCCVCV̈	uuö
+kpūŋ	CCVCC	u
+kpɯ́dhɤ̄	CCV̈CV̈	üö
+kwȁ	CwV	wa
+kwā	CwV	wa
+kwā	CwV	wa
+kwā	CwV	wa
+kwá	CwV	wa
+kwá	CwV	wa
+kwá	CwV	wa
+kwä	CwV	wa
+kwâ	CwV	wa
+kwàȁ	CwVV	waa
+kwàâ	CwVV	waa
+kwāa	CwVV	waa
+kwāȁ	CwVV	waa
+kwāȁ	CwVV	waa
+kwáa	CwVV	waa
+kwáä	CwVV	waa
+kwàabhɛ̏n	CwVVCCV	waaɛ
+kwàan	CwVVC	waa
+kwáän	CwVVC	waa
+kwàanglȕdȁbhɛ̏n	CwVVCCCVCVCV	waauaɛ
+kwàansɯ̏	CwVVCCV̈	waaü
+kwāâzʌ̏	CwVVCV̈	waaë
+kwāká	CwVCV	waa
+kwán	CwVC	wa
+kwāŋ̏	CwVCC	wa
+kwæ̀æ	CwVV	wɛa
+kwǽæ	CwVV	wɛa
+kwǽæ̏dhɛn	CwVVCCV	wɛaɛ
+kwǽæ̏dhɤ̄n	CwVVCCV̈	wɛaö
+kwǽæ̏n	CwVVC	wɛa
+kwʌ̄ʌ̏	CwV̈V̈	wëë
+kwēe	CwVV	wee
+kwēezʌ̏	CwVVCV̈	weeë
+kwēezɤ̄	CwVVCV̈	weeö
+kwɛ̏	CwV	wɛ
+kwɛ̄	CwV	wɛ
+kwɛ̀ɛ̏	CwVV	wɛɛ
+kwɛ̀ɛ̏	CwVV	wɛɛ
+kwɛ̀ɛ̄	CwVV	wɛɛ
+kwɛ̀ɛ̄	CwVV	wɛɛ
+kwɛ̄ɛ	CwVV	wɛɛ
+kwɛ́ɛ	CwVV	wɛɛ
+kwɛ̄ɛdhɛ̏	CwVVCV	wɛɛɛ
+kwɛ́ɛ̈dhɛ̏n	CwVVCCV	wɛɛɛ
+kwɛ̄ɛ̂zʌ̏	CwVVCV̈	wɛɛë
+kwɛ́i	CwVV	wɛi
+kwɛ́n yȁn	CwVC CVC	wɛ a
+kwī	CwV	wi
+kwí	CwV	wi
+kwí plɤ̀ɤ	CwV CCV̈V̈	wi öö
+kwí plɤ̀ɤ dhɛ̏	CwV CCV̈V̈ CV	wi öö ɛ
+kwí pɤ̂ và	CwV CV̈ vV	wi ö va
+kwí tɔ̏	CwV CV	wi ɔ
+kwíä bhɔ̏n	CwVV CV	wia ɔ
+kwíʌ̈dhóo	CwVV̈CVV	wiëoo
+kwīgā	CwVCV	wia
+kwīgā kʌ̄ bhɛ̏n	CwVCV CV̈ CV	wia ë ɛ
+kwīgā kɔ̀ɔn bhɛ̏n	CwVCV CVVC CV	wia ɔɔ ɛ
+kwlá	CwCV	wa
+kwlá téezʌ̏	CwCV CVVCV̈	wa eeë
+kwlàȁ	CwCVV	waa
+Kwlæ̀ǣdhɤn	KwCVVCCV̈	Kwɛaö
+kwlɛ̀ɛ̏	CwCVV	wɛɛ
+là	CV	a
+làā	CVV	aa
+làbáŋ̈	CVCVCC	aa
+lagīdhēn	CVCVCV	aie
+làkédhe	CVCVCV	aee
+lȁn	CVC	a
+làn	CVC	a
+lân	CVC	a
+lân kɔ́	CVC CV	a ɔ
+lantra	CVCCCV	aa
+làŋbáä	CVCCCVV	aaa
+lāŋ̂	CVCC	a
+lāsó	CVCV	ao
+lɒ̄ɒn	CVVC	aɔ
+lǽængǽæ̏n	CVVCCVV	ɛaɛa
+lʌ̂	CV̈	ë
+lʌ̂	CV̈	ë
+lʌ̏ʌdhɤ̄	CV̈V̈CV̈	ëëö
+lʌ́ʌ̈lʌ̄	CV̈V̈CV̈	ëëë
+lʌ́ʌ̈nzʌ̏	CV̈V̈CCV̈	ëëë
+lʌ̂kʌ̄dhʌ̏n	CV̈CV̈CCV̈	ëëë
+lʌ̂kʌ̄dhʌ̏ngā	CV̈CV̈CCV̈CV	ëëëa
+lʌ̏n	CV̈C	ë
+lʌ̄ŋ	CV̈CC	ë
+lʌ̄ŋgɯ́dhɛ̏	CV̈CCCV̈CV	ëüɛ
+lʌ̄ŋlʌ̄ŋ	CV̈CCCV̈CC	ëë
+lʌ̄ŋ̂	CV̈CCC	ë
+lʌ́ŋ̈	CV̈CC	ë
+lʌ́ŋ̈dhɛ̏	CV̈CCCV	ëɛ
+lʌ̂zʌ̏	CV̈CV̈	ëë
+lɛ́ɛlɛ̏	CVVCV	ɛɛɛ
+lɛ́lɛ́	CVCV	ɛɛ
+lɛ́ŋlɛ̏ŋ	CVCCCVCC	ɛɛ
+lȍ	CV	o
+lȍ	CV	o
+lòkö	CVCV	oo
+lóŋ	CVCC	o
+lȍo	CVV	oo
+lōo	CVV	oo
+lɔ̀ŋ	CVCCC	ɔ
+lɔ̀ŋ̏	CVCC	ɔ
+lɔ́ɔ̈	CVV	ɔɔ
+lɔ́ɔ̈fìʌ̄	CVVfVV̈	ɔɔfië
+lɔ́ɔn	CVVC	ɔɔ
+lɔ̄ɔn lɯ̏	CVVC CV̈	ɔɔ ü
+lɔ̄ɔngā	CVVCCV	ɔɔa
+lɔ̀ɔzʌ̏	CVVCV̈	ɔɔë
+lɤ̏	CV̈	ö
+lɤ̏	CV̈	ö
+lɤ́	CV̈	ö
+lɤ́	CV̈	ö
+lɤ̀ɤ	CV̈V̈	öö
+lɤ̀ɤ	CV̈V̈	öö
+lɤ́ɤ	CV̈V̈	öö
+lɤ́ɤdhɤ̄	CV̈V̈CV̈	ööö
+lɤ̏sɔ̏	CV̈CV	öɔ
+lɤ́ɯlɤ̏	CV̈V̈CV̈	öüö
+lùû	CVV	uu
+lúu	CVV	uu
+lúu kpá	CVV CCV	uu a
+lúulȕ	CVVCV	uuu
+lɯ̏	CV̈	ü
+lɯ́	CV̈	ü
+lɯ́ kpǽæ	CV̈ CCVV	ü ɛa
+lɯ́dhʌ́n	CV̈CV̈	üë
+lɯ́dhɛ̀ɛ̄dhɤ	CV̈CVVCV̈	üɛɛö
+lɯ́gɔ̏kpɤ̄	CV̈CVCCV̈	üɔö
+lɯ́gúŋpā	CV̈ CVCCCV	ü ua
+lɯ́kìā	CV̈CVV	üia
+lɯ́kɔ̏dhʌ́n	CV̈CVCV̈	üɔë
+lɯ́kɔ̏ɔ	CV̈CVV	üɔɔ
+lɯ́ɯdhɤ̄	CV̈V̈CV̈	üüö
+lɯ́ɯdhɤ̄	CV̈V̈CV̈	üüö
+Máadhɤ̄	MVVCCV̈	Maaö
+ō	V	o
+ōo	VV	oo
+ɔ̏	V	ɔ
+ɤ̏	V̈	ö
+ɤ̏	V̈	ö
+ɤ̏	V̈	ö
+ɤ̄	V̈	ö
+ɤ̄	V̈	ö
+ɤ́	V̈	ö
+ɤ́	V̈	ö
+ɤ̈	V̈	ö
+pā	CV	a
+pā	CV	a
+pā	CV	a
+pá	CV	a
+pàâ	CVV	aa
+páa	CVV	aa
+pāafɛ̈n	CVVfVC	aafɛ
+pāâgɔ́bhɛ̏n	CVVCVCV	aaɔɛ
+páan	CVVC	aa
+pádhe	CVCV	ae
+pāŋ	CVCC	a
+pápá	CVCV	aa
+pápádhɤ̄	CVCVCV̈	aaö
+pāyɛ́ɛ̈n	CVCVVC	aɛɛ
+pɒ́ɒ	CVV	aɔ
+pɒ́ɒgā	CVVCV	aɔa
+pæ̀ǣ	CVV	ɛa
+pʌ̄	CV̈	ë
+pʌ̄	CV̈	ë
+pʌ́	CV̈	ë
+pʌ̄ dhíɤ̈	CV̈ CVV̈	ë iö
+pʌ̄ kpɤ̄	CV̈ CCV̈	ë ö
+pʌ́ʌ̈	CV̈V̈	ëë
+pʌ́ʌpʌ̏	CV̈V̈CV̈	ëëë
+pʌ̄bȉdhɛn	CV̈CVCCV	ëiɛ
+pʌ̄bhlé	CV̈CCV	ëe
+pʌ̄gā	CV̈CV	ëa
+pʌ̄kàāpʌ̏	CV̈CVVCV̈	ëaaë
+pʌ̏-kʌ̄	CV̈ CV̈	ë ë
+pʌ̄kpȁbhɛ̏n	CV̈CCVCV	ëaɛ
+pʌ̄kpȁdhɛ	CV̈CCVCV	ëaɛ
+pʌ̄tée	CV̈CVV	ëee
+pȅ	CV	e
+pȅ	CV	e
+pēdhēn	CVCV	ee
+pēdhēngā	CVCVCV	eea
+pēe	CVV	ee
+pȅedʌ̄	CVVCV̈	eeë
+pēedhɛ̀n	CVVCV	eeɛ
+pɛ́	CV	ɛ
+pɛ̀ɛ̂	CVV	ɛɛ
+pɛ̀ɛ̄sɯ̏	CVVCV̈	ɛɛü
+pɛ̏n	CVC	ɛ
+pɛ̏n	CVC	ɛ
+pɛ́n	CVC	ɛ
+pɛ̂n	CVC	ɛ
+pɛ̏n yùā	CVC CVV	ɛ ua
+pɛ̄ŋ	CVCCC	ɛ
+pɛ̄ŋgā	CVCCC CV	ɛ a
+pȉa	CVV CV̈	ia ü
+pīan	CVVC	ia
+pían	CVVC	ia
+pían	CVVC	ia
+pȉʌ	CVV̈	ië
+pȉʌn	CVV̈C	ië
+pīʌn	CVV̈C	ië
+píʌnpíʌn	CVV̈CCVV̈C	iëië
+píi	CVV	ii
+pīidhɤn	CVVCCV̈	iiö
+píigɯ́dhɛ̏	CVVCV̈CV	iiüɛ
+píigbéëdhɛ̏	CVVCCVVCV	iieeɛ
+pȉikɔ́	CVVCV	iiɔ
+pȉiŋdhɤ̄	CVVCCCV̈	iiö
+píitàa	CVVCVV	iiaa
+píitàadhɛ̏	CVVCVVCV	iiaaɛ
+pīn	CVC	i
+pìô	CVV	io
+píɔnpȉɔn	CVVCCVVC	iɔiɔ
+píɔŋpȉɔŋ	CVVCCCVVCC	iɔiɔ
+pȉɤ	CVV̈	iö
+pȉɤ	CVV̈	iö
+pìɤ̄	CVV̈	iö
+píɤ	CVV̈	iö
+pȉɤbhȁn	CVV̈CV	iöa
+pȉɤgā	CVV̈CV	iöa
+pìɤ̄gā	CVV̈CV	iöa
+pȉɤgbɔ̄	CVV̈CCV	iöɔ
+píɤklɤ̀ɤ̂zʌ̏	CVV̈CCV̈V̈CV̈	iöööë
+pīɤŋdhɤ	CVV̈CCCV̈	iöö
+pȉɤsáŋ	CVV̈CVCC	iöa
+pȉɤsòo	CVV̈CVV	iöoo
+pȉɤsɯ́	CVV̈CV̈	iöü
+plȁ	CCV	a
+plȁadhɛ	CCVVCV	aaɛ
+plāan	CCVVC	aa
+plàkàī	CCVCVV	aai
+plàŋ̂	CCVCC	a
+plʌ̀ʌn	CCV̈V̈C	ëë
+plʌ́ʌplʌ̏	CCV̈V̈CCV̈	ëëë
+plʌ̀ʌplʌ́zʌ̏	CCV̈V̈CCV̈CV̈	ëëëë
+plʌ̀ʌ̂zʌ̏	CCV̈V̈CV̈	ëëë
+plʌ́ŋ	CCV̈CC	ë
+plɛ̀	CCV	ɛ
+plɛ̀	CCV	ɛ
+plɛ́	CCV	ɛ
+plɛ́ŋplɛ̏ŋ	CCVCCCCVCC	ɛɛ
+plɛ̀ŋ̄zʌ̏	CCVCCCV̈	ɛë
+plȍo	CCVV	oo
+plòô	CCVV	oo
+plɔ̏	CCV	ɔ
+plɔ̏gā	CCVCV	ɔa
+plɔ̏ŋ	CCVCC	ɔ
+plɔ̏ɔ	CCVV	ɔɔ
+plɔ́ɔ	CCVV	ɔɔ
+plɤ̀ɤ	CCV̈V̈	öö
+plɤ̄ɤ	CCV̈V̈	öö
+plɤ̄ɤdhɛ̏	CCV̈V̈CV	ööɛ
+plɤ́ɤnplɤ̏	CCV̈V̈CCCV̈	ööö
+plɯ́ŋ	CCV̈CC	ü
+plɯ́plɯ̏	CCV̈CCV̈	üü
+pó	CV	o
+póŋ	CVCC	o
+pōo	CVV	oo
+pōo kùn	CVV CVC	oo u
+pȍtàāsɯ̏	CVCVVCV̈	oaaü
+pȍtàāsɯ̏	CVCVVCV̈	oaaü
+póɯ̈	CVV̈	oü
+pɔ́dhɤ̄	CVCV̈	ɔö
+pɔ́n	CVC	ɔ
+pɔ̄ɔ̂	CVV	ɔɔ
+pɔ́ɔ̈	CVV	ɔɔ
+pɔ́ɔn	CVVC	ɔɔ
+pɤ̄	CV̈	ö
+pɤ́	CV̈	ö
+pɤ̂	CV̈	ö
+pɤ̂dhɛ̏	CV̈CV	öɛ
+pɤ̀ɯ̄	CV̈V̈	öü
+pùʌn	CVV̈C	uë
+púʌŋpȕʌŋ	CVV̈CCCVV̈CC	uëuë
+púɛ̈ {yùā}	CVV {CVV}	uɛ {ua}
+pún	CVC	u
+púpú{-dhȕ}n	CVCV {CV}	uu {u}
+pùū	CVV	uu
+púu	CVV	uu
+pɯ̏ɤ	CV̈V̈	üö
+pɯ́ɯ	CV̈V̈	üü
+sā	CV	a
+sá	CV	a
+sȁa	CVV	aa
+sàa	CVV	aa
+sāâ	CVV	aa
+sáa	CVV	aa
+sàa kɔ́	CVV CV	aa ɔ
+sàadhē	CVVCV	aae
+sàādhen	CVVCCV	aae
+sàādhenkʌ̄bhɛ̏n	CVVCCVCV̈CV	aaeëɛ
+sáadhɤ̄	CVVCV̈	aaö
+sȁan	CVVC	aa
+sàān	CVVC	aa
+sáan	CVVC	aa
+sȁangā	CVVCCV	aaa
+säblà	CVCCV	aa
+sȁdhen	CVCCV	ae
+sákásákádhɤ̄	CVCVCVCVCV̈	aaaaö
+sȁkpá	CVCCV	aa
+sȁn	CVC	a
+sān	CVC	a
+sán	CVC	a
+sán	CVC	a
+sángó dhɤ̀ɤ dhɤ́	CVCCV CV̈V̈ CV̈	ao öö ö
+sȁnzʌ̄dhe	CVCCV̈CV	aëe
+sɒ̄ɒ	CVV	aɔ
+sɒ́ɒ	CVV	aɔ
+sɒ̏ɒn	CVVC	aɔ
+sʌ̏	CV̈	ë
+sʌ̏	CV̈	ë
+sʌ̀ʌ̄	CV̈V̈	ëë
+sʌ̀ʌ̂	CV̈V̈	ëë
+sʌ́ʌ	CV̈V̈	ëë
+sʌ́ʌ̈	CV̈V̈	ëë
+sʌ́ʌ̈	CV̈V̈	ëë
+sʌ̏ʌdhʌ́n	CV̈V̈CV̈	ëëë
+sʌ́ʌdhɛ̄	CV̈V̈CV	ëëɛ
+sʌ́ʌdhɛ̏bȅ	CV̈V̈CVCV	ëëɛe
+sʌ́ʌdhɛkɔ́	CV̈V̈CVCV	ëëɛɔ
+sʌ̏ʌzʌ̏	CV̈V̈CV̈	ëëë
+sʌ̏bhɛ̏n	CV̈CV	ëɛ
+sʌ̏dhɛ	CV̈CV	ëɛ
+sʌ́nsʌ́dhɤ̄n	CV̈CCV̈CCV̈	ëëö
+sʌ̄ŋ	CV̈CCC	ë
+sʌ́ŋ	CV̈CCC	ë
+sʌ̄ŋgbʌ̄	CV̈CCCCV̈	ëë
+sʌ́ŋsʌ̏	CV̈CCCV̈	ëë
+sé	CV	e
+sèê	CVV	ee
+sēi	CVV	ei
+séŋdhɤ̄	CVCCCV̈	eö
+séŋséŋdhɤ̄	CVCCCVCCCV̈	eeö
+sɛ́	CV	ɛ
+sɛ̄ȁ	CVV	ɛa
+sɛ̄ȁbɛ̏n	CVVCVC	ɛaɛ
+sɛ̄ȁzȉan	CVVCVVC	ɛaia
+sɛ́dʌ̄	CVCV̈	ɛë
+sɛ́dhɛ́n	CVCV	ɛɛ
+sɛ̏ɛ	CVV	ɛɛ
+sɛ̀ɛ̏	CVV	ɛɛ
+sɛ̀ɛ̄	CVV	ɛɛ
+sɛ̀ɛ̂	CVV	ɛɛ
+sɛ́ɛ	CVV	ɛɛ
+sɛ̏ɛbɔ̏	CVVCV	ɛɛɔ
+sɛ̀ɛ̄dhɛ̏	CVVCV	ɛɛɛ
+sɛ́ɛgā	CVVCV	ɛɛa
+sɛ́ɛlɯ́	CVVCV̈	ɛɛü
+sɛ̀ɛ̏n	CVVC	ɛɛ
+sɛ́ɛ̈n	CVVC	ɛɛ
+sɛ́ɛ̈n	CVVC	ɛɛ
+sɛ́gɔ̏	CVCV	ɛɔ
+sɛ́gɯ́bhɛ̏n	CVCV̈CV	ɛüɛ
+sɛ́i	CVV	ɛi
+sɛ́i bhɛ̏ɛn	CVV CVV	ɛi ɛɛ
+sɛ́idhɤ̄	CVVCV̈	ɛiö
+sɛ́ipʌ̀ŋdhɛ̏	CVVCV̈CCCV	ɛiëɛ
+sɛ́isīʌ	CVVCVV̈	ɛiië
+sɛ́kɛ́	CVCV	ɛɛ
+sɛ́kɔ́	CVCV	ɛɔ
+sɛ̀n	CVC	ɛ
+sɛ́n	CVC	ɛ
+sɛ̏nsɛ̏dhɤ̄n	CVCCVCCV̈	ɛɛö
+sɛ́nsɛ́n-dhȕn	CVC CVC CV	ɛ ɛ u
+sɛ́ntȁdhɛ	CVCCVCV	ɛaɛ
+sɛ̄ŋ	CVCCC	ɛ
+sɛ́pían	CVCVVC	ɛia
+sɛ́pɔ́dhɛ̏n	CVCVCCV	ɛɔɛ
+sɛ̏sȉɤbhɛ̏n	CVCVV̈CV	ɛiöɛ
+sɛ́tɔ̏n	CVCVC	ɛɔ
+sí	CV	i
+sí	CV	i
+sìa	CVV	ia
+sīȁ	CVV	ia
+sīȁ	CVV	ia
+sīân	CVVC	ia
+sían	CVVC	ia
+sían	CVVC	ia
+sìʌ̂	CVV̈	ië
+sīʌ̂	CVV̈	ië
+sīʌ̂n	CVV̈C	ië
+sīi	CVV	ii
+sìisí	CVVCV	iii
+sìō	CVV	io
+sīoo	CVVV	ioo
+síɔn	CVVC	iɔ
+sȉɤ	CVV̈	iö
+sȉɤ	CVV̈	iö
+sȉɤ	CVV̈	iö
+sìɤ̂	CVV̈	iö
+síɤ	CVV̈	iö
+síɤ̈	CVV̈	iö
+síɤ̈	CVV̈	iö
+síɤ bhɤ̀ɯ̏	CVV̈ CV̈V̈	iö öü
+síɤ̈dhɤ̄	CVV̈CV̈	iöö
+sȉɤgā	CVV̈CV	iöa
+síɤkɔ́	CVV̈CV	iöɔ
+síɤkɔ́gā	CVV̈CVCV	iöɔa
+síɤɤzʌ̏	CVV̈V̈CV̈	iööë
+síɤsīɤ	CVV̈CVV̈	iöiö
+síɤsíɤzʌ̏	CVV̈CVV̈CV̈	iöiöë
+sȉɤsɯ̏	CVV̈CV̈	iöü
+síɤtʌ́ʌ	CVV̈CV̈V̈	iöëë
+sȉɤzʌ̏	CVV̈CV̈	iöë
+síɤ̈zʌ̏	CVV̈CV̈	iöë
+sísúŋgā	CVCVCCCV	iua
+slȁ	CCV	a
+slâ	CCV	a
+slàâ	CCVV	aa
+slāan	CCVVC	aa
+slàaŋsláa	CCVVCCCCVV	aaaa
+sládō	CCVCV	ao
+slȁn	CCVC	a
+släplɛ̀	CCVCCV	aɛ
+slǽægā	CCVVCV	ɛaa
+slʌ̏	CCV̈	ë
+slʌ̄	CCV̈	ë
+slʌ́	CCV̈	ë
+slʌ́a	CCV̈V	ëa
+slʌ̏ʌ	CCV̈V̈	ëë
+slʌ̀ʌ̂	CCV̈V̈	ëë
+slʌ̏ʌdhɤ̄	CCV̈V̈CV̈	ëëö
+slʌ́ʌdhɤ̄	CCV̈V̈CV̈	ëëö
+slʌ́ʌnslʌ̏n	CCV̈V̈CCCV̈C	ëëë
+slʌ̏ʌslʌ̏dhɤ̄	CCV̈V̈CCV̈CV̈	ëëëö
+slòô	CCVV	oo
+slóo	CCVV	oo
+slóodhɤ̄	CCVVCV̈	ooö
+slɔ́aslɔ̏a	CCVVCCVV	ɔaɔa
+slɔ́ŋ	CCVCC	ɔ
+slɔ́ŋ	CCVCC	ɔ
+slɔ̀ɔ	CCVV	ɔɔ
+slɔ́ɔ	CCVV	ɔɔ
+slɤ̏	CCV̈	ö
+slɤ́	CCV̈	ö
+slɤ̏ɤ	CCV̈V̈	öö
+slɤ̀ɤ̄	CCV̈V̈	öö
+slɤ̄ɤdhɤ	CCV̈V̈CV̈	ööö
+slɤ́ɤslɤ̏	CCV̈V̈CCV̈	ööö
+slɤ̀ɤ̄zʌ̄bhɛ̏n	CCV̈V̈CV̈CV	ööëɛ
+slúbhɔ̏n	CCVCCV	uɔ
+slúun	CCVVC	uu
+slɯ́	CCV̈	ü
+slɯ̀ɯ̂	CCV̈V̈	üü
+slɯ́ɯ	CCV̈V̈	üü
+sȍ	CV	o
+sȍ	CV	o
+sō	CV	o
+sòa	CVV	oa
+sōbhɛ̏n	CVCV	oɛ
+sōŋ	CVCC	o
+sōŋdhɤ	CVCCCV̈	oö
+sóŋgòzʌ̏	CVCCCVCV̈	ooë
+sóŋgō{lɯ̏}	CVCCCV{CV̈}	oo{ü}
+sòo	CVV	oo
+sòo	CVV	oo
+sòo	CVV	oo
+sòofàŋ̄	CVVfVCC	oofa
+sòogā	CVVCV	ooa
+sòosōŋdhɛ̏	CVVCVCCCV	oooɛ
+sɔ̄	CV	ɔ
+sɔ́	CV	ɔ
+sɔ́	CV	ɔ
+sɔ̀a	CVV	ɔa
+sɔ̄dhʌ́n	CVCV̈	ɔë
+sɔ́gā	CVCV	ɔa
+sɔ̀n	CVC	ɔ
+sɔ́n	CVC	ɔ
+sɔ́n	CVC	ɔ
+sɔ́ngā	CVCCV	ɔa
+sɔ́nkɔ́	CVCCV	ɔɔ
+sɔ́nkpɛ̄ŋ	CVCCCVCC	ɔɛ
+sɔ̀ŋ̄	CVCC	ɔ
+sɔ́ŋ	CVCC	ɔ
+sɔ̀ɔ̏	CVV	ɔɔ
+sɔ̀ɔ̂	CVV	ɔɔ
+sɔ́ɔ	CVV	ɔɔ
+sɔ́ɔ	CVV	ɔɔ
+sɔ́ɔdhu	CVVCV	ɔɔu
+sɔ̀ɔn	CVVC	ɔɔ
+sɔ̀ɔ̄n	CVVC	ɔɔ
+sɔ̄ɔn	CVVC	ɔɔ
+sɔ̀ɔsɔ́	CVVCV	ɔɔɔ
+sɔ́ɔsɔ̏	CVVCV	ɔɔɔ
+sɤ̏	CV̈	ö
+sɤ̏	CV̈	ö
+sɤ̄	CV̈	ö
+sɤ̏bhɔkw̄̀̄	CV̈CVCwVV	öɔwɛa
+sɤ̏gā	CV̈CV	öa
+sɤ̄i	CV̈V	öi
+sɤ̄kpʌ̀	CV̈CCV̈	öë
+sɤ̀ŋ	CV̈CC	ö
+sɤ́ŋgɤ́sɤ̏ŋgɤ̏	CV̈CCCV̈CV̈CCCV̈	öööö
+sɤ̄sɔ̀ɔ	CV̈CVV	öɔɔ
+sū	CV	u
+sú	CV	u
+sùa	CVV	ua
+sȕadhɤ̄	CVVCV̈	uaö
+sùakʌ̄bhɛ̏n	CVVCV̈CV	uaëɛ
+súän	CVVC	ua
+súbhádhángā	CVCVCVCV	uaaa
+súbhōyɛ̏abha	CVCVCVVCV	uoɛaa
+súbhɯsɯ̏	CVCV̈CV̈	uüü
+súdʌ̏ɯ	CVCV̈V̈	uëü
+súglɤ̀ɤ	CVCCV̈V̈	uöö
+súgbɔ̏	CVCCV	uɔ
+sūŋ	CVCCC	u
+súɤ	CVV̈	uö
+súɤ	CVV̈	uö
+súɤgādhʌ	CVV̈CVCV̈	uöaë
+súpɛ́n	CVCVC	uɛ
+súsōŋ	CVCVCC	uo
+súsōŋgā	CVCVCCCV	uoa
+sùû	CVV	uu
+sùûgɯ́dhʌ́n	CVVCV̈CV̈	uuüë
+sùûyāabhɛ̏n	CVVCVVCV	uuaaɛ
+-sɯ̏	CV̈	ü
+-sɯ̏	CV̈	ü
+sɯ́	CV̈	ü
+sɯ́ʌsɯ̏ʌ	CV̈V̈CV̈V̈	üëüë
+sɯ̏ʌtȁ	CV̈V̈CV	üëa
+sɯ̏-dhú	CV̈ CV	ü u
+tȁ	CV	a
+tȁ	CV	a
+tā	CV	a
+tá	CV	a
+tá	CV	a
+tàa	CVV	aa
+tàa	CVV	aa
+tàa	CVV	aa
+táä	CVV	aa
+tàadhɛ̏	CVVCV	aaɛ
+táägbɔ̄lɯ́	CVVCCVCV̈	aaɔü
+tȁalɯ̏	CVVCV̈	aaü
+tàān	CVVC	aa
+tàāngā	CVVCCV	aaa
+táblʌ̏	CVCCV̈	aë
+tȁbhābhɛ̏n	CVCVCV	aaɛ
+tȁdhɛ	CVCV	aɛ
+tȁdhūɤ	CVCVV̈	auö
+tȁdhūɤ	CVCVV̈	auö
+tȁ-gā	CV CV	a a
+tȁ-kɔ̀ɔ̄	CV CVV	a ɔɔ
+tȁ-kún	CV CVC	a u
+tȁ-kpȁ	CV CCV	a a
+tán	CVC	a
+tántádhɤ̄n	CVCCVCCV̈	aaö
+tāpʌ̏	CVCV̈	aë
+tāpʌ̏dhɛ	CVCV̈CV	aëɛ
+táɯ̈	CVV̈	aü
+tȁ-yɤ̄	CV CV̈	a ö
+tȁzɔ̏dhēn	CVCVCCV	aɔe
+tɒ̏ɒ	CVV	aɔ
+tɒ̀ɒ̄	CVV	aɔ
+tɒ̀ɒ̄	CVV	aɔ
+tʌ̏	CV̈	ë
+tʌ́	CV̈	ë
+tʌ́ʌ	CV̈V̈	ëë
+tʌ́ʌ	CV̈V̈	ëë
+tʌ́ʌbɔ̀āgɯ́	CV̈V̈CVVCV̈	ëëɔaü
+tʌ́ʌgɔ̄n	CV̈V̈CVC	ëëɔ
+tʌ́ʌtʌ̏	CV̈V̈CV̈	ëëë
+tʌ́dhɛ̏	CV̈CV	ëɛ
+tʌ̏n	CV̈C	ë
+tʌ̄n	CV̈C	ë
+tʌ́n	CV̈C	ë
+tʌ̏ngʌ̏	CV̈CCV̈	ëë
+tʌ̀ŋ	CV̈CC	ë
+tʌ̄ŋ	CV̈CC	ë
+tʌ̏ŋgʌ̏	CV̈CCCV̈	ëë
+tʌ́pʌ̄	CV̈CV̈	ëë
+tʌ́sɯ̏	CV̈CV̈	ëü
+tʌ̄ɯ	CV̈V̈	ëü
+tʌ̀ɯ̄dhʌ́n	CV̈V̈CV̈	ëüë
+tȅ	CV	e
+tē	CV	e
+té	CV	e
+té	CV	e
+tȅdhʌ́n	CVCV̈	eë
+tée	CVV	ee
+tée	CVV	ee
+téetȅ	CVVCV	eee
+téezʌ̏	CVVCV̈	eeë
+téŋtéŋdhɤ̄	CVCCCVCCCV̈	eeö
+tété	CVCV	ee
+tétúnsɯ̏	CVCVCCV̈	euü
+tëyí	CVCV	ei
+tɛ̀dhɛ̂n	CVCV	ɛɛ
+tɛ̄dhɔ́ɔnyī	CVCCVVCV	ɛɔɔi
+tɛ́ɛ	CVV	ɛɛ
+tɛ́ɛn	CVVC	ɛɛ
+tɛ́ɛpā	CVVCV	ɛɛa
+tɛ̀ī	CVV	ɛi
+tɛ̏idhɤ̄	CVVCV̈	ɛiö
+tɛ̄nyī	CVCCV	ɛi
+tɛ́tɛ̏	CVCV	ɛɛ
+tíä	CVV	ia
+tȉadhɤ̄bhɛ̏n	CVVCCV̈CV	iaöɛ
+tìān	CVVC	ia
+tīan	CVVC	ia
+tíaŋtȉaŋ	CVVCCCVVCC	iaia
+tīi	CVV	ii
+tíibhɛ̏n	CVVCCV	iiɛ
+tíin	CVVC	ii
+tīizʌ̏	CVVCV̈	iië
+tíŋ	CVCC	i
+tȉɔn	CVVC	iɔ
+tíɔŋtȉɔŋ	CVVCCCVVCC	iɔiɔ
+tíɤŋtȉɤŋ	CVV̈CCCVV̈CC	iöiö
+tītī{-dhȕ}n	CVCV {CV}	ii {u}
+tȍ	CV	o
+tó	CV	o
+tó	CV	o
+tòbhāntɤ̄	CVCVCV̈	oaö
+tȍbhɛ̄ngɔ̏pʌ̏	CVCVCVCV̈	oɛɔë
+tódhʌ́ngā	CVCV̈CV	oëa
+tódhɛ	CVCV	oɛ
+tódhiɤ	CVCVV̈	oiö
+tókpɤ̄ɯdhɛ̏	CVCCV̈V̈CV	oöüɛ
+tòo	CVV	oo
+tōo	CVV	oo
+tóo	CVV	oo
+tóobhɛ̄	CVVCV	ooɛ
+tóodhɛ̀ɛ̄dhɛ̏	CVVCVVCV	ooɛɛɛ
+tóodhɛ̀ɛ̄dhɤ	CVVCVVCV̈	ooɛɛö
+tóogbéëkʌ̄sɯ̏	CVVCCVVCV̈CV̈	ooeeëü
+tōokɔ̏	CVVCV	ooɔ
+tóoyí	CVVCV	ooi
+tótābhɛ̏n	CVCVCV	oaɛ
+tɔ̏	CV	ɔ
+tɔ́	CV	ɔ
+tɔ́	CV	ɔ
+tɔ́bhán	CVCV	ɔa
+tɔ̏bhangbɛ̂n	CVCCVCCVC	ɔaɛ
+tɔ́bhɔ̄dhe	CVCVCV	ɔɔe
+tɔ́bhɔ́dhiɤdhɛ̏n	CVCVCVV̈CV	ɔɔiöɛ
+tɔ́bhɔ́dhiɤnyɛ̏klúʌ̈dhɛ̏	CVCVCVV̈CVCCVV̈CV	ɔɔiöɛuëɛ
+tɔ̏dhē	CVCV	ɔe
+tɔ̏gɔ̀n	CVCVC	ɔɔ
+tɔ̏n	CVC	ɔ
+tɔ̄ŋ	CVCC	ɔ
+tɔ̀ɔ	CVV	ɔɔ
+tɔ̀ɔ	CVV	ɔɔ
+tɔ̄ɔ	CVV	ɔɔ
+tɔ̄ɔ	CVV	ɔɔ
+tɔ́ɔ̈	CVV	ɔɔ
+tɔ́ɔbhán	CVVCV	ɔɔa
+tɔ́ɔtɔ̏	CVVCV	ɔɔɔ
+tɔ́-sȉɤ	CVCVV̈	ɔiö
+tɔ́tɔ̏	CVCV	ɔɔ
+tɤ̀dhɤ̀n	CV̈CV̈	öö
+tɤ́ŋ	CV̈CC	ö
+tɤ̄ŋgá	CV̈CCCV	öa
+tɤ̏ŋgbɤ̏	CV̈CCCCV̈	öö
+tɤ̀ɯ̄	CV̈V̈	öü
+tɤ́ɯ̈	CV̈V̈	öü
+tɤ́ɯ̈dhɤ̄	CV̈V̈CV̈	öüö
+trȁtrȁdhɤ̄	CCVCCVCV̈	aaö
+trʌ̀ʌ̂	CCV̈V̈	ëë
+trʌ̏ʌdhɤ̄	CCV̈V̈CV̈	ëëö
+trʌ́ʌtrʌ̏	CCV̈V̈CCV̈	ëëë
+trʌ́ŋ	CCV̈CC	ë
+trʌ̏ŋtrʌ̏ŋdhɤ̄	CCV̈CCCCV̈CCCV̈	ëëö
+trɛ̀īn	CCVVC	ɛi
+tròō	CCVV	oo
+trōô	CCVV	oo
+tróo	CCVV	oo
+tròōkàāpʌ̏	CCVVCVVCV̈	ooaaë
+tròōkʌ̄bhɛ̏n	CCVVCV̈CV	ooëɛ
+trɔ̄ŋ	CCVCC	ɔ
+trɔ̄ɔ̂	CCVV	ɔɔ
+trɔ̀ɔdhɤ̄n	CCVVCCV̈	ɔɔö
+trɔ̄ɔdhɤn	CCVVCCV̈	ɔɔö
+trɔ́ɔ̈n	CCVVC	ɔɔ
+trɤ̄	CCV̈	ö
+trɤ́ŋtrɤ̏ŋ	CCV̈CCCCV̈CC	öö
+trùʌn	CCVV̈C	uë
+trȕu	CCVV	uu
+trúu	CCVV	uu
+trɯ́ʌtrɯ̏ʌ	CCV̈V̈CCV̈V̈	üëüë
+trɯ́ŋ	CCV̈CC	ü
+tú	CV	u
+tȕʌ	CVV̈	uë
+túʌŋtúʌŋ̏	CVV̈CCCVV̈CC	uëuë
+túɛyɔ́n	CVVCVC	uɛɔ
+tùn	CVC	u
+tūɤ	CVV̈	uö
+tùū tùū	CVV CVV	uu uu
+túubhɛ̏n	CVVCCV	uuɛ
+tūudhɤ	CVVCV̈	uuö
+tùūn	CVVC	uu
+tùûn	CVVC	uu
+túun	CVVC	uu
+tùuntún	CVVCCVC	uuu
+tùunzʌ̏	CVVCCV̈	uuë
+ɯ̄	V̈	ü
+ɯ̄	V̈	ü
+ɯ́	V̈	ü
+ɯ́	V̈	ü
+ɯ̈	V̈	ü
+ɯ̂	V̈	ü
+ɯ́ʌ̈n	V̈V̈C	üë
+ɯ̄ká	V̈CV	üa
+và	vV	va
+và	vV	va
+vá	vV	va
+vȁa	vVV	vaa
+váa	vVV	vaa
+váa	vVV	vaa
+vȁagā	vVVCV	vaaa
+vȁagāyȉʌkɔ̏dhʌ́ngā	vVVCVCVV̈CVCV̈CV	vaaaiëɔëa
+váan	vVVC	vaa
+váanvȁdhɛn	vVVCvVCCV	vaavaɛ
+vàanván	vVVCvVC	vaava
+vàāvàā	vVVvVV	vaavaa
+vàȁzʌ̏	vVVCV̈	vaaë
+vádhɤ̄	vVCV̈	vaö
+vàvà	vVvV	vava
+vávádhɤ̄	vVvVCV̈	vavaö
+vɒ̄ɒnvɒ̄ɒdhɤn	vVVCvVVCCV̈	vaɔvaɔö
+vʌ̏	vV̈	vë
+vʌ́ɯvʌ̏ɯ	vV̈V̈vV̈V̈	vëüvëü
+vʌ̀ɯ̄vʌ̀ɯ̄dhɤ	vV̈V̈vV̈V̈CV̈	vëüvëüö
+vé	vV	ve
+véaavȅa	vVVVvVV	veaavea
+véë	vVV	vee
+végā	vVCV	vea
+vɛ̄	vV	vɛ
+vɛ̄ɛdhɛ̏	vVVCV	vɛɛɛ
+vɛ̄ɛdhɤ	vVVCV̈	vɛɛö
+vɛ̄ɛdhɤ	vVVCV̈	vɛɛö
+vɛ̏i	vVV	vɛi
+vɛ̄idhɛ̏	vVVCV	vɛiɛ
+vɛ̏ŋdhɤ̄	vVCCCCV̈	vɛö
+vìānvìādhɤn	vVVCvVVCCV̈	viaviaö
+víavȉa	vVVvVV	viavia
+víʌʌ	vVV̈V̈	viëë
+víʌvȉʌ	vVV̈vVV̈	viëvië
+vīi	vVV	vii
+vīn	vVC	vi
+vȉŋ	vVCCC	vi
+víɔ̈n	vVVC	viɔ
+vlā	vCV	va
+vlā	vCV	va
+vlàa	vCVV	vaa
+vláanvlȁn	vCVVCvCVC	vaava
+vlānkāadhɤn	vCVCCVVCCV̈	vaaaö
+vlānvlànvlādhɤn	vCVCvCVCvCVCCV̈	vavavaö
+vlānvlànvlān	vCVCvCVCvCVC	vavava
+vlʌ́ŋvlʌ̏ŋ	vCV̈CCvCV̈CC	vëvë
+vlɛ̄î	vCVV	vɛi
+vlɛ́ŋvlɛ̏ŋ	vCVCCvCVCC	vɛvɛ
+vló	vCV	vo
+vlōo	vCVV	voo
+vlɤ̄dhɤ	vCV̈CV̈	vöö
+vlùazʌ̏	vCVVCV̈	vuaë
+vlɯ̄	vCV̈	vü
+vlɯ́ŋ	vCV̈CC	vü
+vlɯ́ɯn	vCV̈V̈C	vüü
+vlɯ́vlɯ́dhɤ̄	vCV̈vCV̈CV̈	vüvüö
+vòkāâ	vVCVV	voaa
+vōodhɤ	vVVCV̈	vooö
+vɔ́	vV	vɔ
+vɔ̄ŋ	vVCC	vɔ
+vɔ̏ɔ	vVV	vɔɔ
+vɔ̏ɔgā	vVVCV	vɔɔa
+vɤ̄	vV̈	vö
+vɤ́ɯ	vV̈V̈	vöü
+vɤ́ɯzʌ̏	vV̈V̈CV̈	vöüë
+vùʌ̄n	vVV̈C	vuë
+vùʌ̄nvùʌ̄dhɤn	vVV̈CvVV̈CCV̈	vuëvuëö
+vúʌvȕʌ	vVV̈vVV̈	vuëvuë
+vúu	vVV	vuu
+vȕudō	vVVCV	vuuo
+vɯ̈	vV̈	vü
+wȁ	wV	wa
+wȁ	wV	wa
+wà	wV	wa
+wà	wV	wa
+wā	wV	wa
+wá	wV	wa
+wȁa	wVV	waa
+wàa	wVV	waa
+wàâ	wVV	waa
+wāa	wVV	waa
+wāa	wVV	waa
+wāȁ	wVV	waa
+wāȁ	wVV	waa
+wāȁ	wVV	waa
+wáa	wVV	waa
+wáa	wVV	waa
+wáä	wVV	waa
+wȁabhȁanyȉ	wVVCVVCV	waaaai
+wáadhɛ̏	wVVCV	waaɛ
+wȁadhɤ̄	wVVCV̈	waaö
+wàādhūn	wVVCCV CV̈	waau ü
+wāadhūn	wVVCV	waau
+wȁan	wVVC	waa
+wàān	wVVC	waa
+wáan	wVVC	waa
+wáän	wVVC	waa
+wáanwȁn	wVVCwVC	waawa
+wàawá	wVVwV	waawa
+wáawá	wVVwV	waawa
+wáawá	wVVwV	waawa
+wāgɔ̄n	wVCVC	waɔ
+wāŋ	wVCC	wa
+wɒ̀ɒ	wVV CV̈	waɔ ü
+Wɒ̀ɒ̏dhɤ̄	WVVCV̈	Waɔö
+wæ̀ǣ	wVV	wɛa
+wʌ́ɯ̈	wV̈V̈	wëü
+wʌ́ɯ̈dhɛ́	wV̈V̈CV	wëüɛ
+wʌ́ɯ̈gā	wV̈V̈CV	wëüa
+wʌ́ɯ̈sɛ́ɛ̈n	wV̈V̈CVVC	wëüɛɛ
+wʌ̏ɯzʌ̏	wV̈V̈CV̈	wëüë
+wé	wV	we
+wéʌ̈	wVV̈ CV̈	weë ü
+wèe	wVV	wee
+wèe	wVV	wee
+wēe	wVV	wee
+wēekɔ́	wVVCV	weeɔ
+wèepākɔ̏dhʌ́ngā	wVVCVCVCV̈CV	weeaɔëa
+wèeyȉ	wVVCV	weei
+wégā	wVCV	wea
+wēi	wVV	wei
+wēiyí	wVVCV	weii
+wēŋ	wVCC	we
+wéŋ	wVCC	we
+wɛ̏ɛ	wVV	wɛɛ
+wɛ̏ɛbhōdhe	wVVCVCV	wɛɛoe
+wɛ̏ɛdhɤ̄n	wVVCCV̈	wɛɛö
+wɛ̏i	wVV	wɛi
+wɛ̄n	wVC	wɛ
+wɛ́ŋsɔ̄dhʌ́n	wVCCCVCV̈	wɛɔë
+wìan	wVVC	wia
+wìangā	wVVCCV	wiaa
+wíanwȉan	wVVCwVVC	wiawia
+wíʌ	wVV̈	wië
+wīɤ	wVV̈	wiö
+wísá	wVCV	wia
+wlā	wCV	wa
+wláan	wCVVC	waa
+wláän	wCVVC	waa
+wlàawlá	wCVVwCV	waawa
+wlȁdhɤ̄	wCVCV̈	waö
+wlán	wCVC	wa
+wlȁwlȁdhɤ̄	wCVwCVCV̈	wawaö
+wlǽæ̏	wCVV	wɛa
+wlæ̏æzʌ̏	wCVVCV̈	wɛaë
+wlʌ̀ʌ̄	wCV̈V̈	wëë
+wlʌ́ʌnwlʌ̏n	wCV̈V̈CwCV̈C	wëëwë
+wlʌ̄ɯ	wCV̈V̈	wëü
+wlɛ̏ɛdhɤ̄	wCVVCV̈	wɛɛö
+wlōo	wCVV	woo
+wlɤ̄wlɤ̄zʌ̏	wCV̈wCV̈CV̈	wöwöë
+wȍ	wV	wo
+wȍ	wV	wo
+wȍ	wV	wo
+wȍ	wV	wo
+wȍ	wV	wo
+wȍ	wV	wo
+wò	wV	wo
+wō	wV	wo
+wō	wV	wo
+wō	wV	wo
+wō	wV	wo
+wó	wV	wo
+wó	wV	wo
+wö	wV	wo
+wōʌ̏	wVV̈	woë
+wȍdȁplɛ̀bhɛ̏n	wVCVCCVCV	woaɛɛ
+wȍdhíɤlȍbhɛ̏n	wVCVV̈CVCV	woiöoɛ
+wȍdhíɤsɯ́bhɛ̏n	wVCVV̈CV̈CV	woiöüɛ
+wȍgbíŋ̈dhɛ̏	wVCCVCCCCV	woiɛ
+wȍká	wVCV	woa
+wōká	wV CV	wo a
+wòŋ	wVCC	wo
+wōŋ̏	wVCC	wo
+wóŋ̈	wVCC	wo
+wōŋ{wō}-dhȕn	wVCC {wV} CV	wo {wo} u
+wòō	wVV	woo
+wɔ̏	wV	wɔ
+wɔ̄	wV	wɔ
+wɔ̄	wV	wɔ
+wɔ̄	wV	wɔ
+wɔ́	wV	wɔ
+wɔ̄dhɛ̏	wVCV	wɔɛ
+wɔ́dhɤ̄	wVCV̈	wɔö
+wɔ̄kɔ̏	wVCV	wɔɔ
+wɔ́ŋwɔ̏ŋ	wVCCCwVCCC	wɔwɔ
+wɔ̀ɔ̏	wVV	wɔɔ
+wɔ́ɔnwɔ̏n	wVVCwVC	wɔɔwɔ
+wɔ̀ūglōʌ̂bhȁn	wVVCCVV̈CV	wɔuoëa
+wɔ́yɛ́lân	wVCVCVC	wɔɛa
+wɔ́zʌ̏	wVCV̈	wɔë
+wɤ̄	wV̈	wö
+wɤ̀ŋ̄	wV̈CC	wö
+wɤ̄ɤ	wV̈V̈	wöö
+wɤ̄ɤdhɛ̏	wV̈V̈CV	wööɛ
+wɤ̄ɯdhɤ	wV̈V̈CV̈	wöüö
+wúdhɤ̄nkʌ̄dhíɤblɛ̀ɛ̄bhɛ̏n	wVCCV̈CV̈CVV̈CCVVCV	wuöëiöɛɛɛ
+wūn	wVC	wu
+wún	wVC	wu
+wúnblʌ́	wVCCCV̈	wuë
+wúndánpɤ̄bhɛ̏n	wVCCVCCV̈CV	wuaöɛ
+wúndɔ̏a	wVCCVV	wuɔa
+wúndɔ̄bhɛ̏n	wVCCVCV	wuɔɛ
+wúndɔ̄dhe	wVCCVCV	wuɔe
+wúndȕadhē	wVCCVVCV	wuuae
+wūngā	wVCCV	wua
+wúngīâ	wVCCVV	wuia
+wúngɔ̏	wVCCV	wuɔ
+wúngɔ̏dhíɤbhɛ̏n	wVCCVCVV̈CV	wuɔiöɛ
+wúntȁyɔ́bhɛ̏n	wVCCVCVCV	wuaɔɛ
+wúnyɤ̏yāansɯ̏	wVCCV̈CVVCCV̈	wuöaaü
+wúnzàāsɯ̏	wVCCVVCV̈	wuaaü
+wúu	wVV	wuu
+wɯ̄	wV̈	wü
+wɯ́	wV̈	wü
+wɯ́	wV̈	wü
+wɯ́dhɛ̏	wV̈CV	wüɛ
+wɯ̄kwī	wV̈CwV	wüwi
+wɯ̀ɯ̂	wV̈V̈	wüü
+yȁ	CV	a
+yȁ	CV	a
+yà	CV	a
+yā	CV	a
+yā	CV	a
+yá	CV	a
+yá	CV	a
+yȁa	CVV	aa
+yāa	CVV	aa
+yāa	CVV	aa
+yáa	CVV	aa
+yáä	CVV	aa
+yāadhɛ̏	CVVCV	aaɛ
+yáadhɛn	CVVCCV	aaɛ
+yàādhūn	CVVCV	aau
+yàādhūn	CVVCCV CV̈	aau ü
+yȁagā	CVVCV	aaa
+yāagɯ́bhɛ̏n	CVVCV̈CV	aaüɛ
+yȁan	CVVC	aa
+yȁan	CVVC	aa
+yàȁn	CVVC	aa
+yáan	CVVC	aa
+yáan	CVVC	aa
+yáän	CVVC	aa
+yáanló	CVVCCV	aao
+yȁantédhē	CVVCCVCV	aaee
+yȁatȁgblȍo	CVVCVCCCVV	aaaoo
+yāazʌ̏	CVVCV̈	aaë
+yádhʌ́n	CVCCV̈	aë
+yȁdhɛ	CVCV	aɛ
+yádhɛ̏nyɤ̄bhɛ̏n	CVCCVCV̈CV	aɛöɛ
+yákȍ	CVCV	ao
+yȁkúʌ̈dhē	CVCVV̈CV	auëe
+yȁn	CVC	a
+yán	CVC	a
+yán	CVC	a
+yȁnbɔ̄dhɛ̏	CVCCVCV	aɔɛ
+yángā	CVCCV	aa
+yȁngādō	CVCCVCV	aao
+yángādōzʌ̏	CVCCVCVCV̈	aaoë
+yánkpȍŋtȁ	CVCCCVCCCV	aoa
+yánpíɤpʌ̏	CVCCVV̈CV̈	aiöë
+yánpúu	CVCCVV	auu
+yántīi	CVCCVV	aii
+yántóȁgɔ̏pʌ̏	CVCCVVCVCV̈	aoaɔë
+yánzìɤ̄	CVCCVV̈	aiö
+yáŋ̈	CVCC	a
+yásá	CVCV	aa
+yàɯ	CVV̈	aü
+yāyā{-dhȕ}n	CVCV {CV}	aa {u}
+yȁyɔ́ɔ	CVCVV	aɔɔ
+yɒ̏ɒ	CVV	aɔ
+yɒ̀ɒbhāa	CVVCVV	aɔaa
+yɒ̀ɒ̂n	CVVC	aɔ
+yǽæ	CVV	ɛa
+yʌ̄n	CV̈C	ë
+yʌ̀ŋ	CV̈CCC	ë
+yʌ̀ŋ	CV̈CCC	ë
+yʌ́ŋ	CV̈CC	ë
+yʌ́ŋ	CV̈CC	ë
+yʌ́ŋ	CV̈CC	ë
+yʌ́ŋ	CV̈CCC	ë
+yʌ́ŋ	CV̈CCC	ë
+yʌ́ŋdhɛ̏	CV̈CCCV	ëɛ
+yʌ́ŋgbló	CV̈CCCCCV	ëo
+yʌ́ŋtàa	CV̈CCCCVV	ëaa
+yʌ́ŋtàadhɛ̏	CV̈CCCCVVCV	ëaaɛ
+yʌ́ŋtīibhɛ̏n	CV̈CCCCVVCV	ëiiɛ
+yʌ́ŋyʌ̏	CV̈CCCV̈	ëë
+yédhábhɛ̏n	CVCVCV	eaɛ
+yédhán	CVCV	ea
+yédhánzʌ̏	CVCVCV̈	eaë
+yédhén	CVCV	ee
+yèê	CVV	ee
+yée	CVV	ee
+yéë	CVV	ee
+yèêdhȉ	CVVCV	eei
+yèêgā	CVVCV	eea
+yéegblɯ̄ŋ	CVVCCCV̈CC	eeü
+yéi	CVV	ei
+yéizʌ̏	CVVCV̈	eië
+yɛ̏	CV	ɛ
+yɛ́	CV	ɛ
+yɛ̄an	CVVC	ɛa
+yɛ̀ɛ̂	CVV	ɛɛ
+yɛ̏ɛdhɤ̄	CVVCV̈	ɛɛö
+yɛ̄ɛn	CVVC	ɛɛ
+yɛ̄ɛntàabhȁ	CVVCCVVCV	ɛɛaaa
+yɛ́in	CVVC	ɛi
+yɛ̏iŋzʌ̏	CVVCCCV̈	ɛië
+yɛ́lɯ́	CVCV̈	ɛü
+yɛ́sɯ̏	CVCV̈	ɛü
+yɛ́tȁdhɛ	CVCVCV	ɛaɛ
+yɛ̏tȁwɔ̀ɔ̏	CVCVwVV	ɛawɔɔ
+yɛ̀ɯ	CVV̈	ɛü
+yī	CV	i
+yī	CV	i
+yī	CV	i
+yī	CV	i
+yī	CV	i
+yí	CV	i
+yí	CV	i
+yí	CV	i
+yï	CV	i
+yî	CV	i
+yìʌ̄	CVV̈	ië
+yìʌ̂	CVV̈	ië
+yīʌ	CVV̈	ië
+yīʌ	CVV̈	ië
+yīʌ̏	CVV̈	ië
+yīʌ̏	CVV̈	ië
+yīʌ̏	CVV̈	ië
+yíʌ	CVV̈	ië
+yíʌ̏	‘CVV̈	‘ië
+yíʌ̏	CVV̈	ië
+yíʌʌ	CVV̈V̈	iëë
+yíʌ̏ʌn	CVV̈V̈C	iëë
+yíʌ̈bīɤ	CVV̈CVV̈	iëiö
+yíʌ̈bhȁn	CVV̈CV	iëa
+yíʌ̈bhɒ̀ɒ̄	CVV̈CVV	iëaɔ
+yíʌ̈pȁ	CVV̈CV	iëa
+yíblɯ̏bhɛ̏n	CVCCV̈CV	iüɛ
+yíbhlétée	CVCCVCVV	ieee
+yíbhɯ̄nkɔ̏ɔ	CVCV̈CVV	iüɔɔ
+yíbhɯ̄nvɛ́dhɛ̏	CVCV̈vVCV	iüvɛɛ
+yídō	CVCV	io
+yīdōʌ	CVCVV̈	ioë
+yídhʌ́ngā	CVCV̈CV	iëa
+yídhē	CVCV	ie
+yídhìān	CVCVV	iia
+yīɛn	CVVC	iɛ
+yīɛn	CVVC	iɛ
+yígā	CVCV	ia
+yíglōopíɤdhɛ̏	CVCCVVCVV̈CV	iooiöɛ
+yíglȕ	CVCCV	iu
+yígɔ̏	CVCV	iɔ
+yígɔ̏	CVCV	iɔ
+yígbā	CVCCV	ia
+yīgbȁnwȍ	CVCCVCwV	iawo
+yȉisīʌ	CVVCVV̈	iiië
+yīká	CVCV	ia
+yíkȁbhɛ̄dhʌ̏nwȕn	CVCVCCVCV̈wVC	iaɛëwu
+yíkɔ̏dhʌ́n	CVCVCV̈	iɔë
+yíkpóŋ	CVCCVCC	io
+yíkpóŋdhiɤ	CVCCVCCCVV̈	ioiö
+yíkpɤ̄	CVCCV̈	iö
+yīŋ̏	CVCC	i
+yīŋ{yī}-dhȕn	CVCC {CV} CV	i {i} u
+yīɤ	CVV̈	iö
+yīɤ	CVV̈	iö
+yīɤ	CVV̈	iö
+yípíɤ	CVCVV̈	iiö
+yípíɤbhȁn	CVCVV̈CV	iiöa
+yípúʌ	CVCVV̈	iuë
+yípúu	CVCVV	iuu
+yísɛ́ɛ̈n	CVCVVC	iɛɛ
+yítȁ	CVCV	ia
+yítée	CVCVV	iee
+yítɔ́ɔ̈bhàadhɛ̏	CVCVVCVVCV	iɔɔaaɛ
+yítɔ́ɯ̈	CVCVV̈	iɔü
+yívà	CVvV	iva
+yízīʌnsɛ́gɔ̏	CVCVV̈CCVCV	iiëɛɔ
+yízȕɤdhɛ	CVCVV̈CV	iuöɛ
+yȍŋ	CVCC	o
+yóo	CVV	oo
+yóo	CVV	oo
+yóo	CVV	oo
+yɔ̏	CV	ɔ
+yɔ̄	CV	ɔ
+yɔ́	CV	ɔ
+yɔ̄âkʌ̏bhɛ̏n	CVVCV̈CV	ɔaëɛ
+yɔ́n	CVC	ɔ
+yɔ́n	CVC	ɔ
+yɔ́ngā	CVCCV	ɔa
+yɔ́ngɔ̏	CVCCV	ɔɔ
+yɔ́ŋ	CVCC	ɔ
+yɔ̀ɔ̄	CVV	ɔɔ
+yɔ̀ɔ̂	CVV	ɔɔ
+yɔ́ɔ	CVV	ɔɔ
+yɔ́ɔ	CVV	ɔɔ
+yɔ̏ɔbhɛ̄ân	CVVCCVV	ɔɔɛa
+yɔ̀ɔ̄dhɛ̏	CVVCV	ɔɔɛ
+yɔ̀ɔn	CVVC	ɔɔ
+yɔ̀ɔn	CVVC	ɔɔ
+yɔ́ɔ̈n	CVVC	ɔɔ
+yɔ́sɯ̏	CVCV̈	ɔü
+yɔ́sɯ̏zʌ̏	CVCV̈CV̈	ɔüë
+yɔ̄zlȁ	CVCCV	ɔa
+yɤ̏	CV̈	ö
+yɤ̏	CV̈	ö
+yɤ̏	CV̈	ö
+yɤ̀	CV̈	ö
+yɤ̄	CV̈	ö
+yɤ̄	CV̈	ö
+yɤ̄	CV̈	ö
+yɤ́	CV̈	ö
+yɤ́	CV̈	ö
+yɤ̈	CV̈	ö
+yɤ̏ká	CV̈CV	öa
+yɤ̄ká	CV̈CV	öa
+yɤ̏kóʌdhɛ̏	CV̈CVV̈CV	öoëɛ
+yɤ̏sōŋkʌ̄bhɛ̏n	CV̈CVCCCV̈CV	öoëɛ
+yɤ̏zlūdhʌdhíɤ	CV̈CCVCV̈CVV̈	öuëiö
+yúa	CVV	ua
+yúadhɛ	CVVCV	uaɛ
+yúadhɛ̏n	CVVCCV	uaɛ
+yūan	CVVC	ua
+yúazʌ̏	CVVCV̈	uaë
+yuʌn	CVV̈C	uë
+yúʌnyȕʌn	CVV̈CCVV̈C	uëuë
+yūn	CVC	u
+yūn	CVC	u
+yūngɔ̄n	CVCCVC	uɔ
+yūngbɔ̄	CVCCCV	uɔ
+yúŋ̈	CVCC	u
+yúŋ̈	CVCCC	u
+yùɤ	CVV̈	uö
+yūɤ	CVV̈	uö
+yúɤ̈	CVV̈	uö
+yúɤ̈	CVV̈	uö
+yúɤgā	CVV̈CV	uöa
+Yúu	YVV	Yuu
+yúü	CVV	uu
+yūun	CVVC	uu
+yúün	CVVC	uu
+yūungā	CVVCCV	uua
+zȁ	CV	a
+zā	CV	a
+zàā	CVV	aa
+zāâ	CVV	aa
+záa	CVV	aa
+zȁan	CVVC	aa
+zȁan	CVVC	aa
+zàanzán	CVVCCVC	aaa
+zádhɤ̄	CVCV̈	aö
+zàgā	CVCV	aa
+zán	CVC	a
+zàŋ	CVCC	a
+záŋ	CVCC	a
+zázádhɤ̄	CVCVCV̈	aaö
+zɒ́ɒ	CVV	aɔ
+zɒ̄ɒdhe	CVVCV	aɔe
+zɒ̏ɒdhɤ̄n	CVVCCV̈	aɔö
+-zʌ̏	CV̈	ë
+-zʌ̏	CV̈	ë
+zʌ̄	CV̈	ë
+zʌ̄ʌ	CV̈V̈	ëë
+zʌ́ʌdhē	CV̈V̈CV	ëëe
+zʌ̄n	CV̈C	ë
+zʌ̄ngā	CV̈CCV	ëa
+zʌ̄ngā	CV̈CCV	ëa
+zʌ̄nzʌ̏	CV̈CCV̈	ëë
+zʌ̄nzʌ̄nzʌ̏	CV̈CCV̈CCV̈	ëëë
+zʌ̄ŋgʌ̄	CV̈CCCV̈	ëë
+zʌ̄ŋgbʌ̄	CV̈CCCCV̈	ëë
+zʌ́ŋzʌ̏	CV̈CCCV̈	ëë
+zʌ́ŋzʌ̏	CV̈CCCV̈	ëë
+zʌ̄ɯ	CV̈V̈	ëü
+zʌ̄ɯ	CV̈V̈	ëü
+zē	CV	e
+zéëwɔ́yɛ́gbàāngɯ́	CVVwVCVCCVVCCV̈	eewɔɛaaü
+zēlɯ̏	CVCV̈	eü
+zȅŋgbȅkɔ̏dɔ̄dhagɔ̏	CVCCCCVCVCVCVCV	eeɔɔaɔ
+zètūbhādhen	CVCVCCVCV	euae
+zètūbhādhengā	CVCVCCVCVCV	euaea
+zɛ̀	CV	ɛ
+zɛ́	CV	ɛ
+zɛ̄ɛ̂n	CVVC	ɛɛ
+zɛ̀gā	CVCV	ɛa
+zɛ̀ī	CVV	ɛi
+zɛ̄n	CVC	ɛ
+zɛ̄npʌ̄	CVCCV̈	ɛë
+zɛ́nzɛ̏n	CVCCVC	ɛɛ
+zíaa	CVVV	iaa
+zīâdhɤn	CVVCCV̈	iaö
+zȉan	CVVC	ia
+zìān	CVVC	ia
+zīan	CVVC	ia
+zīangā	CVVCCV	iaa
+zīangblȍo	CVVCCCCVV	iaoo
+zīangblȍogā	CVVCCCCVVCV	iaooa
+zìʌ̄	CVV̈	ië
+zīʌ	CVV̈	ië
+zīʌ và	CVV̈ vV	ië va
+zīʌn	CVV̈C	ië
+zīʌn	CVV̈C	ië
+zȉgā	CVCV	ia
+zȉi	CVV	ii
+zìi	CVV	ii
+zīi	CVV	ii
+zíi	CVV	ii
+zȉiŋ dhā	CVVCC CV	ii a
+zȉisɯ̏	CVVCV̈	iiü
+zȉizʌ̏	CVVCV̈	iië
+zīizīi{dhȕ}n	CVVCVV {CV}	iiii {u}
+zīnpʌ̄	CVCCV̈	ië
+zȉoo	CVVV	ioo
+zȉozʌ̄bhɛ̏n	CVVCV̈CV	ioëɛ
+zȉɔlógɔ̀ɔ̄	CVVCVCVV	iɔoɔɔ
+zīɔn	CVVC	iɔ
+zīɤ	CVV̈	iö
+zíɤ̏	CVV̈	iö
+zíɤ̈ và	CVV̈ vV	iö va
+zíɤ̏zʌ̏-dhȕn	CVV̈CV̈ CV	iöë u
+zȉɤzíɤ	CVV̈CVV̈	iöiö
+zīzī{dhȕ}n	CVCV {CV}	ii {u}
+zláä	CCVV	aa
+zláädhʌ́dhēn	CCVVCV̈CV	aaëe
+zláädhʌ́dhēnzʌ̏	CCVVCV̈CVCV̈	aaëeë
+zláädhēzʌ̏	CCVVCVCV̈	aaeë
+zláägɔ̄ɔ̂nzʌ̏	CCVVCVVCCV̈	aaɔɔë
+zlȁbhɔnyāa	CCVCCVCVV	aɔaa
+zlȁkpɔ̀ɔ	CCVCCVV	aɔɔ
+Zlȁn	ZCVC	Za
+zlȁnwȍpɤ̄bhɛ̏n	CCVCwVCV̈CV	awoöɛ
+zlɒ̀ɒ	CCVV	aɔ
+zlòa	CCVV	oa
+zlȍo	CCVV	oo
+zlòo	CCVV	oo
+zlòô	CCVV	oo
+zlɔ̀a	CCVV CV̈	ɔa ü
+zlɔ̄a	CCVV	ɔa
+zlɔ̀azʌ̏	CCVVCV̈	ɔaë
+zlɔ̏ɔ	CCVV	ɔɔ
+zlɤ̀ɤ	CCV̈V̈	öö
+zlɤ̄ɤ	CCV̈V̈	öö
+zlɤ̀ɤdhɛ̏	CCV̈V̈CV	ööɛ
+zlɤ̀ɤdhɛ̏	CCV̈V̈CV	ööɛ
+zlū	CCV	u
+zlú	CCV	u
+zlùa	CCVV CV̈	ua ü
+zlūa	CCVV	ua
+zlūa	CCVV	ua
+zlūɛî	CCVVV	uɛi
+zlúsɔ̄	CCVCV	uɔ
+zlùu	CCVV	uu
+zȍ	CV	o
+zō	CV	o
+zō	CV	o
+zòʌ̄kpʌ́ɯbȉzʌ̏	CVV̈CCV̈V̈CVCV̈	oëëüië
+zȍdhɛ	CVCV	oɛ
+zódhɤ̄	CVCV̈	oö
+zȍgɔ́dhēn	CVCVCCV	oɔe
+zȍgbȁdhēn	CVCCVCCV	oae
+zȍgbéëdhɛ̏	CVCCVVCV	oeeɛ
+zòŋ̂	CVCC	o
+zȍo	CVV	oo
+zòō	CVV	oo
+zóo	CVV	oo
+zóoyǣæn	CVVCVVC	ooɛa
+zȍtádhē	CVCVCV	oae
+zózódhɤ̄	CVCVCV̈	ooö
+zōzōzʌ̏	CVCVCV̈	ooë
+zɔ̄	CV	ɔ
+zɔ́	CV	ɔ
+zɔ́	CV	ɔ
+zɔ̀ān	CVVC	ɔa
+zɔ̀ān	CVVC	ɔa
+zɔ́gā	CVCV	ɔa
+zɔ̏n	CVC	ɔ
+zɔ̏n	CVC	ɔ
+zɔ̄n	CVC	ɔ
+zɔ̀ŋgā	CVCCCCV	ɔa
+zɔ̏ɔ	CVV	ɔɔ
+zɔ̀ɔ	CVV	ɔɔ
+zɔ̄ɔ	CVV	ɔɔ
+zɔ́ɔ̈	CVV	ɔɔ
+zɔ̏ɔdhɤ̄n	CVVCCV̈	ɔɔö
+zɔ̀ɔn	CVVC	ɔɔ
+zɔ̀ɔngā	CVVCCV	ɔɔa
+zɔ́ü	CVV	ɔu
+zɤ̄	CV̈	ö
+zɤ̀ŋ̄	CV̈CC	ö
+zɤ̀ŋ̄ bɛ̏n	CV̈CC CVC	ö ɛ
+zɤ́ɯ	CV̈V̈	öü
+zūʌn	CVV̈C	uë
+zúɛdhɤ̄	CVVCV̈	uɛö
+zȕgā	CVCV	ua
+zūngblʌ̀ʌ̄	CVCCCCV̈V̈	uëë
+zȕɤ	CVV̈	uö
+zȕɤ	CVV̈	uö
+zùɤ̄	CVV̈	uö
+zūɤ	CVV̈	uö
+zùɤ̄bȅ	CVV̈CV	uöe
+zȕɤdɔ̄bhɛ̏n	CVV̈CVCV	uöɔɛ
+zùɤ̄gā	CVV̈CV	uöa
+zùɤ̄gʌ̄n	CVV̈CV̈C	uöë
+zùɤ̄glúdhī	CVV̈CCVCV	uöui
+zùɤ̄kȕnsīâdhe	CVV̈CVCCVVCV	uöuiae
+zùɤ̄píɤyāabhɛ̏n	CVV̈CVV̈CVVCV	uöiöaaɛ
+zùɤ̄púudhɛ̏	CVV̈CVVCV	uöuuɛ
+zùɤ̄síɤ̈dhɛ̏	CVV̈CVV̈CV	uöiöɛ
+zùɤtȍzlɤ̀ɤdhē	CVV̈CVCCV̈V̈CV	uöoööe
+zùɤ̄vɔ̄ŋ	CVV̈vVCC	uövɔ
+zùɤ̄wàādhūdhen	CVV̈wVVCCVCV	uöwaaue
+zùɤ̄yāabhɛ̏n	CVV̈CVVCV	uöaaɛ
+zùɤ̄yȁglúu	CVV̈CVCCVV	uöauu
+zúsɯ̏	CVCV̈	uü
+zȕu	CVV	uu
+zȕugā	CVVCV	uua
+zúuzȕ	CVVCV	uuu
+zúzáa	CVCVV	uaa
+zɯ̏	CV̈	ü
+zɯ̄	CV̈	ü
+zɯ́	CV̈	ü
+zɯ̄dhí	CV̈CV	üi
+zɯ̄gȍo	CV̈CVV	üoo
+zɯ̄kpɤ̄	CV̈CCV̈	üö
+zɯ̏tódhɛ̏	CV̈CVCV	üoɛ
+zɯ̄ɯ	CV̈V̈	üü
