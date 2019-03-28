@@ -1,7 +1,7 @@
 # dan-blo_dictionary
 ### repository for dan-blo dictionary. Lexicography course 
 
-[blowo12.txt](https://github.com/xenicR/dan-blo_dictionary/blob/master/blowo12.txt)
+['blowo12.txt'](https://github.com/xenicR/dan-blo_dictionary/blob/master/blowo12.txt)
 
 
 ## Some info about the project 
