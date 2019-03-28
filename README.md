@@ -5,7 +5,7 @@
 
 
 ## Some info about the project 
-info 
+'info'
 
 ## TODO List 
 
